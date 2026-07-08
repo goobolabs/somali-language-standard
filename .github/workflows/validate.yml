@@ -1,0 +1,26 @@
+# validate.yml — PR validation pipeline (placeholder)
+#
+# STATUS: Placeholder only. No CI logic is implemented yet (Phase 4 of
+# IMPLEMENTATION_PLAN.md). This file reserves the workflow name and documents
+# its future purpose. See docs/ARCHITECTURE.md §17 for the full design.
+#
+# TODO(Phase 4): Implement the staged validation pipeline, cheap checks first:
+#   1. Lint          — markdownlint on spec/ and docs/; YAML front-matter
+#                      required-field check on every spec document.
+#   2. Schema        — validate every touched .jsonl/.json file line-by-line
+#                      against its schema in schemas/.
+#   3. Cross-refs    — duplicate sls_id detection; dangling references
+#                      (e.g. a domain not present in data/terminology/_domains.json).
+#   4. Spellcheck    — new Somali text checked against data/lexicon
+#                      (WARNING only, never a hard failure — coining new
+#                      terminology is expected and desired).
+#   5. Metadata      — every new record carries the required provenance
+#                      fields (contributor, source, date_added, review_status,
+#                      license).
+#   6. Benchmarks    — structural validation of changed benchmarks/ files;
+#                      contamination check against ai/ datasets.
+#   7. Registry      — standards/registry.json, standards/meta/*.json, and
+#                      implemented files' front-matter agree on status/version
+#                      (ARCHITECTURE.md §26).
+#
+# Trigger (future): pull_request → main.

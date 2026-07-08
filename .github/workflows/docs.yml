@@ -1,0 +1,17 @@
+# docs.yml — documentation site build & deploy (placeholder)
+#
+# STATUS: Placeholder only. No CI logic is implemented yet (Phase 10 of
+# IMPLEMENTATION_PLAN.md). This file reserves the workflow name and documents
+# its future purpose. See docs/ARCHITECTURE.md §17–§18.
+#
+# TODO(Phase 10): Implement the documentation pipeline:
+#   1. Build the public docs site from spec/*.md front-matter + prose and the
+#      narrative docs in docs/ (static site generator TBD: MkDocs Material or
+#      Docusaurus — decision deferred to implementation, per ARCHITECTURE.md §18).
+#   2. Render the standards registry (standards/REGISTRY.md) as a browsable
+#      catalog: ID | Title | Category | Status | Version | Owner.
+#   3. Generate and publish coverage stats (entries per domain, per
+#      review_status, growth over time) as a dashboard/badges.
+#   4. Deploy to GitHub Pages on merge to main.
+#
+# Trigger (future): push → main (paths: spec/**, docs/**, standards/**).

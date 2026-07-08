@@ -1,0 +1,273 @@
+# Implementation Plan
+
+The team's execution checklist: every phase from repository foundation to the
+first public release, with objectives, deliverables, completion criteria, and
+dependencies. This plan operationalizes [`ROADMAP.md`](ROADMAP.md) and must
+stay consistent with [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md), the
+single source of truth.
+
+Conventions: a phase is **done** only when every completion criterion is met.
+Phases may overlap where dependencies allow, but nothing ships in a release
+until its phase's criteria pass.
+
+---
+
+## Phase 0 — Repository foundation ✅
+
+**Objective:** A professional, contributor-ready repository skeleton with
+governance, documentation, and templates in place — before any standard
+content exists.
+
+**Deliverables**
+
+- [x] Directory tree (`spec/`, `schemas/`, `data/*`, `ai/*`, `benchmarks/`,
+      `tools/`, `examples/`, `docs/`, `.github/*`)
+- [x] `README.md`, `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, `GOVERNANCE.md`,
+      `SECURITY.md`, `CHANGELOG.md`
+- [x] `LICENSE-CODE` (MIT) and `LICENSE-DATA` (CC BY 4.0) placeholders
+- [x] `docs/GETTING_STARTED.md`, `docs/STYLE_GUIDE.md`, `docs/FAQ.md`
+- [x] `ROADMAP.md`, `IMPLEMENTATION_PLAN.md`
+- [x] Issue templates (bug, feature, terminology proposal, standard proposal)
+      and PR template
+- [x] Placeholder workflows (`validate.yml`, `docs.yml`, `release.yml`)
+
+**Completion criteria:** a first-time visitor can understand what SLS is, how
+it is governed, and how to contribute, without asking a maintainer. Tagged
+`v0.1.0`.
+
+**Dependencies:** none.
+
+---
+
+## Phase 1 — Alphabet Standard
+
+**Objective:** Draft and publish the root of the entire dependency tree:
+SLS-0001, the Somali Alphabet Standard (`spec/orthography/0001-alphabet.md`).
+
+**Deliverables**
+
+- [ ] `standards/` registry scaffolding (`REGISTRY.md`, `registry.json`,
+      `TEMPLATE.md`, `meta/`) per ARCHITECTURE.md §30
+- [ ] SLS-0000 (Standards Process) drafted from ARCHITECTURE.md Part II
+- [ ] SLS-0001 Alphabet Standard drafted in the formal template: letter
+      inventory, ordering, digraphs, character set (Unicode code points),
+      normative MUST/SHOULD requirements
+- [ ] `spec/0000-index.md` created
+
+**Completion criteria:** SLS-0001 reaches `Proposed` with its public comment
+period opened; registry entries validate against the template.
+
+**Dependencies:** Phase 0.
+
+---
+
+## Phase 2 — Orthography Standard
+
+**Objective:** The spelling layer on top of the alphabet: SLS-0002
+(orthography/spelling rules), plus punctuation (SLS-0004) and capitalization
+(SLS-0005) drafts.
+
+**Deliverables**
+
+- [ ] `spec/orthography/0002-spelling-rules.md` (SLS-0002)
+- [ ] `spec/orthography/0003-capitalization.md` (SLS-0005)
+- [ ] `spec/orthography/0004-punctuation.md` (SLS-0004)
+- [ ] Each with numbered normative rules and positive/negative examples
+
+**Completion criteria:** all three documents at `Proposed` or beyond;
+SLS-0001 promoted to at least `Review`; no orthography question raised during
+comment periods left without a written resolution.
+
+**Dependencies:** Phase 1 (SLS-0002 depends on SLS-0001).
+
+---
+
+## Phase 3 — Grammar Standard
+
+**Objective:** The core grammar layer (SLS-0003): parts of speech, noun
+morphology, verb system, pronouns, sentence structure, negation, questions,
+common mistakes.
+
+**Deliverables**
+
+- [ ] `spec/grammar/0010-parts-of-speech.md` through
+      `spec/grammar/0017-common-mistakes.md` (eight documents per the
+      architecture tree)
+- [ ] SLS-0003 standard wrapper listing the grammar documents it implements
+- [ ] Gloss-table examples (Somali | Gloss | English) for every rule
+
+**Completion criteria:** all eight grammar documents drafted and SLS-0003 at
+`Proposed`; at least one linguist reviewer engaged as a recurring reviewer.
+
+**Dependencies:** Phases 1–2 (SLS-0003 depends on SLS-0001, SLS-0002).
+
+---
+
+## Phase 4 — Schemas
+
+**Objective:** The machine-readable contracts for every record type, and the
+CI that enforces them — the point where the repository becomes self-checking.
+
+**Deliverables**
+
+- [ ] `schemas/metadata-common.schema.json` (provenance block)
+- [ ] `schemas/lexicon-entry.schema.json`
+- [ ] `schemas/terminology-entry.schema.json`
+- [ ] `schemas/sentence-pair.schema.json`
+- [ ] `schemas/grammar-rule.schema.json`, `benchmark-item.schema.json`,
+      `style-example.schema.json`, `correction-pair.schema.json`
+- [ ] `data/terminology/_domains.json` controlled vocabulary
+- [ ] `tools/validators/`: schema validator + cross-reference (duplicate /
+      dangling `sls_id`) validator
+- [ ] `validate.yml` implemented: lint, schema validation, cross-ref checks,
+      metadata completeness on every PR
+
+**Completion criteria:** CI fails a deliberately malformed test record and
+passes a valid one; every schema carries a `schema_version`; validators run
+locally with one command.
+
+**Dependencies:** Phase 0; informed by Phases 1–3 (field semantics follow the
+spec drafts).
+
+---
+
+## Phase 5 — Lexicon
+
+**Objective:** The seed dictionary proving the data pipeline end-to-end:
+entry → schema validation → review gate → merge.
+
+**Deliverables**
+
+- [ ] `data/lexicon/core/` seeded with ~500–1,000 curated entries
+      (definitions, POS, gender, plurals, loanword flags, provenance)
+- [ ] Loanword and morphology file skeletons per the architecture tree
+- [ ] SLS-0100 (Dictionary Standard) drafted
+- [ ] Reviewer workflow exercised: every entry has one linguist + one
+      technical review on record
+
+**Completion criteria:** ≥500 entries merged and schema-valid; zero entries
+without complete provenance; `sls:lex:` ID sequence clean (no gaps created by
+renumbering, no duplicates).
+
+**Dependencies:** Phase 4 (schemas + CI); Phase 3 recommended (POS values
+should match the grammar spec).
+
+---
+
+## Phase 6 — Terminology
+
+**Objective:** The neologism governance process live on real vocabulary — the
+highest-leverage layer of SLS.
+
+**Deliverables**
+
+- [ ] Pilot domains populated: `artificial-intelligence.jsonl` and
+      `computer-science.jsonl` (≥100 terms each, `coinage_type` recorded)
+- [ ] Domain Editors recruited for both pilot domains
+- [ ] Terminology-proposal issue template exercised by real external
+      contributors
+- [ ] First batch of terms promoted `proposed → discussed → standard` by
+      Domain Editor sign-off
+- [ ] Remaining 18 domain files created from `_template.jsonl` (may be empty)
+
+**Completion criteria:** at least 25 terms at `status: standard` across the
+two pilot domains; every promotion traceable to a recorded review; SLS-0200
+and SLS-0204 (AI, CS terminology standards) at `Proposed`.
+
+**Dependencies:** Phases 4–5 (schema, lexicon cross-references).
+
+---
+
+## Phase 7 — Translation
+
+**Objective:** Normative translation guidance plus the parallel data that
+evidences it.
+
+**Deliverables**
+
+- [ ] `spec/translation/` documents: EN→SO (SLS-0300), SO→EN (SLS-0301),
+      technical translation, idioms, false friends, literal-vs-natural
+- [ ] `data/translation/` seeded: general EN↔SO pairs, technical pairs,
+      idiom pairs — every record tagged `translation_type: literal|natural`
+- [ ] Technical pairs consistent with `status: standard` terminology from
+      Phase 6
+
+**Completion criteria:** ≥500 reviewed sentence pairs merged; translation
+spec documents at `Proposed`; CI cross-checks pair domains against
+`_domains.json`.
+
+**Dependencies:** Phases 4, 6 (technical translation is governed by standard
+terminology).
+
+---
+
+## Phase 8 — Benchmarks
+
+**Objective:** Evaluation suites that make SLS compliance measurable, with a
+hard firewall against training-data contamination.
+
+**Deliverables**
+
+- [ ] `benchmarks/SCORING.md` — methodology ratified by the Council
+      (including the public-dev vs. held-out-test policy decision)
+- [ ] Grammar, spelling, and translation eval suites (v1) in the
+      benchmark-item schema
+- [ ] Contamination check in CI: no `sls:bench:` content duplicated in
+      `ai/datasets/`
+- [ ] SLS-0504 (Benchmark Standard) drafted
+
+**Completion criteria:** each suite ≥100 items, schema-valid, with difficulty
+labels; scoring reproducible from SCORING.md alone; contamination check
+enforced and passing.
+
+**Dependencies:** Phases 3–7 (benchmarks evaluate what the standards define).
+
+---
+
+## Phase 9 — AI resources
+
+**Objective:** The consumption layer for LLMs: prompts, datasets, and
+RAG-ready knowledge derived from the ratified content.
+
+**Deliverables**
+
+- [ ] `ai/prompts/`: Somali-assistant system prompt + parameterized prompt
+      templates (translation, grammar-check, terminology lookup)
+- [ ] `ai/datasets/`: first instruction dataset and correction-pair dataset
+      (bad → corrected → explanation triples)
+- [ ] RAG chunk generator in `tools/`: ~512-token chunks of spec + lexicon +
+      terminology, each carrying source `sls_id`s
+- [ ] `examples/rag-integration-guide.md` and
+      `examples/load-lexicon-python.md`
+
+**Completion criteria:** RAG chunks regenerate deterministically from source
+(never hand-edited); instruction dataset passes schema + contamination
+checks; a third party can follow the examples unaided.
+
+**Dependencies:** Phases 3–8 (derived from ratified spec + data; contamination
+firewall requires Phase 8).
+
+---
+
+## Phase 10 — First public release
+
+**Objective:** SLS v1.0 — the first citable, implementable release.
+
+**Deliverables**
+
+- [ ] Language Council formally constituted (3–7 named members) and core
+      standards (SLS-0001, 0002, 0003) ratified `Stable`
+- [ ] Release tooling: dataset compiler, `manifest.json` with checksums,
+      `standards-manifest.json`
+- [ ] `release.yml` implemented: tag-triggered bundle build + GitHub Release
+- [ ] `docs.yml` implemented: documentation site built and deployed
+- [ ] Hugging Face dataset mirror published
+- [ ] Launch announcement + adoption outreach (≥1 external project adopting
+      SLS as its Somali reference)
+
+**Completion criteria:** `v1.0.0` tagged; every `Stable` standard's
+dependency chain fully `Stable` (or Council-waived with rationale); release
+bundle downloadable and loadable with standard tooling; compliance claims
+against SLS-0001/0002/0003 possible per the ARCHITECTURE.md §29 model.
+
+**Dependencies:** all previous phases.

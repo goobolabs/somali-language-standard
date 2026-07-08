@@ -1,0 +1,21 @@
+# release.yml — release bundle build & publish (placeholder)
+#
+# STATUS: Placeholder only. No CI logic is implemented yet (Phase 10 of
+# IMPLEMENTATION_PLAN.md). This file reserves the workflow name and documents
+# its future purpose. See docs/ARCHITECTURE.md §17 (step 9) and §19.
+#
+# TODO(Phase 10): Implement the tag-triggered release pipeline:
+#   1. On vX.Y.Z tag push, verify the tag matches the VERSION file.
+#   2. Compile per-domain/per-letter source fragments into unified bundles
+#      under releases/vX.Y.Z/ (releases/ is generated-only, never hand-edited).
+#   3. Generate manifest.json (checksums, record counts, schema versions) and
+#      standards-manifest.json (every standard's id, version, status at this
+#      release — the citable snapshot adopters pin to, ARCHITECTURE.md §26).
+#   4. Regenerate ai/ RAG knowledge chunks from spec/ + data/ so they never
+#      drift from the source of truth.
+#   5. Generate the changelog section from conventional commits.
+#   6. Publish a GitHub Release with the bundle attached.
+#   7. Optionally mirror to a Hugging Face Hub dataset repo for direct
+#      datasets.load_dataset() access.
+#
+# Trigger (future): push tags v*.*.*
