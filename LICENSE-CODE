@@ -1,12 +1,5 @@
 MIT License
 
-Applies to: all code in this repository — tools/, schemas/, CI configuration
-(.github/workflows/), and any scripts or software components. All linguistic
-content (spec/, data/, ai/, benchmarks/, documentation prose) is licensed
-separately under CC BY 4.0 — see LICENSE-DATA.
-
------------------------------------------------------------------------
-
 Copyright (c) 2026 Somali Language Standard contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
