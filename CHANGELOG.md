@@ -10,6 +10,20 @@ releases, schema versions, and per-standard versions relate.
 
 ## [Unreleased]
 
+### Added
+
+- Standards framework (`standards/`) per ARCHITECTURE.md §30: `TEMPLATE.md`
+  (the §24 formal template), `registry.json` (machine-readable source of truth,
+  seeded with the full 53-standard launch set), `REGISTRY.md` (human mirror),
+  and `meta/` governance records.
+- **SLS-0000** SLS Standards Process Standard → `Draft` — the self-describing
+  meta-standard distilled from ARCHITECTURE.md Part II.
+- **SLS-0001** Somali Alphabet Standard → `Draft` — letter inventory (21
+  consonants + 5 vowels), canonical collation order, digraph rules, glottal-stop
+  representation, vowel-length notation, excluded letters, and Unicode code
+  points (`spec/orthography/0001-alphabet.md`).
+- `spec/0000-index.md` — the specification index.
+
 ## [0.1.0] - 2026-07-08
 
 ### Added
@@ -30,5 +44,5 @@ releases, schema versions, and per-standard versions relate.
   - Placeholder CI workflows: `validate.yml`, `docs.yml`, `release.yml`
     (TODO-only; no CI logic implemented yet).
 
-[Unreleased]: https://github.com/goobo-labs/somali-language-standard/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/goobo-labs/somali-language-standard/releases/tag/v0.1.0
+[Unreleased]: https://github.com/goobolabs/somali-language-standard/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/goobolabs/somali-language-standard/releases/tag/v0.1.0

@@ -39,23 +39,25 @@ it is governed, and how to contribute, without asking a maintainer. Tagged
 
 ---
 
-## Phase 1 — Alphabet Standard
+## Phase 1 — Alphabet Standard ✅
 
 **Objective:** Draft and publish the root of the entire dependency tree:
 SLS-0001, the Somali Alphabet Standard (`spec/orthography/0001-alphabet.md`).
 
 **Deliverables**
 
-- [ ] `standards/` registry scaffolding (`REGISTRY.md`, `registry.json`,
+- [x] `standards/` registry scaffolding (`REGISTRY.md`, `registry.json`,
       `TEMPLATE.md`, `meta/`) per ARCHITECTURE.md §30
-- [ ] SLS-0000 (Standards Process) drafted from ARCHITECTURE.md Part II
-- [ ] SLS-0001 Alphabet Standard drafted in the formal template: letter
+- [x] SLS-0000 (Standards Process) drafted from ARCHITECTURE.md Part II
+- [x] SLS-0001 Alphabet Standard drafted in the formal template: letter
       inventory, ordering, digraphs, character set (Unicode code points),
       normative MUST/SHOULD requirements
-- [ ] `spec/0000-index.md` created
+- [x] `spec/0000-index.md` created
 
 **Completion criteria:** SLS-0001 reaches `Proposed` with its public comment
-period opened; registry entries validate against the template.
+period opened; registry entries validate against the template. *(Completed:
+SLS-0000 and SLS-0001 have been promoted to `status: Proposed`, opening their
+comment period.)*
 
 **Dependencies:** Phase 0.
 

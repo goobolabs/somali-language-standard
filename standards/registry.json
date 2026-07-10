@@ -1,0 +1,546 @@
+{
+  "$comment": "Machine-readable source of truth for the SLS standards catalog. Governed by SLS-0000. status 'draft' entries are authored; 'planned' entries are reserved identifiers from ARCHITECTURE.md §31 not yet drafted (version null, implements []). IDs are permanent and never reused.",
+  "registry_version": "0.1.0",
+  "updated": "2026-07-10",
+  "standards": [
+    {
+      "id": "SLS-0000",
+      "title": "SLS Standards Process Standard",
+      "category": "meta",
+      "status": "proposed",
+      "version": "0.1.0",
+      "owner": "language-council",
+      "dependencies": [],
+      "implements": [
+        "standards/SLS-0000-standards-process.md",
+        "standards/TEMPLATE.md",
+        "standards/registry.json",
+        "standards/REGISTRY.md"
+      ]
+    },
+    {
+      "id": "SLS-0001",
+      "title": "Somali Alphabet Standard",
+      "category": "foundation",
+      "status": "proposed",
+      "version": "0.1.0",
+      "owner": "language-council",
+      "dependencies": [],
+      "implements": [
+        "spec/orthography/0001-alphabet.md"
+      ]
+    },
+    {
+      "id": "SLS-0002",
+      "title": "Somali Orthography Standard",
+      "category": "foundation",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0001"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0003",
+      "title": "Somali Grammar Standard",
+      "category": "foundation",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0001", "SLS-0002"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0004",
+      "title": "Somali Punctuation Standard",
+      "category": "foundation",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0002"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0005",
+      "title": "Somali Capitalization Standard",
+      "category": "foundation",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0002"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0100",
+      "title": "Dictionary Standard",
+      "category": "lexicon",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0001", "SLS-0002", "SLS-0003"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0101",
+      "title": "Definition Standard",
+      "category": "lexicon",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0100"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0102",
+      "title": "Synonym & Antonym Standard",
+      "category": "lexicon",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0100"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0103",
+      "title": "Loanword Standard",
+      "category": "lexicon",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0100"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0104",
+      "title": "Morphology Standard",
+      "category": "lexicon",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0003", "SLS-0100"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0105",
+      "title": "Word Frequency Standard",
+      "category": "lexicon",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0100"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0200",
+      "title": "Artificial Intelligence Terminology Standard",
+      "category": "terminology",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0001", "SLS-0002", "SLS-0003", "SLS-0100"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0201",
+      "title": "Machine Learning Terminology Standard",
+      "category": "terminology",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0001", "SLS-0002", "SLS-0003", "SLS-0100"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0202",
+      "title": "Data Science Terminology Standard",
+      "category": "terminology",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0001", "SLS-0002", "SLS-0003", "SLS-0100"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0203",
+      "title": "Cybersecurity Terminology Standard",
+      "category": "terminology",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0001", "SLS-0002", "SLS-0003", "SLS-0100"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0204",
+      "title": "Computer Science Terminology Standard",
+      "category": "terminology",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0001", "SLS-0002", "SLS-0003", "SLS-0100"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0205",
+      "title": "Software Engineering Terminology Standard",
+      "category": "terminology",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0001", "SLS-0002", "SLS-0003", "SLS-0100"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0206",
+      "title": "Cloud Computing Terminology Standard",
+      "category": "terminology",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0001", "SLS-0002", "SLS-0003", "SLS-0100"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0207",
+      "title": "Networking Terminology Standard",
+      "category": "terminology",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0001", "SLS-0002", "SLS-0003", "SLS-0100"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0208",
+      "title": "Blockchain Terminology Standard",
+      "category": "terminology",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0001", "SLS-0002", "SLS-0003", "SLS-0100"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0209",
+      "title": "Medicine Terminology Standard",
+      "category": "terminology",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0001", "SLS-0002", "SLS-0003", "SLS-0100"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0210",
+      "title": "Law Terminology Standard",
+      "category": "terminology",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0001", "SLS-0002", "SLS-0003", "SLS-0100"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0211",
+      "title": "Government Terminology Standard",
+      "category": "terminology",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0001", "SLS-0002", "SLS-0003", "SLS-0100"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0212",
+      "title": "Finance Terminology Standard",
+      "category": "terminology",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0001", "SLS-0002", "SLS-0003", "SLS-0100"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0213",
+      "title": "Education Terminology Standard",
+      "category": "terminology",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0001", "SLS-0002", "SLS-0003", "SLS-0100"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0214",
+      "title": "Agriculture Terminology Standard",
+      "category": "terminology",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0001", "SLS-0002", "SLS-0003", "SLS-0100"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0215",
+      "title": "Engineering Terminology Standard",
+      "category": "terminology",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0001", "SLS-0002", "SLS-0003", "SLS-0100"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0216",
+      "title": "Mathematics Terminology Standard",
+      "category": "terminology",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0001", "SLS-0002", "SLS-0003", "SLS-0100"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0217",
+      "title": "Physics Terminology Standard",
+      "category": "terminology",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0001", "SLS-0002", "SLS-0003", "SLS-0100"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0218",
+      "title": "Chemistry Terminology Standard",
+      "category": "terminology",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0001", "SLS-0002", "SLS-0003", "SLS-0100"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0219",
+      "title": "Biology Terminology Standard",
+      "category": "terminology",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0001", "SLS-0002", "SLS-0003", "SLS-0100"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0300",
+      "title": "English→Somali Translation Standard",
+      "category": "translation",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0001", "SLS-0002", "SLS-0003"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0301",
+      "title": "Somali→English Translation Standard",
+      "category": "translation",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0001", "SLS-0002", "SLS-0003"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0302",
+      "title": "Technical Translation Standard",
+      "category": "translation",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0300", "SLS-0301"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0303",
+      "title": "Idiom & Expression Translation Standard",
+      "category": "translation",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0300", "SLS-0301"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0304",
+      "title": "Translation Consistency Standard",
+      "category": "translation",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0300", "SLS-0301", "SLS-0302", "SLS-0303"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0400",
+      "title": "Formal Writing Standard",
+      "category": "style",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0003"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0401",
+      "title": "Academic Writing Standard",
+      "category": "style",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0400"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0402",
+      "title": "Journalism Standard",
+      "category": "style",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0400"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0403",
+      "title": "Government Writing Standard",
+      "category": "style",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0400", "SLS-0211"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0404",
+      "title": "Technical Writing Standard",
+      "category": "style",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0400"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0405",
+      "title": "Marketing Writing Standard",
+      "category": "style",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0400"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0406",
+      "title": "Social Media Writing Standard",
+      "category": "style",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0003"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0407",
+      "title": "Conversational Somali Standard",
+      "category": "style",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0003"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0500",
+      "title": "AI Prompt Standard",
+      "category": "ai",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0003", "SLS-0400", "SLS-0401", "SLS-0402", "SLS-0403", "SLS-0404", "SLS-0405", "SLS-0406", "SLS-0407"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0501",
+      "title": "AI Assistant Standard",
+      "category": "ai",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0500", "SLS-0003"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0502",
+      "title": "Grammar Correction Standard",
+      "category": "ai",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0003", "SLS-0004", "SLS-0005"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0503",
+      "title": "Translation Evaluation Standard",
+      "category": "ai",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0300", "SLS-0301", "SLS-0302", "SLS-0303", "SLS-0304"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0504",
+      "title": "Benchmark Standard",
+      "category": "ai",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": [],
+      "$dependencies_note": "Depends on every standard it evaluates; resolved when drafted (§31).",
+      "implements": []
+    },
+    {
+      "id": "SLS-0505",
+      "title": "RAG Knowledge Standard",
+      "category": "ai",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": [],
+      "$dependencies_note": "Depends on every content standard it indexes; resolved when drafted (§31).",
+      "implements": []
+    },
+    {
+      "id": "SLS-0506",
+      "title": "Fine-Tuning Dataset Standard",
+      "category": "ai",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0501", "SLS-0507"],
+      "implements": []
+    },
+    {
+      "id": "SLS-0507",
+      "title": "Instruction Dataset Standard",
+      "category": "ai",
+      "status": "planned",
+      "version": null,
+      "owner": "language-council",
+      "dependencies": ["SLS-0003", "SLS-0400", "SLS-0401", "SLS-0402", "SLS-0403", "SLS-0404", "SLS-0405", "SLS-0406", "SLS-0407"],
+      "implements": []
+    }
+  ]
+}
