@@ -111,3 +111,9 @@ SLS uses two licenses, matching its two kinds of content:
 
 CC BY 4.0 permits commercial use — including AI training — with attribution,
 which is deliberate: SLS is designed to be adopted, not fenced off.
+
+When you reuse SLS linguistic content, attribute it as:
+
+> Somali Language Standard (SLS) — © 2026 Somali Language Standard
+> contributors, licensed under CC BY 4.0 —
+> https://creativecommons.org/licenses/by/4.0/
