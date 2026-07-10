@@ -1,0 +1,23 @@
+{
+  "id": "SLS-0001",
+  "title": "Somali Alphabet Standard",
+  "category": "foundation",
+  "version": "0.1.0",
+  "status": "proposed",
+  "owner": "language-council",
+  "reviewers": [],
+  "dependencies": [],
+  "implements": [
+    "spec/orthography/0001-alphabet.md"
+  ],
+  "publication_date": null,
+  "supersedes": null,
+  "superseded_by": null,
+  "revision_history": [
+    {
+      "version": "0.1.0",
+      "date": "2026-07-10",
+      "change": "Initial draft — inventory, collation, digraphs, glottal stop, vowel length, exclusions"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "SLS-0000",
+  "title": "SLS Standards Process Standard",
+  "category": "meta",
+  "version": "0.1.0",
+  "status": "proposed",
+  "owner": "language-council",
+  "reviewers": [],
+  "dependencies": [],
+  "implements": [
+    "standards/SLS-0000-standards-process.md",
+    "standards/TEMPLATE.md",
+    "standards/registry.json",
+    "standards/REGISTRY.md"
+  ],
+  "publication_date": null,
+  "supersedes": null,
+  "superseded_by": null,
+  "revision_history": [
+    {
+      "version": "0.1.0",
+      "date": "2026-07-10",
+      "change": "Initial draft — distilled from ARCHITECTURE.md Part II (§22–§32)"
+    }
+  ]
+}
