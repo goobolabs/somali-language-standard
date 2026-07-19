@@ -1,7 +1,8 @@
-# --- SLS project: local working material (not part of permanent repo) ---
-md/
-soomaali/
-PLANNED_RESOURCES.md
+# --- SLS project: local temporary working material ---
+temp/
+temp-*/
+**/temp/
+**/temp-*/
 
 # --- Python ---
 __pycache__/
@@ -64,6 +65,3 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
-
-# --- Cursor local state (optional) ---
-.cursor/
