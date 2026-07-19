@@ -63,7 +63,24 @@ comment period.)*
 
 ---
 
+## Prerequisite — Resources baseline
+
+Normative spec work draws on the curated library in `resources/` — descriptive
+evidence, not `spec/`. Scope, boundaries, limitations, and collection status
+are documented in [`docs/RESOURCES.md`](docs/RESOURCES.md).
+
+Implementation Phase 2 (orthography) depends on Milestone 1b in
+[`ROADMAP.md`](ROADMAP.md). Phase 1 (alphabet) does not.
+
+**Note:** Resources curation milestones are **not** the same as the
+implementation phases in this document. See
+[`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) §4.1 and §20.1.
+
+---
+
 ## Phase 2 — Orthography Standard
+
+**Status:** not started — depends on Milestone 1b (`docs/RESOURCES.md`).
 
 **Objective:** The spelling layer on top of the alphabet: SLS-0002
 (orthography/spelling rules), plus punctuation (SLS-0004) and capitalization
@@ -80,7 +97,8 @@ comment period.)*
 SLS-0001 promoted to at least `Review`; no orthography question raised during
 comment periods left without a written resolution.
 
-**Dependencies:** Phase 1 (SLS-0002 depends on SLS-0001).
+**Dependencies:** Phase 1 (SLS-0002 depends on SLS-0001); Milestone 1b
+([`docs/RESOURCES.md`](docs/RESOURCES.md)).
 
 ---
 
