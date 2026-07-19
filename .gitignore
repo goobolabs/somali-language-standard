@@ -1,0 +1,69 @@
+# --- SLS project: local working material (not part of permanent repo) ---
+md/
+soomaali/
+PLANNED_RESOURCES.md
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+.eggs/
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.python-version
+
+# --- OCR / curation tooling ---
+.cache/
+.tesseract/
+.tessdata/
+
+# --- Generated release bundles (CI only) ---
+releases/
+
+# --- Secrets / local env ---
+.env
+.env.*
+!.env.example
+
+# --- OS ---
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+desktop.ini
+
+# --- Editors / IDE ---
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# --- Node (future docs site / tooling) ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# --- Cursor local state (optional) ---
+.cursor/
