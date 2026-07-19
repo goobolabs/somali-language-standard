@@ -183,6 +183,17 @@ somali-language-standard/
 │   ├── terminology-consistency/term-consistency-v1.jsonl
 │   └── SCORING.md
 │
+├── resources/                       # curated source evidence (pre-spec); see §4.1
+│   ├── README.md
+│   ├── qaamuus/                     # monolingual dictionary
+│   ├── wordlists/                   # bare headword baseline
+│   ├── naxwe/                       # grammar reference
+│   ├── erey-bixin/                  # technical terminology glossaries
+│   ├── suugaan/                     # literature, proverbs, poetry
+│   ├── orthography/                 # writing and punctuation evidence
+│   ├── phonology/                   # sound system and IPA evidence
+│   └── morphology/                  # inflectional paradigm tables
+│
 ├── tools/                           # designed here, implemented in a later phase
 │   ├── validators/
 │   ├── build/
@@ -193,6 +204,7 @@ somali-language-standard/
 │   ├── index.md
 │   ├── getting-started.md
 │   ├── ARCHITECTURE.md              # this document
+│   ├── RESOURCES.md                 # curated evidence library (implementation)
 │   └── faq.md
 │
 ├── examples/
@@ -220,9 +232,49 @@ somali-language-standard/
 | `data/translation-pairs/` | Parallel EN↔SO sentence/phrase pairs for MT training and eval. | Contributors + reviewers | Hand-authored |
 | `ai/` | Everything shaped for direct AI consumption: system prompts, instruction/fine-tuning sets, RAG chunks, correction pairs. | Maintainers + contributors | Hand-authored, partly derived from `spec/` + `data/` |
 | `benchmarks/` | Eval suites + scoring methodology, kept separate from training data to avoid contamination. | Maintainers + Council | Hand-authored |
+| `resources/` | The canonical linguistic source library and evidence base. Eight curated collections (dictionary, grammar, terminology, literature, orthography, phonology, morphology) plus derived wordlists. Documented in [`docs/RESOURCES.md`](RESOURCES.md). | Maintainers | Curated source data |
 | `tools/` | Validator/build/export scripts. Empty in the planning phase; scaffolded in Phase 0 implementation. | Maintainers | Code (future) |
 | `docs/` | The public documentation site (built from `spec/` + narrative docs). | Maintainers | Generated + hand-authored |
 | `releases/` | Compiled, versioned, distributable bundles — the thing most consumers actually download. | CI only | Generated |
+
+### 4.1 Resources evidence library
+
+Before normative work in `spec/` or structured records in `data/`, the project
+curates **descriptive evidence** in `resources/`. Implementation documentation:
+[`docs/RESOURCES.md`](RESOURCES.md).
+
+**Layer separation:**
+
+```text
+resources/  →  curated source evidence (descriptive)
+data/       →  structured records (later)
+spec/       →  normative rules (later)
+ai/         →  downstream material derived later
+```
+
+**Collection layout** (every curated collection under `resources/`):
+
+```text
+00-sources.md              collection inventory (title, author, year)
+00-<meta>.md               optional second 00-file (e.g. qaamuus/00-abbreviations.md)
+01-<topic>.md … NN-<topic>.md   numbered content files, flat per collection
+README.md                  charter and conventions
+```
+
+Live file map: [`resources/README.md`](../resources/README.md). Full scope,
+boundaries, limitations, and baseline status: [`docs/RESOURCES.md`](RESOURCES.md).
+
+Orthography implementation in [`IMPLEMENTATION_PLAN.md`](../IMPLEMENTATION_PLAN.md)
+depends on Milestone 1b in [`ROADMAP.md`](../ROADMAP.md).
+
+**Phase naming disambiguation** — three different “Phase 2” labels exist in this
+repository:
+
+| Name | Document | Meaning |
+| --- | --- | --- |
+| Resources baseline | [`docs/RESOURCES.md`](RESOURCES.md) | Curated evidence library — accepted with limitations |
+| Implementation Phase 2 | `IMPLEMENTATION_PLAN.md` | Draft SLS-0002/0004/0005 orthography specs |
+| Architecture Phase 2 | §20 table below | “v1.0 Standard” milestone (~6 months) |
 
 ---
 
@@ -544,6 +596,23 @@ Described here for the implementation phase (Phase 0, §20) — not built yet:
 | **Phase 2 — v1.0 Standard** | ~6 months | Spec fully `Stable`, benchmark suite v1 (grammar/spelling/translation/RC) released, docs site live, dataset published to Hugging Face, at least one external open-source Somali NLP project adopts SLS as proof point. |
 | **Phase 3 — Maturity** (v1.x) | Ongoing | Fine-tuning/instruction datasets grown via partnerships, RAG knowledge base expanded, reasoning/writing-quality benchmarks calibrated against human eval, public leaderboard for model comparison on SLS benchmarks. |
 | **Phase 4 — v2.0** | 1–2 years | Dialect coverage as extension namespaces, speech resources (IPA + audio alignment), historical scripts (Osmanya, Wadaad) as archival extension, morphological analyzer/tokenizer spec, formal academic/government partnerships, sustainability model (foundation/grants). |
+
+### 20.1 Resources evidence library (pre-spec)
+
+The §20 table above describes **implementation milestones** toward a published
+standard (`spec/`, `data/`, releases). A separate **resources evidence library**
+in `resources/` must be curated and accepted first. Documented in
+[`docs/RESOURCES.md`](RESOURCES.md).
+
+| Stage | Goal |
+| --- | --- |
+| Curation | Eight collections with `00-sources.md`, charters, and numbered content |
+| Baseline | Scope, traceability, and limitations documented per collection |
+| Spec drafting | Normative work in `spec/` follows the curated baseline (Milestone 1b) |
+
+Orthography and later normative drafting (`spec/orthography/`, `data/lexicon/`,
+etc.) build on the baseline in [`docs/RESOURCES.md`](RESOURCES.md).
+`resources/` content is **evidence input**, not the standard.
 
 ---
 

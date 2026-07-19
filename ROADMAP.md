@@ -17,7 +17,23 @@ Professional open-source scaffolding: governance, contribution workflow,
 licensing structure, documentation, planning documents, GitHub templates, and
 placeholder CI. The repository is ready to receive contributors.
 
-## Milestone 2 — Core standards *(v0.2)*
+## Milestone 1b — Resources evidence baseline *(in progress)*
+
+Eight-collection source library in `resources/`, documented in
+[`docs/RESOURCES.md`](docs/RESOURCES.md). Collections are curated and
+**accepted with limitations**; remaining metadata and rights gaps are tracked
+there.
+
+**Before Milestone 2 (orthography and core grammar specs):**
+
+- Close out open items in [`docs/RESOURCES.md`](docs/RESOURCES.md) (dictionary
+  metadata, rights confirmation, deferred supplements as needed)
+
+Resources milestones are **not** the same as implementation phases in
+[`IMPLEMENTATION_PLAN.md`](IMPLEMENTATION_PLAN.md). See
+[`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) §4.1.
+
+## Milestone 2 — Core standards *(v0.2 — after Milestone 1b)*
 
 The foundation layer of the standards catalog, drafted and moved into public
 review: the Alphabet Standard (SLS-0001), Orthography Standard (SLS-0002), and

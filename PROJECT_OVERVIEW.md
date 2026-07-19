@@ -100,6 +100,12 @@ The `resources/` directory — the canonical linguistic source library of this p
 - **Domain-specific references** in fields such as medicine, law, and science
 - **Historical texts** and early publications from the post-1972 standardization period
 
+Curation scope, limitations, and the current baseline are documented in
+[`docs/RESOURCES.md`](docs/RESOURCES.md).
+Collection layout and conventions live in
+[`resources/README.md`](resources/README.md). Normative standards in `spec/`
+build on this evidence base; orthography drafting follows Milestone 1b.
+
 Every standard SLS publishes is traceable back to this evidence base. No rule, word, or grammatical claim is made without a citation to an authoritative source.
 
 ---
