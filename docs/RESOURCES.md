@@ -8,22 +8,30 @@ as rules.
 
 Live file map and entry formats: [`resources/README.md`](../resources/README.md).
 
-**Last updated:** 2026-07-19
+**Last updated:** 2026-08-09
 
 ---
 
 ## Evidence vs normative layers
 
 ```text
-resources/  →  curated source evidence (descriptive)
-data/       →  structured records (later)
-spec/       →  normative rules (later)
-ai/         →  downstream material derived later
+original scan/PDF  →  immutable raw OCR  →  resources/ verified transcription
+                                                   ↓
+                                      data/ governed records
+                                                   ↓
+                                      spec/ normative rules
 ```
 
-Do not hand-edit curated entries to “fix” the language. Corrections and review
-status belong in downstream `data/` records. OCR artifacts in `resources/` are
-preserved verbatim until structured downstream work.
+`resources/` is the source-faithful transcription layer. OCR and conversion
+defects are corrected there only when the exact source page proves the reading
+and the change is reviewed and logged. Never modernize, normalize, translate,
+or generate wording in order to make a source appear cleaner; those editorial
+or normative decisions belong in `data/` or `spec/`.
+
+Originals and raw OCR remain immutable outside the public evidence files. The
+binding workflow is documented in
+[`TRANSCRIPTION_POLICY.md`](TRANSCRIPTION_POLICY.md) and
+[`REVIEW_GUIDE.md`](REVIEW_GUIDE.md).
 
 Normative drafting in `spec/`, structured datasets in `data/`, and AI/benchmark
 pipelines use `resources/` as input evidence. They follow the curated baseline

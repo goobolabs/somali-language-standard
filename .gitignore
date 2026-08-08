@@ -34,6 +34,12 @@ htmlcov/
 .tesseract/
 .tessdata/
 
+# Source books/scans and raw OCR may be copyrighted or access-restricted.
+# Keep the policy file in source-evidence/, but never commit local evidence.
+source-evidence/originals/
+source-evidence/raw-ocr/
+source-evidence/work/
+
 # --- Generated release bundles (CI only) ---
 releases/
 

@@ -53,4 +53,6 @@ Structural audit (2026-07-18):
 - Headword count: **42,542** bare heads.
 - Coverage vs `qaamuus/`: **42,511** heads match qaamuus entries; **31** wordlist-only
   heads lack a direct qaamuus match (review during `data/` normalization).
-- No content edits performed — OCR artifacts preserved verbatim per collection policy.
+- No content edits were performed in the 2026-07-18 audit. During the OCR
+  cleanup, the wordlists will be regenerated from source-verified `qaamuus/`
+  entries rather than corrected by guessing or maintained independently.

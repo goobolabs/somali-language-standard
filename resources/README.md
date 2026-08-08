@@ -114,6 +114,12 @@ Suitable for spellcheckers, autocomplete, tokenisers, and NLP/ML training data.
 
 - UTF-8, LF line endings.
 - Files named in lowercase kebab-case.
-- Do not hand-edit entries in this directory. Corrections happen downstream when
-  records are structured into `data/` (where they carry provenance and review status).
-- OCR artifacts are preserved verbatim; fix downstream, not here.
+- `resources/` contains source-faithful transcriptions. Correct an OCR or
+  conversion defect here only after checking the exact book/PDF page and
+  recording the correction under the cleanup review process.
+- Do not modernize, normalize, translate, or generate source wording. Those
+  operations belong in governed `data/` records with provenance and review
+  status.
+- Original scans and raw OCR are immutable evidence. See
+  [`docs/TRANSCRIPTION_POLICY.md`](../docs/TRANSCRIPTION_POLICY.md) and
+  [`docs/REVIEW_GUIDE.md`](../docs/REVIEW_GUIDE.md).

@@ -246,11 +246,18 @@ curates **descriptive evidence** in `resources/`. Implementation documentation:
 **Layer separation:**
 
 ```text
-resources/  →  curated source evidence (descriptive)
-data/       →  structured records (later)
-spec/       →  normative rules (later)
-ai/         →  downstream material derived later
+original scan/PDF  →  immutable raw OCR  →  resources/ verified transcription
+                                                   ↓
+                                      data/ governed records
+                                                   ↓
+                                      spec/ normative rules
 ```
+
+The source and raw-OCR layers are immutable. `resources/` may correct an OCR or
+conversion error only through source-page verification and recorded review; it
+must not generate, normalize, or modernize source wording. Detailed controls:
+[`TRANSCRIPTION_POLICY.md`](TRANSCRIPTION_POLICY.md) and
+[`REVIEW_GUIDE.md`](REVIEW_GUIDE.md).
 
 **Collection layout** (every curated collection under `resources/`):
 

@@ -24,4 +24,6 @@ is kept here once, so content files stay clean.
 - **42,511** headword entries (structural audit 2026-07-18).
 - Bare headword baseline derived from this collection lives in `resources/wordlists/`.
 - Edition, publisher, and rights confirmation pending (M-001, M-003, M-015).
-- Do not hand-edit entries here; structured corrections belong downstream in `data/`.
+- Correct OCR/conversion defects here only from the exact authenticated source
+  page and through the recorded transcription review. Linguistic normalization,
+  preferred forms, and new definitions belong downstream in `data/`.
