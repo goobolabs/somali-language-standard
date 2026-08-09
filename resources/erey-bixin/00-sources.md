@@ -48,3 +48,17 @@ Studi Somali, Università Roma Tre). Duplicate English heads are not repeated.
   readable English–Somali records; unreadable OCR and Italian-only records are
   omitted. A usable full source (PDF re-conversion or Archivio Somalia extract)
   is required before further curation can proceed.
+
+## Phase 1 provenance status (2026-08-09)
+
+| File | Provisional source ID(s) |
+| --- | --- |
+| `01-bayoolaji.md`–`04-kimistari.md` | `SRC-EB-001`–`SRC-EB-004` respectively |
+| `05-xisaab.md` | `SRC-EB-005`; `SRC-EB-006` |
+| `06-wasaaradaha.md`–`09-farsamada-culuunta.md` | `SRC-EB-007`–`SRC-EB-010` respectively |
+
+No exact source scan was present, so all nine files remain `blocked`. The two
+relationships for `05-xisaab.md` are separately recorded. Bibliographic gaps
+are M-113; the partial coverage of file `09` is M-115. See
+[`sources.tsv`](../../data/provenance/sources.tsv) and
+[`resource-manifest.tsv`](../../data/provenance/resource-manifest.tsv).

@@ -57,3 +57,14 @@ Somali authority.
 | Prosodic *astaamaynta* distinguished from orthographic punctuation | pass (see `05-codadka-sare.md`) |
 | IPA symbols retained in consonant/vowel descriptions | pass |
 | English bibliography not copied into content files | pass |
+
+## Phase 1 provenance status (2026-08-09)
+
+- `SRC-PHO-001` maps to files `01`–`07`; `SRC-PHO-002` maps to supplement `08`.
+- No exact source file was present, so edition, represented pages, checksums,
+  and the prior manual-verification claim cannot yet be reproduced.
+- All eight files remain `blocked` until the scans and review records are
+  registered; the earlier structural audit remains a structural claim only.
+- See [`sources.tsv`](../../data/provenance/sources.tsv),
+  [`resource-manifest.tsv`](../../data/provenance/resource-manifest.tsv), and
+  issues M-100–M-104, M-114, and M-117.

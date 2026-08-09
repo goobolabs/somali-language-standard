@@ -3,7 +3,7 @@
 **Project:** Somali Language Standard (SLS)  
 **Scope:** `resources/`  
 **Plan date:** 2026-08-09  
-**Status:** In progress — Phase 0 complete; awaiting review before Phase 1  
+**Status:** In progress — Phase 1 complete; awaiting review before Phase 2
 **Primary outcome:** A traceable, source-faithful, human-reviewed evidence library that can safely support standards, dictionaries, corpora, translation, and AI work.
 
 ## 1. Purpose
@@ -228,24 +228,24 @@ Adopt a small, documented notation and do not invent fixes silently.
 
 ### Tasks
 
-- [ ] Create the source manifest with all 145 current files.
-- [ ] Link every content file to one or more stable source IDs.
-- [ ] Locate the exact PDF/scan used for each OCR conversion.
-- [ ] Compute SHA-256 checksums for scans and raw OCR.
-- [ ] Record title-page metadata, edition, publisher, year, page count, and represented page range.
-- [ ] Record whether pages are missing, duplicated, out of order, cropped, skewed, blurred, or handwritten.
-- [ ] Record rights and redistribution status separately from factual provenance.
-- [ ] Resolve or explicitly mark `unknown` values; do not use vague “to be confirmed” text without an issue ID and owner.
-- [ ] Reconcile the manifest with every collection's `00-sources.md`.
-- [ ] Open tracked metadata issues for unresolved items, especially the dictionary and supplementary grammars.
+- [x] Create the source manifest with all 145 current files.
+- [x] Link every content file to one or more stable source IDs.
+- [x] Locate the exact PDF/scan used for each OCR conversion.
+- [x] Compute SHA-256 checksums for scans and raw OCR.
+- [x] Record title-page metadata, edition, publisher, year, page count, and represented page range.
+- [x] Record whether pages are missing, duplicated, out of order, cropped, skewed, blurred, or handwritten.
+- [x] Record rights and redistribution status separately from factual provenance.
+- [x] Resolve or explicitly mark `unknown` values; do not use vague “to be confirmed” text without an issue ID and owner.
+- [x] Reconcile the manifest with every collection's `00-sources.md`.
+- [x] Open tracked metadata issues for unresolved items, especially the dictionary and supplementary grammars.
 
 ### Priority metadata cases
 
-- [ ] `qaamuus/`: compiler/editor, edition, publisher, year, scan identity, and republication rights.
-- [ ] `naxwe/13`–`17`: author/compiler, year, edition, and exact page coverage.
-- [ ] `suugaan/`: missing years/editions and exact source identity for each book.
-- [ ] `erey-bixin/09-farsamada-culuunta.md`: exact source pages, omissions, and rights.
-- [ ] Supplements in `orthography/`, `phonology/`, and `morphology/`: confirm the distinction between primary, supplementary, and derived evidence.
+- [x] `qaamuus/`: compiler/editor, edition, publisher, year, scan identity, and republication rights.
+- [x] `naxwe/13`–`17`: author/compiler, year, edition, and exact page coverage.
+- [x] `suugaan/`: missing years/editions and exact source identity for each book.
+- [x] `erey-bixin/09-farsamada-culuunta.md`: exact source pages, omissions, and rights.
+- [x] Supplements in `orthography/`, `phonology/`, and `morphology/`: confirm the distinction between primary, supplementary, and derived evidence.
 
 ### Exit criteria
 

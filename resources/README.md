@@ -3,6 +3,13 @@
 The canonical collection of linguistic source materials for the Somali Language Standard (SLS) project.
 This directory functions as the digital linguistic library and evidence base—containing dictionaries, grammar books, literature, and terminology references. These authoritative sources are collected, preserved, and analyzed to form the empirical foundation upon which the entire SLS ecosystem (`spec/`, `data/`, `ai/`) is built.
 
+> **Authentication status (2026-08-09):** the Phase 1 inventory found no exact
+> source PDFs/page images in the workspace. All 128 source-dependent files are
+> therefore `blocked` from authentication until their scans, pages, checksums,
+> rights, and reviews are registered. “Canonical collection” describes this
+> repository's evidence role; it does not mean every transcription is already
+> authenticated.
+
 ## Layout
 
 ```
@@ -123,3 +130,14 @@ Suitable for spellcheckers, autocomplete, tokenisers, and NLP/ML training data.
 - Original scans and raw OCR are immutable evidence. See
   [`docs/TRANSCRIPTION_POLICY.md`](../docs/TRANSCRIPTION_POLICY.md) and
   [`docs/REVIEW_GUIDE.md`](../docs/REVIEW_GUIDE.md).
+
+## Machine-readable provenance
+
+- [`data/provenance/sources.tsv`](../data/provenance/sources.tsv) — 45 direct
+  works plus the internal project-metadata source.
+- [`data/provenance/resource-manifest.tsv`](../data/provenance/resource-manifest.tsv)
+  — all 145 files present at the Phase 1 inventory boundary, including file
+  hashes and 146 source relationships.
+- [`docs/resource-cleanup/METADATA_ISSUES.md`](../docs/resource-cleanup/METADATA_ISSUES.md)
+  — owned queue for missing scans, pages, metadata, hashes, rights, and review
+  records.

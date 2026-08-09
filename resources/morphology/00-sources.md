@@ -68,3 +68,14 @@ Every table set traces to S-003 via the corresponding `naxwe/` chapter.
 - Saeed/Green paradigm matrices may supplement or cross-check later if
   publisher permission is obtained — do not OCR full volumes without clearance.
 - Kirk 1905 (S-105) remains archive-only per Phase 3C.
+
+## Phase 1 provenance status (2026-08-09)
+
+- The existing stable ID `S-003` is retained for all four derived paradigm files.
+- No exact S-003 PDF was found despite the earlier “in repo” note, so edition,
+  pages, source checksum, and derivation cannot yet be reproduced (M-116).
+- Files `01`–`04` remain `blocked`, not authenticated derivatives, until S-003
+  and the cited upstream sections are registered and verified.
+- Machine-readable records:
+  [`sources.tsv`](../../data/provenance/sources.tsv) and
+  [`resource-manifest.tsv`](../../data/provenance/resource-manifest.tsv).

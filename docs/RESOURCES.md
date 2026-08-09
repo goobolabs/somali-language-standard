@@ -8,6 +8,13 @@ as rules.
 
 Live file map and entry formats: [`resources/README.md`](../resources/README.md).
 
+**Phase 1 authentication finding:** no exact source PDF/page image was present in
+the workspace on 2026-08-09. Consequently, all 128 source-dependent resource
+files are `blocked` from authentication. The collection status labels below
+describe repository availability and scope, not proof of source fidelity. See
+[`data/provenance/resource-manifest.tsv`](../data/provenance/resource-manifest.tsv)
+and [`resource-cleanup/METADATA_ISSUES.md`](resource-cleanup/METADATA_ISSUES.md).
+
 **Last updated:** 2026-08-09
 
 ---
@@ -171,9 +178,11 @@ Representative open limitations:
 
 ## Current baseline
 
-All eight collections are curated, attributed, and documented. Each is
-**accepted with limitations** — scope, source inventory, and known gaps are
-recorded in collection `README.md` files and `00-sources.md`.
+All eight collections are organized and provisionally attributed, but they are
+not yet authenticated. Phase 1 records 145 files, 146 file-source
+relationships, and 45 direct works. Exact scans, page mappings, source hashes,
+and rights evidence are absent, so source-dependent files remain `blocked`.
+Known bibliographic claims are retained as `unverified`, never guessed.
 
 This baseline is descriptive evidence only. It does not prescribe rules; normative
 work in `spec/` builds on it in a separate step.

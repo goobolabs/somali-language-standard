@@ -22,3 +22,14 @@ here once, so content files stay clean.
 
 Spellcheckers, autocomplete, tokenizers, and linguistic analysis baseline — not
 a standalone lexical authority separate from `qaamuus/`.
+
+## Phase 1 provenance status (2026-08-09)
+
+- `01-b.md`–`26-u.md` are derived relationships to `SRC-QAA-001`; they are not
+  an independent source work.
+- They remain `blocked` until the exact dictionary scan is registered, the
+  dictionary transcription is authenticated, and the derivation is reproduced.
+- File-level hashes and relationships are recorded in
+  [`data/provenance/resource-manifest.tsv`](../../data/provenance/resource-manifest.tsv).
+- The 31 unmatched heads remain tracked as M-118 in
+  [`METADATA_ISSUES.md`](../../docs/resource-cleanup/METADATA_ISSUES.md).
