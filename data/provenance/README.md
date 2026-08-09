@@ -9,6 +9,9 @@ describes evidence; it does not supply or correct source wording.
 - `resource-manifest.tsv` — one row for each of the 145 files that existed under
   `resources/` at the Phase 1 inventory boundary. Resource hashes use canonical
   indexed Git bytes so they are stable across Windows and Linux checkouts.
+- `gold-sample.tsv` — the Phase 3 registry of exact PDF image indexes and
+  printed pages selected for private calibration. It contains identifiers and
+  mappings only, never source wording or a generated transcription.
 - `audit-baseline.json` records the machine-readable Phase 2 review queue used
   to detect new findings without treating existing OCR candidates as corrected.
 - `audit-suppressions.tsv` records reviewed rule exceptions; every row requires
@@ -44,6 +47,9 @@ collection inventories. It is not a book source.
 - A derived wordlist/paradigm remains `blocked` while its source transcription
   is unauthenticated.
 - No Phase 1 row is `authenticated`.
+- A locally inspected scan can remain `restricted` and `unverified`: source
+  identity, transcription accuracy, and permission to publish derived text are
+  separate decisions.
 
 Fields and acceptance rules follow
 [`../../docs/TRANSCRIPTION_POLICY.md`](../../docs/TRANSCRIPTION_POLICY.md) and

@@ -152,6 +152,39 @@ class ResourceAuditTests(unittest.TestCase):
             audit_files(state); audit_provenance(state)
             self.assertIn("PROV_RESOURCE_HASH_MISMATCH", {item.rule for item in state.findings})
 
+    def test_gold_sample_requires_twenty_rows(self) -> None:
+        with temporary_directory() as directory:
+            root = Path(directory)
+            resources = root / "resources"
+            provenance = root / "data/provenance"
+            resources.mkdir(parents=True)
+            provenance.mkdir(parents=True)
+            resource = resources / "a.md"
+            resource.write_text("# A\n", encoding="utf-8")
+            digest = hashlib.sha256(resource.read_bytes()).hexdigest()
+            (provenance / "sources.tsv").write_text(
+                "source_id\tsource_sha256\nSRC-1\t" + digest + "\n", encoding="utf-8")
+            (provenance / "resource-manifest.tsv").write_text(
+                "resource_path\tsource_id\tresource_sha256\ttranscription_status\tsource_location\n"
+                f"resources/a.md\tSRC-1\t{digest}\tblocked\tunknown\n", encoding="utf-8")
+            fields = (
+                "sample_id", "source_id", "source_sha256", "pdf_image_index",
+                "printed_page", "spread_side", "resource_path", "coverage",
+                "selection_basis", "evidence_status", "transcription_status",
+                "reviewer", "review_status",
+            )
+            values = (
+                "GS-001", "SRC-1", digest, "1", "1", "not_applicable",
+                "resources/a.md", "prose", "visual", "restricted",
+                "selected", "unassigned", "pending",
+            )
+            (provenance / "gold-sample.tsv").write_text(
+                "\t".join(fields) + "\n" + "\t".join(values) + "\n", encoding="utf-8")
+            state = AuditState(root)
+            audit_files(state)
+            audit_provenance(state)
+            self.assertIn("PROV_GOLD_SAMPLE_SIZE", {item.rule for item in state.findings})
+
     def test_suppression_requires_reason_and_approval(self) -> None:
         with temporary_directory() as directory:
             path = Path(directory) / "s.tsv"

@@ -80,3 +80,75 @@ def audit_provenance(state: AuditState) -> None:
                       "PROV_FALSE_AUTHENTICATION",
                       "Authenticated status with unavailable exact source",
                       "Downgrade or register and review exact evidence.")
+    audit_gold_sample(state, sources, actual)
+
+
+def audit_gold_sample(
+    state: AuditState,
+    sources: list[dict[str, str]],
+    actual: dict[str, dict[str, object]],
+) -> None:
+    path = state.root / "data/provenance/gold-sample.tsv"
+    if not path.exists():
+        return
+    path_rel = relative(path, state.root)
+    try:
+        rows = read_tsv(path)
+    except (UnicodeDecodeError, csv.Error) as exc:
+        state.add("error", path_rel, 0, "PROV_GOLD_SAMPLE_INVALID",
+                  f"Cannot parse gold-sample TSV: {exc}",
+                  "Repair sample metadata without supplying source wording.")
+        return
+    required = (
+        "sample_id", "source_id", "source_sha256", "pdf_image_index",
+        "printed_page", "spread_side", "resource_path", "coverage",
+        "selection_basis", "evidence_status", "transcription_status",
+        "reviewer", "review_status",
+    )
+    source_by_id = {row.get("source_id", ""): row for row in sources}
+    sample_ids: list[str] = []
+    page_ids: list[tuple[str, str]] = []
+    for number, row in enumerate(rows, 2):
+        if any(not row.get(field, "").strip() for field in required):
+            state.add("error", path_rel, number, "PROV_GOLD_SAMPLE_BLANK",
+                      "Gold-sample row has a blank required field",
+                      "Use an explicit controlled value; do not infer source text.")
+            continue
+        sample_ids.append(row["sample_id"])
+        page_ids.append((row["source_id"], row["printed_page"]))
+        source = source_by_id.get(row["source_id"])
+        if source is None:
+            state.add("error", path_rel, number, "PROV_GOLD_SAMPLE_SOURCE",
+                      f"Unknown sample source ID: {row['source_id']}",
+                      "Use a registered source ID.")
+        elif row["source_sha256"] != source.get("source_sha256"):
+            state.add("error", path_rel, number, "PROV_GOLD_SAMPLE_HASH",
+                      "Sample hash differs from registered source hash",
+                      "Stop and identify the exact immutable source copy.")
+        if row["resource_path"] not in actual:
+            state.add("error", path_rel, number, "PROV_GOLD_SAMPLE_RESOURCE",
+                      f"Sample resource is not inventoried: {row['resource_path']}",
+                      "Correct only the metadata relationship.")
+        try:
+            if int(row["pdf_image_index"]) < 1:
+                raise ValueError
+        except ValueError:
+            state.add("error", path_rel, number, "PROV_GOLD_SAMPLE_PAGE_INDEX",
+                      "PDF image index must be a positive integer",
+                      "Visually identify the exact PDF image index.")
+        if row["spread_side"] not in {"left", "right", "not_applicable"}:
+            state.add("error", path_rel, number, "PROV_GOLD_SAMPLE_SPREAD_SIDE",
+                      f"Invalid spread side: {row['spread_side']}",
+                      "Use left, right, or not_applicable after visual inspection.")
+    if len(rows) < 20:
+        state.add("error", path_rel, 0, "PROV_GOLD_SAMPLE_SIZE",
+                  f"Gold sample has {len(rows)} rows; at least 20 are required",
+                  "Select additional exact source pages before transcription.")
+    if len(sample_ids) != len(set(sample_ids)):
+        state.add("error", path_rel, 0, "PROV_GOLD_SAMPLE_DUPLICATE_ID",
+                  "Gold sample contains duplicate sample IDs",
+                  "Assign one stable ID per selected printed page.")
+    if len(page_ids) != len(set(page_ids)):
+        state.add("error", path_rel, 0, "PROV_GOLD_SAMPLE_DUPLICATE_PAGE",
+                  "Gold sample selects the same source printed page more than once",
+                  "Keep each exact source page once.")

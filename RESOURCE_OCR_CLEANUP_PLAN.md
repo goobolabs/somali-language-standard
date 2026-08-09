@@ -3,7 +3,7 @@
 **Project:** Somali Language Standard (SLS)  
 **Scope:** `resources/`  
 **Plan date:** 2026-08-09  
-**Status:** Phase 3 in progress — institutional scan candidates found; evidence intake awaits CC BY-NC-ND rights confirmation
+**Status:** Phase 3 in progress — six source scans registered and a 20-page private calibration sample selected; transcription review and rights resolution remain
 **Primary outcome:** A traceable, source-faithful, human-reviewed evidence library that can safely support standards, dictionaries, corpora, translation, and AI work.
 
 ## 1. Purpose
