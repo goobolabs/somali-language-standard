@@ -8,6 +8,10 @@ describes evidence; it does not supply or correct source wording.
 - `sources.tsv` — one row per identified source work or internal/derived source.
 - `resource-manifest.tsv` — one row for each of the 145 files that existed under
   `resources/` at the Phase 1 inventory boundary.
+- `audit-baseline.json` records the machine-readable Phase 2 review queue used
+  to detect new findings without treating existing OCR candidates as corrected.
+- `audit-suppressions.tsv` records reviewed rule exceptions; every row requires
+  a finding ID, reason, approver, and date.
 - [`../../docs/resource-cleanup/METADATA_ISSUES.md`](../../docs/resource-cleanup/METADATA_ISSUES.md)
   — tracked queue for unresolved provenance.
 
@@ -43,3 +47,7 @@ collection inventories. It is not a book source.
 Fields and acceptance rules follow
 [`../../docs/TRANSCRIPTION_POLICY.md`](../../docs/TRANSCRIPTION_POLICY.md) and
 [`../../docs/REVIEW_GUIDE.md`](../../docs/REVIEW_GUIDE.md).
+
+Audit operation and baseline review are documented in
+[`../../docs/RESOURCE_AUDIT.md`](../../docs/RESOURCE_AUDIT.md). Neither the
+baseline nor a suppression authenticates source text.

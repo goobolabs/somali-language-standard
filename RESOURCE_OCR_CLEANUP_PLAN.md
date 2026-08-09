@@ -3,7 +3,7 @@
 **Project:** Somali Language Standard (SLS)  
 **Scope:** `resources/`  
 **Plan date:** 2026-08-09  
-**Status:** In progress — Phase 1 complete; awaiting review before Phase 2
+**Status:** In progress — Phase 2 complete; awaiting review before Phase 3
 **Primary outcome:** A traceable, source-faithful, human-reviewed evidence library that can safely support standards, dictionaries, corpora, translation, and AI work.
 
 ## 1. Purpose
@@ -259,21 +259,21 @@ Adopt a small, documented notation and do not invent fixes silently.
 
 ### Tasks
 
-- [ ] Add a read-only inventory command under `tools/` that reports file counts, byte counts, line counts, and hashes.
-- [ ] Add strict UTF-8 validation and Unicode normalization reporting. Report normalization differences; do not auto-normalize without review.
-- [ ] Detect replacement characters, control characters, mojibake signatures, non-breaking spaces, zero-width characters, and mixed line endings.
-- [ ] Add Markdown checks: one H1, heading hierarchy, valid tables, balanced emphasis, malformed list items, and accidental page furniture.
-- [ ] Add OCR heuristics for broken words, isolated glyphs, repeated punctuation, long garbage runs, interleaved columns, headers/footers, page numbers, hyphenation at line breaks, and suspicious digit/letter substitutions.
-- [ ] Add Somali-aware candidate checks for common OCR confusions, but emit review suggestions only.
-- [ ] Add collection-specific validators:
-  - [ ] `qaamuus/`: entry grammar, headword extraction, homonym markers, grammatical codes, `ld`/`eeg` targets, and alphabetical placement.
-  - [ ] `wordlists/`: one headword per line, duplicates, sort order, and reproducible equivalence with `qaamuus/`.
-  - [ ] `naxwe/`: TSV column count, table shape, example markers, and heading integrity.
-  - [ ] `erey-bixin/`: exactly one intentional term delimiter per record, section integrity, duplicates, and empty source/target sides.
-  - [ ] `suugaan/`: verse/prose structure, speaker labels, chapter headings, and preservation of deliberate lineation.
-  - [ ] `orthography/`, `phonology/`, `morphology/`: table shape, symbols, examples, cross-references, and source notes.
-- [ ] Produce machine-readable findings with stable IDs, severity, file, line/page, rule, suggested action, assignee, and resolution.
-- [ ] Add CI checks that block new encoding errors, unreviewed bulk changes, broken provenance, and validator regressions.
+- [x] Add a read-only inventory command under `tools/` that reports file counts, byte counts, line counts, and hashes.
+- [x] Add strict UTF-8 validation and Unicode normalization reporting. Report normalization differences; do not auto-normalize without review.
+- [x] Detect replacement characters, control characters, mojibake signatures, non-breaking spaces, zero-width characters, and mixed line endings.
+- [x] Add Markdown checks: one H1, heading hierarchy, valid tables, balanced emphasis, malformed list items, and accidental page furniture.
+- [x] Add OCR heuristics for broken words, isolated glyphs, repeated punctuation, long garbage runs, interleaved columns, headers/footers, page numbers, hyphenation at line breaks, and suspicious digit/letter substitutions.
+- [x] Add Somali-aware candidate checks for common OCR confusions, but emit review suggestions only.
+- [x] Add collection-specific validators:
+  - [x] `qaamuus/`: entry grammar, headword extraction, homonym markers, grammatical codes, `ld`/`eeg` targets, and alphabetical placement.
+  - [x] `wordlists/`: one headword per line, duplicates, sort order, and reproducible equivalence with `qaamuus/`.
+  - [x] `naxwe/`: TSV column count, table shape, example markers, and heading integrity.
+  - [x] `erey-bixin/`: exactly one intentional term delimiter per record, section integrity, duplicates, and empty source/target sides.
+  - [x] `suugaan/`: verse/prose structure, speaker labels, chapter headings, and preservation of deliberate lineation.
+  - [x] `orthography/`, `phonology/`, `morphology/`: table shape, symbols, examples, cross-references, and source notes.
+- [x] Produce machine-readable findings with stable IDs, severity, file, line/page, rule, suggested action, assignee, and resolution.
+- [x] Add CI checks that block new encoding errors, unreviewed bulk changes, broken provenance, and validator regressions.
 
 ### Exit criteria
 
