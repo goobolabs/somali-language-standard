@@ -21,7 +21,7 @@
   authentication claims.
 - Added deterministic machine-readable findings with severity, file, line/page,
   rule, suggested action, assignee, resolution, excerpt, and stable ID.
-- Added nine unit/regression tests and a resource-scoped GitHub Actions workflow.
+- Added ten unit/regression tests and a resource-scoped GitHub Actions workflow.
 - Added a reviewed baseline and reasoned suppression register.
 - Documented the one-command audit, baseline policy, and review rules in
   `docs/RESOURCE_AUDIT.md`.
@@ -73,9 +73,9 @@ and the exact source scans are unavailable in the workspace.
 | Issue or error | Resolution and improvement |
 | --- | --- |
 | The first single-file implementation exceeded the Windows command-size limit. | Split the validator into small responsibility-based modules and retained a thin CLI wrapper. |
-| Initial calibration produced 15,680 findings, dominated by false positives. | Restricted digit checks to ASCII where appropriate, excluded collection metadata from content validators, summarized repeated candidates per file, and parsed compound dictionary abbreviations as units. The calibrated queue is 709 findings. |
+| Initial calibration produced 15,680 findings, dominated by false positives. | Restricted digit checks to ASCII where appropriate, excluded collection metadata from content validators, summarized repeated candidates per file, and parsed compound dictionary abbreviations as units. The interim queue was 709 findings; cross-platform calibration produced the final 564-finding baseline. |
 | A local report path under `C:\\tmp` was blocked by the managed filesystem. | Kept disposable reports in the ignored repository `temp/` directory; no source or committed evidence was affected. |
-| Python temporary test directories were blocked by the restricted sandbox ACL. | Verified the suite outside that ACL using isolated system temporary directories. All nine tests pass. |
+| Python temporary test directories were blocked by the restricted sandbox ACL. | Verified the suite outside that ACL using isolated system temporary directories. All ten tests pass. |
 | A literal replacement-character example triggered both replacement and mojibake rules. | Recorded two explicit, dated suppressions for that project-authored documentation example only. |
 | Existing findings would make a new strict validator fail immediately. | Created a reviewed, deterministic baseline. CI now blocks warning-or-higher findings that are new, while preserving the existing queue for later source-based review. |
 | The first GitHub Actions run found that Phase 1 hashes reflected Windows CRLF checkout bytes, producing 146 false provenance failures on Linux. | Made the audit use indexed Git bytes whenever workspace content differs only by automatic line-ending conversion, migrated only the provenance hashes, added a regression test, and regenerated a cross-platform baseline. No resource file changed. |
@@ -85,7 +85,8 @@ and the exact source scans are unavailable in the workspace.
 - `python -m compileall -q tools` — passed.
 - `python -m unittest discover -s tools/tests -v` with `PYTHONPATH=tools` —
   10/10 passed.
-- Inventory command — passed with the Phase 1 resource-tree hash unchanged.
+- Inventory command — passed with canonical resource-tree SHA-256
+  `5b5adb5b4780a98e6ae76d2712b019b30912c5488a2dd8ef6260b7e8c8a0d81b`.
 - Baseline audit with `--fail-on-new warning` — passed with zero new findings.
 - Two independent baseline regenerations and the committed file all produced
   SHA-256 `1ef9b3073502630794968b449ab940944f37896d45e2404f601d23aa1ca983d2`.
