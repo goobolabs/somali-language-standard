@@ -9,10 +9,12 @@ import tempfile
 import unittest
 from contextlib import redirect_stdout
 from pathlib import Path
+from types import SimpleNamespace
+from unittest.mock import patch
 
 from resource_audit.cli import main, suppressions
 from resource_audit.collections import audit_erey_bixin
-from resource_audit.common import audit_file, audit_files
+from resource_audit.common import audit_file, audit_files, repository_bytes
 from resource_audit.lexical import code_is_valid
 from resource_audit.model import AuditState, Finding
 from resource_audit.provenance import audit_provenance
@@ -79,6 +81,21 @@ class ResourceAuditTests(unittest.TestCase):
             state = AuditState(root)
             audit_files(state)
             self.assertEqual(original, path.read_bytes())
+
+    def test_repository_bytes_ignore_checkout_only_crlf(self) -> None:
+        with temporary_directory() as directory:
+            state = AuditState(Path(directory))
+            indexed = b"# Title\n\nText.\n"
+            with patch("resource_audit.common.subprocess.run") as run:
+                run.return_value = SimpleNamespace(returncode=0, stdout=indexed)
+                self.assertEqual(
+                    indexed,
+                    repository_bytes(state, "resources/a.md", indexed.replace(b"\n", b"\r\n")),
+                )
+                self.assertEqual(
+                    b"# Changed\r\n",
+                    repository_bytes(state, "resources/a.md", b"# Changed\r\n"),
+                )
 
     def test_ocr_candidates_are_summarized_per_file(self) -> None:
         with temporary_directory() as directory:

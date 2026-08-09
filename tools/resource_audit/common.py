@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import hashlib
 import re
+import subprocess
 import unicodedata
 from pathlib import Path
 
@@ -23,7 +24,8 @@ def audit_files(state: AuditState) -> None:
 
 def audit_file(state: AuditState, path: Path) -> None:
     path_rel = relative(path, state.root)
-    data = path.read_bytes()
+    workspace_data = path.read_bytes()
+    data = repository_bytes(state, path_rel, workspace_data)
     state.inventory.append({
         "path": path_rel,
         "bytes": len(data),
@@ -43,6 +45,31 @@ def audit_file(state: AuditState, path: Path) -> None:
     if path.suffix.lower() == ".md":
         audit_markdown(state, path, path_rel, text)
     audit_ocr(state, path_rel, text)
+
+
+def normalized_newlines(data: bytes) -> bytes:
+    return data.replace(b"\r\n", b"\n").replace(b"\r", b"\n")
+
+
+def repository_bytes(state: AuditState, path: str, workspace_data: bytes) -> bytes:
+    """Use indexed bytes when Git changed only checkout line endings.
+
+    Git's index is the repository evidence that CI receives. On Windows,
+    `core.autocrlf` can otherwise make every hash and line-ending finding depend
+    on the developer machine. Real working-content changes continue to win.
+    Non-Git fixtures and untracked files fall back to their workspace bytes.
+    """
+    try:
+        result = subprocess.run(
+            ["git", "show", f":{path}"], cwd=state.root, check=False,
+            stdout=subprocess.PIPE, stderr=subprocess.DEVNULL,
+        )
+    except OSError:
+        return workspace_data
+    if (result.returncode == 0
+            and normalized_newlines(result.stdout) == normalized_newlines(workspace_data)):
+        return result.stdout
+    return workspace_data
 
 
 def audit_encoding(state: AuditState, path: str, data: bytes, text: str) -> None:

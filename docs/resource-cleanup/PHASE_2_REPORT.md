@@ -36,38 +36,37 @@ The verified inventory is:
 | Measure | Result |
 | --- | ---: |
 | Resource files | 145 |
-| Bytes | 8,359,339 |
+| Bytes | 8,172,035 |
 | Lines | 187,470 |
 | Markdown files | 144 |
 | TSV files | 1 |
-| Resource-tree SHA-256 | `c1e0b2927fb15cad00f3fb8a5fa3243f74f480f07f3f3b716467ed046bc929b8` |
+| Resource-tree SHA-256 | `5b5adb5b4780a98e6ae76d2712b019b30912c5488a2dd8ef6260b7e8c8a0d81b` |
 
-The Phase 2 baseline contains 709 findings:
+The Phase 2 baseline contains 564 findings:
 
 | Severity | Count |
 | --- | ---: |
 | Info | 75 |
-| Warning | 613 |
-| Error | 21 |
+| Warning | 478 |
+| Error | 11 |
 | Fatal | 0 |
 
-Two of the 21 error-severity findings are suppressed rule matches on one
+Two of the 11 error-severity findings are suppressed rule matches on one
 project-authored README line that deliberately shows a replacement character.
 No book or transcription finding is suppressed. The remaining findings are an
 explicit review queue, not automatically accepted corrections and not proof that
 every heuristic match is an error.
 
 The most frequent categories are missing/uncertain dictionary grammatical codes
-(197), non-LF line endings (135), digit-bearing dictionary headwords (49),
-malformed-list candidates (35), dangling dictionary cross-reference candidates
-(30), and wordlist sort-order candidates (26). Source-page comparison remains
-required before changing authentic content.
+(197), digit-bearing dictionary headwords (49), malformed-list candidates (35),
+dangling dictionary cross-reference candidates (30), wordlist sort-order
+candidates (26), and line-end hyphenation candidates (25). Source-page
+comparison remains required before changing authentic content.
 
-Error-severity candidates include ten mixed-line-ending files, seven control
-character locations, one malformed dictionary-entry candidate, and one glossary
-record with an empty side. They remain unchanged because Phase 2 is discovery
-and regression tooling, and the exact source scans are unavailable in the
-workspace.
+Open error-severity candidates include seven control-character locations, one
+malformed dictionary-entry candidate, and one glossary record with an empty
+side. They remain unchanged because Phase 2 is discovery and regression tooling,
+and the exact source scans are unavailable in the workspace.
 
 ## Issues encountered and how they were handled
 
@@ -79,16 +78,17 @@ workspace.
 | Python temporary test directories were blocked by the restricted sandbox ACL. | Verified the suite outside that ACL using isolated system temporary directories. All nine tests pass. |
 | A literal replacement-character example triggered both replacement and mojibake rules. | Recorded two explicit, dated suppressions for that project-authored documentation example only. |
 | Existing findings would make a new strict validator fail immediately. | Created a reviewed, deterministic baseline. CI now blocks warning-or-higher findings that are new, while preserving the existing queue for later source-based review. |
+| The first GitHub Actions run found that Phase 1 hashes reflected Windows CRLF checkout bytes, producing 146 false provenance failures on Linux. | Made the audit use indexed Git bytes whenever workspace content differs only by automatic line-ending conversion, migrated only the provenance hashes, added a regression test, and regenerated a cross-platform baseline. No resource file changed. |
 
 ## Verification performed
 
 - `python -m compileall -q tools` — passed.
 - `python -m unittest discover -s tools/tests -v` with `PYTHONPATH=tools` —
-  9/9 passed.
+  10/10 passed.
 - Inventory command — passed with the Phase 1 resource-tree hash unchanged.
 - Baseline audit with `--fail-on-new warning` — passed with zero new findings.
 - Two independent baseline regenerations and the committed file all produced
-  SHA-256 `2068bdf95e3ccdaee6e788bbe7495f55ce5c5db6cc6eadf229fcb6887a20482c`.
+  SHA-256 `1ef9b3073502630794968b449ab940944f37896d45e2404f601d23aa1ca983d2`.
 - Git resource diff — empty.
 - Git diff for `ROADMAP.md`, `IMPLEMENTATION_PLAN.md`, `spec/`, and `standards/`
   — empty.

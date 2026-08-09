@@ -7,7 +7,8 @@ describes evidence; it does not supply or correct source wording.
 
 - `sources.tsv` — one row per identified source work or internal/derived source.
 - `resource-manifest.tsv` — one row for each of the 145 files that existed under
-  `resources/` at the Phase 1 inventory boundary.
+  `resources/` at the Phase 1 inventory boundary. Resource hashes use canonical
+  indexed Git bytes so they are stable across Windows and Linux checkouts.
 - `audit-baseline.json` records the machine-readable Phase 2 review queue used
   to detect new findings without treating existing OCR candidates as corrected.
 - `audit-suppressions.tsv` records reviewed rule exceptions; every row requires

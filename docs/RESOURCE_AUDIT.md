@@ -52,6 +52,12 @@ The audit checks strict UTF-8, Unicode and line endings, Markdown structure, OCR
 signals, collection-specific structure, and the Phase 1 provenance records. It
 also blocks unreviewed resource hash drift and bulk changes.
 
+For tracked files, inventory and audit evidence use the indexed Git bytes when
+the workspace differs only through automatic line-ending conversion. This keeps
+hashes and findings identical on Windows and Linux while still auditing real
+working-content changes. Untracked files and non-Git test fixtures use their
+workspace bytes.
+
 ## Baseline and suppressions
 
 `data/provenance/audit-baseline.json` records the accepted Phase 2 review queue.
