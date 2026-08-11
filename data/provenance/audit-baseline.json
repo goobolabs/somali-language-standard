@@ -3,7 +3,7 @@
     "error": 11,
     "fatal": 0,
     "info": 75,
-    "warning": 478
+    "warning": 475
   },
   "findings": [
     {
@@ -380,19 +380,6 @@
       "path": "resources/erey-bixin/README.md",
       "resolution": "open",
       "rule": "OCR_SPACING_RUN",
-      "severity": "warning",
-      "suggested_action": "Candidate only: compare with exact source page."
-    },
-    {
-      "assignee": "unassigned",
-      "excerpt": "| L2a | -o (shibbane laballaab) | *doofaar* → *doofaarro* |",
-      "finding_id": "RF-daa514f4a4fb1373",
-      "line": 41,
-      "message": "Digit embedded in alphabetic token; 4 occurrence(s)",
-      "page": "unknown",
-      "path": "resources/morphology/01-magacyada.md",
-      "resolution": "open",
-      "rule": "OCR_DIGIT_LETTER",
       "severity": "warning",
       "suggested_action": "Candidate only: compare with exact source page."
     },
@@ -1048,19 +1035,6 @@
     },
     {
       "assignee": "unassigned",
-      "excerpt": "| hadlayo oo gofka labaad ah (Q2d), ama qofka laga hadlayo oo qofka",
-      "finding_id": "RF-fc38c15d62a54bb2",
-      "line": 1442,
-      "message": "Digit embedded in alphabetic token; 22 occurrence(s)",
-      "page": "unknown",
-      "path": "resources/naxwe/15-naxwaha-sifayneed.md",
-      "resolution": "open",
-      "rule": "OCR_DIGIT_LETTER",
-      "severity": "warning",
-      "suggested_action": "Candidate only: compare with exact source page."
-    },
-    {
-      "assignee": "unassigned",
       "excerpt": "| | i} Cali baa na qaaday shalay - Cali baa noo qaaday dharka. (na + u)",
       "finding_id": "RF-0f13a200e6054295",
       "line": 1591,
@@ -1097,6 +1071,19 @@
       "rule": "MD_TABLE_SEPARATOR",
       "severity": "warning",
       "suggested_action": "Verify whether pipes are a table or OCR debris."
+    },
+    {
+      "assignee": "unassigned",
+      "excerpt": "ka g0OrayNlU tagto iyo tagto/socod tahay, qaabka falka ee weedhaha",
+      "finding_id": "RF-3030e6238f19bd70",
+      "line": 2662,
+      "message": "Digit embedded in alphabetic token; 1 occurrence(s)",
+      "page": "unknown",
+      "path": "resources/naxwe/15-naxwaha-sifayneed.md",
+      "resolution": "open",
+      "rule": "OCR_DIGIT_LETTER",
+      "severity": "warning",
+      "suggested_action": "Candidate only: compare with exact source page."
     },
     {
       "assignee": "unassigned",
@@ -1370,19 +1357,6 @@
       "rule": "QAA_POS_MISSING",
       "severity": "warning",
       "suggested_action": "Check headword boundary and code against source."
-    },
-    {
-      "assignee": "unassigned",
-      "excerpt": "- **biyo²** m.l.w (kiim.) (H2O) Hoor midablaawe ah oo ku barafooba 0°C kuna uu biyooba 100°C marka cadaadisku yahay ka atmosfeerka. uumiga biyuhu wuxuu ka koobanyahay molikuyullo HO ah madi (kelikeli) ah. Biyuhu hoor ahaan, waa milaha cirif",
-      "finding_id": "RF-1c882bf5c46e7257",
-      "line": 2455,
-      "message": "Digit embedded in alphabetic token; 1 occurrence(s)",
-      "page": "unknown",
-      "path": "resources/qaamuus/01-b.md",
-      "resolution": "open",
-      "rule": "OCR_DIGIT_LETTER",
-      "severity": "warning",
-      "suggested_action": "Candidate only: compare with exact source page."
     },
     {
       "assignee": "unassigned",
@@ -4909,19 +4883,6 @@
     },
     {
       "assignee": "unassigned",
-      "excerpt": "- **asiidh-laagtika** m.dh (-dyo ..., m.dh) (baay.) Asiidh dhanaan oo dhis naanays molikiyuulkeedu yahay CH3CH(OH)COOH, asiidhka laagtig waxay ka timid asiidhka bayruufig, marka muruqyadu firfircoonyihiin ogsajiintuna xaddidantahay. Taasoo ",
-      "finding_id": "RF-5d8477baa16a9bc4",
-      "line": 1933,
-      "message": "Digit embedded in alphabetic token; 3 occurrence(s)",
-      "page": "unknown",
-      "path": "resources/qaamuus/22-a.md",
-      "resolution": "open",
-      "rule": "OCR_DIGIT_LETTER",
-      "severity": "warning",
-      "suggested_action": "Candidate only: compare with exact source page."
-    },
-    {
-      "assignee": "unassigned",
       "excerpt": "ay4",
       "finding_id": "RF-1b59d1db58fe943f",
       "line": 2151,
@@ -5331,7 +5292,7 @@
       "message": "Common mojibake signature found",
       "page": "unknown",
       "path": "resources/qaamuus/README.md",
-      "resolution": "suppressed: The same literal replacement-character example intentionally matches the conservative mojibake heuristic.",
+      "resolution": "open",
       "rule": "ENC_MOJIBAKE_CANDIDATE",
       "severity": "error",
       "suggested_action": "Compare source bytes/page; never globally re-encode."
@@ -5344,7 +5305,7 @@
       "message": "Unicode replacement character found",
       "page": "unknown",
       "path": "resources/qaamuus/README.md",
-      "resolution": "suppressed: Literal replacement-character example in project-authored QA documentation; it is not transcribed source text.",
+      "resolution": "open",
       "rule": "ENC_REPLACEMENT_CHARACTER",
       "severity": "error",
       "suggested_action": "Recover the exact source character."
@@ -7347,6 +7308,13 @@
     "file_count": 145,
     "files": [
       {
+        "bytes": 7446,
+        "extension": ".md",
+        "lines": 143,
+        "path": "resources/README.md",
+        "sha256": "7937340421efae893c75b4a3635dfe2d9e026ae31774890192967b07587705ee"
+      },
+      {
         "bytes": 2686,
         "extension": ".md",
         "lines": 64,
@@ -7599,18 +7567,18 @@
         "sha256": "45ed024278ae9fd58ada79597bf57c2c6dd735de948b1d987d95cf1593f42ced"
       },
       {
-        "bytes": 9735,
-        "extension": ".tsv",
-        "lines": 269,
-        "path": "resources/naxwe/ereyfur.tsv",
-        "sha256": "8eb14e4e095ef660488612278c70563834f0135291c42e2207304ac5c7cfa541"
-      },
-      {
         "bytes": 1546,
         "extension": ".md",
         "lines": 34,
         "path": "resources/naxwe/README.md",
         "sha256": "f4e7db02d4b251ea5f4548b7d870bbe2419283ba91e2eae74349fc8029bf3c83"
+      },
+      {
+        "bytes": 9735,
+        "extension": ".tsv",
+        "lines": 269,
+        "path": "resources/naxwe/ereyfur.tsv",
+        "sha256": "8eb14e4e095ef660488612278c70563834f0135291c42e2207304ac5c7cfa541"
       },
       {
         "bytes": 2441,
@@ -7746,11 +7714,11 @@
         "sha256": "3a22f7f8d2a99e63e476c552a1dbf1cf42fc5f805597fd3d2b12695f5537216f"
       },
       {
-        "bytes": 1674,
+        "bytes": 3348,
         "extension": ".md",
-        "lines": 40,
+        "lines": 68,
         "path": "resources/qaamuus/00-sources.md",
-        "sha256": "673cfba3cfb674fe2c2d858ce76a3f54cb6bafe1b7ce342c86e99e205b3719a7"
+        "sha256": "53cc5c837c3c144fc41f8325a783a2b960146ec795409ec895a1e512e2265d78"
       },
       {
         "bytes": 254096,
@@ -7977,13 +7945,6 @@
         "sha256": "b81f030f5810058d8a6bbe450fb29e884cdf380473e369bc4478ba48a83775b4"
       },
       {
-        "bytes": 7446,
-        "extension": ".md",
-        "lines": 143,
-        "path": "resources/README.md",
-        "sha256": "7937340421efae893c75b4a3635dfe2d9e026ae31774890192967b07587705ee"
-      },
-      {
         "bytes": 3861,
         "extension": ".md",
         "lines": 78,
@@ -8166,11 +8127,11 @@
         "sha256": "45a8ecc072139106070f482c045646beeca82c4e4309b5dc32d9f00bca778617"
       },
       {
-        "bytes": 1486,
+        "bytes": 1882,
         "extension": ".md",
-        "lines": 35,
+        "lines": 44,
         "path": "resources/wordlists/00-sources.md",
-        "sha256": "96c44c4477807f40a8fdd1b913002c3a9a87a4d299c32934a4fbb01dc835c7d0"
+        "sha256": "712637b4b80f9ec163f935abbb7de0b7322562a13d10e3f0072322bb800895a8"
       },
       {
         "bytes": 37269,
@@ -8362,9 +8323,9 @@
         "sha256": "9b71ab6c27f65726e867da212c7f0048b02df6842cba38b8a6ae9257c7704726"
       }
     ],
-    "resource_tree_sha256": "5b5adb5b4780a98e6ae76d2712b019b30912c5488a2dd8ef6260b7e8c8a0d81b",
-    "total_bytes": 8172035,
-    "total_lines": 187470
+    "resource_tree_sha256": "cb1536bc855d7144509671a816ba533f3042076084efb03b5c70a7ef19032f33",
+    "total_bytes": 8174105,
+    "total_lines": 187507
   },
   "schema_version": 1
 }

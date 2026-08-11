@@ -29,6 +29,7 @@ from OCR text or generated.
 | M-116 | P1 | Source curator | `S-003` | Current note says “HAAN grammar (in repo)” but no PDF was found | Exact lawful scan location, checksum, edition, and page count recorded | open |
 | M-117 | P1 | Provenance reviewer | Files with prior “manually verified” claims | Reviewer, date, exact pages, method, and unresolved count were not recorded | Reproducible review records linked for each claim | open |
 | M-118 | P1 | Data curator | `resources/wordlists/01`–`26` | 31 headwords do not directly match current dictionary entries | Differences source-verified and deterministic derivation reconciled | open |
+| M-105 | P0 | Source curator | Resolved 2026-08-11: downloaded public copy SHA-256 `28658fd204f9156ed02fb83654366f0c97faf9139682d4a1597a29b2a3ebdbaa`; title/colophon identify Annarita Puglielli and Cabdalla Cumar Mansuur, *Qaamuuska Af-Soomaaliga*, RomaTrE-Press, Roma, 2012 (ISBN 978-88-97524-02-1); direct entry/style comparison matched `baraarujin`, `islaamid`, and `sagal` | Source identity and sample match recorded in `sources.tsv`, manifest, and collection inventories. Separate rights and full page-mapping issues remain open. | resolved — Sharafdin-authorized maintainer review |
 
 ## Resolution rules
 

@@ -14,7 +14,9 @@ from unittest.mock import patch
 
 from resource_audit.cli import main, suppressions
 from resource_audit.collections import audit_erey_bixin
-from resource_audit.common import audit_file, audit_files, repository_bytes
+from resource_audit.common import (
+    audit_file, audit_files, has_digit_letter_defect, repository_bytes,
+)
 from resource_audit.lexical import code_is_valid
 from resource_audit.model import AuditState, Finding
 from resource_audit.provenance import audit_provenance
@@ -184,6 +186,23 @@ class ResourceAuditTests(unittest.TestCase):
             audit_files(state)
             audit_provenance(state)
             self.assertIn("PROV_GOLD_SAMPLE_SIZE", {item.rule for item in state.findings})
+
+    def test_digit_letter_exempts_documented_source_notation(self) -> None:
+        """Phase 3 calibration: source notation must not be reported as OCR noise.
+
+        The grammar sources define these codes in their own text (naxwe/15
+        prints "Lahjadda 2d (L2d)"), and dictionary chemistry entries print
+        real formulae. Genuine OCR debris must still be reported.
+        """
+        for token in ("L2a", "L2d", "Q3d", "W1d", "H2O", "CO2", "CH3CO"):
+            self.assertFalse(has_digit_letter_defect(f"waxa uu yahay {token} tusaale"),
+                             f"{token} is documented source notation, not OCR noise")
+        # "CXGL1L", "J8Aa", and "M1CQ" come from severe OCR damage in
+        # suugaan/20; they have a formula-like shape but are not real elements.
+        for token in ("I8aga", "TO8oki", "E2ty", "g2ed", "dhunk4al",
+                      "CXGL1L", "J8Aa", "M1CQ", "S0o"):
+            self.assertTrue(has_digit_letter_defect(f"waxa uu yahay {token} tusaale"),
+                            f"{token} is OCR debris and must still be reported")
 
     def test_suppression_requires_reason_and_approval(self) -> None:
         with temporary_directory() as directory:

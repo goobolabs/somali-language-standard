@@ -3,7 +3,7 @@
 **Project:** Somali Language Standard (SLS)  
 **Scope:** `resources/`  
 **Plan date:** 2026-08-09  
-**Status:** Phase 3 in progress — six source scans registered and a 20-page private calibration sample selected; transcription review and rights resolution remain
+**Status:** Phase 3 work complete, **awaiting maintainer sign-off** (2026-08-11) — 20-page gold sample transcribed, verified against page images, and compared; audit heuristics calibrated and baselined. Sign-off is not given: all transcriptions are agent-produced candidates pending Somali-language review. `qaamuus/`/`wordlists/` remain blocked pending M-105 (source identity); the restricted-scan rights question is unresolved; `erey-bixin/04` re-scoped to a full coverage audit after a whole printed page was found missing.
 **Primary outcome:** A traceable, source-faithful, human-reviewed evidence library that can safely support standards, dictionaries, corpora, translation, and AI work.
 
 ## 1. Purpose
@@ -303,20 +303,27 @@ Include pages from `naxwe/15`, `naxwe/17`, `suugaan/14`, `suugaan/18`, `qaamuus/
 
 ### Tasks
 
-- [ ] Independently transcribe the sample from page images.
-- [ ] Compare current text, raw OCR, and gold transcription.
-- [ ] Classify errors: substitution, insertion, deletion, spacing, punctuation, line order, layout, metadata, or omission.
-- [ ] Measure character error rate and word error rate where meaningful.
-- [ ] Calibrate automated rules against false positives in valid Somali and poetry.
-- [ ] Test the editorial notation and correction log.
-- [ ] Estimate review effort by document type and risk level.
-- [ ] Obtain reviewer sign-off on the workflow before scaling it.
+- [x] Independently transcribe the sample from page images. — 20/20 first-pass drafts plus a verification pass over all 19 outstanding samples (Phase 3 report §3.7). AI-assisted throughout, so **not independent**; candidates pending Somali-language review.
+- [x] Compare current text, raw OCR, and gold transcription. — Two-way only (gold vs. current); no raw-OCR layer exists. Recorded decision in Phase 3 report §3.4.
+- [x] Classify errors: substitution, insertion, deletion, spacing, punctuation, line order, layout, metadata, or omission.
+- [ ] Measure character error rate and word error rate where meaningful. — **Deferred to Phase 4** by recorded decision (§3.4): not meaningful where content is absent rather than corrupted, and no raw-OCR layer exists to compare against.
+- [x] Calibrate automated rules against false positives in valid Somali and poetry. — `OCR_DIGIT_LETTER` false positives measured and fixed in `tools/resource_audit/common.py`; baseline regenerated. The predicted poetry false positive does not exist (no repetition heuristic); recorded as a constraint on future rules.
+- [ ] Test the editorial notation and correction log. — Notation exercised throughout (`⟦illegible⟧`/`⟦reading?⟧`, source-internal errors retained); **correction log not exercised** because no correction has been applied (rights unresolved, M-105 blocks `qaamuus/`). Tested at the first real correction in Phase 4.
+- [x] Estimate review effort by document type and risk level. — Phase 3 report §3.5.
+- [ ] Obtain reviewer sign-off on the workflow before scaling it. — **Outstanding.** Phase 3 report §3.6 records the work performed and what the maintainer's review must cover; sign-off is not given.
 
 ### Exit criteria
 
-- Reviewers apply the policy consistently.
-- High-impact defects are detected without unacceptable false positives.
-- The correction log can reconstruct what changed and why.
+- Reviewers apply the policy consistently. — **Not met.** The verification pass found the first-pass process had silently normalised a printed source typo (`garigal` → `guriga`) and separately over-flagged legible text; see report §3.7.
+- High-impact defects are detected without unacceptable false positives. — **Met**; five classes of real defect caught, audit false-positive rate measured and reduced in code.
+- The correction log can reconstruct what changed and why. — **Not exercised**; deferred to the first real correction in Phase 4.
+
+**Phase 3 status: work complete, awaiting maintainer sign-off (2026-08-11).**
+Binding conditions carried into Phase 4 are listed in the Phase 3 report §3.6.
+Most important: `qaamuus/`/`wordlists/` blocked pending M-105; no
+restricted-scan-derived text committed until rights are resolved; every
+AI-assisted transcription page-checked by a human before commit; and
+`erey-bixin/04` re-scoped to a full coverage audit.
 
 ## Phase 4 — High-Risk OCR Remediation
 

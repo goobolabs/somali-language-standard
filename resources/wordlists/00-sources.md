@@ -25,11 +25,21 @@ a standalone lexical authority separate from `qaamuus/`.
 
 ## Phase 1 provenance status (2026-08-09)
 
-- `01-b.md`–`26-u.md` are derived relationships to `SRC-QAA-001`; they are not
-  an independent source work.
+- `01-b.md`–`26-u.md` are derived relationships; they are not an independent
+  source work.
 - They remain `blocked` until the exact dictionary scan is registered, the
   dictionary transcription is authenticated, and the derivation is reproduced.
 - File-level hashes and relationships are recorded in
   [`data/provenance/resource-manifest.tsv`](../../data/provenance/resource-manifest.tsv).
 - The 31 unmatched heads remain tracked as M-118 in
   [`METADATA_ISSUES.md`](../../docs/resource-cleanup/METADATA_ISSUES.md).
+
+## Phase 3 source-identity review (2026-08-11)
+
+- `SRC-QAA-001` (Yaasiin C. Keenadiid's 1976 dictionary) remains unlinked;
+  it is a different book. The actual source is now verified as `SRC-QAA-002`:
+  Puglielli & Mansuur, *Qaamuuska Af-Soomaaliga* (RomaTrE-Press, 2012).
+  See `qaamuus/00-sources.md` for the direct page/style comparison and hash.
+- This derived collection remains **blocked** for regeneration or source-based
+  edits until the source's rights and the dictionary's full page mapping are
+  resolved.

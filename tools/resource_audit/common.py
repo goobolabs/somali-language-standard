@@ -12,6 +12,60 @@ MOJIBAKE = ("Ã", "Â", "â€", "ðŸ", "�")
 ZERO_WIDTH = ("\u200b", "\u200c", "\u200d", "\u2060", "\ufeff")
 MD_LINK_RE = re.compile(r"\[[^\]]*\]\(([^)]+)\)")
 
+DIGIT_LETTER_RE = re.compile(r"\b[A-Za-z]{1,3}\d[A-Za-z]+\b|\b[A-Za-z]+\d[A-Za-z]{1,3}\b")
+
+# Tokens that legitimately mix letters and digits in these sources. Measured
+# during the Phase 3 gold-sample calibration: without these exemptions, 21 of
+# 22 OCR_DIGIT_LETTER hits in naxwe/15 and all of them in qaamuus/01-b and
+# qaamuus/22-a were false positives. Both families are evidence-backed:
+#
+# 1. Section/paradigm notation of the form <initial><ordinal><letter>, which
+#    the sources define in their own text - naxwe/15 prints "Lahjadda 2d (L2d)"
+#    and uses Q1d/Q2d/Q3d for Qofka 1aad/2aad/3aad (1st/2nd/3rd person);
+#    morphology/01 labels paradigm table rows L2a/L2b/L2c/L2d.
+# 2. Chemical formulae (H2O, CO2, CH3CO) in dictionary (kiim.) entries and the
+#    chemistry glossary.
+#
+# Both stay deliberately tight. The formula check validates every symbol
+# against real element names rather than accepting any capital-letter shape,
+# because severe OCR debris in suugaan/20 ("CXGL1L", "J8Aa", "M1CQ") matches
+# the looser shape and must still be reported.
+# Ordinals start at 1 and labels observed in the sources run a-d. Keeping the
+# digit and letter ranges tight matters: the looser "\d+[a-z]" shape also
+# matches OCR debris such as "S0o" in suugaan/20.
+SECTION_NOTATION_RE = re.compile(r"^[A-Z][1-9][a-d]$")
+FORMULA_PART_RE = re.compile(r"([A-Z][a-z]?)(\d*)")
+ELEMENT_SYMBOLS = frozenset("""
+H He Li Be B C N O F Ne Na Mg Al Si P S Cl Ar K Ca Sc Ti V Cr Mn Fe Co Ni Cu
+Zn Ga Ge As Se Br Kr Rb Sr Y Zr Nb Mo Tc Ru Rh Pd Ag Cd In Sn Sb Te I Xe Cs
+Ba La Ce Pr Nd Pm Sm Eu Gd Tb Dy Ho Er Tm Yb Lu Hf Ta W Re Os Ir Pt Au Hg Tl
+Pb Bi Po At Rn Fr Ra Ac Th Pa U Np Pu Am Cm Bk Cf Es Fm Md No Lr
+""".split())
+
+
+def is_chemical_formula(token: str) -> bool:
+    """True when every part of the token is a real element symbol with a count."""
+    position = 0
+    symbols = 0
+    while position < len(token):
+        match = FORMULA_PART_RE.match(token, position)
+        if not match or match.group(1) not in ELEMENT_SYMBOLS:
+            return False
+        position = match.end()
+        symbols += 1
+    return symbols > 0
+
+
+def is_source_notation(token: str) -> bool:
+    """True when a letter+digit token is documented source notation, not OCR noise."""
+    return bool(SECTION_NOTATION_RE.match(token)) or is_chemical_formula(token)
+
+
+def has_digit_letter_defect(line: str) -> bool:
+    """True when a line has a letter+digit token that is not source notation."""
+    return any(not is_source_notation(match.group(0))
+               for match in DIGIT_LETTER_RE.finditer(line))
+
 
 def audit_files(state: AuditState) -> None:
     if not state.resources.is_dir():
@@ -193,8 +247,6 @@ def audit_ocr(state: AuditState, path: str, text: str) -> None:
     patterns = (
         (r"[|_=~]{5,}", "OCR_GARBAGE_RUN", "Long OCR-prone symbol run"),
         (r"([!?.,;:])\1{3,}", "OCR_REPEATED_PUNCT", "Repeated punctuation"),
-        (r"\b[A-Za-z]{1,3}\d[A-Za-z]+\b|\b[A-Za-z]+\d[A-Za-z]{1,3}\b",
-         "OCR_DIGIT_LETTER", "Digit embedded in alphabetic token"),
         (r"\S {5,}\S", "OCR_SPACING_RUN", "Large internal spacing/layout candidate"),
         (r"(?i)\b(?:scant|[fghr]ocr(?:tii)?|docrr\w*)\b",
          "OCR_SOMALI_CONFUSION", "Known OCR-like Somali token pattern"),
@@ -205,6 +257,9 @@ def audit_ocr(state: AuditState, path: str, text: str) -> None:
         for pattern, rule, message in patterns:
             if re.search(pattern, line):
                 matches.setdefault(rule, []).append((number, line, message))
+        if has_digit_letter_defect(line):
+            matches.setdefault("OCR_DIGIT_LETTER", []).append(
+                (number, line, "Digit embedded in alphabetic token"))
         if re.search(r"\w-\s*$", line) and not stripped.startswith(("- ", "|")):
             matches.setdefault("OCR_LINE_END_HYPHEN", []).append(
                 (number, line, "Word ends in hyphen at line boundary"))

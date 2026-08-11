@@ -51,6 +51,27 @@ the reviewer records uncertainty or blocks authentication.
 One person may hold several roles for a low-risk file, but the independence
 requirements below still apply.
 
+### Current staffing reality (recorded 2026-08-11)
+
+The project currently has **one qualified reviewer, Sharafdin**, who is also
+the maintainer and the Somali-language reviewer. No second qualified reviewer
+exists yet. This is recorded openly rather than worked around:
+
+- Phase 3 (pilot calibration on a private sample that changes no published
+  file) proceeded under single-reviewer conditions, with the limitation stated
+  in its sign-off.
+- The independence requirement in §3 is **not** waived for authentication.
+  No high-risk file may reach `authenticated` on one person's approval.
+- Before Phase 7, the project must either recruit a second qualified Somali
+  reviewer, or adopt and document a time-separated self-review protocol
+  (re-review after a recorded interval, against the page image, without
+  consulting the earlier decision) and state plainly that it is weaker than
+  independent review.
+
+Any AI assistance is a transcription/triage aid producing candidates only. It
+is never a reviewer, never satisfies an independence requirement, and its
+output carries no approval weight — see §9.
+
 ## 3. Who may mark a file `authenticated`
 
 Only a project maintainer may set `authenticated`, and only after the following
