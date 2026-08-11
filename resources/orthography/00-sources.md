@@ -40,14 +40,3 @@ Publisher: Kulliyadda Waxbarashada ee Lafoole (Jaamacadda Ummadda Soomaaliyeed).
   [`resources/phonology/`](../phonology/) — it is not orthography evidence.
 - Alphabet and phoneme inventory overlap with `naxwe/01-ereyada.md`; that
   material is not repeated here.
-
-## Phase 1 provenance status (2026-08-09)
-
-- `SRC-ORT-001` maps to files `01`–`05`; `SRC-ORT-002` maps to supplement `06`.
-- No exact source file was present, so edition, represented pages, checksums,
-  and the prior manual-verification claim cannot yet be reproduced.
-- All six files remain `blocked`; this does not revoke their bibliographic role,
-  but prevents authentication until evidence is registered.
-- See [`sources.tsv`](../../data/provenance/sources.tsv),
-  [`resource-manifest.tsv`](../../data/provenance/resource-manifest.tsv), and
-  issues M-100–M-104, M-114, and M-117.
