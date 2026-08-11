@@ -187,6 +187,11 @@ Run Step 1 across all files in `resources/` before broad cleanup. This creates
 a complete queue and prevents attention from being driven only by the files
 that happen to look worst at first glance.
 
+The live file-by-file queue and its approval stages are in
+[`RESOURCE_CLEANUP_TRACKER.md`](RESOURCE_CLEANUP_TRACKER.md). Update that
+tracker as the authoritative progress record before beginning or completing a
+stage.
+
 Audit order:
 
 1. `resources/naxwe/` high-risk supplementary grammars (`13`–`17`);
