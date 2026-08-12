@@ -5,7 +5,7 @@ gudihiisa gaar ahaan ka qabta hawsha isku xiridda. Kooxdan naxweed
 waxay ka kooban tahay laba qaybood: **horyaalayaal** (prepositions)
 iyo **xiriiriyeyaal** (conjunctions).
 
-Ereyo yaryar sida *ka, ku, iyo, na* qaabkoodu isma beddelo, laakiin
+Ereyo yaryar sida *ka, ku, iyo, -na* qaabkoodu isma beddelo, laakiin
 aad bay u muhiimsan yihiin: waxay isku xiraan ereyo ama kooxo ereyo
 kale, sida masaamiirta iyo faseexadaha ay gabalada alwaaxda isu
 haystaan si ay albaab uga dhigmaan. La'aantooda ereyada waa laysu
@@ -14,22 +14,25 @@ wuu mugdi geli lahaa.
 
 ## 6.1 Horyaalayaasha
 
-Falku waa curiyaha ugu muhiimsan weerta: wuxuu si toos ah u hayaa
-magaca yeelaha ah, isagoon u baahnayn horyaale:
+Falanqaynta cutubkan, falku waa curiyaha udub-dhexaadka ah ee weerta.
+Magaca yeelaha ahi horyaale uma baahna:
+
+Lambarada tusaalooyinka horyaalayaashu waxay raacayaan xulashada isha;
+meelaha ay lambaradu ka boodaan laguma buuxin tusaalooyin la qiyaasay.
 
 1) *Cali ayaa cunay.*
 2) *Mire baa fariistay.*
 
-Haddii aan doonayno inaan weer ku darno magac kale (ama oraah
-magaceed) oo aan ahayn yeele, falku wuxuu u baahdaa gan uu ku
-qabsado magacan dambe — taasi waa **horyaale**:
+Xiriirka falka iyo magacyada kale wuxuu ku xiran yahay hawsha falka.
+Layeele toosan wuxuu falka ugu xirnaan karaa horyaale la'aan; magacyo
+kale se falka ayay horyaale ugu xirmaan:
 
 3) *Mire baa ku fariistay kursiga.*
 4) *Salaad baa u orday guriga.*
 
-Haddii horyaalayaasha (*ku*, *u*) laga saaro, magacyada la daray
-(*kursiga*, *guriga*) lama haystaan weerta, waana la oggolaan
-karin: \**Mire baa fariistay kursiga.*
+Marka falalkan laga saaro horyaalayaasha *ku* iyo *u*, xiriirka
+*kursiga* ama *guriga* iyo falka loogu talagalay ma dhammaystirmo.
+Sidaas darteed lama oggola: \**Mire baa fariistay kursiga.*
 
 Iyadoo lagu salaynayo xiriirka ay falku la leeyahay magacyada aan
 yeelaha ahayn, falalka waxaa loo qaybin karaa saddex kooxood:
@@ -41,18 +44,20 @@ b) koox horyaale la'aan la qabsan karta hal magac aan yeele ahayn
 c) koox yar oo horyaale la'aan la qabsan karta laba magac aan yeele
    ahayn (*sii*, *gee*)
 
-Adeegsiga badan ee horyaalayaashan wuxuu saameyn muhiim ah ku
-leeyahay micnahooda: sida alaabta la isticmaalo ay u duugoobaan, iyaguna
-waxay lumiyeen micnahoodii asalka ahaa, waxayna yeesheen mid laga
-garan karo hadba hadalka ay ku dhex jiraan. Afar horyaale oo aasaasi
-ah:
+Kala-soocidda falalka gudbe iyo magudbe waxa lagu faahfaahiyey
+[`07-sarfaha-falalka.md`](07-sarfaha-falalka.md#731-shaqada-fal-gudbaha-iyo-fal-magudbaha),
+halka mawduucyada horyaale-raacsan lagu sharxay
+[`09-weer-fudud.md`](09-weer-fudud.md#912-mawduucyada-weerta-fudud).
+
+Horyaalayaashan aad baa loo adeegsadaa, hawshoodana waxaa lagu gartaa
+hadba dhismaha iyo macnaha ay ku dhex jiraan. Cutubkani wuxuu ururinayaa
+afar horyaale oo aasaasi ah:
 
 ### u
 
 13) *Hore u seexo.* — jiho
 14) *Lacagta nimankaas u qaad.* — qof kale loo samaynayo
-15) *Hooyadiis buu aad u jecel yahay.* — habka/sida hawlku u
-    fulinayo
+15) *Hooyadiis buu aad u jecel yahay.* — heer ama xoojin
 
 ### ku
 
@@ -72,18 +77,24 @@ ah:
 
 23) *Asli walaalkeed bay la socotaa.* — la-jirid
 24) *Cali buug buu la yimid.* — wax la wato
-25) *Muriiddi maqnaanshahaaga ayuu la walwalsanaa.* — wax la haysto
+25) *Muriiddi maqnaanshahaaga ayuu la walwalsanaa.* — qaab ilduceed
+    aan kaydku si madax-bannaan u xaqiijin
+
+Tusaalaha 25 sidii ishu u qortay ayaa loo hayaa. Qaabka *Muriiddi* iyo
+xiriirka *la walwalsanaa* kaydku si madax-bannaan uma xaqiijinayo;
+sidaas darteed looma qiyaasin *Muriidkii*, *Muriidku*, ama horyaale
+kale.
 
 Waxaa jira horyaalayaal fudud (*ka, ku, u, la*) iyo kuwa isku dhafma
 dhexdooda ama isku lammaaniya curiyeyaal kale.
 
 ### 6.1.1 Horyaalayaal iskudhafan
 
-Marka weer ka laga wada helo laba horyaale, waxay isugu yimaadaan
+Marka weerka laga wada helo laba horyaale, waxay isugu yimaadaan
 falka hortiisa, wayna isku dhafmaan, halkaasoo ka dhasha isbeddel
 codeed:
 
-| Isku-darka | Nuqul |
+| Isku-darka | Qaabka ka dhasha (nuqul) |
 | --- | --- |
 | u + u | uu |
 | u + ku | ugu |
@@ -98,9 +109,9 @@ codeed:
 26) *Xaggee baad kala timid buugan?*
 27) *Wiilkii baan ceelka xarig uga soo saaray.*
 
-**Horyaalayaal lagu daray magacuyaalka layeele ah:** magacuyaalka
-layeelaha ah (*i, ku, na, idin*) sidoo kale waxay ku sugnaadaan falka
-hortiisa, waxayna isku dhafaan horyaalayaasha:
+**Horyaalayaal lagu daray magacuyaalka layeele ah:** qaababka
+magacuyaalka layeelaha ah (*i, ku, na, idin*) waxay ku sugnaadaan
+falka hortiisa, waxayna la midoobaan horyaalayaasha:
 
 | i + | ku + | na + | idin + |
 | --- | --- | --- | --- |
@@ -113,13 +124,17 @@ hortiisa, waxayna isku dhafaan horyaalayaasha:
 29) *Cali baabuurkiisii buu nagu qaaday.*
 30) *Awoowe buug buu kuu dhiibay.*
 
-Sidoo kale waxay isku dhafaan magacuyaalka qoflaawaha (*la*) iyo
-kan celiska (*is*):
+Qaababka magacuyaalka iyo isku darkooda waxa lagu faahfaahiyey
+[`04-sarfaha-magacuyaallada.md`](04-sarfaha-magacuyaallada.md) iyo
+[`09-weer-fudud.md`](09-weer-fudud.md#93-magacuyaallo-dhimman).
+
+Horyaalayaashu waxay sidoo kale la midoobaan **magacuyaalka
+qoflaawe** (*la*) iyo **magacuyaalka celis** (*is*):
 
 | la + | is + |
 | --- | --- |
 | la+u = loo | is+u = isu |
-| la+ku = lagu | is+ku = iska |
+| la+ku = lagu | is+ku = isku |
 | la+ka = laga | is+ka = iska |
 | la+la = lala | is+la = isla |
 
@@ -128,8 +143,9 @@ kan celiska (*is*):
 33) *Iska jir!*
 34) *Isu gee!*
 
-**Labo horyaale + magacuyaal layeele:** waxaa isugu iman kara labo
-horyaale iyo hal magacuyaal layeele:
+**Labo horyaale + magacuyaal layeele:** shaxdan ilduceedku waxay
+ururinaysaa qaababka ka dhasha labo horyaale iyo hal magacuyaal
+layeele:
 
 | | ugu | uga | ula | kaga | kula | kala |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -151,9 +167,9 @@ Labo horyaale waxay isku dhafi karaan xitaa magacuyaalka qoflaawaha
 
 ## 6.2 Xiriiriyeyaal
 
-Xiriiriyeyaashu waxay isku xiraan laba erey ama laba weerood oo
-ahmiyaddoodu isku mid tahay, mid kastana ka madaxbannaan yahay
-midka kale:
+Xiriiriyeyaashu waxay isku xiri karaan erayo, oraahyo ama weero.
+Labadan tusaale waxay muujinayaan isku-xiridda curiyeyaal isku heer ah;
+qaybaha dambe waxay kaloo muujinayaan xiriirro kale:
 
 1) *Cali dugsiga ayuu aaday.* + *Barre dugsiga ayuu aaday.* → *Cali
    iyo Barre dugsiga ayay aadeen.*
@@ -173,7 +189,7 @@ Waxay isku xirtaa magacyo, magacuyaallo, iyo tirooyin:
 
 Waxay isku xirtaa laba hawraar, siiba marka ay kala leeyihiin yeele
 ama fal kala duwan. Keligiis ma taagnaan karo — hawraarta labaad
-ereygeeda koowaad ayuu isku daraa:
+ereygeeda koowaad ayuu ku darsamaa:
 
 7) *Axmed caano ayuu cabbay, Daahirna shaah.*
 8) *Anigu waan hadlay, adiguna hadal.*
@@ -181,22 +197,28 @@ ereygeeda koowaad ayuu isku daraa:
 
 ### c) oo
 
-Xiriiriyahan hawshiisu ka duwan tahay kuwa kale, waxayna leedahay
-qiimo iyo macnayaal kala duwan iyadoo ku xiran halka loo adeegsado:
+Xiriiriyaha *oo* wuxuu leeyahay hawlo iyo macnayaal kala duwan oo ku
+xiran dhismaha uu ku jiro:
 
-i) **Isku-xirid laba weer tebineed oo ebyoon:**
+i) **Isku-xirid laba fal oo tebineed:**
 
 10) *Cali wuu cunay oo wuu cabbay.*
+
+ii) **Isku-xirid laba sifo oo khabarka wada faahfaahiya:**
+
 11) *Saciid waa wiil dheer oo cad.*
 
-ii) **Isku-xirid laba weer amar:**
+iii) **Isku-xirid laba fal amar:**
 
 12) *Geedka fuul oo laan ka soo goo!*
 13) *Soo orod oo ii kaalay!*
 
-iii) **Isku-xirid laba fal oo isku mar la qabtay:**
+iv) **Dhisme ku-tiirsan oo laba dhacdo isku mar ah:**
 
 14) *Anigoo soo socda baa Cali ii yeeray.*
+
+Weeraha faahfaahineed ee *oo* waxa lagu faahfaahiyey
+[`11-weerta-adag.md`](11-weerta-adag.md#114-weer-faahfaahineed-oo-dheeraad-ah).
 
 ### d) ee
 
@@ -212,17 +234,20 @@ ii) Waxaa loo adeegsadaa isku xiridda weer diidmo iyo weer caddayn:
 
 17) *Cidna ma arkin ee wuu seexday.*
 
-iii) Waxay u shaqaysaa sida *-na*, si ay isugu xirto laba weer oo
-    tilmaamaya hawlo iska soo horjeeda:
+iii) Waxay u shaqayn kartaa sida *-na*, iyadoo isku xiraysa laba weer
+     oo tilmaamaya hawlo kala duwan ama isbarbardhig leh:
 
 18) *Xaawo baa hilibka cuntay ee Cali caano buu cabbay.*
 
 iv) Waxaa loo adeegsan karaa oo kale **oraah magaceed** (OM)
     gudihiisa: *[Dukaanka kabaha ee Cali]ₒₘ baa fiican.*
 
+Hawsha *ee* ee oraah magaceedka waxa lagu falanqeeyey
+[`10-dhismaha-oraah-magaceedyada.md`](10-dhismaha-oraah-magaceedyada.md).
+
 ### e) -se
 
-Waa xiriiriye lid ah oo isku daraa weerta dambe ereygeeda koowaad,
+Waa xiriiriye lid ah oo ku darsama weerta dambe ereygeeda koowaad,
 sida *-na*:
 
 19) *Cali wuu seexday, Xasanse wuu shaqaynayaa.*
@@ -230,8 +255,9 @@ sida *-na*:
 
 ### f) ama / mise
 
-Labaduba waxay isku xiraan laba erey ama laba weerood oo kala duwan:
-**ama** waxaa loo adeegsadaa weer aan weyddiin ahayn, **mise** weer
+Labaduba waxay isku xiraan laba erey ama laba weerood oo kala duwan.
+Qaabka caadiga ah ee tusaalooyinkani muujinayaan, **ama** waxaa loo
+adeegsadaa kala-doorasho aan weyddiin ahayn, **mise**-na kala-doorasho
 weyddiimeed:
 
 21) *Cali wuxuu joogaa guriga ama dugsiga.*
@@ -241,7 +267,8 @@ weyddiimeed:
 
 ### g) laakiin / haseyeeshee
 
-Sida *ee*, waxay leeyihiin macno iska soo horjeeda:
+**Laakiin** iyo **haseyeeshee** waa xiriiriyeyaal muujinaya
+iska-hor-keenid ama kala-duwanaansho:
 
 25) *Cali sow wuu yimid laakiin kuma arkin.*
 26) *Waan garaacay albaabka laakiin cidna iima jawaabin.*

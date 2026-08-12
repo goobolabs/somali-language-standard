@@ -4,7 +4,7 @@ Shaxda tixraaca ee **caynta** (lab/dheddig), **tirada** (keli/wadar), iyo
 **qaababka wadareed**. Faahfaahinta barashada waxay ku taal
 [`naxwe/02-sarfaha-magacyada.md`](../naxwe/02-sarfaha-magacyada.md).
 
-**Ilaha:** *Barashada Naxwaha Af Soomaaliga* (Puglielli & Mansuur, 1998) —
+**Ilaha:** *Barashada Naxwaha Af Soomaaliga* (Puglielli & Mansuur, 1999) —
 S-003, cutub 2.
 
 ## Caynta iyo waafaqidda

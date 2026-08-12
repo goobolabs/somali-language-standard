@@ -1,8 +1,13 @@
 # 10. Dhismaha oraah magaceedyada (OM)
 
-Ka hor inta aan lagu daran weeraha adag, waa lagama maarmaan in
-la sii sahamiyo dhismaha gudaha ee **oraah magaceedka** (OM) — waa
-xubnaha mawduuca ah ee weerta.
+Ka hor inta aan lagu darin weeraha adag, waa lagama maarmaan in la sii
+sahamiyo dhismaha gudaha ee **oraah magaceedka** (OM). OM waa oraah
+magac madax u yahay; waxay weerta ka qaban kartaa hawlo ay ka mid yihiin
+mawduuc (argument) ama khabar magaceed. Hawlaheeda weerta fudud waxa lagu
+sharaxay [`09-weer-fudud.md`](09-weer-fudud.md).
+
+Lambarada tusaalooyinku waxay raacayaan taxanaha isha; meelaha ay
+lambaradu ka boodaan laguma buuxin tusaalooyin la qiyaasay.
 
 ## OM leh hal magac + tifaftireyaal
 
@@ -14,24 +19,27 @@ xubnaha mawduuca ah ee weerta.
 
 Waxaa suurtagal ah in OM hal magac lagu daro hal ama in ka badan
 oo tifaftireyaal ah, iyagoo si go'an isugu xiga (rugta lahaanshaha,
-tan tilmaanta, tan qodobka — sida ku cad cutubka 3).
+tan tilmaanta, tan qodobka — sida ku cad
+[`03-sarfaha-tifaftireyaasha.md`](03-sarfaha-tifaftireyaasha.md)).
 
-## OM leh laba magac: madax iyo faahfaahiye
+## OM leh madax iyo faahfaahiye
 
 6) *Kani waa buuggii Maryan.*
 7) *Way ka shaqaysaa Jaamacadda Soomaaliyeed.*
 
-Halkan waxaa isku jira hal magac iyo magac kale oo kordhinaya
-faahfaahin/war dheeraad ah: *Maryan* iyo *Soomaaliyeed*. Haddii
-lagu daray magacyadan la xadfo, weertu wali waa sax naxwe ahaan:
-*Kani waa buuggii*; *Way ka shaqaysaa Jaamacadda*. Laakiin haddii
-magaca **kale** (madaxa) laga saaro, weertu waa qalad ama waa mid
-leh macno kale: \**Kani waa Maryan*.
+Labada OM waxay leeyihiin madax iyo faahfaahiye, laakiin
+faahfaahiyeyaashu isku dir ma aha: *Maryan* waa magac gaar ah oo muujinaya
+lahaansho, halka *Soomaaliyeed* yahay faahfaahiye xiriireed. Haddii
+faahfaahiyeyaashan la xadfo, weertu wali waa sax naxwe ahaan: *Kani waa
+buuggii*; *Way ka shaqaysaa Jaamacadda*. Haddii madaxa laga saaro,
+akhriskii OM-ka asalka ahaa wuu lumayaa. *Kani waa Maryan* waa weer sax
+ah oo khabar magaceed leh, laakiin macnihiisu ma aha “kani waa buuggii
+Maryan.”
 
-Gunaanad: haddii magac lagu cayimo magac kale, waxaa soo baxa
-laba qayb: **madax** (M ka koobnaan kara si aan la xadfin karin —
-qayb aasaasi ah) iyo **faahfaahiye** (la xadfi karo, shaqadiisu
-tahay faahfaahinta madaxa).
+Gunaanad: marka magac ay la socoto faahfaahin, OM-ku wuxuu leeyahay laba
+qaybood: **madax** (qaybta aasaasiga ah ee aan la xadfi karin iyadoo la
+haynayo isla OM-ka) iyo **faahfaahiye** (qayb la xadfi karo oo madaxa
+faahfaahinaysa). Ereyadan waxa qeexaya [`ereyfur.md`](ereyfur.md).
 
 ```
         OM
@@ -43,17 +51,17 @@ tahay faahfaahinta madaxa).
 ## Dhisme kale: madax + faahfaahiye lagu lammaaniyay lahaansho
 
 Marka madaxa iyo faahfaahiyuhu ay leeyihiin xiriir lahaansho,
-waxaa suurtagal ah in la waydaariyo — faahfaahiyaha la hormariyo,
+waxaa suurtagal ah in la weydaariyo — faahfaahiyaha la hormariyo,
 madaxa lagu xijiyo isagoo lagu lifaaqay lahaansho:
 
 12) *Waxaan arkay Axmed gurigiisa.*
 13) *Waxaan cunay Cali timirtiisa.*
 
-Labada magac waxay u dhaqmaan sida hal xubin oo OM qura: haddii
-lagu diiradeeyo (baa/ayaa), waxay labaduba u dhaqmaan sida hal
-curiye: *Axmed gurigiisa baan arkay.* Haddii *baa* laga dhex geliyo
-(*Axmed baan gurigiisa arkay*), weertu waa qalad — waana caddayn
-kale in labada magac ay hal OM sameeyaan.
+Labada magac waxay u dhaqmaan sida hal xubin oo OM qura: haddii lagu
+diiradeeyo (baa/ayaa), waxay labaduba u dhaqmaan sida hal curiye: *Axmed
+gurigiisa baan arkay.* Haddii *baa* laga dhex geliyo — *Axmed baan
+gurigiisa arkay* — lama hayo akhriskii hal-OM-ee lahaanshaha; taxanuhu
+wuxuu yeelan karaa akhris kale oo *Axmed* iyo *gurigiisa* laba OM yihiin.
 
 Daliil kale: haddii mid ka mid ah la adeegsado sida khabar
 keligiis, weertu waa sax naxwe ahaan haddii madaxa iyo
@@ -63,33 +71,43 @@ qalad haddii la kala qaybiyo:
 17) *Tani waa Jaamacadda Soomaaliyeed.* (sax)
 18) \**Tani Jaamacadda waa Soomaaliyeed.* (qalad)
 
-Faahfaahiyaha lagu suntay dibkabaha lahaanshaha (**-aad, -eed,
--ood**) ma noqon karo madaxa OM-ka — wuxuu noqon karaa oo
-keliya faahfaahiye: *Jaamacadda Soomaaliyeed*, *goob fardood*,
-*sonkor qasabeed*.
+Adeegsiga xiriireed ee qaababka leh **-aad, -eed, -ood**, curiyuhu ma aha
+madaxa OM-ka ee waa faahfaahiye: *Jaamacadda Soomaaliyeed*, *goob
+fardood*, *sonkor qasabeed*. Sheegashadani waxay ku kooban tahay
+adeegsiga xiriireed ee tusaalooyinkan, mana daboolayso hawl kasta oo
+dibkabayaashu meelo kale ku yeeshaan.
 
-## OM leh saddex magac (madax + laba faahfaahiye)
+## OM leh saddex curiye (madax + laba faahfaahiye)
 
 Dhismaha gudaha OM-ku wuxuu noqon karaa mid ka sii adag:
-faahfaahiyuhu isna wuxuu noqon karaa OM ka kooban hal madax
-iyo hal faahfaahiye, ama weer dhan. Tani waa arrin saldhig u ah
-afafka dunida oo idil: curiyeyaal ayaa ka hawlgeli kara curiye kale
-gudihiisa, oo la heer ah ama ka heer hooseeya — taasoo suurtagal ka
-dhigta ballaarin fikrad ahaan aan dhammaanayn.
+faahfaahiyuhu isna wuxuu noqon karaa OM ka kooban hal madax iyo hal
+faahfaahiye, ama weer dhan. Falanqaynta cutubkani waxay taas ku
+muujinaysaa curiye ka dhex shaqaynaya curiye kale oo heer hooseeya,
+taasoo OM-ka u oggolaanaysa inuu sii ballaadho.
 
 24) *Abaalgudbixintu way toosan tahay.* — M + M-qodob
 25) *Miiska koorkiisu wuu kharribanyahay.* — M-qodob + M-lahaansho-qodob
-26) *Agal naageed waa weyn yahay.* — M + M-eed
+26) *Aqal naageed waa weyn yahay.* — M + M-eed
 
-Tusaale saddex magac oo isku xiga:
+Tusaalooyinka 24-26 waa dhismayaasha laba-curiye ah ee gogoldhigga u ah
+kuwo saddex-curiye ah. *Abaalgudbixintu* waa iskudhafka isha;
+kala-qaybin kale laguma qiyaasin. *Kharribanyahay* isna waa qaabka isha;
+kaydku si madax-bannaan uma kala saarayo in la isku hayo ama loo kala qoro
+*kharriban yahay*, sidaas darteed lama beddelin.
+
+Tusaalooyin saddex curiye oo isku xiga:
 
 27) *Khudbaddii xoghayaha guud*
 28) *Dhismaha ururka shaqaalaha*
 29) *Madaxweynaha Jamhuuriyadda Soomaaliyeed*
 
-Marka saddex magac (M1, M2, M3) isu xigaan sidan, xiriirku waa:
+Marka saddex curiye (M1, M2, M3) isu xigaan sidan, xiriirku waa:
 **M2 wuxuu faahfaahiyaa M1, M3-na wuxuu faahfaahiyaa M2** —
 oo ah faahfaahin ku dhex jirta faahfaahin:
+
+Summadda M halkan waa gaabinta ishu u adeegsatay rugaha shaxda; rugta
+M3 waxa geli kara faahfaahiye xiriireed ama sifeed sida *guud* iyo
+*Soomaaliyeed*, mana aha in saddexda curiye dhammaantood magacyo yihiin.
 
 ```
               OM
@@ -107,11 +125,13 @@ khudbaddii   xoghayaha   guud
 35) \**Dugsiga dhexe macallin Jaamac*
 36) \**Xarunta dhexe jaamacadda*
 
-Waxaa la moodaa in tusaalooyinkani la mid yihiin (27–29), laakiin
-maahan. Weerta (34), *Cali* faahfaahiyaha kuma jiro *dharka* ee waa
-faahfaahiye kale oo toos ah ka jira *dukaanka* — labada magac (M2
-*dharka* iyo M3 *Cali*) **labaduba** waa faahfaahiye toos ah oo
-*M1* (*dukaanka*):
+Calaamadaha qaladku waxay khuseeyaan akhriska loogu talagalay ee labada
+faahfaahiye ay si toos ah u wada raacaan hal madax. Tusaalaha 34,
+*Cali* looguma talagelin inuu faahfaahiyo *dharka*, ee waa faahfaahiye
+kale oo toos ah oo la jira *dukaanka*: M2 (*dharka*) iyo M3 (*Cali*)
+labaduba waxay si toos ah u faahfaahinayaan M1 (*dukaanka*). Taxanaha
+aan xiriiriyaha lahayn wuxuu yeelan karaa akhris kale oo M3 uu
+faahfaahiyo M2; calaamadda qaladku ma diidayso akhris kasta oo suuragal ah.
 
 ```
    M1              M2      M3
@@ -127,12 +147,15 @@ lahayn — waxaa loo baahan yahay **xiriiriyaha *ee***:
 39) *Xarunta dhexe ee Jaamacadda.*
 40) *Dugsiga dhexe ee macallin Jaamac.*
 
-Xiriiriyuhu *ee* wuxuu labada faahfaahiye isku heer ka dhigayaa:
+Hawshan *ee* waxa kale oo lagu muujiyey
+[`06-sarfaha-iskuxireyaasha.md`](06-sarfaha-iskuxireyaasha.md#d-ee).
+Shaxda hoose, *dukaanka dharka* ayaa marka hore samaynaya OM gudaha ah;
+*ee Cali* ayaa dabadeed faahfaahiye ahaan ugu xirmaya OM-kaas oo dhan:
 
 ```
               OM
              /  \
-   OM (madax)   M (faahfaahiye)
+   OM (madax)   ee + M (faahfaahiye)
     /   \
 Madax  Faahfaahiye
 
@@ -147,5 +170,6 @@ Faahfaahiyuhu wuxuu kaloo noqon karaa weer dhan:
 43) *Cali gabadha uu Xasan guursaday ayuu la shaqeeyaa.*
 44) *Intii ay cashaynaysay ayaa saaxiibkay soo galay.*
 
-Dhismahan (OM leh weer-faahfaahiye) waxaa faahfaahsan loo
-falanqayn doonaa marka la gaaro weeraha adag.
+Dhismahan (OM leh weer-faahfaahiye) iyo kaalinta magaca madaxa waxa si
+faahfaahsan loogu falanqeeyey
+[`11-weerta-adag.md`](11-weerta-adag.md#112-weer-faahfaahineed).

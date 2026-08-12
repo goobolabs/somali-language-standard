@@ -1,11 +1,15 @@
 # 12. Noocyada weeraha
 
-Weer kastaa waxay ka samaysan tahay isla nuxur ereyeed, laakiin
-hadluhu wuxuu isticmaali karaa hal nuxur si uu u gaaro ujeeddooyin
-kala geddisan: inuu wargeliyo (weer tebineed), inuu ka helo akhbaar
-(weer weyddiimeed), ama inuu amro (weer amareed). Kala
-duwanaanshaha ujeeddooyinka waxaa muujiya dabeecadda
-dhismeed ee weer walba.
+Hal nuxur ereyeed ayaa hadluhu u adeegsan karaa ujeeddooyin kala
+geddisan: inuu wargeliyo (**weer tebineed**), inuu ka helo akhbaar
+(**weer weyddiimeed**), ama inuu amro (**weer amareed**). Kala
+duwanaanshaha ujeeddooyinkan waxaa muujiya dhismaha weerta. Qaybaha
+dambe waxay sidoo kale faahfaahinayaan diidmada iyo **weer talo**.
+Ereyada farsamo waxa qeexaya [`ereyfur.md`](ereyfur.md).
+
+Lambarada tusaalooyinku waxay raacayaan taxanaha isha; meelaha ay
+lambaradu ka boodaan, isku daraan ama dib uga bilaabmaan laguma buuxin
+tusaalooyin la qiyaasay.
 
 ## 12.1 Weli iyo weer tebineedda: dhismaha "waxaa"
 
@@ -13,265 +17,320 @@ dhismeed ee weer walba.
 5) *Waxaan doonayaa qalin.*
 6) *Waxaa hadlaya nin aanan aqoon.*
 
-Weerahan waxaa u dambeeya OM ku xiga falka (*Xamar*, *qalin*,
-*nin aanan aqoon*) — waa khasab in hal OM joogo rugtaas, haddii
-kale weertu waa jaban: \**Cali wuxuu aadayaa*.
+Akhriska dhismaha ee qaybtani falanqaynayso, weerahan waxaa u dambeeya
+OM ku xiga falka (*Xamar*, *qalin*, *nin aanan aqoon*). Qaybtani waxay
+OM-kaas u qaadataa xubin dhismaha *waxaa* dhammaystiraysa. Taasi ma
+aha xukun sheegaya in taxanaha *Cali wuxuu aadayaa* uusan lahayn akhris
+madax-bannaan oo kale; xukunka wuxuu ku kooban yahay dhigga iyo
+falanqaynta *waxaa* ee halkan la doonayo.
 
-Weerahan waxay dhismo ahaan la mid yihiin weero leh diirad
-magaceed oo lagu suntay *baa/ayaa*, halkaasoo OM-ka diiradaysan
-uu ka jiro **falka dabadii**:
+Weerahan waxay dhismo ahaan la xiriiraan weero leh diirad magaceed oo
+lagu suntay *baa/ayaa*. Dhigga *baa/ayaa*, OM-ka diiradaysan wuxuu ka
+horreeyaa falka; dhigga *waxaa*, OM-ka la xiriira wuxuu u guuraa falka
+dabadii:
 
 10) *Cali Xamar buu aadayaa.* ≡ 4) *Cali wuxuu aadayaa Xamar.*
 11) *Qalin baan doonayaa.* ≡ 5) *Waxaan doonayaa qalin.*
 12) *Nin aanan aqoon ayaa hadlaya.* ≡ 6) *Waxaa hadlaya nin aanan aqoon.*
 
-**Xeer:** OM₁ - OM₂ baa - F → OM₁ - waxaa - F - OM₂
+**Xeerka ay ishu soo jeedisay:** OM₁ - OM₂ baa - F → OM₁ - waxaa - F - OM₂
 
-Iyadoo *waxaa* geleysa rugtii OM-ka diiradaysan lahaa, OM-kuna u
-guuraya falka dabadii. Magacuyaalka dhimman ee yeelaha (*-uu*)
-rugtiisu isma beddesho, laakiin wuxuu ku lifaaqmaa *waxaa*, oo isu
-beddesha *wuxuu* (*waxaa + uu → wuxuu*).
+Falanqayntan, *waxaa* ayaa gasha rugtii dhismaha diiradda, OM-kuna
+wuxuu u guuraa falka dabadii. Magacuyaalka dhimman ee yeelaha (*-uu*)
+wuxuu ku lifaaqmaa *waxaa*, oo isu beddesha *wuxuu* (*waxaa + uu →
+wuxuu*).
 
-Xeerarka la xiriira magacuyaalka dhimman ee yeelaha (khasab/khiyaar
-ku xiran iskuxigga yeele/layeele) iyo baradigmaha falka (kooban/fidsan)
-waa isla kuwii cutubka 9 ee baa/ayaa — waxay taasi u oggolaataa in
-laga saadaaliyo qaabab qalad ah:
+Xeerarka magacuyaalka dhimman ee yeelaha — khasab ama khiyaar ku xiran
+iskuxigga yeele/layeele — waa isla xeerarka *baa/ayaa* ee lagu
+faahfaahiyey [`09-weer-fudud.md`](09-weer-fudud.md). Qaybtani waxay
+xeerarkaas ku saadaalinaysaa qaababkan:
 
 13) \**Cali Xamar baa aadayaa.* → 14) \**Cali waxaa aadayaa Xamar.*
-17) *Xamar buu Cali aadayaa.* → 15/16) *Waxuu Cali aadayaa Xamar.*
+17) *Xamar buu Cali aadayaa.* → 15/16) *Wuxuu Cali aadayaa Xamar.*
 
-Sababta loo baahdo in la geeyo OM diiradaysan falka dabadii waa
-marka uu OM-kaasi leeyahay dhismo adag (sida marka uu wado weer
-dhan) — taasi waxay u fududaysaa dhegeystaha fahamka, oo waa
-dabeecad guud oo ka dhexaysa afafka dunida, ee maaha mid u gaar
-ah af soomaaliga.
+Ishu waxay OM adag ama weer dhan wata u tilmaamaysaa deegaan uu dhigga
+falka ka dambeeyaa dhegeysiga fududayn karo. Laakiin tusaalooyinka
+qaybtan waxaa ku jira OM fudud iyo mid adag labadaba; sidaas darteed
+culayska OM-ka looma qaadanayo shardi khasab ah, sheegashada guud ee
+afafka kalena kaydku si madax-bannaan uma xaqiijinayo.
+
+Cinwaanka farsamo ee **Weli** wuxuu ku soo noqdaa cutubyada 9, 11 iyo
+12 ee ilduceedkan, laakiin [`ereyfur.md`](ereyfur.md) si gaar ah uma
+qeexo; sidaas darteed waa la hayaa iyadoo loo aqoonsanayo cinwaan isha
+u gaar ah.
 
 ## 12.2 Weer weyddiimeed
 
-Af soomaaligu wuxuu leeyahay laba nooc oo weyddiimeed: kuwa
-jawaabtoodu tahay **haa/maya**, iyo kuwa u baahan **jawaab buuxda**
-(erey weyddiimeed ayaa ka muuqda).
+Af soomaaligu wuxuu leeyahay weyddiimo jawaabtoodu tahay **haa/maya**
+iyo kuwo u baahan **jawaab buuxda**, oo curiye weyddiimeed ka muuqdo.
+Qaababka la xiriira ee ilduceed kale waxa lagu barbar dhigi karaa
+[`16-weeraynta-soomaaliga.md`](16-weeraynta-soomaaliga.md).
 
 ### 12.2.1 Weyddiimaha haa/maya
 
-Waxaa loo adeegsadaa **qurub weyddiimeed ma**, oo mar walba ku
-xirma **curiyaha diiradaysan**:
+Qaybtani waxay adeegsanaysaa **qurub weyddiimeed ma**, oo ku xirma
+curiyaha lagu falanqaynayo inuu diiradaysan yahay:
 
 3) *Axmed ma hadiyad buu keenay?* — layeele diiradaysan
 4) *Ma Axmed baa hadiyad keenay?* — yeele diiradaysan
 5) *Axmed hadiyad ma keenay?* — fal diiradaysan
 
-Marnaba suurtagal ma aha in weer laga dhex helo xubin leh qurub
-weyddiimeed iyo mid kale oo wata qurub diiradeed: \**Ma Axmed
-hadiyad buu keenay?*
+Falanqaynta ishu ma oggola in qurubka weyddiintu hal xubin saarnaado,
+qurubka diiradduna xubin kale saarnaado: \**Ma Axmed hadiyad buu
+keenay?* Xukunkani wuxuu ku saabsan yahay dhismaha iyo akhriska
+diiradeed ee qaybtu qeexayso.
 
-Weer wata khabar magaceed (*Tani waa gabar*) waxaa ka dhigan
-weyddiin marka khabarku (magacu) diiradaysan yahay, waxaana loo
-adeegsadaa *baa* (ma *waa*): *Tani ma gabar baa?*
+Weer wata khabar magaceed (*Tani waa gabar*) wuxuu weyddiin noqonayaa
+marka khabarka magacu yahay curiyaha la weyddiinayo; qaybtani waxay
+adeegsataa *baa* halkii *waa*: *Tani ma gabar baa?*
 
-Micne-ahaan, marka weyddiintu khusayso fal (5), summaddeedu waa
-tan ugu yar (hadluhu wuxuu doonayaa inuu xaqiijiyo dhacdo dhan);
-marka ay khusayso OM diiradaysan (4), hadluhu wuu ogyahay in
-qofba wax sameeyay, wuxuuse doonayaa inuu ogaado cidda.
+Micne ahaan, marka weyddiintu khusayso fal (5), hadluhu wuxuu
+xaqiijinayaa dhacdada oo dhan. Marka ay khusayso OM diiradaysan (4),
+hadluhu wuxuu ogyahay in qof wax sameeyay, wuxuuse doonayaa inuu ogaado
+cidda. Kuwani waa akhrisyada diiradeed ee ay ishu tusaalooyinka u
+qoondeysay.
 
 ### 12.2.2 Weli iyo weyddiimaha haa/maya: miyaa
 
-Weyddiimaha haa/maya waxaa lagu garan karaa qurub kale, **miyaa**,
-oo ka duwan *ma* rugtiisa: *miyaa* wuxuu **ku xigaa** OM-ka
-diiradaysan (halkii *ma* uga horreysayd).
+Weyddiimaha haa/maya waxaa kaloo lagu garan karaa qurubka **miyaa**.
+Qaybtani waxay *miyaa* kaga soocaysaa *ma* rugta: *miyaa* wuxuu ku xigaa
+OM-ka diiradaysan, halka *ma* ka horreyso.
 
-**Xeer:** weer tebineed ku bilaaban OM baa waxay u dhigantaa
-weyddiin qaabkeedu yahay **ma OM baa**; weer tebineed ku bilaabma
-OM ayaa waxay u dhigantaa **OM miyaa**:
+**Xeerka isha:** weer tebineed ku bilaabma OM *baa* wuxuu u dhigmaa
+weyddiin qaabkeedu yahay **ma OM baa**; weer tebineed ku bilaabma OM
+*ayaa* wuxuu u dhigmaa **OM miyaa**:
 
 21) *Wiilkii miyaa ka tegaya?* — yeele diiradaysan
 23) *Wiilkii hadiyad miyuu keenayaa?* — layeele diiradaysan (*miyaa
     + uu* isku dhafma keena *miyuu*)
 
-Marka diiradeeyuhu yahay *baa*, *ma*-du waxay ka dhacdaa OM-ka
-hortiisa (*ma OM baa*); marka uu yahay *ayaa*, *ma*-du waxay ka
-dhacdaa u dhexeysa OM-ka iyo *ayaa*, taasoo isugu dhalisa *miyaa*
-(*ma + ayaa → miyaa*).
+Falanqaynta ishu waxay *miyaa* ka soo saartaa *ma + ayaa*: marka
+diiradeeyuhu yahay *baa*, *ma* waxay ka dhacdaa OM-ka hortiisa (*ma OM
+baa*); marka uu yahay *ayaa*, waxay u dhexeysaa OM-ka iyo *ayaa*, oo
+isu dhalisa *miyaa*. Qaabka iyo adeegsiga *miyaa/miyuu* qaamuuska iyo
+cutubka 16 ayaa si madax-bannaan u taageera; kala-bixinta taariikheed
+se waxaa loo hayaa sida falanqaynta isha.
 
-Miyaa wuxuu kaloo iman karaa bilowga weerta marka uu
-diiradaynayo falka (waa u dhigmaa *waa*):
+*Miyaa* wuxuu kaloo iman karaa bilowga weerta marka uu falka
+diiradaynayo, isagoo qaybtan ugu dhigma *waa*:
 
 32) *Miyaa wiilkii ka tegey?* ≡ *Wiilkii waa ka tegey.*
 36) *Miyuu wiilkii ka tegay?* — *-uu* (yeele dhimman) ku dhegay *miyaa*
 
-Weer wata khabar magaceed, *miyaa* wuxuu u dhaqmaa sida uu ku
-ahaa weer caadi ah oo lahaa magac diiradaysan — wuxuu **dib u
-dhacaa** OM-ka: *Cali macallin miyaa?* (maaha \**Miyaa Cali
-macallin?*).
+Weer wata khabar magaceed, ishu *miyaa* waxay dhigaysaa OM-ka dabadii:
+*Cali macallin miyaa?* (ma aha \**Miyaa Cali macallin?* marka akhriska
+qaybtan la hayo). Xukunka rugtan waxaa loo hayaa sida falanqaynta
+ilduceedka, ee looma fidinayo deegaan kasta oo hadal.
 
-### 12.2.3 Weyddiimaha -ee
+### 12.2.3 Weyddiimaha jawaabta buuxda
 
-Weeraha aan lagu jawaabi karin haa/maya, waxay u baahan yihiin
-jawaab buuxda.
+Weeraha aan lagu jawaabi karin haa/maya waxay u baahan yihiin jawaab
+buuxda. Qaybaha soo socda waxay kala muujinayaan *-maa*, *-ee*, ereyo
+weyddiimeed kale iyo weyddiimaha dadban.
 
 #### 12.2.3.1 Weyddiimaha wata "-maa"
 
 53) *Goormaa Cali yimid?*
 54) *Ninmaa yimid?*
 
-Dibkabaha **-maa** (magac + *-ma* + *baa*, oo si isku ururin ah isu
-beddesha *-maa*) wuxuu ku lifaaqmaa magac madaxeed, isagoo
-sunta curiyaha diiradaysan ee la is weyddiinayo. Rugtiisu waxay ku
-xiran tahay iskuxigga xubnaha weerta (sidii xeerarkii *baa/ayaa*):
+Falanqaynta ishu waxay dibkabaha **-maa** u kala dhigtaa magac + *-ma*
++ *baa*, oo isku ururay. Wuxuu ku lifaaqmaa magac madaxeed, isagoo
+sunta curiyaha diiradaysan ee la weyddiinayo. Rugtiisu waxay ku xiran
+tahay iskuxigga xubnaha weerta, sida xeerarka *baa/ayaa*:
 
-57) *Goormuu Cali yimid?* — yeeluhu (*Cali*) ka horreeya, *-uu* ku
-    jira
-58) *Cali goormuu yimid?* — layeele/yeele isweydaarsan, *-uu* khasab
+57) *Goormuu Cali yimid?* — curiyaha *goor* ayaa ka horreeya yeelaha
+    *Cali*; *-uu* ayaa ku jira *goormuu*
+58) *Cali goormuu yimid?* — yeelaha *Cali* ayaa ka horreeya curiyaha
+    weyddiimeed; *-uu* waa khasab marka la hayo xeerka iskuxiggan
 
-Erey weyddiimeed kale oo la mid ah: **maxaa** (< *wax* + *ma* +
-*baa*), **kuma/tuma** (< magacyada madaxeed *ku*/*tu* — hore
-loo isticmaali jiray sida qodob aan cayimnayn, hadda sida
-magacuyaal weyddiimeed).
+Ishu sidoo kale waxay *maxaa* u kala dhigtaa *wax + ma + baa*, waxayna
+*kuma/tuma* ku xiriirisaa madaxyadii *ku/tu*. Qaamuusku wuxuu xaqiijiyaa
+*maxaa* iyo magacuyaallada weyddiimeed ee lab/dheddig *kuma/tuma*;
+sheegashada ah in madaxyadaasi hore qodob aan cayimnayn u ahaayeen
+waxaa loo hayaa sida sharraxaadda isha, ma aha taariikh kaydku si gaar
+ah u xaqiijiyey.
 
 #### 12.2.3.2 Weyddiimaha wata "-ee"
 
 66) *Xaggee baa Axmed aaday?*
 67) *Dugsigee baad dhigataa?*
 
-Dibkabaha **-ee** (kee/tee) wuxuu summadeeyaa **tifaftire magac
-madaxeed** — weyddiintu waxay doonaysaa war ku saabsan
-tifaftiraha magaca (cayimidda hal shay ka mid ah dir isku magac
-leh). OM-ka wata *-ee* waa curiyaha diiradaysan, ee kama muuqato
-*baa/ayaa* si toos ah, taasi u sabab ah in aan la dhex gelin karin
-xubin kale u dhexeysa: \**Xaggee Axmed baa aaday?*
+Dibkabaha **-ee** iyo qaababka *-kee/-tee* waxay summadeeyaan
+**tifaftire weyddiimeed**: weyddiintu waxay kala dooranaysaa ama
+aqoonsanaysaa hal shay oo ka tirsan dir la wada magacaabay. Sarfaha
+*kee/tee* waxa lagu faahfaahiyey
+[`03-sarfaha-tifaftireyaasha.md`](03-sarfaha-tifaftireyaasha.md).
 
-Marar (marka la adeegsado *kee/tee*) qaab isku-ururay ayaa dhaca:
-kii asalka ahaa *kee + baa + magacuyaal* wuxuu iska daayaa *baa*,
-kaga hara oo keliya magacuyaalka dhimman: *Caasha xaggay ku
-nooshahay?* (halkii uu ka ahaan lahaa *xaggee ay*).
+OM-ka wata *-ee* waa curiyaha diiradaysan. *-Ee* laftiisu ma aha
+bedelka *baa/ayaa* deegaan kasta: tusaalaha 66 wuxuu leeyahay *baa*,
+tusaalaha 67-na *baad* ayuu leeyahay. Waxa aan falanqayntan lagu dhex
+gelin karin xubin kale waa curiyaha weyddiimeed iyo diiradeeyaha la
+xiriira: \**Xaggee Axmed baa aaday?*
 
-Tifaftire weyddiimeedka *kee/tee* waxaa loo adeegsan karaa xitaa
-sida magacuyaal madaxbannaan: *Axmed waa kee?*; *Tee ugu dheer?*
+Marka la adeegsado *kee/tee*, ishu waxay soo jeedinaysaa qaab isku
+ururay: *kee + baa + magacuyaal* wuxuu lumin karaa *baa*, oo
+magacuyaalka dhimman keliya ka haraa: *Caasha xaggay ku nooshahay?*
+(halkii uu ka ahaan lahaa *xaggee ay*). Kala-bixintan waxaa loo hayaa
+sida falanqaynta isha.
+
+Tifaftire weyddiimeedka *kee/tee* waxaa kaloo loo adeegsan karaa sida
+magacuyaal madaxbannaan: *Axmed waa kee?*; *Tee ugu dheer?*
 
 #### 12.2.3.3 Ereyo weyddiimeedyo kale
 
-**Yaa** (layeele ama yeele): *Yaa aragtay?* Marka *yaa* yahay yeele,
-waa keligeed, baradigmuhu wuxuu noqdaa mid kooban: *Yaa ku
+**Yaa** wuxuu weyddiin karaa layeele ama yeele: *Yaa aragtay?* Marka
+*yaa* yahay yeele, magacuyaalku keligiis ayuu u taagan yahay curiyaha
+la weyddiinayo, baradigmahuna wuxuu noqdaa mid kooban: *Yaa ku
 toosiya?*
 
-**Immisa** (layeele): *Buuggani immisuu joogaa?* — *-uu* khasab, sida
-mar kastoo diiradaynta khuseyso layeelaha.
+**Immisa** wuxuu weyddiin karaa tiro, qiime ama saacad. *Buuggani
+immisuu joogaa?* wuxuu halkan ku weyddiinayaa qiime; sidaas darteed
+looma calaamadaynayo layeele toos ah, lagamana soo saarayo xeer guud oo
+layeele kasta khuseeya. Qaabka *-uu* ee tusaalahan wuu jiraa.
 
-Ereyo kale: *meeqaa*, *maxaa*, *maxay…u*.
+Ereyo kale oo ishu ururisay waa *meeqaa*, *maxaa* iyo *maxay…u*.
+Qaamuusku *meeqa* wuxuu ku fasiraa *immisa*.
 
 #### 12.2.3.4 Weyddiimo dadban
 
-Weeraha af soomaaliga kuma jiraan ereyo weyddiimeed oo ah weer
-dhimman (si ka duwan afaf badan oo kale). Weyddiin dadban waxaa
-loo dhisaa sidii weer faahfaahineed oo caadi ah, oo tifaftira magac
-madaxeed sida *hal(ka)*, *goor(ta)*, *sabab(ta)*:
+Tusaalooyinka qaybtani weyddiinta dadban waxay u dhisayaan qaab
+faahfaahineed oo tifaftira magac madaxeed sida *hal(ka)*, *goor(ta)*
+ama *sabab(ta)*:
 
 78) *Weyddii halkuu tegayo.*
 79) *Waxaan weyddiiyay goorta uu Cali imanayo.*
 
+Labadan tusaale waxay caddeynayaan xeeladda *halka/goorta*, laakiin
+keligood ma caddaynayaan in af soomaaligu uusan lahayn xeelad kale oo
+weyddiin dadban. Sidaas darteed sheegashada guud iyo isbarbardhigga
+afafka kale looma fidinayo xadka tusaalooyinkan. Weeraha
+faahfaahineed iyo dhismayaasha kale ee dhimman waxa lagu faahfaahiyey
+[`11-weerta-adag.md`](11-weerta-adag.md).
+
 ## 12.3 Weer diidmo
 
-Diidmadu waxay ka dhex muuqan kartaa weer tebineed, weyddiimeed,
-ama amareed. Waxay ku saabsanaan kartaa oo keliya **hal xubin**
-(OM ama fal) — xubintaas oo mar walba ah tan diiradaysan.
+Diidmadu waxay ka dhex muuqan kartaa weer tebineed, weyddiimeed ama
+amareed. Falanqaynta qaybtani waxay diidmada ku xiriirisaa hal xubin oo
+diiradaysan — OM ama fal. Tani waa xadka dhismayaasha la soo bandhigay,
+ee looma qaadanayo xeer aan ka reebbanayn oo ku saabsan adeegsi kasta.
 
 ### 12.3.1 Diidmo wata diirad magaceed
 
-Waxaa loo adeegsadaa qurub diidmeedka **-aan** oo dul saaran OM-ka
-diiradaysan, iyo falka oo qaab diidmo leh:
+Waxaa la adeegsadaa qurub diidmeedka **-aan** oo dul saaran OM-ka
+diiradaysan iyo fal qaab diidmo leh:
 
 4) *Xamar baanan tegin.*
 5) *Cali hadiyad buusan keenin.*
 
-Xeerarka magacuyaalka dhimman ee yeelaha (khasab ama khiyaar)
-waa isla kuwii weer tebineed: \**Cali hadiyad baan keenin* waa qalad
-(ka maqan *-uu*). Marnaba suurtagal ma aha in laga wada helo weer
-diidmo gudihiisa *-aan* iyo diiradeeyaha *baa* labaduba (oo aan
-wada summadaynayn hal xubin): \**Cali aan hadiyad buu keenin.*
+Xeerarka magacuyaalka dhimman ee yeelaha — khasab ama khiyaar — waa
+isla xeerarka weer tebineed. Akhriska ay ishu falanqaynayso,
+\**Cali hadiyad baan keenin* waa qalad, sababtoo ah *-uu* ayaa ka
+maqan. Sidoo kale ma oggola *-aan* iyo *baa* inay laba xubin oo kala
+duwan ku summadeeyaan isla dhismaha: \**Cali aan hadiyad buu keenin.*
+Labada xukunba waxay ku kooban yihiin nidaamka diiradda ee qaybtan.
 
 ### 12.3.2 Diidmo wata diirad faleed
 
-Waxaa loo adeegsadaa qurub diidmeedka **ma** (kaas oo leh codkac
-dheer, ka duwan qurub weyddiimeedka *ma*):
+Waxaa la adeegsadaa qurub diidmeedka **ma**, oo ishu u qoondaynayso
+codkac ka duwan qurubka weyddiimeedka *ma*:
 
 10) *Cali hadiyad ma keenin.*
 11) *Xamar ma tago.*
 
-**Xeer:** ku beddel qurubka *ma* halkii *waa* laga heli lahaa, falka u
-samee baradigmaha diidmada ee ku habboon. Marka la adeegsado
-*ma* (halkii *waa*), waxaa suurtagal ah in magacuyaalka dhimman
-ee yeelaha la adeegsado: *Cali hadiyad ma uu keenin*; *Xamar ma
-aan tago.* Farqiga u dhexeeya *waa* iyo *ma*: *ma* wuxuu ka jiraa
-gudaha koox faleedka (KF), ka horreeya falka, ka danbeeya
-horyaalayaasha iyo magacuyaalka layeele ee KF-ka: *Ciise shineemada
-igu ma arkin* (maaha \**Ciise shineemada waa ma igu arkin*).
+**Xeerka isha:** *ma* geli halkii *waa* laga heli lahaa, falkana u
+samee baradigmaha diidmada ee ku habboon. Marka *ma* la adeegsado,
+magacuyaalka dhimman ee yeeluhu wuu muuqan karaa: *Cali hadiyad ma uu
+keenin*; *Xamar ma aan tago.*
 
-Falka qaabka diidmo ah wuxuu leeyahay dhammaad **-in** (tagto) ama
-**-o** (joogto/timaaddo) — qaab aan lagu kala saarin qofka/tirada sida
-weerta giraalka ah.
+Qaybtani *ma* waxay gelisaa gudaha kooxda faleedka (KF), falka
+hortiisa, kana dambaysa horyaalayaasha iyo magacuyaalka layeele ee
+KF-ka: *Ciise shineemada igu ma arkin* (ma aha \**Ciise shineemada
+waa ma igu arkin*).
+
+Qaababka caadiga ah ee halkan la muujiyey waxaa ka mid ah tagto ku
+dhammaata **-in** (*keenin*) iyo joogto ku dhammaata **-o** (*tago*);
+qaabka tagtada *ma cunin* qof iyo tiro ma kala saaro sida dhiggiisa
+qiraalka ah. Tilmaantan laguma fidinayo fal kasta ama ammin kasta:
+falalka sifo, falkaaliyeyaasha, timaaddada iyo falalka gaarka ahi waxay
+leeyihiin qaabab kale oo lagu ururiyey
+[`08-hogatuska-baradigmaha-falalka.md`](08-hogatuska-baradigmaha-falalka.md).
 
 ### 12.3.3 Diidmada weerta khabar magaceedka leh
 
 23) *Muuse waa macallin.*
 
-Weerta noocan oo kale ah lagama dhigi karo diidmo si toos ah. Waa
-in kolka hore la beddelo qaabkeeda, iyadoo aysan macne ahaan
-isbeddelin, si uu fal ahaanshuhu si cad uga muuqdo:
+Qaybtani diidmada khabar magaceedka waxay ku muujinaysaa falka
+*ahow*. Waxay marka hore soo bandhigaysaa dhig falkaas si cad u wata,
+dabadeedna dhigga diidmada:
 
 24) *Muuse macallin waa yahay.* → 25) *Muuse macallin ma aha.*
 
+*Ma aha* waa dhigga diidmada ee kaydku si madax-bannaan u taageero;
+tallaabada dhexe ee *waa yahay* waxaa loo hayaa sida falanqaynta
+isbeddelka ee ilduceedkan, ma aha habka keliya ee sharaxaadda.
+
 ## 12.4 Weyddiimo diidmo ah
 
-Weeraha weyddiimeedka waxaa laga dhigi karaa diidmo, iyadoo
-weyddiin (ma/miyaa) iyo diidmo (-aan) labaduba isku darsan:
+Weeraha weyddiimeedka waxaa laga dhigi karaa diidmo iyadoo qurubka
+weyddiinta (*ma/miyaa*) iyo curiyaha diidmada *-aan* la isu geeyo:
 
 1) *Ma Axmed baan hilibka cunin?* — yeele diiradaysan (*Ma Axmed
    baa hilibka cunay?* + *Axmed baan hilibka cunin*)
 2) *Axmed ma hilibka buusan cunin?* — layeele diiradaysan
 3) *Cali miyaan hadiyad keenin?*
 
-Weyddiimaha wata diirad faleed ee diidmo ah waxay u baahan yihiin
-qaabka **-aan** oo keliya — *ma* weyddiimeedka lagama dhex gelin
-karo diidmo wata diirad faleed: \**Miyaa Axmed ma imanayo* iyo
-\**Axmed ma ma imanayo* labaduba waa jaban.
+Weyddiimaha diidmada ee falka diiradaynaya, *-aan* waa curiyaha
+diidmada; lama dhex geliyo *ma* diidmeed oo labaad. Sidaas darteed
+\**Miyaa Axmed ma imanayo* iyo \**Axmed ma ma imanayo* waa jaban marka
+akhriska qaybtan la hayo. Qaamuusku qaabka isku dhafan wuxuu ku
+muujinayaa tusaale sida *miyuusan*; xeerarka faahfaahsan ee diiradda
+waxaa loo hayaa sida falanqaynta isha.
 
 ## 12.5 Weero amareed
 
-Waxaa lagu garto qaab go'an oo uu falku muujiyo. Marnaba lagama
-dhex helo qurub diiradeed. Amarku wuxuu u kala baxaa qofka 2aad
-ee keliga ah iyo tan wadarta ah:
+Weer amareed waxaa lagu gartaa qaab go'an oo falka ah. Falanqaynta
+qaybtan lagama dhex helo qurub diiradeed. Amarku wuxuu u kala baxaa
+qofka 2aad ee keliga ah iyo wadarta:
 
 4) *Keen!* (keli) — 5) *Keena!* (wadar)
 
-Waxay noqon karaan diidmo, iyadoo la adeegsado qurubka **ha**,
-falkuna qaabkiisii diidmo (*-in*) haysto:
+Diidmada amarku waxay adeegsataa qurubka **ha**, falkuna wuxuu qaataa
+qaabka diidmada ee *-in*:
 
 6) *Waxba ha keenin!* (keli) → 8) *Waxba ha keenina!* (wadar,
-   shaqalka *-a* saa'ida *-in*)
+   shaqalka *-a* ayaa raaca *-in*)
+
+Qaababkan waxaa si madax-bannaan u taageera cutubka 8.
 
 ## 12.6 Weer talo
 
-Waxaa loo adeegsadaa qaabkii **hab talo** (rajo, duco, talo, amar
-fudud), oo ka duwan amarka isagoo leh qaab qofeedka oo idil:
+**Hab talo** wuxuu gudbin karaa rajo, duco, talo ama amar fudud.
+Wuxuu amarka kaga duwan yahay inuu leeyahay qaabab qofeed oo idil.
+Baradigmaha dhammeystiran ee la barbar dhigi karo waxa kale oo lagu
+hayaa [`07-sarfaha-falalka.md`](07-sarfaha-falalka.md):
 
 | Qofka | Talo |
 | --- | --- |
-| 1aad keli | an sheego |
-| 2aad keli | ad sheegto |
+| 1aad keli | aan sheego |
+| 2aad keli | aad sheegto |
 | 3aad keli lab | ha sheego |
 | 3aad keli dheddig | ha sheegto |
-| 1aad wadar | an sheegno |
-| 2aad wadar | ad sheegtaan |
+| 1aad wadar | aan sheegno |
+| 2aad wadar | aad sheegtaan |
 | 3aad wadar | ha sheegeen |
 
-Qofka koowaad iyo labaad waxay leeyihiin magacuyaal dhimman (an,
-ad); qofka saddexaad wuxuu leeyahay *ha*.
+Qofka koowaad iyo labaad waxay leeyihiin qaababka dhimman *aan/aad*;
+qofka saddexaad wuxuu leeyahay *ha*. Afarta *aan/aad* waxay la jaanqaadaan
+baradigmaha cutubka 7; *ha sheegeen* waxaa loo hayaa sida qaabka isha,
+oo barbar socda *ha qoreen* ee cutubkaas.
 
-Waxaa laga dhigi karaa diidmo, iyadoo la adeegsado *yaan* (oo la
-socda magacuyaalka dhimman ee yeelaha, ku daray *-aan*):
+Weer talo waxaa laga dhigi karaa diidmo iyadoo la adeegsado **yaan**
+iyo qaababka magacuyaalka yeelaha la midoobay:
 
 1) *Yuusan ila hadlin.*
 2) *Yaanay illoobin.*
 
-Weer talo, sida weer amar, marnaba lagama dhex helo qurub
-diiradeed.
+Sida falanqaynta qaybtani dhigto, weer talo iyo weer amareed midna
+lagama dhex helo qurub diiradeed. Diidmada *yaan/yuusan/yaanay* iyo
+farqiga ay u leedahay *ha* amareed waxaa lagu sii kala saaray cutubka
+8.

@@ -38,7 +38,7 @@ Milestone 1b.
 | --- | --- | ---: | --- | --- |
 | `qaamuus/` | Monolingual dictionary (*Qaamuuska Af-Soomaaliga*) | 32 + abbreviations | review | Compiler, edition, republication rights incomplete |
 | `wordlists/` | Bare headwords derived from `qaamuus/` | 26 | active | 31 heads without direct qaamuus match (for `data/` later) |
-| `naxwe/` | Grammar and syntax reference | 18 + `ereyfur.tsv` | review | Supplements `13`–`17` carry OCR-fidelity caveat |
+| `naxwe/` | Grammar and syntax reference | 18 + explained grammar terminology (`ereyfur.md`) | review | Supplements `13`–`17` carry OCR-fidelity caveat |
 | `erey-bixin/` | Technical/administrative glossaries (EN→SO) | 9 (`01`–`09`) | active | `09-farsamada-culuunta.md` partial OCR |
 | `suugaan/` | Proverbs, wisdom, stories, poetry, school literature | 24 | active | *Ismail Mire* deferred; variable OCR on some school texts |
 | `orthography/` | Writing, word-splitting, punctuation | 6 | active | Capitalization interim supplement at `06` |
@@ -87,10 +87,13 @@ definitions. For spellcheckers, autocomplete, tokenisers, and NLP baselines.
 
 ### `naxwe/`
 
-Somali grammar and syntax, primarily from Puglielli & Mansuur, *Barashada
-Naxwaha Af Soomaaliga* (1998), files `00`–`12`, plus five supplementary
-OCR-recovered grammars (`13`–`17`). Detailed orthography and phonology live in
-their own collections.
+Somali grammar and syntax, synthesized by SLS from the government-era *Aasaaska
+Naxwaha Af Soomaaliga* (1973) and Abdalla Omar Mansur and Annarita Puglielli's
+*Barashada Naxwaha Af Soomaaliga* (1999), files `00`–`12`, plus five
+supplementary OCR-recovered grammars (`13`–`17`). The Markdown is an SLS
+editorial synthesis of scanned source evidence, not a page-by-page
+transcription of either book. Detailed orthography and phonology live in their
+own collections.
 
 ### `erey-bixin/`
 
@@ -121,7 +124,7 @@ Orthographic punctuation lives in `orthography/05-astaamaynta.md`; prosodic
 
 ### `morphology/`
 
-Tabular paradigm reference extracted from the 1998 HAAN grammar (via curated
+Tabular paradigm reference extracted from the 1999 HAAN grammar (via curated
 `naxwe/` chapters): gender, number, plurals, conjugation, derivation,
 morphophonology. Complements pedagogical `naxwe/`; does not prescribe norms.
 

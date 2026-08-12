@@ -6,7 +6,7 @@ Collection inventory for morphological paradigm evidence.
 
 | ID | Source | Authors | Year | Rights | Status |
 | --- | --- | --- | --- | --- | --- |
-| S-003 | *Barashada Naxwaha Af Soomaaliga* | Mansur; Puglielli | 1998 | HAAN grammar (in repo) | **primary** — paradigm tables in `01`–`04` |
+| S-003 | *Barashada Naxwaha Af Soomaaliga* | Mansur; Puglielli | 1999 | HAAN grammar (in repo) | **primary** — paradigm tables in `01`–`04` |
 
 Content files extract **tabular paradigms** from S-003 chapters already curated
 in [`naxwe/`](../naxwe/). Pedagogical prose remains in `naxwe/` only.

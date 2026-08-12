@@ -5,7 +5,7 @@ and morphophonological alternation. This collection complements
 [`naxwe/`](../naxwe/) (pedagogical school grammar); it does not define normative
 forms.
 
-**Status (2026-07-18):** R5.4–R5.7 curated from S-003 (Puglielli & Mansuur 1998)
+**Status (2026-07-18):** R5.4–R5.7 curated from S-003 (Puglielli & Mansuur 1999)
 as a tabular reference layer. Saeed/Green remain bibliographic cross-checks
 pending publisher permission.
 

@@ -17,6 +17,9 @@ qeexayo waa **magaca** (noun). Tusaalayaal (ereyada magacyada ah):
 Si loo ogaado dirta uu erey ka tirsan yahay waxaa la tixgeliyaa laba
 shay: **micnihiisa** iyo **qaabkiisa**.
 
+Guudmarka qaybaha hadalka waxa laga helayaa
+[`13-aasaaska-naxwaha.md`](13-aasaaska-naxwaha.md).
+
 ### Micnaha magaca
 
 Magacyadu waa ereyo micnahoodu ka kooban yahay fikradaha loo baahan
@@ -26,6 +29,9 @@ dhawaaqo *nin*, wuxuu dhegeystaha u tilmaamayaa dir leh dabeecadahan:
 noole, binii-aadan, lab, qaangaar. Macnaha uu magac leeyahay wuxuu
 xambaarsan yahay astaamo iyo dabeecado gaar ah, kuwaas oo shay ka
 dhiga mid ka mid ah dir go'an.
+
+Tani waa qaabka micne-falanqaynta ee ishu adeegsanayso; ma aha
+qeexitaan keligiis daboolaya magac kasta.
 
 **Magac gaar** (proper noun) wuxuu tilmaamaa qof ama wax gaar ah, si
 uu uga soocmo kuwa kale ee la nooca ah: *Muqdisho* (magaalooyinka),
@@ -55,9 +61,11 @@ dhammaadkiisa (*ninka*, *naagta*, *buugga*, *irridda*, *qolka*,
 *hasha*, *diiqa*, *qodaxda*), ama **tilmaame** (demonstrative) sida
 -kan/-tan, -kaas/-taas (*buuggaas*, *ninkan*, *sartan*, *naagtaas*).
 
-Gunaanad: haddii erey uu yeelan karo keli iyo wadar, isla
-markaantaana lagu lifaaqi karo qodob ama tilmaame, ereygaasi waa
-**magac**.
+Gunaanad: haddii ereygu leeyahay qaabab keli/wadar, isla markaasna uu
+qaadan karo qodob ama tilmaame, kuwani waa tilmaamo xooggan oo magaca
+lagu aqoonsado; mid kastaa khasab kuma aha magac kasta. Qodobbada iyo
+tilmaamayaasha waxa lagu faahfaahiyey
+[`03-sarfaha-tifaftireyaasha.md`](03-sarfaha-tifaftireyaasha.md).
 
 ## 2.2 Caynta magaca
 
@@ -72,9 +80,10 @@ Bal isbarbardhig labadan taxane:
 | maroodi | bir |
 | deero | muraayad |
 
-Magacyada noolaha (taxanaha A) waxaa lagu kala saari karaa **lab**
-(masculine) iyo **dheddig** (feminine) iyadoo la eegayo jinsiga:
-caynta dabiiciga ah ayaa ku xiran caynta naxweed.
+Marka magaca nooluhu tilmaamayo tixraace jinsi la garan karo, jinsigu
+inta badan wuxuu hagaa kala saaridda **lab** (masculine) iyo
+**dheddig** (feminine). Caynta naxweed waxaa lagu xaqiijiyaa sida
+magacu ula waafaqo curiyeyaasha kale ee weerta.
 
 Magacyada aan noolayn (taxanaha B) iyaguna cayn naxweed way
 leeyihiin, laakiin jinsi laguma kala saari karo. Cayntooda waxaa
@@ -94,28 +103,28 @@ waxay dhalisaa weero qalad ah:
 Sidaas darteed magac kasta waxaa loo qaybin karaa lab ama dheddig
 marka laga eego curiyeyaasha la halmaala:
 
-- **Lab**: qodobbada *-ku/-gu*, magacuyaalka *buu* (uu), falka oo ku
+- **Lab**: tusaale ahaan qodobbada *-ku/-gu*, magacuyaalka *buu* (uu), falka oo ku
   dhammaada *yahay* — *Qalinku wuu dheer yahay* (sida *Ninku wuu
   dheer yahay*).
-- **Dheddig**: qodobbada *-tu/-du*, magacuyaalka *bay* (ay), falka oo
+- **Dheddig**: tusaale ahaan qodobbada *-tu/-du*, magacuyaalka *bay* (ay), falka oo
   ku dhammaada *tahay* — *Birtu way gaaban tahay* (sida *Naagtu way
   gaaban tahay*).
 
-Soo koobid: caynta magacu waa lab ama dheddig. Magacyada noolaha
-cayntooda naxweed waxay ku xiran tahay jinsigooda; kuwa aan noolayn
-cayntooda waxaa laga ogaadaa sida uu magacu ula waafaqo curiyeyaasha
-weerta ku jira.
+Soo koobid: caynta magacu waa lab ama dheddig. Jinsigu wuxuu hagaa
+caynta magacyo badan oo noole tilmaama; dhammaan magacyadase cayntooda
+naxweed waxaa lagu xaqiijiyaa waafaqidda curiyeyaasha weerta. Qaababka
+qodobka oo dhan waxa laga helayaa
+[`03-sarfaha-tifaftireyaasha.md`](03-sarfaha-tifaftireyaasha.md).
 
 ### 2.2.1 Codkaca iyo caynta
 
 Caynta magaca miyaa la garan karaa iyadoo aan la raacin
-tifaftireyaal sida qodobbada? Run ahaantii, caynta magaca waxaa asal
-ahaan lagu kala saari karaa **codkaca**; in yar ayaa cayntooda laga
-fahmi karaa dhammaadka magaca.
+tifaftireyaal sida qodobbada? Magacyo badan cayntooda waxaa lagu kala
+saari karaa **codkaca**; qaar kalena dhammaadkooda ayaa xog ka bixiya.
 
-- Magacyada **labka ah**: codkacu wuxuu saaran yahay shaqalka ugu
+- Qaabka guud ee magacyada **labka ah**: codkacu wuxuu saaran yahay shaqalka ugu
   dambeeya **kan ka horreeya**.
-- Magacyada **dheddigga ah**: codkacu wuxuu saaran yahay shaqalka
+- Qaabka guud ee magacyada **dheddigga ah**: codkacu wuxuu saaran yahay shaqalka
   **ugu dambeeya**.
 
 Magacyo mataanays ah oo codkaca oo keliya lagu kala saaro:
@@ -159,11 +168,18 @@ dhammaada **-o waa dheddig**:
 | fure | golo |
 | curre | gato |
 
+Codkacyada shaxahan waa qaababkii isha; kaydka kale ee SLS si
+madax-bannaan uma xaqiijiyo dhammaan safafka. *Golo* iyo *gato* iyaguna
+waa qaababkii isha oo aan laga helin xaqiijin qaamuuseed, sidaas
+darteed laguma beddelin qiyaas. Faahfaahinta codkaca waxa laga helayaa
+[`01-ereyada.md`](01-ereyada.md) iyo
+[`../phonology/05-codadka-sare.md`](../phonology/05-codadka-sare.md).
+
 ## 2.3 Tirada
 
-Magacu wuxuu leeyahay qaab gaar ah markuu tilmaamayo hal qof, hal
-xayawaan ama hal shay (**qaab keli**), iyo qaab kale markuu
-tilmaamayo hal wax ka badan (**qaab wadar**):
+Magacyada tirsama badankoodu waxay leeyihiin qaab gaar ah markay
+tilmaamayaan hal qof, hal xayawaan ama hal shay (**qaab keli**), iyo
+qaab kale markay tilmaamayaan hal wax ka badan (**qaab wadar**):
 
 | Keli | Wadar |
 | --- | --- |
@@ -190,8 +206,8 @@ Magac kastaa wadar ma yeesho:
 - **Magacyada cillanaadka ah** intooda badan wadar looma adeegsado:
   *ceeb*, *run*, *ciil*, *dadnimo*, *doqonnimo*, *murugo*, *jacayl*.
 
-Haddaba magacyada **tirsama** oo keliya ayaa wadar noqon kara.
-Qaybaha iyo qayb-hoosaadyada magacyada:
+Qaabka kala-soocidda cutubkan, magacyada **tirsama** ayaa si caadi ah
+uga qayb qaata keli/wadar. Qaybaha iyo qayb-hoosaadyada magacyada:
 
 ```
 magac
@@ -216,11 +232,15 @@ weerta (14) kii dheddigga ahaa lab buu isu beddelay. Weerta (12) oo
 keliya ayaa keligiis iyo wadartiisuba lab yihiin — waayo waa magac
 **hal-alanle lab ah**.
 
-Xeerka: haddii magacu yahay hal-alanle lab ah markuu keliga yahay,
+Qaabka fasallada halkan lagu ururiyey: haddii magacu yahay hal-alanle
+lab ah markuu keliga yahay,
 cayntiisu isma beddesho markuu wadar noqonayo; magacyada kale oo dhan
 markii wadar laga dhigo waxay beddelaan cayntii ay lahaayeen markay
 keliga ahaayeen. Sidaas darteed caynta magaca wadarta ahi ma
 waafaqsana caynta dabiiciga ah.
+
+Soo koobidda fasalladan waxa laga helayaa
+[`../morphology/01-magacyada.md`](../morphology/01-magacyada.md).
 
 ### 2.3.1 Dibkabayaasha wadarta sameeya
 
@@ -240,6 +260,10 @@ beddesho (mar kastaba waa lab):
 **II. Kuwa ka samaysan in ka badan hal alan** waxay wadar noqdaan
 iyadoo la adeegsanayo dibkabayaal kala duwan:
 
+Liisaska xaraf-dhammaadku waxay tilmaamayaan fasallada halkan lagu
+ururiyey; ma aha xeer si toos ah loogu dabaqi karo magac kasta oo ku
+dhammaada xarfahaas.
+
 **1) Ku-daridda -o** (wadartu waxay noqotaa dheddig). Isbeddel codeed
 ayaa inta badan dhaca:
 
@@ -253,6 +277,11 @@ dambeeya wuu laballaabmaa:
 | sacab(ka) | sacabbo(da) |
 | qamuun(ka) | qamuunno(da) |
 | shabeel(ka) | shabeello(da) |
+
+*Qamuun/qamuunno* waa qaabkii isha. Qaamuusku wuxuu hayaa *kamuun*,
+laakiin caynta iyo fasalka ku qoran halkaas si gaar ah uma
+xaqiijinayaan in qaabka shaxdan lagu beddelo; sidaas darteed lama
+sixin qiyaas.
 
 b. Haddii magacu ku dhammaado *s, q, c, f, x, i* — waxaa *-o*-da iyo
 xarafka uu ereygu ku dhammaado la dhex dhigaa *-y-*:
@@ -298,6 +327,10 @@ luntaa): *dhagax* → *dhagxaan(ta)*, *ugax* → *ugxaan(ta)*.
 carbeedka: *macallin* → *macallimiin(ta)*, *dersi* → *duruus(ta)*,
 *weli* → *awliyo(da)*.
 
+Qaababkan iyo isbeddellada codeed ee la socda waxa lagu soo koobay
+[`../morphology/01-magacyada.md`](../morphology/01-magacyada.md) iyo
+[`../morphology/04-isbeddelka-codka.md`](../morphology/04-isbeddelka-codka.md).
+
 **5) Durkidda codkaca oo keliya** — dibkabe la'aan, codkaca ayaa
 gadaal u dhaqaaqa. Codkac ku beegan shaqalka ugu dambeeyaa waa
 dabeecadda magacyada dheddigga ah, sidaas darteed wadartani waa
@@ -311,10 +344,15 @@ dheddig:
 | mádax(a) | madáx(da) |
 | órgi(ga) | orgí(da) |
 
+`Cárab/Caráb` iyo `órgi/orgí` waa safafkii codkaca ee isha; kaydka
+kale ee SLS si madax-bannaan uma xaqiijin meelaynta codkacooda,
+sidaas darteed lama beddelin.
+
 #### B) Magacyada dheddigga ah
 
-Iyaguna waxay wadar ku noqdaan dhammaadka oo laga raaciyo *-o*
-(wadartu waxay noqotaa lab, qodobkooduna waa *-ha*):
+Kooxaha dheddigga ah ee halkan lagu ururiyey waxay wadar ku noqdaan
+dhammaadka oo laga raaciyo *-o* (wadartu waxay noqotaa lab,
+qodobkooduna waa *-ha*):
 
 | Keli | Wadar | Faallo |
 | --- | --- | --- |
@@ -342,3 +380,7 @@ Magacyada dheddigga ah ee ku dhammaada *-o* waxay wadar ku noqdaan
 | dawo(da) | dawooyin(ka) |
 | hooyo(da) | hooyooyin(ka) |
 | waddo(da) | waddooyin(ka) |
+
+Faahfaahinta fasallada wadarta iyo isbeddelladooda codeed waxa laga
+helayaa [`../morphology/01-magacyada.md`](../morphology/01-magacyada.md)
+iyo [`../morphology/04-isbeddelka-codka.md`](../morphology/04-isbeddelka-codka.md).

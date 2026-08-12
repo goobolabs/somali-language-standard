@@ -1,7 +1,7 @@
 # Resources — Somali Language Standard source data
 
 The canonical collection of linguistic source materials for the Somali Language Standard (SLS) project.
-This directory functions as the digital linguistic library and evidence base—containing dictionaries, grammar books, literature, and terminology references. These authoritative sources are collected, preserved, and analyzed to form the empirical foundation upon which the entire SLS ecosystem (`spec/`, `data/`, `ai/`) is built.
+This directory functions as the digital linguistic library and evidence base—containing dictionaries, grammar references, literature, and terminology resources. Source material is selected, cleaned, and reorganized into topic-focused SLS resources that form the empirical foundation for the wider ecosystem (`spec/`, `data/`, `ai/`).
 
 ## Layout
 
@@ -22,16 +22,16 @@ wordlists/               Headwords only — no definitions, no grammatical codes
                          covered by the qaamuus/ entries)
   README.md              format and intended uses
 
-naxwe/                   Somali grammar reference (source: Barashada Naxwaha
-                         Af Soomaaliga, Puglielli & Mansuur)
+naxwe/                   Somali grammar reference (SLS synthesis of Aasaaska
+                         Naxwaha Af Soomaaliga and Barashada Naxwaha Af
+                         Soomaaliga)
   00-sources.md          collection inventory (title, author, year)
   00-luqadda-iyo-fekerka.md … 12-noocyada-weeraha.md
                          13 chapter files covering phonology, word formation,
                          noun/pronoun/numeral/verb morphology, and syntax
   13-aasaaska-naxwaha.md … 17-naxwaha-af-soomaaliga.md
                          supplementary Somali grammars (1973–school texts)
-  ereyfur.tsv            grammar-term glossary: Somali / English / Italian,
-                         tab-separated, UTF-8
+  ereyfur.md             Somali / English grammar terms + Somali explanations
   README.md              chapter map and conventions
 
 erey-bixin/              Bilingual technical glossaries (English — Somali)
@@ -114,6 +114,11 @@ Suitable for spellcheckers, autocomplete, tokenisers, and NLP/ML training data.
 
 - UTF-8, LF line endings.
 - Files named in lowercase kebab-case.
-- Do not hand-edit entries in this directory. Corrections happen downstream when
-  records are structured into `data/` (where they carry provenance and review status).
-- OCR artifacts are preserved verbatim; fix downstream, not here.
+- Resource files contain usable topic content, not page-by-page book or PDF
+  transcriptions.
+- Exclude cover text, author biographies, acknowledgements, contents pages,
+  page numbers, running headers, exercises, and unrelated bibliography blocks.
+- Reorganize retained content under an SLS-native topic hierarchy. Cross-link
+  canonical resources instead of duplicating long explanations or paradigms.
+- Remove OCR artifacts during reviewed cleanup. Record substantive changes and
+  provenance in `data/` and the relevant file-review record.

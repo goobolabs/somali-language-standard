@@ -11,6 +11,10 @@ iyo **fal** — ereyga war ka bixiya yeelaha.
 Falku waxaa loo qaybin karaa laba qayb waaweyn: **sal** iyo
 **nadooc**.
 
+Lambarada tusaalooyinku waxay raacayaan xulashada isha. Meelaha ay
+lambaradu ka boodaan ama ay dib uga bilaabmaan laguma buuxin
+tusaalooyin la qiyaasay, dibna looma lambareyn.
+
 7) *Anigu waan keen-ayaa.*
 8) *Farxiyo way keen-aysaa.*
 
@@ -58,7 +62,7 @@ arrintan waxay u gaar tahay qofka 3aad ee keliga ah:
 Xarafka *-t-* badanaa wuxuu isu beddelaa *d, sh, s*, ku xiran nooca
 shibbanaha ama shaqalka uu ku dhammaado salku: *cun+tay* →
 *cuntay*; *qaad+tay* → *qaadday*; *badi+tay* → *badisay*; *gal+tay* →
-*qashay*.
+*gashay*.
 
 ### 7.1.2 Amminka falka
 
@@ -68,8 +72,8 @@ shibbanaha ama shaqalka uu ku dhammaado salku: *cun+tay* →
 
 Saddex ammin faleed, loo eegayo waqtiga uu hadalku dhacayo:
 
-- **Joogto** (cunayaa): dhacdo dhacaysa isla marka hadluhu weerta
-  soo saarayo.
+- **Joogto** (*cunayaa/cunaa*): dhacdo lala xiriirinayo amminka
+  hadda; muuqaalka ayaa kala saara socota iyo caadaleyda.
 - **Tagto** (cunay): dhacdo dhacday ka hor waqtiga la hadlayo.
 - **Timaaddo** (cuni doonaa): dhacdo iman doonta ammin
   kaddambeeya.
@@ -98,16 +102,18 @@ duwan:
 Saddexdanba waa amminkooda tagto, laakiin **muuqaal** ka duwan
 buu leeyahay:
 
-- **Tagto fudud** (*cunay*): arrin dhacday oo isla markiiba ku ekaatay
-  (mar qura dhacday, aan raagin/sii socon).
+- **Tagto fudud** (*cunay*): arrin tagto ahaan loo soo bandhigay iyadoo
+  dhammaystiran; qaabku keligiis ma sheego inay mar qura dhacday ama
+  muddada ay qaadatay.
 - **Tagto socota** (*cunayay*): arrin dhacday oo muddo sii socotay:
   *Markaan arkay wuu hurdayay.*
 - **Tagto caadaley** (*cuni jiray*): arrin, waqti tagay gudihiisa, dhawr
   jeer ku soo noqnoqotay (aan hadda socon): *Markaan yaraa dugsi
   quraan baan dhigan jiray.*
 
-Joogtadu laba muuqaal keliya bay leedahay (fudud iyo socota,
-caadaley), timaaddadu midna ma laha:
+Joogtadu laba muuqaal bay ku leedahay shaxdan (**socota** iyo
+**caadaley**); timaaddada muuqaal-hoosaadyo laguma kala saarin
+cutubkan:
 
 | Ammin | Fudud | Socota | Caadaley |
 | --- | --- | --- | --- |
@@ -158,7 +164,7 @@ qaab qofeedka oo idil:
 | 3aad keli lab | ha qoro |
 | 3aad keli dheddig | ha qorto |
 | 1aad wadar | aan qorno |
-| 2aad wadar | aad qorteen |
+| 2aad wadar | aad qortaan |
 | 3aad wadar | ha qoreen |
 
 **e) Hab dhimman** — weer dhimman ku xiran weer kale: *Waxaan
@@ -179,10 +185,15 @@ Shaxda soo koobaysa qaabka qofka 3aad keliga ah, hab kasta:
 | Habka | Qaab faleedka (cun) |
 | --- | --- |
 | Ebyoon | (waa) cunaa |
-| Shardiley | (waa) cunlahaa |
+| Shardiley | (waa) cuni lahaa |
 | Amar | cun! |
 | Talo | (ha) cuno |
 | Dhimman | (uu) cuno |
+
+Hababka iyo diidmadooda waxaa lagu sii faahfaahiyey
+[`08-hogatuska-baradigmaha-falalka.md`](08-hogatuska-baradigmaha-falalka.md),
+halka weero talo iyo weero dhimman lagu sharxay
+[`12-noocyada-weeraha.md`](12-noocyada-weeraha.md).
 
 ## 7.2 Noocyada falalka
 
@@ -217,14 +228,19 @@ Tusaale isbarbardhig (joogto caadaley / tagto fudud / timaaddo):
 | III | xiro | xirtaa | xirtay | xiran doonaa |
 | III | raadso | raadsadaa | raadsaday | raadsan doonaa |
 
+Isrogrogga oo kooban waxaa lagu soo ururiyey
+[`morphology/02-falalka.md`](../morphology/02-falalka.md); baaradigmayaasha
+iyo diidmadooda oo faahfaahsanna waxay ku jiraan
+[`08-hogatuska-baradigmaha-falalka.md`](08-hogatuska-baradigmaha-falalka.md).
+
 #### 7.2.1.2 Falal sifo
 
 Koox fal ah oo micnahoodu u dhow yahay sifo (adjective-like verbs):
 waxay ka hadlayaan yeelaha waxa uu yahay ama astaamihiisa u gaar
-ah: *nool*, *adag*, *dheer*, *badan*, *rimman*. Waxay ka maqan yihiin
-amminka socda (joogto socota, tagto socota). Joogtadu waxay ku
-rogrogantaa iyadoo salka fal sifo lagu lammaaniyo fal-ahaansho oo
-leh qaab joogto:
+ah: *nool*, *adag*, *dheer*, *badan*, *rimman*. Falanqaynta cutubkan,
+kooxdani waxay ka maqan tahay amminka socda (joogto socota, tagto
+socota). Joogtadu waxay ku rogrogantaa iyadoo salka fal sifo lagu
+lammaaniyo fal-ahaansho oo leh qaab joogto:
 
 | Qofka | Adag |
 | --- | --- |
@@ -236,7 +252,7 @@ leh qaab joogto:
 | 2aad wadar | waad adagtihiin |
 | 3aad wadar | way adagyihiin |
 
-Falalka sifo waxaa loo kala saaraa laba koox:
+Cutubku falalka sifo wuxuu u kala saaraa laba koox:
 
 a) koox yar oo asal ah: *adag, cad, bisil, dheer, eg, culus, cas,
 dhow, fayow, cusub, kulul, fog, jecel, madow, macaan, oggol,
@@ -256,24 +272,29 @@ maahan dibkabayaal:
 
 | Qofka | Aqaan (horkabe) | Cun (dibkabe) |
 | --- | --- | --- |
-| 1aad keli | waan aqaanaa | waan cunaa |
-| 2aad keli | waad t-aqaanaa | waad cun-t-aa |
-| 3aad keli lab | wuu y-aqaanaa | wuu cunaa |
-| 3aad keli dheddig | way t-aqaanaa | way cun-t-aa |
-| 1aad wadar | waan n-aqaanaa | waan cun-n-aa |
+| 1aad keli | waan aqaan | waan cunaa |
+| 2aad keli | waad t-aqaan | waad cun-t-aa |
+| 3aad keli lab | wuu y-aqaan | wuu cunaa |
+| 3aad keli dheddig | way t-aqaan | way cun-t-aa |
+| 1aad wadar | waan n-aqaan | waan cun-n-aa |
 | 2aad wadar | waad t-aqaaniin | waad cun-t-aan |
 | 3aad wadar | way y-aqaaniin | way cun-aan |
 
 Farqi kale: falalkan waxay joogto/tagto ku kala saaraan iswaydaar
-shaqalleed. Shaqalka *a* ee salka, marka joogto ah, wuxuu isu
-beddelaa *i* marka tagto laga dhigayo (*aqaanaa* → *aqiin*).
+shaqalleed. Shaqalka *a* ee qaabka joogtada wuxuu isu beddelaa *i*
+marka tagto laga dhigayo, horkabaha qofkuna wuu sii jiraa (1aad keli:
+*aqaan* → *iqiin*).
 
-Falalka ugu caansan kooxdan: *aqoon, aal, imow, dheh, ahow*.
+Falalka ugu caansan kooxdan: *aqoon, ool, imow, dheh, ahow*.
 
 Falka *ahow* gaar ahaan wuxuu horkabe u lahaa joogtada oo keli
 ah; inta soo hartay wuxuu u dhaqmaa sida fal sifo: *ahay, tahay,
 yahay, tahay, nahay, tihiin, yihiin* (joogto); *ahaa, ahayd, ahaa,
 ahayd, ahayn, ahaydeen, ahaayeen* (tagto).
+
+Baaradigmayaasha buuxa ee *aqoon, ool, dheh/iri, imow,* iyo *ahow*
+waxa lagu ururiyey
+[`08-hogatuska-baradigmaha-falalka.md`](08-hogatuska-baradigmaha-falalka.md#83-falal-horkabayaal-leh).
 
 ### 7.2.2 Noocyada falkaaliyeyaasha
 
@@ -288,11 +309,11 @@ yeelaha. Waxaa laba koox loo qaybiyaa:
 
 **I. Falkaaliyeyaasha kooxda A** — *jir*, *doon*, *leh*:
 
-- *jir* — waxaan looga maarmi karin samaynta **tagto socota**:
+- *jir* — wuxuu sameeyaa **tagto caadaley**:
   *Ayeeyo baa iiga sheekayn jirtay miyiga.*
-- *doon* — waxaan looga maarmi karin samaynta **timaaddada**:
-  *Berri baa laga hadli doona.*
-- *leh* — waxaan looga maarmi karin samaynta **habka shardiileyga**:
+- *doon* — wuxuu sameeyaa **timaaddada**:
+  *Berri baa laga hadli doonaa.*
+- *leh* — wuxuu sameeyaa **habka shardiileyga**:
   *Waan ku siin lahaa ee waanan haynin.*
 
 Falka koobaad (fal aasaasiga ah) qaabkiisu isma beddelo — waxaa
@@ -305,12 +326,12 @@ doonayaa*).
 si loo cabbiro suurtagal, rabitaan iwm: *kar*, *waay*, *rab*, *gaar*,
 *la'*. Kuwani:
 
-a) ma lumiyaan micnihiisa asalka ah: *Waan akhrin karaa* — *kar*
+a) ma lumiyaan micnahooda asalka ah: *Waan akhrin karaa* — *kar*
    wuxuu ku kordhiyaa micnaha "awood".
 b) ma xirna hal ammin/hab: *Wuu ordi karaa* (joogto caadaley),
    *Wuu ordi karay* (tagto fudud), *Wuu ordi karayaa* (joogto socota).
 c) waxay iyaguna u baahan karaan falkaaliyaha kooxda A, oo yeelan
-   qaab masdar: *Wuu ordi kari doona.*
+   qaab masdar: *Wuu ordi kari doonaa.*
 
 Waxay xitaa noqon karaan fal madaxbannaan: *Dayaaraddii Berbera
 bay gaartay.*
@@ -335,6 +356,11 @@ kale, aan layeele ahayn, oo horyaale ku dhegan:
 
 3) *Cali baa Jannaale u socda.* — magudbe (*u* — horyaale)
 4) *Cali baa Jannaale arkay.* — gudbe (magac toos ah, horyaale la'aan)
+
+Xiriirka horyaalayaasha iyo magacyada falka raaca waxaa lagu faahfaahiyey
+[`06-sarfaha-iskuxireyaasha.md`](06-sarfaha-iskuxireyaasha.md#61-horyaalayaasha),
+halka mawduucyada weerta fudud lagu sharxay
+[`09-weer-fudud.md`](09-weer-fudud.md).
 
 Fal gudbayaal badan baa noqon kara fal magudbayaal, iyadoo qaabka
 la beddelayo — iyo si kale:
@@ -361,7 +387,7 @@ Lifaaqan haddii lagu dhejiyo sal ka samaysan fal magudbe, fal gudbe
 buu ka dhigayaa: *kar* (magudbe: *Shaahu wuu karayaa*) →
 *karin* (gudbe: *Cali shaah buu karinayaa*).
 
-Lifaaqu labo qaab buu yeeshaa: **-in** (marka falku leeyahay
+Falanqaynta cutubkan, lifaaqu labo qaab buu yeeshaa: **-in** (marka falku leeyahay
 timaaddo, shardiley, tagto caadaley, joogto socota) iyo **-i** (inta soo
 hartay): *waan kariyey* (tagto fudud), *waan kariyaa* (joogto
 caadaley), *inaan kariyo* (dhimman).
@@ -381,10 +407,15 @@ Tusaalooyin fal (isrogrogga I → II masdar):
 | daal | daali | daalin |
 | dhal | dhali | dhalin |
 
+Lifaaqyadan iyo magacyada falalka ka farcama waxaa si kooban loogu
+ururiyey
+[`morphology/03-dhismaha-ereyga.md`](../morphology/03-dhismaha-ereyga.md).
+
 #### 7.3.2.2 -an
 
-Lifaaqa falashada (middle/reflexive): wuxuu tilmaamaa marka
-yeeluhu isu qabto hawsha naftiisa:
+Lifaaqa falashada (middle/reflexive) wuxuu tilmaami karaa marka
+yeeluhu hawsha naftiisa ku qabto. Tusaalooyinkan wuxuu leeyahay
+akhriska soo socda:
 
 29) *Wuu dhaqayaa.* / 30) *Wuu dhaqanayaa.* — dhaqashada naftiisa
 31) *Wuu beerayaa.* / 32) *Wuu beeranayaa.* — beerashada naftiisa
@@ -397,11 +428,13 @@ Lifaaqu saddex qaab u muuqda: **-an** (masdarka + falkaaliye + joogto
 socota), **-o** (amar keli ah), **-at** (inta soo hartay, isbeddel codeed
 leh: *bar+at+tay* → *baratay*).
 
-Waxaa kaloo jira lifaaqyo kale oo kooban:
+#### 7.3.2.3 Lifaaqyo kale
+
+Waxa kale oo jira lifaaqyo kooban:
 
 - **-am** — lifaaq yeele dahsoon (unaccusative): fal gudbe wuxuu
-  yeeshaa qaab yeele-dahsoon markii layeeluhu (*albaab*) noqdo
-  yeele: *Wiilku albaabka buu furay* → *Albaabku wuu furmay*.
+  yeeshaa qaab uu layeelihii (*albaab*) naxwe ahaan yeele u noqdo:
+  *Wiilku albaabka buu furay* → *Albaabku wuu furmay*.
 - **-siin** — lifaaq yeelsiin (causative-of-causative): *Hooyo cunuggeeda
   ayay caano cabsiinaysaa.*
 - **-ayn/-eyn** — abuura falal ka soo jeeda magacyo (*waan
@@ -409,15 +442,15 @@ Waxaa kaloo jira lifaaqyo kale oo kooban:
   caddaynayaa* — ka yimid *cad*).
 - **-aan** — fal cusub ka samaysan sal fal sifo, micne "noqosho":
   *Wuu dheeraanayaa* (ka yimid *dheer*).
-- **-oob** — fal ka dhigaa magac, micne "noqosho": *Wuu biyoobayaa*
+- **-oob** — magac ayuu fal ka sameeyaa, micne "noqosho": *Wuu biyoobayaa*
   (ka yimid *biyo*); *Odoyoobay* (ka yimid *oday*).
-- **-ood** — fal ka dhigaa magac, micne "dareemid": *Wuu dhaxmooday*
+- **-ood** — magac ayuu fal ka sameeyaa, micne "dareemid": *Wuu dhaxmooday*
   (ka yimid *dhaxan*); *Carood* (ka yimid *caro*).
 
 ### 7.3.3 Magacyo ka soo farcama falal
 
-Sidii falal laga dhigi karay magacyo, si la mid ah magac ayaa laga
-dhigi karaa fal, iyadoo lagu lifaaqaayo dibkabayaal.
+Sidii magacyo falal looga samayn karay, si la mid ah falal ayaa
+magacyo looga samayn karaa iyadoo lagu lifaaqayo dibkabayaal.
 
 87) *Qoslidda badan ma fiicna.* — **magac faleed**
 88) *Halkan qosle looma baahna.* — **magac fale**
@@ -434,5 +467,10 @@ Saddexda nooc:
   sifo: *yaraan(ta)*). Dhammaantood waa **dheddig**.
 - **Magac fale** — dibkabaha *-e* (ama *-ye* marka salku ku
   dhammaado shaqal): *qosle(ha)*, *kariye(ha)*, *sameeye(ha)*,
-  *barte(ha)*, *yare(ha)*. Waa **lab**; qaab dheddig (*-te*) ayaa jira
-  laakiin ka yaraan (*abuurto*, *karise*, *barate*).
+  *barte(ha)*, *yare(ha)*. Waa **lab**. Isha waxay kaloo bixisaa
+  qaabab dheddig oo ay ku xiriiriso *-te*, balse tusaalooyinkeedu ma
+  wada muujinayaan hal qaab: *abuurto*, *karise*, *barate*.
+
+Saddexda qaab ee ugu dambeeya sidii ishu u qortay ayaa loo hayaa.
+Kaydku si madax-bannaan uma xaqiijinayo, sidaas darteed loogama
+dhisin xeer guud, beddelaadna looma qiyaasin.

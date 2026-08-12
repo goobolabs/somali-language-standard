@@ -1,9 +1,13 @@
 # 5. Sarfaha tirada
 
-**Tiradu** (numerals) waa magacyo tilmaamaya tirada wax lagu tiriyo.
-Waxay u qaybsamaan **tiraale** (cardinal) iyo **jagaale** (ordinal).
+Cutubkani wuxuu **tirada** (numerals) u falanqaynayaa magacyo tilmaamaya
+inta ay le'eg yihiin waxyaalaha la tirinayo. Wuxuu kala saarayaa
+**tiraale** (cardinal) iyo **tiraale jago** (ordinal), oo sidoo kale loo
+yaqaan **jagaale**.
 
 ## Tiraalayaasha
+
+Shaxdan kooban waa muunad tiraalayaal ah; ma aha taxane dhammaystiran:
 
 | # | Tiraale | # | Tiraale |
 | --- | --- | --- | --- |
@@ -23,49 +27,59 @@ Waxay u qaybsamaan **tiraale** (cardinal) iyo **jagaale** (ordinal).
 | 14 | afar iyo toban | | |
 | 15 | shan iyo toban | | |
 
-Marka tiro ku dhex jirto weer, waxaa la dhigaa magaca hortiisa (u
-dhow), waxayna cayimaan inta ay le'egtahay tirada shayga laga
-hadlayo:
+Kala duwanaanta *kow* ee tirinta iyo *hal* ee magaca hortiisa waxa kale
+oo lagu faahfaahiyey
+[`17-naxwaha-af-soomaaliga.md`](17-naxwaha-af-soomaaliga.md#101-tiro-koob-iyo-tiro-jagaale).
 
-| Lab (magacu isma beddelo) | Dheddig (magacu wuxuu raacaa -ood) |
+Marka tiraale ku dhex jiro weer, waxaa la dhigaa magaca hortiisa (u
+dhow), wuxuuna cayimaa inta ay le'eg tahay tirada shayga laga hadlayo:
+
+| Magacu qaabkan kuma beddelmo | Magacu wuxuu qaataa qaab -ood leh |
 | --- | --- |
 | laba nin | afar bilood |
 | saddex buug | shan maalmood |
 | toban qalin | sagaal meelood |
 
-Farqiga u dhexeeya labada koox: magacyada **labka ah** (nin, buug,
-qalin) ma muujiyaan isbeddel — ma wadaroobaan. Magacyada
-**dheddigga ah** (bil, maalin, meel) waxay raacaan dibkabaha
-**-ood**, oo ah xaalad u caadi ah magacyada dheddigga ah marka la
-adeegsanayo tirada, laga reebo *kow* (1) oo lagu beddelo *hal*.
-
-Dibkabaha -ood ka sokow, magacyada dheddigga ah waxay kaloo yeeshaan
-qaab wadareed marka tiro ku darsan tahay: *lix fardood* — *fardood*
-wuxuu ka kooban yahay *fardo* (qaabka wadareed ee *faras*) + lifaaqa
+Shaxdu waxay muujinaysaa laba qaab oo magaca iyo tiraaluhu isula
+socdaan: *nin, buug,* iyo *qalin* qaabkooda ma beddelaan;
+*bil, maalin,* iyo *meel* waxay yeeshaan qaab **-ood** leh. Qaabkaas
+laguma go'aamin karo lab iyo dheddig oo keliya. Tusaale ahaan, *faras*
+waa magac lab, laakiin waxa la yiraahdaa *lix fardood*: *fardood* wuxuu
+ka kooban yahay *fardo* (qaabka wadareed ee *faras*) + dibkabaha
 *-ood*.
+
+Marka la tirinayo waxaa kale oo la kala saaraa *kow* iyo *hal*: tirintu
+*kow* ayay ka bilaabataa, laakiin magaca hortiisa waxaa la adeegsadaa
+*hal*. Faahfaahinta jinsiga, wadarta, iyo magacyada tirsama waxa haya
+[`02-sarfaha-magacyada.md`](02-sarfaha-magacyada.md).
 
 ### Tiraalayaasha iyo magacyada aan tirsamin
 
-Tiraalayaashu waxay raaci karaan oo keliya magacyada **tirsama**.
-Suurtagal ma aha in la yiraahdo \**shan sonkor*, \**toban bur*,
-\**labo saliid* (walxaha tirsami kari maayo). Waxaa loo baahan yahay
-qiyaas lagu cabbiro walaxdaas:
+Marka loogu adeegsanayo macnahooda caadiga ah ee walax aan qaybo loo
+kala tirin, tiraalayaashu si toos ah uma raacaan magacyada aan
+**tirsamin**. Sidaas darteed lama yiraahdo \**shan sonkor*, \**toban
+bur*, ama \**labo saliid*, waayo walxaha si toos ah looma tirin karo.
+Waxaa loo baahan yahay qiyaas lagu cabbiro walaxdaas:
 
 - *Shan kiilo oo sonkor ah.*
 - *Toban kiintaal oo bur ah.*
 - *Laba dhalo oo saliid ah.*
 
-Tiraalayaasha waxaa kaloo lagu dari karaa dibkabaha **-eeya**
-(tiro-ku-dhowaad): *tobaneeye naagood*, *labaatameeye nin*. Habkan
-waxaa loo adeegsan karaa oo keliya tiraalayaasha *toban* iyo kaddib
-(*tobaneeyo* … *sagaashameeyo*).
+Kala-soocidda magacyada tirsama iyo kuwa aan tirsamin waxa kale oo lagu
+faahfaahiyey
+[`morphology/01-magacyada.md`](../morphology/01-magacyada.md#magacyada-aan-wadar-yeelan).
 
-## Tiro jagaale
+Tiraalayaasha waxaa kaloo lagu dari karaa dibkabaha **-eeye** si loo
+sameeyo tiro-ku-dhowaad: *tobaneeye naagood*, *labaatameeye nin*.
+Qaababka la xiriira ee **-eeyo** leh waxaa ka mid ah taxanaha tobannada
+ee halkan lagu soo koobay: *tobaneeyo* … *sagaashameeyo*.
 
-Tirooyinkani waxay tilmaamaan jagada ama darajada uu shay kaga jiro
-taxane uu ka tirsan yahay:
+## Tiraale jago
 
-| Jagaale | Jagaale |
+**Tiraale jago**, ama **jagaale**, wuxuu tilmaamaa jagada ama darajada
+uu shay kaga jiro taxane uu ka tirsan yahay:
+
+| Tiraale jago | Tiraale jago |
 | --- | --- |
 | koowaad | kow iyo tobanaad |
 | labaad | labo iyo tobanaad |
@@ -80,9 +94,9 @@ taxane uu ka tirsan yahay:
 | soddonaad | afartanaad |
 | kontonaad | kumaad |
 
-Tirooyinkan waxay ka samaysan yihiin tiraalayaasha oo lagu lifaaqay
-dibkabaha **-aad**: *fasalka labaad*, *ardayga lixaad*, *magaalada
-labaatanaad*. Farqi qaab ahaaneed oo la xiriira: tirada jagaalaha
-ahi waxay ka dib maraan magaca (dhanka midig — *fasalka labaad*),
-halka tiraalayaasha ay ka horreeyaan magaca (dhanka bidix — *laba
-fasal*).
+Guud ahaan tiraale jago waxaa laga dhisaa tiraale iyo dibkabaha
+**-aad**, iyadoo mararka qaarkood qaabka salka wax ka beddelmo:
+*fasalka labaad*, *ardayga lixaad*, *magaalada labaatanaad*. Farqi qaab
+ahaaneed oo la xiriira: **tiraale jago** wuxuu ka dambeeyaa magaca
+(dhanka midig — *fasalka labaad*), halka **tiraale** ka horreeyo magaca
+(dhanka bidix — *laba fasal*).

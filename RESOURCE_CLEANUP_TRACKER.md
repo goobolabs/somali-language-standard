@@ -10,6 +10,15 @@ This is the live, file-by-file queue for `resources/`. Work each row in order:
 
 Use `[x]` only for completed stages. `P0` is the active starting file; work then proceeds through P1, P2, and P3 in order.
 
+Current work: all 21 naxwe tracker rows have approved audits and applied
+cleanups awaiting maintainer cleanup review: the source registry, content files
+00 through 17, `README.md`, and the Somali–English grammar terminology
+reference `ereyfur.md`. A primary-PDF source pass subsequently corrected the
+1999 provenance, restored source-backed structure in files 07 and 09, and added
+Somali explanations to all 268 glossary terms; these remain within the same
+cleanup-review gate. None is marked complete. The records are in
+`docs/resource-cleanup/file-reviews/naxwe/`.
+
 | Priority | Resource file | Audit | Audit approval | Cleanup | Cleanup approval | Complete |
 | --- | --- | --- | --- | --- | --- | --- |
 | P3 | `resources/README.md` | [ ] | [ ] | [ ] | [ ] | [ ] |
@@ -45,27 +54,27 @@ Use `[x]` only for completed stages. `P0` is the active starting file; work then
 
 | Priority | Resource file | Audit | Audit approval | Cleanup | Cleanup approval | Complete |
 | --- | --- | --- | --- | --- | --- | --- |
-| P2 | `resources/naxwe/00-luqadda-iyo-fekerka.md` | [ ] | [ ] | [ ] | [ ] | [ ] |
-| P3 | `resources/naxwe/00-sources.md` | [ ] | [ ] | [ ] | [ ] | [ ] |
-| P2 | `resources/naxwe/01-ereyada.md` | [ ] | [ ] | [ ] | [ ] | [ ] |
-| P2 | `resources/naxwe/02-sarfaha-magacyada.md` | [ ] | [ ] | [ ] | [ ] | [ ] |
-| P2 | `resources/naxwe/03-sarfaha-tifaftireyaasha.md` | [ ] | [ ] | [ ] | [ ] | [ ] |
-| P2 | `resources/naxwe/04-sarfaha-magacuyaallada.md` | [ ] | [ ] | [ ] | [ ] | [ ] |
-| P2 | `resources/naxwe/05-sarfaha-tirada.md` | [ ] | [ ] | [ ] | [ ] | [ ] |
-| P2 | `resources/naxwe/06-sarfaha-iskuxireyaasha.md` | [ ] | [ ] | [ ] | [ ] | [ ] |
-| P2 | `resources/naxwe/07-sarfaha-falalka.md` | [ ] | [ ] | [ ] | [ ] | [ ] |
-| P2 | `resources/naxwe/08-hogatuska-baradigmaha-falalka.md` | [ ] | [ ] | [ ] | [ ] | [ ] |
-| P2 | `resources/naxwe/09-weer-fudud.md` | [ ] | [ ] | [ ] | [ ] | [ ] |
-| P2 | `resources/naxwe/10-dhismaha-oraah-magaceedyada.md` | [ ] | [ ] | [ ] | [ ] | [ ] |
-| P2 | `resources/naxwe/11-weerta-adag.md` | [ ] | [ ] | [ ] | [ ] | [ ] |
-| P2 | `resources/naxwe/12-noocyada-weeraha.md` | [ ] | [ ] | [ ] | [ ] | [ ] |
-| P1 | `resources/naxwe/13-aasaaska-naxwaha.md` | [ ] | [ ] | [ ] | [ ] | [ ] |
-| P1 | `resources/naxwe/14-naxwaha-cusub.md` | [ ] | [ ] | [ ] | [ ] | [ ] |
-| P0 | `resources/naxwe/15-naxwaha-sifayneed.md` | [ ] | [ ] | [ ] | [ ] | [ ] |
-| P1 | `resources/naxwe/16-weeraynta-soomaaliga.md` | [ ] | [ ] | [ ] | [ ] | [ ] |
-| P1 | `resources/naxwe/17-naxwaha-af-soomaaliga.md` | [ ] | [ ] | [ ] | [ ] | [ ] |
-| P3 | `resources/naxwe/README.md` | [ ] | [ ] | [ ] | [ ] | [ ] |
-| P2 | `resources/naxwe/ereyfur.tsv` | [ ] | [ ] | [ ] | [ ] | [ ] |
+| P2 | `resources/naxwe/00-luqadda-iyo-fekerka.md` | [x] | [x] | [x] | [ ] | [ ] |
+| P3 | `resources/naxwe/00-sources.md` | [x] | [x] | [x] | [ ] | [ ] |
+| P2 | `resources/naxwe/01-ereyada.md` | [x] | [x] | [x] | [ ] | [ ] |
+| P2 | `resources/naxwe/02-sarfaha-magacyada.md` | [x] | [x] | [x] | [ ] | [ ] |
+| P2 | `resources/naxwe/03-sarfaha-tifaftireyaasha.md` | [x] | [x] | [x] | [ ] | [ ] |
+| P2 | `resources/naxwe/04-sarfaha-magacuyaallada.md` | [x] | [x] | [x] | [ ] | [ ] |
+| P2 | `resources/naxwe/05-sarfaha-tirada.md` | [x] | [x] | [x] | [ ] | [ ] |
+| P2 | `resources/naxwe/06-sarfaha-iskuxireyaasha.md` | [x] | [x] | [x] | [ ] | [ ] |
+| P2 | `resources/naxwe/07-sarfaha-falalka.md` | [x] | [x] | [x] | [ ] | [ ] |
+| P2 | `resources/naxwe/08-hogatuska-baradigmaha-falalka.md` | [x] | [x] | [x] | [ ] | [ ] |
+| P2 | `resources/naxwe/09-weer-fudud.md` | [x] | [x] | [x] | [ ] | [ ] |
+| P2 | `resources/naxwe/10-dhismaha-oraah-magaceedyada.md` | [x] | [x] | [x] | [ ] | [ ] |
+| P2 | `resources/naxwe/11-weerta-adag.md` | [x] | [x] | [x] | [ ] | [ ] |
+| P2 | `resources/naxwe/12-noocyada-weeraha.md` | [x] | [x] | [x] | [ ] | [ ] |
+| P1 | `resources/naxwe/13-aasaaska-naxwaha.md` | [x] | [x] | [x] | [ ] | [ ] |
+| P1 | `resources/naxwe/14-naxwaha-cusub.md` | [x] | [x] | [x] | [ ] | [ ] |
+| P0 | `resources/naxwe/15-naxwaha-sifayneed.md` | [x] | [x] | [x] | [ ] | [ ] |
+| P1 | `resources/naxwe/16-weeraynta-soomaaliga.md` | [x] | [x] | [x] | [ ] | [ ] |
+| P1 | `resources/naxwe/17-naxwaha-af-soomaaliga.md` | [x] | [x] | [x] | [ ] | [ ] |
+| P3 | `resources/naxwe/README.md` | [x] | [x] | [x] | [ ] | [ ] |
+| P2 | `resources/naxwe/ereyfur.md` | [x] | [x] | [x] | [ ] | [ ] |
 
 ## Orthography
 
