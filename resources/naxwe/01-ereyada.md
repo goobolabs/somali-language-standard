@@ -14,6 +14,10 @@ waa inuu ereyo badan ka yaqaanno luqaddaas, in kastoo aanay
 keligood ku filnayn si af loo hantiyo: sida guri looga baahan yahay
 alaab iyo aqoonta xeerarka dhismaha labadaba.
 
+Weereynta iyo sida ereyadu u dhisaan weero waxa lagu faahfaahiyey
+[`09-weer-fudud.md`](09-weer-fudud.md) ilaa
+[`12-noocyada-weeraha.md`](12-noocyada-weeraha.md).
+
 ## 1.1 Erey-abuurid
 
 Ereyada ay luqadi leedahay inta badan waa qani: ereyo badan ayaa ka
@@ -22,12 +26,10 @@ kara laba erey ama in ka badan oo la isu geeyey.
 
 ### 1.1.1 Farac (derivation)
 
-Wax kasta ama fikrad kasta waxaa loo alifay erey matalaya. Mabda'
-ahaan, erey kastaa waa inuu kaga duwanaadaa ereyada kale — haba
-yaraatee qayb — si aan la isugu qaldin: haddii ereyga *nal* loo
-adeegsaday shay la iftiinsado, isla ereygaas looma isticmaali karo
-shay kale. Beddelidda ugu yaraan hal xaraf waxay dhalisaa erey kale:
-*nal*, *dal*, *gal*, *bal*.
+Waxyaabaha iyo fikradaha waxaa lagu matalaa ereyo. Mabda' ahaan,
+beddelidda qayb ka mid ah qaabka ereygu waxay dhalin kartaa erey kale:
+*nal*, *dal*, *gal*, *bal*. Tani kama dhigna in erey walba hal micne
+oo keliya leeyahay; micne-ballaarinta ayaa hoos lagu faahfaahiyey.
 
 Ereyo cusub waxaa laga soo farcamin karaa ereyo hore u jiray,
 iyadoo lagu daro qayb la yiraahdo **dibkabe** (suffix):
@@ -43,6 +45,10 @@ iyadoo lagu daro qayb la yiraahdo **dibkabe** (suffix):
 
 Ereyga cusubi wuxuu leeyahay macno ka duwan kii hore: *fardo* waa
 noole xayawaan ka mid ah, *fardoole*-se waa qofka iska leh fardaha.
+
+*Fardoole* waa qaabkii isha. Qaamuuska iyo liiska ereyadu waxay
+hayaan *fardooley*, laakiin kaydku ma caddaynayo in labadaas qaab
+isku hawl yihiin; sidaas darteed halkan laguma simin qiyaas.
 
 Dibkabayaashu waa qayb ka mid ah ereyada qaarkood: inkastoo ay
 macno soo gudbinayaan, keligood ma istaagi karaan — waxay u baahan
@@ -75,9 +81,9 @@ muuqaal kala duwan, hase ahaatee leh macno isku mid ah:
 2) *Illinku wuu xiran yahay.*
 
 Labadaba waxaa laga hadlayaa isla shaygii — meesha laga baxo ama
-laga galo dhismo. *Irrid* iyo *illin* waa sammi qumman; farqiga keliya
-ee u dhexeeyaa waa gobolka la joogo, oo gobollada qaarkood waxaa ku
-badan *irrid*, kuwana *illin*.
+laga galo dhismo. Sida ay ishu u sharraxayso, *irrid* iyo *illin* waa
+sammi qumman; farqiga keliya ee u dhexeeyaa waa gobolka la joogo, oo
+gobollada qaarkood waxaa ku badan *irrid*, kuwana *illin*.
 
 Sammiyada saas isu waafaqaa way kooban yihiin: inta badan laba erey
 oo sammi ah waxaa jira wax yar oo ay macne ahaan ku kala duwan
@@ -92,9 +98,10 @@ tahay, caadi ma aha — soomaalidu qalbiga waxay u taqaannaa dareen.
 Waxaa kaloo la yiraahdaa *Cali qalbi ma laha*, oo loola jeedo "xusuus
 ma laha".
 
-Sidaas oo kale *buug* iyo *kitaab* (oo asalkoodu ka soo kala jeedo
-ingiriisi iyo carabi) isla shay bay tilmaamaan, laakiin af soomaaligu
-si kala duwan buu u adeegsadaa: *kitaab quraan* waa la oggol yahay,
+Sida ay ishu u sharraxayso, *buug* iyo *kitaab* (oo asalkoodu ka soo
+kala jeedo ingiriisi iyo carabi) isla shay bay tilmaamaan, laakiin af
+soomaaligu si kala duwan buu u adeegsadaa: *kitaab quraan* waa la
+oggol yahay,
 \**buug quraan* lama oggola; *buug carabi ah* iyo *kitaab carabi ah*
 labadaba waa la oggol yahay; *buug ingiriisi ah* ayaa laga jecel
 yahay *kitaab ingiriisi ah*.
@@ -109,13 +116,13 @@ Ereyadu waxay xiriir yeelan karaan iyagoo micne ahaan lid isku ah;
 markaas waxaa la yiraahdaa **lid** ama **caqsi**:
 
 - *macaan* ↔ *kharaar*
-- *dhallinyaro* ↔ *dug*
+- *dhallinyaro* ↔ *duug*
 - *cad* ↔ *madow*
 - *sammaan* ↔ *xummaan*
 - *nolol* ↔ *geeri*
 
 Erey haddii uu leeyahay macno hal ka badan wuxuu yeelan karaa ereyo
-badan oo lid ku ah: *dug* wuxuu lid ku yahay *dhallinyaro*, wuxuuse
+badan oo lid ku ah: *duug* wuxuu lid ku yahay *dhallinyaro*, wuxuuse
 kaloo lid ku noqon karaa *cusayb*, sida *cusayb* uu ula caqsi yahay
 *duug*.
 
@@ -157,26 +164,31 @@ ereyadeeda. Faracu wuxuu oggolaadaa in erey lagu daro dibkabe si loo
 sameeyo erey cusub; lammaanintuna waxay fududaysaa in erey cusub laga
 sameeyo laba erey ama in ka badan oo kala madaxbannaan.
 
+Faahfaahinta lifaaqyada iyo faraca waxa laga helayaa
+[`../morphology/03-dhismaha-ereyga.md`](../morphology/03-dhismaha-ereyga.md).
+
 ## 1.2 Dhawaaqyada
 
-Micne kasta waxaa ku mataanan dhawaaqyo: erey wuxuu ka kooban yahay
-dhawaaqyo iyo hal micne. Qoraal ama far ayaa lagu muujiyaa
+Ereygu wuxuu leeyahay qaab dhawaaqeed oo gudbin kara hal micne ama
+in ka badan. Qoraal ama far ayaa lagu muujiyaa
 dhawaaqyada, hase ahaatee faru lagama-maarmaan ma aha — waxaa jira
-luqado badan oo aan weli lahayn far u gaar ah. Af soomaaligu af
-tiraab buu ahaa ilaa 1972, markii si rasmi ah loogu yeelay far u
-gaar ah. Marka luqadi far yeelato, dhawaaqyadu iskama beddelaan
-qaabkoodii hore.
+luqado badan oo aan weli lahayn far u gaar ah. Farta Laatiinka ee
+rasmiga ah ayaa Af Soomaaliga loo ansixiyey 21kii Oktoobar 1972.
+Marka luqadi far yeelato, dhawaaqyadu iskama beddelaan qaabkoodii
+hore.
+
+Qaabka *lagama-maarmaan* waa higgaaddii isha. Kaydku wuxuu leeyahay
+qaabab kale oo tartamaya, sidaas darteed halkan laguma beddelin.
 
 Tirada dhawaaqyadu waxay ka duwanaan kartaa tirada xarfaha: *ul*
 waa laba dhawaaq, *ubad* afar, *afmiinshaarnimo*-na waa laba iyo
 toban dhawaaq (ma aha shan iyo toban sida xarfaha loo tiriyo — *sh*
 iyo *ii* mid kasta waa hal dhawaaq).
 
-Af soomaaligu, sida afafka kaleba, wuxuu adeegsadaa tiro go'an oo
-dhawaaqyo ah, oo isugu dhafma siyaabo badan si ay u sameeyaan ereyo
-kala duwan. Dhawaaqyada keli-keli ah micno ma laha, laakiin haddii
-la isu geeyo iyadoo la raacayo xeerarka afka waxay noqdaan ereyo
-macno leh:
+Af soomaaligu wuxuu adeegsadaa dhawaaqyo isugu dhafma siyaabo badan
+si ay u sameeyaan ereyo kala duwan. Dhawaaqyada keli-keli ah micno ma
+lahaan karaan, laakiin haddii la isu geeyo iyadoo la raacayo xeerarka
+afka waxay noqdaan ereyo macno leh:
 
 6) f + a + r = *far*
 7) dh + e + g = *dheg*
@@ -193,21 +205,27 @@ xarafkiisa hore la beddelo waxaa soo bixi kara *gar*, *sar*, *dar*,
 dhawaaqyada waxay u adeegsataa si ay ereyo u samayso iyo si ay u
 kala duwdo ereyadaas.
 
+Faahfaahinta codadka waxa laga helayaa
+[`../phonology/`](../phonology/).
+
 ### Alifba'da soomaaliyeed
 
 Marka luqadda la qorayo, dhawaaqyada waxaa u taagan xarfaha
-alifba'da (mar walbase xiriir toos ahi kama dhexeeyo dhawaaq iyo
-xaraf: xaraf ayaa u taagnaan kara laba dhawaaq oo kala duwan).
-Alifba'da soomaaliyeed waxay ka kooban tahay 32 summadood: **22
-shibbane** iyo **10 shaqal**:
+alifba'da, inkastoo xiriirka dhawaaq iyo xaraf aanu mar walba ahayn
+mid-mid. Sida uu qeexayo [`SLS-0001`](../../spec/orthography/0001-alphabet.md),
+alifba'da Soomaaligu waxay leedahay **26 xaraf sal ah** — **21
+shibbane** iyo **5 shaqal** — iyo astaanta hakatada dhuunta:
 
-| Shibbanayaasha | Shaqallada |
+| Qayb | Xarfaha iyo astaanta |
 | --- | --- |
-| B, C, D, DH, F, G, H, J, K, KH, L, M, N, Q, R, S, SH, T, W, X, Y, ' | a, e, i, o, u, aa, ee, ii, oo, uu |
+| Shibbanayaasha (21) | b, t, j, x, kh, d, r, s, sh, dh, c, g, f, q, k, l, m, n, w, h, y |
+| Shaqallada (5) | a, e, i, o, u |
+| Hakatada dhuunta | ʼ |
 
-Summadahaasi ma wada koobi karaan dhawaaqyada ay luqadda
-soomaaliyeed leedahay, haddana way ku filan yihiin inay matalaan
-dhawaaqyada ugu muhiimsan.
+`dh`, `kh`, iyo `sh` waa laba summadood oo matala hal xaraf.
+Shaqallada dhaadheer `aa`, `ee`, `ii`, `oo`, iyo `uu` waxaa lagu
+qoraa laba-laabidda xarafka shaqalka; ma aha shan xaraf sal oo
+dheeraad ah.
 
 ### 1.2.1 Shaqallada
 
@@ -238,13 +256,17 @@ laba siyood oo in yar kala duwan — mar wuu **culus** yahay, marna wuu
 Kala-duwanaanshahan, inkastoo hadalka lagu adeegsado, qoraal ahaan
 laguma muujiyo alifba'da soomaaliyeed.
 
+Faahfaahinta tayada iyo dhererka shaqallada waxa laga helayaa
+[`../phonology/04-shaqaallada.md`](../phonology/04-shaqaallada.md).
+
 ### 1.2.2 Codkaca
 
 Af soomaaligu wuxuu leeyahay hab-codkaceed ku xiran arrimaha
 sarfiga. Codkacu wuxuu ku dul dhacaa shaqallada, codkac kastaana
-wuxuu u dhigmaa hal toon oo dheer. Kala-duwanaanshaha codkacu wuxuu
-kala saaraa **labka iyo dheddigga**, iyo **keliga iyo wadarta**.
-Magacyo isku si loo qoro, siyaabo kala duwanna loogu dhawaaqo:
+wuxuu u dhigmaa hal toon oo dheer. Hawlaha codkaca waxaa ka mid ah
+kala saaridda **labka iyo dheddigga**, iyo **keliga iyo wadarta** ee
+magacyada qaarkood. Magacyo isku si loo qoro, siyaabo kala duwanna
+loogu dhawaaqo:
 
 | Lab | Dheddig |
 | --- | --- |
@@ -258,20 +280,31 @@ Magacyo isku si loo qoro, siyaabo kala duwanna loogu dhawaaqo:
 | áwr (ka) | awr (ta) |
 | soomáali (ga) | soomaáli (da) |
 
-Codkaca — oo qoraal ahaan aan muuqan marka caadi ahaan wax la
-qorayo — wuxuu magaca dheddigga ku dhacaa shaqalka ugu dambeeya,
-magaca labkana shaqalka midka ugu dambeeya ka horreeya. Arrimo kale
-oo badan oo af soomaaligu codkaca u adeegsado waa jiraan.
+Qaababka codkaca ee *dameer*, *tuug*, iyo *Soomaali* ee shaxahan ku
+qoran waa qaababkii isha; kaydka kale ee SLS si madax-bannaan uma
+xaqiijin.
+
+Qaabka guud ee cutubkani tilmaamayo, codkaca — oo qoraal ahaan aan
+muuqan marka caadi ahaan wax la qorayo — wuxuu magacyo badan oo
+dheddig ah kaga dhacaa shaqalka ugu dambeeya, kuwa labka ahna shaqalka
+ka horreeya kan ugu dambeeya. Qaabkani ma daboolayo magac kasta.
+Faahfaahinta codkaca iyo caynta waxa laga helayaa
+[`02-sarfaha-magacyada.md`](02-sarfaha-magacyada.md) iyo
+[`../phonology/05-codadka-sare.md`](../phonology/05-codadka-sare.md).
 
 ### 1.2.3 Shibbanayaasha
 
-Codadka shibbanayaashu waa 22-kii kor ku taxnaa. Marka ay erey ku
-dhex jiraan waxaa ku dhaca isbeddello raacaya xeerar cilmi-codeed oo
-aad u sugan, kuwaas oo saddex qaybood loo kala saari karo:
+Cutubkani qaybta shibbanayaasha wuxuu ku darayaa 21-ka xaraf
+shibbaneed iyo hakatada dhuunta. Marka shibbanayaashu erey ku dhex
+jiraan waxaa ku dhaca isbeddello codeed, kuwaas oo halkan saddex
+qaybood loogu soo bandhigay:
 
-**a) Dhammaadka ereyga.** Erey af soomaaliga ka mid ah (ama alan ka
-mid ah) kuma dhammaan karo codadka /t/, /k/, /m/; waxaa lagu
-beddelaa /d/, /g/, /n/:
+**a) Dhammaadka ereyga.** Ishu waxay ku taxdaa isbeddellada /t/ →
+/d/, /k/ → /g/, iyo /m/ → /n/ marka qaabab gaar ahi dhammaad
+yimaadaan. Tani ma aha xeer aan reebbanayn oo dhammaan ereyada
+khuseeya; faahfaahinta iyo ka-reebitaannada waxa laga helayaa
+[`../phonology/08-gariirka-iyo-spread-glottis.md`](../phonology/08-gariirka-iyo-spread-glottis.md)
+iyo [`../morphology/04-isbeddelka-codka.md`](../morphology/04-isbeddelka-codka.md):
 
 14) *waa gun-ta-day* — /t/ oo erey dhexdiisa ku jirta oo alan ka bilaabmaya
 15) *waa gu-nud* — /t/ oo dhammaad ku beegan, isu beddeshay /d/
@@ -289,13 +322,20 @@ yimaadaan, cod wuxuu isu beddelaa isagoo isu ekaysiinaya midka kale:
 20) /d/ + /t/ → /dd/ : *bad* + *ta* → *badda*
 21) /l/ + /t/ → /sh/ : *bil* + *ta* → *bisha*
 
+Isbeddelladan waxa lagu faahfaahiyey
+[`../morphology/04-isbeddelka-codka.md`](../morphology/04-isbeddelka-codka.md).
+
 **c) Iskudheehmid (elision/coalescence).** Marka laba erey isu
 yimaadaan iyadoo dhexda laga saaray cod ama codad ku beegan
-isqabadka labada erey, waxay noqdaan mid keliya:
+isqabadka labada erey, waxay noqon karaan mid keliya. Ishu waxay
+bixisaa saddexdan tusaale:
 
 22) *Maryan baa timid* → *Maryanaa timid* (waxaa dhacay /b/-dii)
 23) *Seynab guriga ayay aadday* → *Seynab gurigay aadday* (waxaa dhacay /ay/-dii)
 24) *Waqtigu waa uu dheereeyaa* → *Waqtigu wuu dheereeyaa* (waxaa dhacay /aa/-dii)
 
-Isbeddelladan waxaa loo sameeyaa si hadlaha uusan waqti uga lumin ku
-wada dhawaaqidda codadka oo dhan.
+Tusaalayaashani waxay muujinayaan codad ka dhici kara hadalka isku
+xiran; ma dejinayaan xeer qoraal oo guud. Kala duwanaanshaha hadalka
+iyo qoraalka waxa lagu faahfaahiyey
+[`../orthography/01-hadal-iyo-qoraal.md`](../orthography/01-hadal-iyo-qoraal.md)
+iyo [`../orthography/02-eray-kooban-hadalka.md`](../orthography/02-eray-kooban-hadalka.md).

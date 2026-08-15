@@ -18,7 +18,7 @@ aqoonsado oo aad ku tilmaansato.
 
 Magacyada waxaan u adeegsannaa in aan ku kala saarno ashyaa'da.
 Waxay kaloo tilmaami karaan waxyaabo aan la taaban karin lana arki
-karin, sida *jaceyl*, *nacayb*, *rajo*.
+karin, sida *jacayl*, *nacayb*, *rajo*.
 
 Ereyada qaarkood waxay binii-aadanka u oggolaadaan inuu waxyaabo kala
 duwan hal koox ku ururiyo, markay wadaagaan hal astaan ama dhawr
@@ -34,6 +34,9 @@ kale, ereyga *xayawaan* waxaa hoos yimaada kooxo kala duwan:
 | xamaarato | mas, mulac |
 | kalluun | — |
 | cayayaan | kaneeco, quraanjo |
+
+*Goolleey* waa qaabkii isha; kaydka kale ee SLS lagama helin
+xaqiijin, sidaas darteed halkan laguma sixin qiyaas.
 
 Ereyadu waxay kaloo tilmaami karaan dabeecado u gaar ah ashyaa'da
 qaarkood, sida *weyn*, *yar*, *dheer*, ama falal (ficillo), sida
@@ -63,25 +66,33 @@ waxaan u adeegsannaa:
 
   5) *Cali baa ka dugsan Nuur.*
 
+*Dugsan* waa qaabkii isha ee saddexdan tusaale. Kaydka kale ee SLS
+kama cadda xiriirka loogu talagalay, sidaas darteed qaabka lama
+beddelin.
+
 ## Luqaddu iyadoo iska hadlaysa nafteeda
 
-Luqaddu laf ahaanteeda way iska hadli kartaa: ereyada sida *magac*
-(noun), *fal* (verb), *sifo* (adjective), *horyaale* (preposition) iyo
-kuwo kale waxaa loo abuuray in lagu kala saaro ereyada ay luqadi
-leedahay iyo isku-xirkooda. Fikradahaan waxaa si faahfaahsan loogu
-falanqayn doonaa cutubyada dambe.
+Luqaddu laf ahaanteeda way iska hadli kartaa: ereyada sida
+[*magac*](02-sarfaha-magacyada.md) (noun),
+[*fal*](07-sarfaha-falalka.md) (verb),
+[*sifo*](03-sarfaha-tifaftireyaasha.md) (adjective),
+[*horyaale*](06-sarfaha-iskuxireyaasha.md) (preposition) iyo kuwo kale
+waxaa loo abuuray in lagu kala saaro ereyada ay luqadi leedahay iyo
+isku-xirkooda. Fikradahaan waxaa si faahfaahsan loogu falanqaynayaa
+cutubyada la xiriiriyey.
 
 ## Dabeecadaha guud ee luqadaha
 
-Kumanaalka af ee ka jira adduunka, inkastoo ay u eg yihiin inay aad u
-kala duwan yihiin, waxay wadaagaan dabeecado badan. Giddigood waxay
-leeyihiin waxqabad isku mid ah: waxay dadka u suurtageliyaan inay isku
-fahmaan, isku wargeliyaan, isuguna gudbiyaan fikradahooda.
-Dhammaantood waxay adeegsadaan codad la isu geeyo si loo sameeyo
-ereyo macno leh, kuwaas oo markii la isu geeyo iyaguna sameeya weero
-loo adeegsado wargelin kasta.
+Cutubkani wuxuu xoogga saarayaa afafka lagu hadlo. Kumanaalka af ee
+dunida lagaga hadlo, inkastoo ay u eg yihiin inay aad u kala duwan
+yihiin, waxay wadaagaan dabeecado badan. Waxay leeyihiin waxqabadyo
+isu dhow: waxay dadka u suurtageliyaan inay isku fahmaan, isku
+wargeliyaan, isuguna gudbiyaan fikradahooda. Afafkaas waxay
+adeegsadaan codad la isu geeyo si loo sameeyo ereyo macno leh,
+kuwaas oo markii la isu geeyo iyaguna sameeya weero loo adeegsado
+wargelinta.
 
-Qalabka aan u adeegsanno sifaynta luqad kasta oo dunidan lagaga hadlo
-waa isku wada mid; hase yeeshee marka si faahfaahsan loo sifaynayo
-luqad gaar ah, waa in la muujiyaa astaamaha u gaarka ah luqaddaas —
-halkan waxaa xoogga la saarayaa kuwa af soomaaliga.
+Qalabka naxwe ee cutubkani u adeegsado sifaynta afafka lagu hadlo waa
+mid guud; hase yeeshee marka si faahfaahsan loo sifaynayo luqad gaar
+ah, waa in la muujiyaa astaamaha u gaarka ah luqaddaas — halkan waxaa
+xoogga la saarayaa kuwa af soomaaliga.
