@@ -65,12 +65,15 @@ comment period.)*
 
 ## Prerequisite — Resources baseline
 
+**Status:** complete — accepted with documented limitations on 2026-08-23.
+
 Normative spec work draws on the curated library in `resources/` — descriptive
 evidence, not `spec/`. Scope, boundaries, limitations, and collection status
 are documented in [`docs/RESOURCES.md`](docs/RESOURCES.md).
 
 Implementation Phase 2 (orthography) depends on Milestone 1b in
-[`ROADMAP.md`](ROADMAP.md). Phase 1 (alphabet) does not.
+[`ROADMAP.md`](ROADMAP.md). That dependency is now satisfied. Phase 1
+(alphabet) did not depend on it.
 
 **Note:** Resources curation milestones are **not** the same as the
 implementation phases in this document. See
@@ -80,7 +83,7 @@ implementation phases in this document. See
 
 ## Phase 2 — Orthography Standard
 
-**Status:** not started — depends on Milestone 1b (`docs/RESOURCES.md`).
+**Status:** ready to start — Milestone 1b completed on 2026-08-23.
 
 **Objective:** The spelling layer on top of the alphabet: SLS-0002
 (orthography/spelling rules), plus punctuation (SLS-0004) and capitalization
@@ -93,12 +96,28 @@ implementation phases in this document. See
 - [ ] `spec/orthography/0004-punctuation.md` (SLS-0004)
 - [ ] Each with numbered normative rules and positive/negative examples
 
+**Starting task:** draft `spec/orthography/0002-spelling-rules.md` as
+SLS-0002. First build a cited evidence map from `resources/qoraal/`,
+`resources/dhawaaq/`, `resources/naxwe/`, and `resources/sarfe/`; then define
+the document scope and numbered rules for spelling, word boundaries, vowel
+length, digraphs, apostrophe/glottal-stop usage, morphophonemic spelling, and
+loanword treatment. Record conflicting or insufficient evidence as open
+questions instead of silently choosing a rule.
+
+**Execution order:**
+
+1. SLS-0002 evidence map, scope, and first draft.
+2. SLS-0004 punctuation draft based primarily on `resources/qoraal/`.
+3. SLS-0005 capitalization draft, explicitly retaining the current
+   primary-source limitation.
+4. Public review and written resolution of every open orthography question.
+
 **Completion criteria:** all three documents at `Proposed` or beyond;
 SLS-0001 promoted to at least `Review`; no orthography question raised during
 comment periods left without a written resolution.
 
-**Dependencies:** Phase 1 (SLS-0002 depends on SLS-0001); Milestone 1b
-([`docs/RESOURCES.md`](docs/RESOURCES.md)).
+**Dependencies:** Phase 1 (SLS-0002 depends on SLS-0001); completed Milestone
+1b ([`docs/RESOURCES.md`](docs/RESOURCES.md)).
 
 ---
 

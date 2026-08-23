@@ -8,7 +8,7 @@ as rules.
 
 Live file map and entry formats: [`resources/README.md`](../resources/README.md).
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-23
 
 ---
 
@@ -21,14 +21,16 @@ spec/       →  normative rules (later)
 ai/         →  downstream material derived later
 ```
 
-Do not hand-edit curated entries to “fix” the language. Corrections and review
-status belong in downstream `data/` records. OCR artifacts in `resources/` are
-preserved verbatim until structured downstream work.
+Do not hand-edit curated entries merely to modernize or “fix” the language.
+Corrections require source or repository evidence and a provenance record in
+[`data/provenance/correction-log.tsv`](../data/provenance/correction-log.tsv).
+Ambiguous historical or regional forms remain intact and are labeled rather
+than silently normalized.
 
 Normative drafting in `spec/`, structured datasets in `data/`, and AI/benchmark
 pipelines use `resources/` as input evidence. They follow the curated baseline
-documented here and [`IMPLEMENTATION_PLAN.md`](../IMPLEMENTATION_PLAN.md)
-Milestone 1b.
+documented here and the completed resources prerequisite in
+[`IMPLEMENTATION_PLAN.md`](../IMPLEMENTATION_PLAN.md).
 
 ---
 
@@ -36,14 +38,14 @@ Milestone 1b.
 
 | Collection | Role | Content files | Status | Known limitations |
 | --- | --- | ---: | --- | --- |
-| `qaamuus/` | Monolingual dictionary (*Qaamuuska Af-Soomaaliga*) | 32 + abbreviations | review | Compiler, edition, republication rights incomplete |
-| `madax-ereyo/` | Bare headwords derived from `qaamuus/` | 26 | active | 31 heads without direct qaamuus match (for `data/` later) |
-| `naxwe/` | Grammar and syntax reference | 18 + explained grammar terminology (`ereyfur.md`) | review | Supplements `13`–`17` carry OCR-fidelity caveat |
-| `erey-bixin/` | Technical/administrative glossaries (EN→SO) | 9 (`01`–`09`) | active | `09-farsamada-culuunta.md` partial OCR |
-| `suugaan/` | Proverbs, wisdom, stories, poetry, school literature | 24 | active | *Ismail Mire* deferred; variable OCR on some school texts |
-| `qoraal/` | Writing, word-splitting, punctuation | 6 | active | Capitalization interim supplement at `06` |
-| `dhawaaq/` | Sound system, IPA, prosody, dialect phonology | 8 | active | No audio/acoustic evidence; Orwin *Metrics* deferred |
-| `sarfe/` | Inflectional paradigm tables | 4 | active | Saeed/Green cross-check optional; publisher permission pending |
+| `qaamuus/` | Monolingual dictionary (*Qaamuuska Af-Soomaaliga*) | 32 + abbreviations | baseline complete | Compiler, edition, republication rights incomplete |
+| `madax-ereyo/` | Bare headwords derived from `qaamuus/` | 26 | baseline complete | 31 heads without direct qaamuus match (for `data/` later) |
+| `naxwe/` | Grammar and syntax reference | 18 + explained grammar terminology (`ereyfur.md`) | baseline complete | Supplements `13`–`17` carry OCR-fidelity caveat |
+| `erey-bixin/` | Technical/administrative glossaries (EN→SO) | 9 (`01`–`09`) | baseline complete | `09-farsamada-culuunta.md` partial OCR |
+| `suugaan/` | Proverbs, wisdom, stories, poetry, school literature | 24 | baseline complete | *Ismail Mire* deferred; variable OCR on some school texts |
+| `qoraal/` | Writing, word-splitting, punctuation | 6 | baseline complete | Capitalization interim supplement at `06` |
+| `dhawaaq/` | Sound system, IPA, prosody, dialect phonology | 8 | baseline complete | No audio/acoustic evidence; Orwin *Metrics* deferred |
+| `sarfe/` | Inflectional paradigm tables | 4 | baseline complete | Saeed/Green cross-check optional; publisher permission pending |
 
 Each collection has `00-sources.md` (bibliographic inventory), optional
 `00-<meta>.md`, numbered content files, and `README.md` (charter and format).
@@ -170,6 +172,13 @@ All eight collections are curated, attributed, and documented. Each is
 **accepted with limitations** — scope, source inventory, and known gaps are
 recorded in collection `README.md` files and `00-sources.md`.
 
+The file-by-file baseline closed on 2026-08-23: all 145 tracked resource files
+completed audit, audit approval, cleanup, cleanup approval, and validation.
+The stage record is in
+[`RESOURCE_CLEANUP_TRACKER.md`](../RESOURCE_CLEANUP_TRACKER.md); approved
+corrections are in
+[`data/provenance/correction-log.tsv`](../data/provenance/correction-log.tsv).
+
 This baseline is descriptive evidence only. It does not prescribe rules; normative
 work in `spec/` builds on it in a separate step.
 
@@ -184,8 +193,9 @@ work in `spec/` builds on it in a separate step.
 | Phonology audio/acoustic evidence | not yet sourced |
 | Morphology academic cross-check | bibliographic only; no excerpts without permission |
 
-Orthography spec drafting (Implementation Phase 2) depends on this baseline and
-is tracked under Milestone 1b in [`ROADMAP.md`](../ROADMAP.md).
+These items remain visible follow-up work, but do not block normative drafting.
+The completed baseline satisfies the resource dependency for Implementation
+Phase 2; SLS-0002 is the next planned standard.
 
 ---
 

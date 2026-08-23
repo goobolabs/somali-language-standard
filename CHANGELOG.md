@@ -23,6 +23,16 @@ releases, schema versions, and per-standard versions relate.
   representation, vowel-length notation, excluded letters, and Unicode code
   points (`spec/orthography/0001-alphabet.md`).
 - `spec/0000-index.md` — the specification index.
+- Completed eight-collection resources evidence baseline: 145 files audited,
+  cleaned, maintainer-approved, and documented with 501 approved provenance
+  records.
+
+### Changed
+
+- Promoted SLS-0000 and SLS-0001 from `Draft` to `Proposed`, opening their
+  public comment period.
+- Marked the resources prerequisite complete and made SLS-0002 (Somali
+  Orthography) the next implementation task.
 
 ## [0.1.0] - 2026-07-08
 

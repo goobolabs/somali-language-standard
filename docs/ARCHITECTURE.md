@@ -264,8 +264,9 @@ README.md                  charter and conventions
 Live file map: [`resources/README.md`](../resources/README.md). Full scope,
 boundaries, limitations, and baseline status: [`docs/RESOURCES.md`](RESOURCES.md).
 
-Orthography implementation in [`IMPLEMENTATION_PLAN.md`](../IMPLEMENTATION_PLAN.md)
-depends on Milestone 1b in [`ROADMAP.md`](../ROADMAP.md).
+The resources baseline completed on 2026-08-23. Orthography implementation in
+[`IMPLEMENTATION_PLAN.md`](../IMPLEMENTATION_PLAN.md) can therefore proceed
+under Milestone 2 in [`ROADMAP.md`](../ROADMAP.md).
 
 **Phase naming disambiguation** — three different “Phase 2” labels exist in this
 repository:
@@ -604,11 +605,15 @@ standard (`spec/`, `data/`, releases). A separate **resources evidence library**
 in `resources/` must be curated and accepted first. Documented in
 [`docs/RESOURCES.md`](RESOURCES.md).
 
+That prerequisite baseline was completed on 2026-08-23 and remains accepted
+with documented limitations. Later source, metadata, and rights improvements
+do not reopen the milestone unless they materially invalidate its evidence.
+
 | Stage | Goal |
 | --- | --- |
 | Curation | Eight collections with `00-sources.md`, charters, and numbered content |
 | Baseline | Scope, traceability, and limitations documented per collection |
-| Spec drafting | Normative work in `spec/` follows the curated baseline (Milestone 1b) |
+| Spec drafting | Baseline complete; normative work begins with SLS-0002 under Milestone 2 |
 
 Orthography and later normative drafting (`spec/orthography/`, `data/lexicon/`,
 etc.) build on the baseline in [`docs/RESOURCES.md`](RESOURCES.md).
