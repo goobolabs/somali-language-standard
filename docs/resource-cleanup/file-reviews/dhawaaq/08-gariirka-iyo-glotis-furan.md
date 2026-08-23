@@ -4,8 +4,7 @@
 - **Collection / family:** dhawaaq / phonation supplement
 - **Priority:** P2
 - **Method:** repository-only, line-by-line SLS content audit
-- **Audit status:** approved; SLS-native cleanup applied and awaiting
-  maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-19
 - **File size at audit start:** 98 lines; 549 words; 3,739 bytes
 - **Resource SHA-256 at audit start:**
@@ -62,9 +61,9 @@ add Orwin metrics or extra sections.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the
   instruction, "go ahead."
 - **Approved finding IDs:** PH08-R001 through PH08-R005
-- **Cleanup:** applied; awaiting maintainer review
-- **Cleanup approval:** not started
-- **Complete:** no
+- **Cleanup:** applied and approved 2026-08-23
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Audit validation
 

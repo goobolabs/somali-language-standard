@@ -6,7 +6,7 @@
 - **Method:** whole-file audit; comparison with local Kapchits PDF OCR at
   `temp/soomaali/terminology/Qaamuuska Maahmaahyada Soomaalyeed_Kapchits.pdf`
   and byte-identical OCR markdown in `temp/md/terminology/`
-- **Audit status:** approved; phase-1 cleanup applied and awaiting maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit date:** 2026-08-19
 - **File size at audit start:** 5,634 lines
 - **Resource SHA-256 at audit start:**
@@ -68,8 +68,8 @@ requires page-by-page work against the PDF.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the instruction, "go ahead."
 - **Finding IDs:** SUU01-R001 through SUU01-R009
 - **Cleanup:** phase-1 applied on 2026-08-19
-- **Cleanup approval:** pending
-- **Complete:** no
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Cleanup result (phase 1)
 
@@ -97,7 +97,7 @@ Not attempted in phase 1:
 - **Resource SHA-256 after cleanup:**
   `1b317ad0283fcdcbed301a0f6d7845be10e894a696f1be1d7c33a333bd8d3e0a`
 - **Wordlist parity:** n/a
-- **Status:** phase-1 applied; awaiting maintainer cleanup review
+- **Status:** complete; cleanup approved 2026-08-23
 
 ## Recommended phase 2
 

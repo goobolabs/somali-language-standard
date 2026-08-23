@@ -4,7 +4,7 @@
 - **Collection / family:** suugaan / sheeko (Henty translation)
 - **Priority:** P1
 - **Method:** whole-file literary audit; comparison with local image PDF and raw OCR
-- **Audit status:** complete
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit date:** 2026-08-19
 - **File size at audit start:** 3,699 lines
 - **Resource SHA-256 at audit start:**
@@ -46,8 +46,8 @@ missing paragraph structure. Git history contains only the initial import.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the instruction, "go ahead."
 - **Finding IDs:** SUU12-R001 through SUU12-R005
 - **Cleanup:** phase-1 (2026-08-19) + **phase-2 PDF transcription** (2026-08-19)
-- **Cleanup approval:** pending
-- **Complete:** no
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Cleanup result (phase 1)
 
@@ -69,4 +69,4 @@ novel prose through closing line about *bisaddii Bubaysta*. Names preserved
 - **Resource SHA-256 after cleanup:**
   `d98daf413141589265b8f4afbe2b59360a52005eed2af14b67061c56e4056906`
 - **PDF mapping:** body = images `p-003.png` → `p-123.png` (covers p-01/p-02 omitted)
-- **Status:** awaiting cleanup approval
+- **Status:** complete; cleanup approved 2026-08-23

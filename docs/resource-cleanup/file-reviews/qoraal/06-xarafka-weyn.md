@@ -4,8 +4,7 @@
 - **Collection / family:** qoraal / capitalization supplement
 - **Priority:** P2
 - **Method:** repository-only, line-by-line SLS content audit
-- **Audit status:** approved; SLS-native cleanup applied and awaiting
-  maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-19
 - **File size at audit start:** 94 lines; 454 words; 2,842 bytes
 - **Resource SHA-256 at audit start:**
@@ -66,9 +65,9 @@ or extra Nilsson matter.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the
   instruction, "go ahead."
 - **Approved finding IDs:** O06-R001 through O06-R006
-- **Cleanup:** applied; awaiting maintainer review
-- **Cleanup approval:** not started
-- **Complete:** no
+- **Cleanup:** applied and approved 2026-08-23
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Audit validation
 

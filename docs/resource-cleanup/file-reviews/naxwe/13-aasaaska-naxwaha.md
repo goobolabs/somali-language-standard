@@ -4,7 +4,7 @@
 - **Collection / family:** naxwe / supplementary grammar
 - **Priority:** P1
 - **Method:** repository-only, line-by-line SLS content audit
-- **Audit status:** approved; SLS-native rewrite applied and awaiting review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-12
 - **File size at audit start:** 859 lines; 5,136 words; 29,108 bytes
 - **Resource-text changes during audit:** none
@@ -116,5 +116,5 @@ Validation:
   and
 - final size: 410 lines; 2,244 words; 13,571 bytes.
 
-- **Rewrite approval:** pending maintainer review
-- **Complete:** no
+- **Rewrite approval:** approved 2026-08-23
+- **Complete:** yes

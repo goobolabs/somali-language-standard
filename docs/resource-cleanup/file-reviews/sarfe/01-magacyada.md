@@ -5,8 +5,7 @@
 - **Priority:** P2
 - **Method:** repository-only, line-by-line tabular audit against cleaned
   `naxwe/02`
-- **Audit status:** approved; SLS-native cleanup applied and awaiting
-  maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-19
 - **File size at audit start:** 74 lines; 468 words; 2,441 bytes
 - **Resource SHA-256 at audit start:**
@@ -96,9 +95,9 @@ accented pair should be introduced. Unresolved naxwe forms (`qamuun`, `golo`,
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the
   instruction, "go ahead."
 - **Approved finding IDs:** M01-R001 through M01-R009
-- **Cleanup:** applied; awaiting maintainer review
-- **Cleanup approval:** not started
-- **Complete:** no
+- **Cleanup:** applied and approved 2026-08-23
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Audit validation
 

@@ -4,7 +4,7 @@
 - **Collection / family:** suugaan / tixraac (1992 Norwegian school anthology; 11 Hadraawi poems + Somali biography)
 - **Priority:** P2
 - **Method:** whole-file literary audit; comparison with local image PDF and raw OCR
-- **Audit status:** complete
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit date:** 2026-08-19
 - **File size at audit start:** 1,227 lines
 - **Resource SHA-256 at audit start:**
@@ -74,8 +74,8 @@ one biography truncation remain.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the instruction, "go ahead."
 - **Finding IDs:** SUU22-R001 through SUU22-R007
 - **Cleanup:** PDF-guided pass (2026-08-19; pages 6–7 bio, 10–48 poems via `/tmp/suugaan22-ocr/`)
-- **Cleanup approval:** pending
-- **Complete:** no
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Cleanup result
 
@@ -89,7 +89,7 @@ across all eleven poems (SUU22-R004, SUU22-R005), and aligned datelines to print
 - **Resource SHA-256 after cleanup:**
   `ea6c43d0e880fdcf5d58ce0ba8a10cff0831cad863546aa061413102fa0a1636`
 - **PNG mapping:** `/tmp/suugaan22-ocr/p-{01..48}.png` (200 DPI)
-- **Status:** awaiting cleanup approval
+- **Status:** complete; cleanup approved 2026-08-23
 - **Spot-check (non-blocking):** Norwegian foreword and author presentation (pp. 5–9) omitted per Somali-only policy; some `weeyee`/`weyee` spellings remain where the scan uses both forms in different poems
 
 ## Cleanup notes (for approved pass)

@@ -4,8 +4,7 @@
 - **Collection / family:** erey-bixin / historical bilingual industrial glossary (partial)
 - **Priority:** P1
 - **Method:** repository-only, line-by-line glossary audit
-- **Audit status:** approved; historical-glossary cleanup applied and awaiting
-  maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-19
 - **File size at audit start:** 468 lines; 2,122 words; 14,738 bytes
 - **Resource SHA-256 at audit start:**
@@ -114,9 +113,9 @@ other science files or from Italian.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the
   instruction, "go ahead."
 - **Approved finding IDs:** EB09-R001 through EB09-R008
-- **Cleanup:** applied; awaiting maintainer review
-- **Cleanup approval:** not started
-- **Complete:** no
+- **Cleanup:** applied and approved 2026-08-23
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Audit validation
 

@@ -4,7 +4,7 @@
 - **Collection / family:** naxwe / supplementary grammar
 - **Priority:** P1
 - **Method:** repository-only, line-by-line SLS content audit
-- **Audit status:** approved; SLS-native cleanup applied and awaiting review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-12
 - **File size at audit start:** 5,307 lines; 31,738 words; 208,946 bytes
 - **Resource SHA-256 at audit start:** `45ed024278ae9fd58ada79597bf57c2c6dd735de948b1d987d95cf1593f42ced`
@@ -177,5 +177,5 @@ Validation:
 - Current SHA-256:
   `3a3a21b96763d4f664b644798e97cedf084589ea3670bfc3e5282592037471dc`.
 
-- **Cleanup approval:** pending maintainer review
-- **Complete:** no
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes

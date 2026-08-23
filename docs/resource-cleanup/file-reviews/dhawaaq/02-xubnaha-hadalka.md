@@ -4,8 +4,7 @@
 - **Collection / family:** dhawaaq / speech organs
 - **Priority:** P2
 - **Method:** repository-only, line-by-line SLS content audit
-- **Audit status:** approved; SLS-native cleanup applied and awaiting
-  maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-19
 - **File size at audit start:** 135 lines; 736 words; 4,741 bytes
 - **Resource SHA-256 at audit start:**
@@ -65,9 +64,9 @@ initiation; diaphragm; phonation; articulation; three cavities; source counts
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the
   instruction, "go ahead."
 - **Approved finding IDs:** PH02-R001 through PH02-R006
-- **Cleanup:** applied; awaiting maintainer review
-- **Cleanup approval:** not started
-- **Complete:** no
+- **Cleanup:** applied and approved 2026-08-23
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Audit validation
 

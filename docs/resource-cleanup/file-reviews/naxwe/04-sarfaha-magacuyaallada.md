@@ -4,7 +4,7 @@
 - **Collection / family:** naxwe / primary grammar
 - **Priority:** P2
 - **Method:** repository-only, line-by-line SLS content audit
-- **Audit status:** approved; conservative SLS cleanup applied and awaiting review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-12
 - **File size at audit start:** 173 lines; 1,036 words; 6,417 bytes
 - **Resource SHA-256 at audit start:**
@@ -89,9 +89,9 @@ Recommended links are `03-sarfaha-tifaftireyaasha.md`,
 - **Audit approval:** approved by the maintainer on 2026-08-12 with the
   instruction, "go ahead."
 - **Approved finding IDs:** N04-R001 through N04-R011
-- **Cleanup:** applied; awaiting maintainer review
-- **Cleanup approval:** not started
-- **Complete:** no
+- **Cleanup:** applied and approved 2026-08-23
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Cleanup result and review
 

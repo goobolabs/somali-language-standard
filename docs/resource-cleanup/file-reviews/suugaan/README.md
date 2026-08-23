@@ -4,7 +4,7 @@
 - **Collection / family:** suugaan / collection map and conventions
 - **Priority:** P3
 - **Method:** repository-only, documentation audit
-- **Audit status:** approved; cleanup applied and awaiting maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-19
 - **Resource SHA-256 at audit start:**
   `eab6cfef3a34753b2ab6932b661431e31b15cd8ed03e5784d01a782fac38d3c0`
@@ -23,4 +23,4 @@
 - **Cleanup applied:** 2026-08-19
 - **Resource SHA-256 after cleanup:**
   `eab6cfef3a34753b2ab6932b661431e31b15cd8ed03e5784d01a782fac38d3c0`
-- **Status:** applied; awaiting maintainer cleanup review
+- **Status:** complete; cleanup approved 2026-08-23

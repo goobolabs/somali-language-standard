@@ -4,7 +4,7 @@
 - **Collection / family:** suugaan / maanso (diiwaan)
 - **Priority:** P1
 - **Method:** whole-file literary audit; comparison with local image PDF and raw OCR
-- **Audit status:** complete
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit date:** 2026-08-19
 - **File size at audit start:** 9,119 lines
 - **Resource SHA-256 at audit start:**
@@ -47,8 +47,8 @@ still carried column splits and wrap breaks.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the instruction, "go ahead."
 - **Finding IDs:** SUU14-R001 through SUU14-R005
 - **Cleanup:** phase-2 PDF transcription (2026-08-19; 8 batches, pages 7–246)
-- **Cleanup approval:** pending
-- **Complete:** no
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Cleanup result
 
@@ -61,4 +61,4 @@ independently reviewed transcription batches were merged into one continuous fil
 - **Resource SHA-256 after cleanup:**
   `f1ff0748a81c360e5e81483ada3860c25005e953f1f47f8d3de1c0a06f4bd293`
 - **PDF mapping:** 8 parts → `/tmp/halkaraan-part{1..8}.md`; PNGs at `/tmp/halkaraan-ocr/`
-- **Status:** awaiting cleanup approval
+- **Status:** complete; cleanup approved 2026-08-23

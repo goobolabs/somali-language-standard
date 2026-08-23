@@ -4,7 +4,7 @@
 - **Collection / family:** suugaan / gabay-maanso excerpt
 - **Priority:** P2
 - **Method:** whole-file literary excerpt audit; repository-only
-- **Audit status:** approved; no cleanup edits required; awaiting maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit date:** 2026-08-19
 - **File size at audit:** 10 lines
 - **Resource SHA-256:**
@@ -32,8 +32,8 @@ damage. No expansion into the full book belongs in this pass.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the instruction, "go ahead."
 - **Finding IDs:** SUU23-R001 through SUU23-R003
 - **Cleanup:** applied on 2026-08-19 (verification pass; no text changes)
-- **Cleanup approval:** pending
-- **Complete:** no
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Cleanup result
 
@@ -44,4 +44,4 @@ pending future full-book transcription work.
 - **Resource SHA-256 after cleanup:**
   `e00441b2643aed40178a8d0d1a1d34b1474dbed91edfe5751d8d660e06fa3302`
 - **Wordlist parity:** n/a
-- **Status:** applied; awaiting maintainer cleanup review
+- **Status:** complete; cleanup approved 2026-08-23

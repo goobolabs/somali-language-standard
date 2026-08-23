@@ -5,8 +5,7 @@
 - **Priority:** P2
 - **Method:** repository-only, line-by-line tabular audit against cleaned
   `naxwe/07` and `naxwe/08`
-- **Audit status:** approved; SLS-native cleanup applied and awaiting
-  maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-19
 - **File size at audit start:** 126 lines; 920 words; 4,280 bytes
 - **Resource SHA-256 at audit start:**
@@ -99,9 +98,9 @@ No person row should be added. Prefix-past and stative-negative tables stay in
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the
   instruction, "go ahead."
 - **Approved finding IDs:** M02-R001 through M02-R013
-- **Cleanup:** applied; awaiting maintainer review
-- **Cleanup approval:** not started
-- **Complete:** no
+- **Cleanup:** applied and approved 2026-08-23
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Audit validation
 

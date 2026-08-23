@@ -33,5 +33,5 @@ is kept here once, so content files stay clean.
   recorded in
   [`docs/resource-cleanup/file-reviews/qaamuus/`](../../docs/resource-cleanup/file-reviews/qaamuus/).
   Letter files [`01-b.md`](01-b.md) … [`31-uu.md`](31-uu.md) received the
-  2026-08-19 cleanup audit and applied repairs (awaiting cleanup review). This
-  registry is not marked complete.
+  2026-08-19 cleanup audit and applied repairs. Cleanup approval was granted
+  on 2026-08-23, and this registry is complete for the cleanup pass.

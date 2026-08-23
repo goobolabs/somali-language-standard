@@ -4,7 +4,7 @@
 - **Collection / family:** suugaan / source registry
 - **Priority:** P3
 - **Method:** repository-only, row-by-row metadata audit
-- **Audit status:** approved; registry cleanup applied and awaiting maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-19
 - **Resource SHA-256 at audit start:**
   `27378ad02f1769fdd092b2e7e3bb4a9742d28818801bcabdd16d182e751a6032`
@@ -23,4 +23,4 @@
 - **Cleanup applied:** 2026-08-19
 - **Resource SHA-256 after cleanup:**
   `27378ad02f1769fdd092b2e7e3bb4a9742d28818801bcabdd16d182e751a6032`
-- **Status:** applied; awaiting maintainer cleanup review
+- **Status:** complete; cleanup approved 2026-08-23

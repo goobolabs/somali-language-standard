@@ -4,7 +4,7 @@
 - **Collection / family:** suugaan / dugsiga sare (gabay anthology)
 - **Priority:** P1
 - **Method:** whole-file literary audit; comparison with local image PDF and raw OCR
-- **Audit status:** complete
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit date:** 2026-08-19
 - **File size at audit start:** 2,367 lines
 - **Resource SHA-256 at audit start:**
@@ -41,8 +41,8 @@ page furniture. It must not modernize diction or reorder lessons.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the instruction, "go ahead."
 - **Finding IDs:** SUU18-R001 through SUU18-R005
 - **Cleanup:** phase-2 PDF transcription (2026-08-19; 3 batches, pages 1–65)
-- **Cleanup approval:** pending
-- **Complete:** no
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Cleanup result
 
@@ -55,4 +55,4 @@ transcription batches were merged into one continuous file.
 - **Resource SHA-256 after cleanup:**
   `6e8b52cc5fa1184d96be1b595f38475e9beffca80974347df9ed1d3d67e5f634`
 - **PDF mapping:** 3 parts → `/tmp/suugaan18-part{1..3}.md`; PNGs at `/tmp/suugaan18-ocr/`
-- **Status:** awaiting cleanup approval
+- **Status:** complete; cleanup approved 2026-08-23

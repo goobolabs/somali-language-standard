@@ -4,8 +4,7 @@
 - **Collection / family:** qoraal / punctuation inventory
 - **Priority:** P2
 - **Method:** repository-only, line-by-line SLS content audit
-- **Audit status:** approved; SLS-native cleanup applied and awaiting
-  maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-19
 - **File size at audit start:** 304 lines; 1,681 words; 10,582 bytes
 - **Resource SHA-256 at audit start:**
@@ -83,9 +82,9 @@ removed. `narsan`, `Agelade`, `Isku-dhuubnaan`, `yeelano`, and nested
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the
   instruction, "go ahead."
 - **Approved finding IDs:** O05-R001 through O05-R009
-- **Cleanup:** applied; awaiting maintainer review
-- **Cleanup approval:** not started
-- **Complete:** no
+- **Cleanup:** applied and approved 2026-08-23
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Audit validation
 

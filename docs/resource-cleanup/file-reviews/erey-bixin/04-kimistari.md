@@ -4,8 +4,7 @@
 - **Collection / family:** erey-bixin / historical bilingual science glossary
 - **Priority:** P1
 - **Method:** repository-only, line-by-line glossary audit
-- **Audit status:** approved; historical-glossary cleanup applied and awaiting
-  maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-19
 - **File size at audit start:** 1,759 lines; 7,142 words; 48,371 bytes
 - **Resource SHA-256 at audit start:**
@@ -91,9 +90,9 @@ No new term should be invented. Source coinages stay as printed.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the
   instruction, "go ahead."
 - **Approved finding IDs:** EB04-R001 through EB04-R006
-- **Cleanup:** applied; awaiting maintainer review
-- **Cleanup approval:** not started
-- **Complete:** no
+- **Cleanup:** applied and approved 2026-08-23
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Audit validation
 

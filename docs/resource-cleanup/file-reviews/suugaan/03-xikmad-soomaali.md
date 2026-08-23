@@ -4,7 +4,7 @@
 - **Collection / family:** suugaan / xikmad (wisdom tales)
 - **Priority:** P2
 - **Method:** whole-file literary-content audit; repository-only (no controlling scan in repo)
-- **Audit status:** approved; cleanup applied and awaiting maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit date:** 2026-08-19
 - **File size at audit start:** 93 lines; **22** tale sections (`##`)
 - **Resource SHA-256 at audit start:**
@@ -32,8 +32,8 @@ must not rewrite tale prose, add morals, or insert per-file provenance blocks.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the instruction, "go ahead."
 - **Finding IDs:** SUU03-R001 through SUU03-R004
 - **Cleanup:** applied on 2026-08-19
-- **Cleanup approval:** pending
-- **Complete:** no
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Cleanup result
 
@@ -44,4 +44,4 @@ was shortened, reordered, or rewritten. Dialect forms in SUU03-R003 were preserv
 - **Resource SHA-256 after cleanup:**
   `b508691b9db47d88616e0f050ecf4c1cf6178297c05b5d883dcc48408ad76447`
 - **Wordlist parity:** n/a
-- **Status:** applied; awaiting maintainer cleanup review
+- **Status:** complete; cleanup approved 2026-08-23

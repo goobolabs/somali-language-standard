@@ -4,7 +4,7 @@
 - **Collection / family:** madax-ereyo / collection map and conventions
 - **Priority:** P3
 - **Method:** repository-only, documentation audit
-- **Audit status:** approved; cleanup applied and awaiting maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-19
 - **Resource SHA-256 at audit start:**
   `c5f5ad38121a2fac6e7b0c14ef836716d5d582e1f6db70d2eec9a54522290631`
@@ -23,4 +23,4 @@
 - **Cleanup applied:** 2026-08-19
 - **Resource SHA-256 after cleanup:**
   `c5f5ad38121a2fac6e7b0c14ef836716d5d582e1f6db70d2eec9a54522290631`
-- **Status:** applied; awaiting maintainer cleanup review
+- **Status:** complete; cleanup approved 2026-08-23

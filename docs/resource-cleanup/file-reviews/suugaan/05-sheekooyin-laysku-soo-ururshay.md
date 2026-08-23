@@ -5,7 +5,7 @@
 - **Priority:** P1
 - **Method:** whole-file, line-by-line literary-content audit; direct comparison
   with the local source scan
-- **Audit status:** approved; source-guided cleanup applied, awaiting maintainer review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit date:** 2026-08-13
 - **File size at audit:** 1,313 lines; 12,103 words; 62,994 bytes
 - **Resource SHA-256:**
@@ -147,7 +147,7 @@ corrected from 1978 to the title-page-supported 1979.
   `2b63e8b7164f4c63ffd1f5aee9f212286e3cc33ce6cbe2d0786572b12db6e2b7`
 - **Applied finding IDs:** SUU05-R001 through SUU05-R006
 - **Validation state:** structural and debris checks passed; maintainer cleanup
-  review remains pending
+  approval granted 2026-08-23
 
 ## Approval state
 
@@ -155,5 +155,5 @@ corrected from 1978 to the title-page-supported 1979.
   instruction, "go ahead complete."
 - **Approved finding IDs:** SUU05-R001 through SUU05-R006
 - **Cleanup:** applied on 2026-08-13
-- **Cleanup approval:** pending
-- **Complete:** no
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes

@@ -4,7 +4,7 @@
 - **Collection / family:** suugaan / sheeko carruurta (Qaalib, 1977)
 - **Priority:** P1
 - **Method:** whole-file literary audit; PDF page-image transcription (phase 2)
-- **Audit status:** complete
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit date:** 2026-08-19
 - **File size at audit start:** 873 lines (unreadable OCR import)
 - **Resource SHA-256 at audit start:**
@@ -39,8 +39,8 @@ dialogue, no page furniture.
 
 - **Audit approval:** 2026-08-19 ("go ahead")
 - **Cleanup:** phase-1 (2026-08-19) + **phase-2 PDF transcription** (2026-08-19)
-- **Cleanup approval:** pending
-- **Complete:** no
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Cleanup result
 
@@ -51,4 +51,4 @@ stories read as continuous Somali prose. No `[illegible]` gaps reported.
 - **Resource SHA-256 after cleanup:**
   `5885a696be09a1340a1ae15802adb8171040000dcdfcf829bfe3d40a02f49a63`
 - **PDF mapping:** Story 1 = images p-03–p-17; Story 2 = p-18–p-30
-- **Status:** awaiting cleanup approval
+- **Status:** complete; cleanup approved 2026-08-23

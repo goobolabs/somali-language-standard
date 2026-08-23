@@ -4,8 +4,7 @@
 - **Collection / family:** sarfe / source registry
 - **Priority:** P3
 - **Method:** repository-only, row-by-row metadata audit
-- **Audit status:** approved; SLS-native cleanup applied and awaiting
-  maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-19
 - **File size at audit start:** 70 lines; 598 words; 3,179 bytes
 - **Resource SHA-256 at audit start:**
@@ -68,9 +67,9 @@ No new book should be added. No cross-check should be marked excerpted.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the
   instruction, "go ahead."
 - **Approved finding IDs:** M00S-R001 through M00S-R007
-- **Cleanup:** applied; awaiting maintainer review
-- **Cleanup approval:** not started
-- **Complete:** no
+- **Cleanup:** applied and approved 2026-08-23
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Audit validation
 

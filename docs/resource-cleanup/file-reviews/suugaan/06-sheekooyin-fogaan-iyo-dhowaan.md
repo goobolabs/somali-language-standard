@@ -5,7 +5,7 @@
 - **Priority:** P2
 - **Method:** whole-file, line-by-line literary-content audit; direct comparison
   with the local source scan
-- **Audit status:** approved; source-guided cleanup applied, awaiting maintainer review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit date:** 2026-08-13
 - **File size at audit:** 1,608 lines; 11,984 words; 77,947 bytes
 - **Resource SHA-256:**
@@ -194,8 +194,8 @@ Cleanup must not:
   instruction, "go ahead."
 - **Approved finding IDs:** SUU06-R001 through SUU06-R008
 - **Cleanup:** applied on 2026-08-13
-- **Cleanup approval:** pending
-- **Complete:** no
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Cleanup result
 

@@ -4,7 +4,7 @@
 - **Collection / family:** suugaan / dugsiga sare (school textbook)
 - **Priority:** P1
 - **Method:** whole-file literary audit; comparison with local image PDF and raw OCR
-- **Audit status:** complete
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit date:** 2026-08-19
 - **File size at audit start:** 3,280 lines
 - **Resource SHA-256 at audit start:**
@@ -42,8 +42,8 @@ diction or reorder anthology entries.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the instruction, "go ahead."
 - **Finding IDs:** SUU16-R001 through SUU16-R005
 - **Cleanup:** phase-2 PDF transcription (2026-08-19; 3 batches, pages 1–71)
-- **Cleanup approval:** pending
-- **Complete:** no
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Cleanup result
 
@@ -56,4 +56,4 @@ The independently reviewed transcription batches were merged into one continuous
 - **Resource SHA-256 after cleanup:**
   `10e7a504a39358f60616667d2a5e57568412cb0523a6afa5911fdcf0ae3b4c3a`
 - **PDF mapping:** 3 parts → `/tmp/suugaan16-part{1..3}.md`; PNGs at `/tmp/suugaan16-ocr/`
-- **Status:** awaiting cleanup approval
+- **Status:** complete; cleanup approved 2026-08-23

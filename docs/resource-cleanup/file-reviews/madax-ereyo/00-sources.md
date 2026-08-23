@@ -4,7 +4,7 @@
 - **Collection / family:** madax-ereyo / source registry
 - **Priority:** P3
 - **Method:** repository-only, metadata audit plus post-cleanup recount
-- **Audit status:** approved; registry cleanup applied and awaiting maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-19
 - **Resource SHA-256 at audit start:**
   `9bd742312efb94b0166870d56a0f08363ddb4f7907cbf2d5d96d6bf328b17116`
@@ -25,4 +25,4 @@
 - **Qaamuus parity:** OK for `01-b` … `26-u`
 - **Resource SHA-256 after cleanup:**
   `9bd742312efb94b0166870d56a0f08363ddb4f7907cbf2d5d96d6bf328b17116`
-- **Status:** applied; awaiting maintainer cleanup review
+- **Status:** complete; cleanup approved 2026-08-23

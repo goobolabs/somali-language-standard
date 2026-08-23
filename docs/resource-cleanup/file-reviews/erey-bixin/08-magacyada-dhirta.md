@@ -4,8 +4,7 @@
 - **Collection / family:** erey-bixin / historical bilingual plant-name glossary
 - **Priority:** P2
 - **Method:** repository-only, line-by-line glossary audit
-- **Audit status:** approved; historical-glossary cleanup applied and awaiting
-  maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-19
 - **File size at audit start:** 352 lines; 1,148 words; 7,993 bytes
 - **Resource SHA-256 at audit start:**
@@ -97,9 +96,9 @@ printed. No mashed row is omitted.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the
   instruction, "go ahead."
 - **Approved finding IDs:** EB08-R001 through EB08-R008
-- **Cleanup:** applied; awaiting maintainer review
-- **Cleanup approval:** not started
-- **Complete:** no
+- **Cleanup:** applied and approved 2026-08-23
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Audit validation
 
