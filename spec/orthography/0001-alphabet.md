@@ -105,7 +105,7 @@ letters excluded from native orthography; and the Unicode code points used.
   (glottal stop first, then consonants, then vowels):
 
   ```
-  '  b  t  j  x  kh  d  r  s  sh  dh  c  g  f  q  k  l  m  n  w  h  y  a  e  i  o  u
+  ʼ  b  t  j  x  kh  d  r  s  sh  dh  c  g  f  q  k  l  m  n  w  h  y  a  e  i  o  u
   ```
 
 - **R4.** Sorting **MUST** treat each digraph (`kh`, `dh`, `sh`) as a single
@@ -120,7 +120,7 @@ letters excluded from native orthography; and the Unicode code points used.
 
   | Letter | Code point(s) | IPA | Notes |
   |---|---|---|---|
-  | `'` | U+02BC (see R6) | /ʔ/ | glottal stop (hamza) |
+  | `ʼ` | U+02BC (see R6) | /ʔ/ | glottal stop (hamza) |
   | `b` | U+0062 | /b/ | |
   | `t` | U+0074 | /t/ | dental |
   | `j` | U+006A | /dʒ/ | |
@@ -155,7 +155,7 @@ letters excluded from native orthography; and the Unicode code points used.
   This is a letter (Unicode general category `Lm`), so it does not break word
   tokenization the way a punctuation apostrophe does.
 
-- **R7.** Tools **SHOULD** accept U+0027 (`'`) and U+2019 (`'`) on input as
+- **R7.** Tools **SHOULD** accept U+0027 (`'`) and U+2019 (`’`) on input as
   aliases for the glottal stop and normalize them to the canonical U+02BC on
   ingest. Released SLS records **MUST NOT** contain U+0027 or U+2019 as a glottal
   stop.
@@ -210,11 +210,28 @@ letters excluded from native orthography; and the Unicode code points used.
 | `bābūr` | macron used for length | ❌ (R8) |
 | `shaqo` | `sh` digraph, one letter (R9–R10) | ✅ |
 | `dhagax` | `dh` retroflex; final `x` = /ħ/ | ✅ |
-| `su'aal` | glottal stop written `'` → canonical U+02BC (R6) | ✅ |
+| `suʼaal` | glottal stop stored as canonical U+02BC (R6) | ✅ |
 | `caano` | initial `c` = /ʕ/ (not English /k/) | ✅ |
 | `pizza` | contains `p`, `z` — not native letters (R11) | ❌ |
 | `Sheeko` | capitalized digraph `Sh`, first char only (R12) | ✅ |
 | `SHeeko` | both chars of digraph uppercased | ❌ (R12) |
+
+### Per-rule example coverage
+
+| Rule | Positive example | Negative example |
+|---|---|---|
+| R1 | `Soomaali` uses the official Latin-based system. | A native Somali record written in another script cannot claim R1 conformance. |
+| R2 | `shaqo` contains only listed base letters. | `pizza` contains excluded base letters when presented as a native Somali word. |
+| R3 | `ʼ, b, t, j, x, kh` follows the opening canonical order. | `b, j, t` does not follow the canonical order. |
+| R4 | A sort key treats `sh` as one element after `s`. | A sort key separates `sh` into independent `s` and `h` elements. |
+| R5 | `caano`: `c` has the reference value /ʕ/. | Reading Somali `c` as English /k/ contradicts the reference identity. |
+| R6 | `suʼaal` stores U+02BC internally. | `su'aal` stores U+0027 as the released glottal-stop letter. |
+| R7 | Input `su'aal` is accepted and normalized to `suʼaal`. | An alias is emitted unchanged as the released canonical spelling. |
+| R8 | `baabuur` writes long `aa` and `uu` by doubling. | `bābūr` uses macrons to encode vowel length. |
+| R9 | `sh` is stored as U+0073 U+0068. | `š` substitutes a single non-inventory code point for `sh`. |
+| R10 | A counter reports the initial `sh` in `shaqo` as one letter. | A hyphenator splits the initial digraph as `s-haqo`. |
+| R11 | `baabuur` uses only Somali letters as an adapted word. | `pizza` is labelled a native Somali word without adaptation or a foreign-use label. |
+| R12 | `Sheeko` uses the capitalized form `Sh`. | `SHeeko` capitalizes both digraph characters in ordinary text. |
 
 **Collation example.** The words `sac`, `shan`, `sonkor` sort as
 `sac → sonkor → shan`, because `sh` (R4) sorts as a unit *after* all plain-`s`
@@ -253,8 +270,10 @@ words, not between them.
 ## References
 
 - `docs/ARCHITECTURE.md` §5, §8, §30 — spec-layer and standards-framework rules.
-- SLS-0002 Somali Orthography Standard *(planned; depends on this standard)*.
-- SLS-0005 Somali Capitalization Standard *(planned)*.
+- SLS-0002 Somali Orthography Standard *(`Proposed`; depends on this standard)*.
+- SLS-0003 Somali Grammar Standard *(`Proposed`; depends on this standard and SLS-0002)*.
+- SLS-0004 Somali Punctuation Standard *(`Proposed`; depends indirectly on this standard)*.
+- SLS-0005 Somali Capitalization Standard *(`Proposed`; depends indirectly on this standard)*.
 - SLS-0103 Loanword Standard *(planned)* — foreign-letter adaptation.
 - BCP 47 — language tags (`so` for standard Somali).
 - The Unicode Standard — code point references (Basic Latin; U+02BC).

@@ -105,7 +105,9 @@ Curation scope, limitations, and the current baseline are documented in
 Collection layout and conventions live in
 [`resources/README.md`](resources/README.md). Normative standards in `spec/`
 build on this evidence base. The 145-file baseline completed maintainer
-approval on 2026-08-23, so orthography drafting can now begin with SLS-0002.
+approval on 2026-08-23. The evidence-mapped SLS-0002, SLS-0003, SLS-0004, and
+SLS-0005 proposal package now implements the orthography and core grammar
+layers for formal public review.
 
 Every standard SLS publishes is traceable back to this evidence base. No rule, word, or grammatical claim is made without a citation to an authoritative source.
 
@@ -178,7 +180,10 @@ When SLS reaches v1.0 and the core standards are ratified `Stable`, the followin
 
 **For software:** A Somali spell-checker can be built by loading `data/lexicon/` and validated against `benchmarks/spelling/`. Any update to the lexicon automatically flows downstream to every tool built on it.
 
-**For education:** Publishers can cite SLS-0002 §4.3 when explaining why a word is spelled a particular way, backed by the same evidence base that linguists consulted when drafting the rule.
+**For education:** Once SLS-0002 advances through review, publishers can cite
+its numbered requirements when explaining why a word is spelled a particular
+way, backed by the same evidence base that linguists consulted when drafting
+the rule.
 
 **For AI training:** Fine-tuning datasets in `ai/datasets/` allow any lab or researcher to improve their model's Somali capability against a known, contamination-audited benchmark.
 

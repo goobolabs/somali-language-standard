@@ -37,7 +37,7 @@ Publisher: Kulliyadda Waxbarashada ee Lafoole (Jaamacadda Ummadda Soomaaliyeed).
   Nilsson §2.3 (interim supplementary source, not a Somali primary). The 1974
   Ministry book was sampled; it documents writing/literacy history, not
   capitalization rules. Revisit if a Somali-primary capitalization source is
-  located. Planned spec `SLS-0005` is not yet drafted.
+  located. The SLS-0005 `Proposed` text retains this limitation explicitly.
 - *Codaynta Af Soomaaliga* (phonology, 1977) is curated in
   [`resources/dhawaaq/`](../dhawaaq/) — it is not orthography evidence.
 - Alphabet and phoneme inventory overlap with [`naxwe/01-ereyada.md`](../naxwe/01-ereyada.md);

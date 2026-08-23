@@ -83,7 +83,8 @@ implementation phases in this document. See
 
 ## Phase 2 — Orthography Standard
 
-**Status:** ready to start — Milestone 1b completed on 2026-08-23.
+**Status:** proposal content complete — SLS-0002, SLS-0004, and SLS-0005 were
+accepted for `Proposed` publication on 2026-08-23; public-comment time remains.
 
 **Objective:** The spelling layer on top of the alphabet: SLS-0002
 (orthography/spelling rules), plus punctuation (SLS-0004) and capitalization
@@ -91,26 +92,30 @@ implementation phases in this document. See
 
 **Deliverables**
 
-- [ ] `spec/orthography/0002-spelling-rules.md` (SLS-0002)
-- [ ] `spec/orthography/0003-capitalization.md` (SLS-0005)
-- [ ] `spec/orthography/0004-punctuation.md` (SLS-0004)
-- [ ] Each with numbered normative rules and positive/negative examples
+- [x] `spec/orthography/0002-spelling-rules.md` (SLS-0002, initial `Draft`)
+- [x] `spec/orthography/0003-capitalization.md` (SLS-0005, initial `Draft`)
+- [x] `spec/orthography/0004-punctuation.md` (SLS-0004, initial `Draft`)
+- [x] Each with numbered normative rules and positive/negative examples
 
 **Starting task:** draft `spec/orthography/0002-spelling-rules.md` as
-SLS-0002. First build a cited evidence map from `resources/qoraal/`,
-`resources/dhawaaq/`, `resources/naxwe/`, and `resources/sarfe/`; then define
-the document scope and numbered rules for spelling, word boundaries, vowel
-length, digraphs, apostrophe/glottal-stop usage, morphophonemic spelling, and
-loanword treatment. Record conflicting or insufficient evidence as open
-questions instead of silently choosing a rule.
+SLS-0002. First build the cited
+[`SLS-0002 evidence map`](docs/standards/SLS-0002-evidence-map.md) from
+`resources/qoraal/`, `resources/dhawaaq/`, `resources/naxwe/`, and
+`resources/sarfe/`; then define the document scope and numbered rules for
+spelling, word boundaries, vowel length, digraphs, apostrophe/glottal-stop
+usage, morphophonemic spelling, and loanword treatment. Record conflicting or
+insufficient evidence as open questions instead of silently choosing a rule.
 
 **Execution order:**
 
-1. SLS-0002 evidence map, scope, and first draft.
-2. SLS-0004 punctuation draft based primarily on `resources/qoraal/`.
-3. SLS-0005 capitalization draft, explicitly retaining the current
-   primary-source limitation.
-4. Public review and written resolution of every open orthography question.
+1. SLS-0002 evidence map, scope, and first draft. ✅
+2. SLS-0004 evidence map and punctuation draft based primarily on
+   `resources/qoraal/`. ✅
+3. SLS-0005 evidence map and capitalization draft, explicitly retaining the
+   current primary-source limitation. ✅
+4. Pre-comment decisions recorded and all known drafting questions resolved. ✅
+5. Publish the proposal, complete the public-comment periods, and resolve any
+   new questions raised there.
 
 **Completion criteria:** all three documents at `Proposed` or beyond;
 SLS-0001 promoted to at least `Review`; no orthography question raised during
@@ -123,22 +128,29 @@ comment periods left without a written resolution.
 
 ## Phase 3 — Grammar Standard
 
+**Status:** proposal content complete — SLS-0003 and all eight topic documents
+were accepted for `Proposed` publication on 2026-08-23; recurring linguist
+reviewer engagement remains.
+
 **Objective:** The core grammar layer (SLS-0003): parts of speech, noun
 morphology, verb system, pronouns, sentence structure, negation, questions,
 common mistakes.
 
 **Deliverables**
 
-- [ ] `spec/grammar/0010-parts-of-speech.md` through
+- [x] `spec/grammar/0010-parts-of-speech.md` through
       `spec/grammar/0017-common-mistakes.md` (eight documents per the
       architecture tree)
-- [ ] SLS-0003 standard wrapper listing the grammar documents it implements
-- [ ] Gloss-table examples (Somali | Gloss | English) for every rule
+- [x] SLS-0003 standard wrapper listing the grammar documents it implements
+- [x] Gloss-table examples (Somali | Gloss | English) for every rule
 
 **Completion criteria:** all eight grammar documents drafted and SLS-0003 at
 `Proposed`; at least one linguist reviewer engaged as a recurring reviewer.
 
 **Dependencies:** Phases 1–2 (SLS-0003 depends on SLS-0001, SLS-0002).
+
+Lifecycle verification and the remaining external gates are recorded in
+[`docs/standards/MILESTONE-2-READINESS.md`](docs/standards/MILESTONE-2-READINESS.md).
 
 ---
 

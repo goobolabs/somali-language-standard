@@ -1,0 +1,69 @@
+---
+id: "0011"
+title: "Noun Morphology: Gender and Plurals"
+status: Draft
+since_version: 0.2.0
+category: grammar
+supersedes: null
+---
+
+# Noun Morphology: Gender and Plurals
+
+## Summary
+
+Somali nouns participate in grammatical gender, definiteness, and number
+contrasts. This specification standardizes the agreement tests and reviewed
+patterns; it does not claim that one ending predicts every noun form.
+
+## Rule
+
+- **G11-R1.** A noun's grammatical gender MUST be determined from reviewed
+  agreement behaviour, not inferred only from the natural sex of its referent
+  or the shape of the isolated noun.
+- **G11-R2.** A definite article MUST agree with the reviewed gender and
+  phonological class of its noun. A masculine article MUST NOT replace a
+  required feminine article, or conversely.
+- **G11-R3.** A plural form MUST follow a reviewed paradigm for that noun or
+  noun class. Implementations MUST NOT generate a plural by treating one suffix
+  as universally productive.
+- **G11-R4.** Mass and collective nouns MUST NOT be forced into ordinary
+  singular-count interpretation when the intended reading is uncounted or
+  collective.
+- **G11-R5.** Agreement with a plural noun MUST follow the reviewed gender of
+  the plural form, even when that gender differs from the singular noun's
+  gender.
+
+## Examples
+
+| Somali | Gloss | English |
+|---|---|---|
+| Deeradu biyo bay cabtay. | `[G11-R1 +]` gazelle-DEF.F water FOC.3SG.F drank.F | Correct: agreement diagnoses the noun as feminine here. |
+| \*Deeradu biyo buu cabbay. | `[G11-R1 −]` gazelle-DEF.F water FOC.3SG.M drank.M | Ungrammatical in the reviewed agreement pattern. |
+| Ninka ayaan la hadlay. | `[G11-R2 +]` man-DEF.M FOC.1SG with spoke | Correct masculine article. |
+| \*Ninta ayaan la hadlay. | `[G11-R2 −]` man-DEF.F FOC.1SG with spoke | Ungrammatical: the feminine article replaces the reviewed masculine form. |
+| Naagta ayaan la hadlay. | `[G11-R2 +]` woman-DEF.F FOC.1SG with spoke | Correct feminine article. |
+| \*Naagka ayaan la hadlay. | `[G11-R2 −]` woman-DEF.M FOC.1SG with spoke | Ungrammatical: the masculine article replaces the reviewed feminine form. |
+| buug → buugag | `[G11-R3 +]` book → books | Correct reviewed plural. |
+| \*buug → buugyo | `[G11-R3 −]` book → generated-plural | Not accepted here: the form is produced by an unsupported universal suffix rule. |
+| Sonkor badan baan rabaa. | `[G11-R4 +]` sugar much FOC.1SG want | Correct mass-noun reading. |
+| \*hal sonkor | `[G11-R4 −]` one sugar | Incorrect for the intended unmeasured mass reading. |
+| Inankaas baa dheer; Inamadaas baa dhaadheer. | `[G11-R5 +]` boy-DEM.M FOC tall; boys-DEM.F FOC tall.PL | Correct: the demonstrative and modifier follow the reviewed plural pattern. |
+| \*Inamakaas baa dhaadheer. | `[G11-R5 −]` boys-DEM.M FOC tall.PL | Ungrammatical here: the masculine demonstrative form is imposed on the reviewed feminine plural. |
+
+## Edge Cases & Common Mistakes
+
+- Article allomorphy and plural formation are lexical and phonological as well
+  as grammatical; a single visible ending is not a complete classifier.
+- A collective form and an ordinary count plural may differ in meaning even
+  when both refer to more than one entity.
+- Unlisted or disputed plurals require lexical review before a validator treats them as errors.
+
+## Related
+
+- [SLS-0003 Grammar Evidence Map](../../docs/standards/SLS-0003-evidence-map.md)
+- [Grammar resource: noun morphology](../../resources/naxwe/02-sarfaha-magacyada.md)
+- [Reviewed noun paradigms](../../resources/sarfe/01-magacyada.md)
+- [SLS-0003: Somali Grammar Standard](0018-somali-grammar-standard.md)
+- [Parts of Speech](0010-parts-of-speech.md)
+- [Pronouns](0013-pronouns.md)
+- [Sentence Structure and Word Order](0014-sentence-structure-word-order.md)

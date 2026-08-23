@@ -1,0 +1,31 @@
+{
+  "id": "SLS-0003",
+  "title": "Somali Grammar Standard",
+  "category": "foundation",
+  "version": "0.1.0",
+  "status": "proposed",
+  "owner": "language-council",
+  "reviewers": [],
+  "dependencies": ["SLS-0001", "SLS-0002"],
+  "implements": [
+    "spec/grammar/0010-parts-of-speech.md",
+    "spec/grammar/0011-noun-morphology-gender-plurals.md",
+    "spec/grammar/0012-verb-system-tense-aspect-mood.md",
+    "spec/grammar/0013-pronouns.md",
+    "spec/grammar/0014-sentence-structure-word-order.md",
+    "spec/grammar/0015-negation.md",
+    "spec/grammar/0016-question-formation.md",
+    "spec/grammar/0017-common-mistakes.md",
+    "spec/grammar/0018-somali-grammar-standard.md"
+  ],
+  "publication_date": null,
+  "supersedes": null,
+  "superseded_by": null,
+  "revision_history": [
+    {
+      "version": "0.1.0",
+      "date": "2026-08-23",
+      "change": "Initial evidence-mapped draft"
+    }
+  ]
+}
