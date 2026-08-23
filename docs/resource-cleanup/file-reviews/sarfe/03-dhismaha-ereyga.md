@@ -5,8 +5,7 @@
 - **Priority:** P2
 - **Method:** repository-only, line-by-line tabular audit against cleaned
   `naxwe/07` §§7.2–7.3
-- **Audit status:** approved; SLS-native cleanup applied and awaiting
-  maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-19
 - **File size at audit start:** 85 lines; 490 words; 2,368 bytes
 - **Resource SHA-256 at audit start:**
@@ -84,9 +83,9 @@ agent forms stay out of this lookup.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the
   instruction, "go ahead."
 - **Approved finding IDs:** M03-R001 through M03-R008
-- **Cleanup:** applied; awaiting maintainer review
-- **Cleanup approval:** not started
-- **Complete:** no
+- **Cleanup:** applied and approved 2026-08-23
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Audit validation
 

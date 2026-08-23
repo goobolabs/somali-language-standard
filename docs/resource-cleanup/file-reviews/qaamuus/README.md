@@ -4,8 +4,7 @@
 - **Collection / family:** qaamuus / collection map and conventions
 - **Priority:** P3
 - **Method:** repository-only, line-by-line documentation audit
-- **Audit status:** approved; registry cleanup applied and awaiting
-  maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-19
 - **File size at audit start:** 66 lines; 252 words; 1,968 bytes
 - **Resource SHA-256 at audit start:**
@@ -94,9 +93,9 @@ No letter file should be removed. The collection should not be marked complete.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the
   instruction, "go ahead."
 - **Approved finding IDs:** QARD-R001 through QARD-R005
-- **Cleanup:** applied; awaiting maintainer review
-- **Cleanup approval:** not started
-- **Complete:** no
+- **Cleanup:** applied and approved 2026-08-23
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Audit validation
 
@@ -123,8 +122,9 @@ No letter file should be removed. The collection should not be marked complete.
 
 ### Registry refresh (2026-08-19, post letter-file cleanup)
 
-- Updated current-status section: letter files `01-b` … `31-uu` cleanup-applied
-  (awaiting review); collection not marked complete.
+- Updated current-status section: letter files `01-b` … `31-uu` cleanup-applied.
+  Maintainer approval was granted on 2026-08-23; the collection is complete
+  for this cleanup pass.
 
 ### Deliberately retained
 

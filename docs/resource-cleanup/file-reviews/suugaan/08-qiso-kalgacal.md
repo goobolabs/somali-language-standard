@@ -5,7 +5,7 @@
 - **Priority:** P1
 - **Method:** whole-file literary-content audit; direct comparison with the
   local source scan and its raw OCR conversion
-- **Audit status:** approved; source-guided cleanup applied, awaiting maintainer review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit date:** 2026-08-14
 - **File size at audit:** 3,592 lines; 18,304 words; 113,926 bytes
 - **Resource SHA-256:**
@@ -212,8 +212,8 @@ Cleanup must not:
   instruction, "go ahead."
 - **Finding IDs:** SUU08-R001 through SUU08-R009
 - **Cleanup:** applied on 2026-08-14
-- **Cleanup approval:** pending
-- **Complete:** no
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Cleanup result
 
@@ -252,5 +252,5 @@ Applied changes include:
 
 The cleanup does not claim a new critical edition: ambiguous character-level
 readings that could not be safely resolved from the scan were retained rather
-than silently rewritten. Cleanup remains awaiting maintainer approval and is
-not marked complete.
+than silently rewritten. Cleanup was approved by the maintainer on 2026-08-23
+and is complete.

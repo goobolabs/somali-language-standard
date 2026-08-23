@@ -19,8 +19,9 @@ Collections are not all edited the same way:
   printed English–Somali pairs; fix uniquely supported OCR; omit unreadable or
   Italian-only rows rather than reconstructing them.
 - **Dictionary collections** — [`qaamuus/`](qaamuus/) and
-  [`madax-ereyo/`](madax-ereyo/) remain as listed here and are not yet in this
-  cleanup pass.
+  [`madax-ereyo/`](madax-ereyo/): preserve source definitions and headwords;
+  repair uniquely supported structural and OCR damage without silently
+  introducing normative lexical changes.
 
 ## Layout
 
@@ -182,9 +183,25 @@ tokenisers, and NLP/ML training data.
   and the relevant record under
   [`docs/resource-cleanup/file-reviews/`](../docs/resource-cleanup/file-reviews/).
 
+## Reporting corrections
+
+These resources were reconstructed and cleaned from historical publications,
+scans, and reference works. Review reduces OCR and editorial errors, but it
+does not guarantee that every word, grammatical explanation, transcription,
+source attribution, or formatting decision is correct. Historical and
+regional spellings may also be intentional rather than errors.
+
+If you find a possible problem, please open an issue or pull request. Include
+the file and line, the current text, the proposed correction, and supporting
+source or page evidence whenever possible. Follow
+[`CONTRIBUTING.md`](../CONTRIBUTING.md), and do not silently modernize an
+attested form without evidence.
+
 ## Current status
 
-Cleanup progress for this directory is in
-[`RESOURCE_CLEANUP_TRACKER.md`](../RESOURCE_CLEANUP_TRACKER.md). No collection
-is marked complete from this file. `docs/RESOURCES.md` remains the
-evidence-versus-norm overview; it is not updated by this cleanup.
+All 145 tracked resource files completed the file-by-file cleanup process on
+2026-08-23. The full stage record is in
+[`RESOURCE_CLEANUP_TRACKER.md`](../RESOURCE_CLEANUP_TRACKER.md), and
+[`docs/RESOURCES.md`](../docs/RESOURCES.md) remains the evidence-versus-norm
+overview. Completion closes this cleanup pass; later evidence-based corrections
+remain welcome.

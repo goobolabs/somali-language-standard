@@ -4,8 +4,7 @@
 - **Collection / family:** erey-bixin / collection map and conventions
 - **Priority:** P3
 - **Method:** repository-only, line-by-line documentation audit
-- **Audit status:** approved; cleanup applied and awaiting maintainer
-  cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-19
 - **File size at audit start:** 60 lines; 340 words; 2,724 bytes
 - **Resource SHA-256 at audit start:**
@@ -90,9 +89,9 @@ should not be modernized from this README.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the
   instruction, "go ahead."
 - **Approved finding IDs:** EBRD-R001 through EBRD-R006
-- **Cleanup:** applied; awaiting maintainer review
-- **Cleanup approval:** not started
-- **Complete:** no
+- **Cleanup:** applied and approved 2026-08-23
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Audit validation
 

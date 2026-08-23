@@ -5,8 +5,7 @@
 - **Priority:** P1
 - **Method:** whole-file, line-by-line literary-content audit; repository
   comparison plus source-location check
-- **Audit status:** approved; source-guided cleanup applied and awaiting
-  maintainer review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-13
 - **File size at audit start:** 1,393 lines; 12,244 words; 72,593 bytes
 - **Resource SHA-256 at audit start:**
@@ -230,5 +229,5 @@ The cleanup must not:
 - **Cleanup resource size:** 478 lines; 10,408 words; 66,288 bytes
 - **Cleanup SHA-256:**
   `5073341cefae85d071c17c461ba389da956d1556c490c21e5462c1bece822eee`
-- **Cleanup approval:** pending
-- **Complete:** no
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes

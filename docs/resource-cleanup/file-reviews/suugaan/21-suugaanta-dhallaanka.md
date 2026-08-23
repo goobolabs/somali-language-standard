@@ -4,7 +4,7 @@
 - **Collection / family:** suugaan / carruur (1987 children's anthology; Aamina X. Aadan)
 - **Priority:** P1
 - **Method:** whole-file literary audit; comparison with local image PDF and raw OCR
-- **Audit status:** complete
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit date:** 2026-08-19
 - **File size at audit start:** 993 lines
 - **Resource SHA-256 at audit start:**
@@ -52,8 +52,8 @@ pagination debris (`— 23 —`), and Latin/layout garbage.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the instruction, "go ahead."
 - **Finding IDs:** SUU21-R001 through SUU21-R005
 - **Cleanup:** phase-2 PDF transcription (2026-08-19; 3 batches, pages 1–94)
-- **Cleanup approval:** pending
-- **Complete:** no
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Cleanup result
 
@@ -67,5 +67,5 @@ The independently reviewed transcription batches were merged into one continuous
 - **Post-cleanup:** 1,200 lines
 - **Resource SHA-256 after cleanup:**
   `cf38455facbdfa41495d02c0a78a0adb97da44ee02c71f6a8e937d790a15425d`
-- **Status:** awaiting cleanup approval
+- **Status:** complete; cleanup approved 2026-08-23
 - **Spot-check (non-blocking):** printed book page 87 missing from scan — *Gorayo* verse after intro not recoverable; old *Diiqda* colophon replaced by PDF closing *Sheeko dhamaatay*

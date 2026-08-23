@@ -4,7 +4,7 @@
 - **Collection / family:** suugaan / dugsiga sare (school textbook, grade 5)
 - **Priority:** P1
 - **Method:** whole-file literary audit; comparison with local image PDF and raw OCR
-- **Audit status:** complete
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit date:** 2026-08-19
 - **File size at audit start:** 2,914 lines
 - **Resource SHA-256 at audit start:**
@@ -41,8 +41,8 @@ OCR and restore verse layout; it must not modernize diction or reorder lessons.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the instruction, "go ahead."
 - **Finding IDs:** SUU19-R001 through SUU19-R005
 - **Cleanup:** phase-2 PDF transcription (2026-08-19; 3 batches, pages 1–86)
-- **Cleanup approval:** pending
-- **Complete:** no
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Cleanup result
 
@@ -55,5 +55,5 @@ transcription batches were merged into one continuous file.
 - **Resource SHA-256 after cleanup:**
   `a3ff4f9717e3fd10cb0556a5d6eef17398b9b91a1bf7eb85a704584d4f660e2a`
 - **PDF mapping:** 3 parts → `/tmp/suugaan19-part{1..3}.md`; PNGs at `/tmp/suugaan19-ocr/`
-- **Status:** awaiting cleanup approval
+- **Status:** complete; cleanup approved 2026-08-23
 - **Spot-check (non-blocking):** printed lesson numbering skips *Casharka XIII*; two *Casharka XII* blocks appear in the merge — verify against PDF if needed

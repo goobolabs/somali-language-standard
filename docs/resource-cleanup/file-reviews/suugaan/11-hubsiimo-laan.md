@@ -5,7 +5,7 @@
 - **Priority:** P1
 - **Method:** whole-file literary audit; direct comparison with the local
   source scan and its raw OCR conversion
-- **Audit status:** approved; second cleanup completed, awaiting maintainer approval
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit date:** 2026-08-14
 - **File size at audit:** 2,086 lines; 23,765 words; 136,200 bytes
 - **Resource SHA-256:**
@@ -220,7 +220,7 @@ Cleanup must:
 - record the spread reconstruction, metadata uncertainty, structural repair,
   advertising exclusion, major transcription ranges, and unresolved readings
   in provenance; and
-- leave cleanup approval and completion pending for maintainer review.
+- defer cleanup approval and completion to the final maintainer review.
 
 Cleanup must not:
 
@@ -239,9 +239,9 @@ Cleanup must not:
 
 - **Audit approval:** approved by maintainer instruction `go ahead` on 2026-08-14
 - **Finding IDs:** SUU11-R001 through SUU11-R013
-- **Cleanup:** completed on 2026-08-23; awaiting maintainer approval
-- **Cleanup approval:** pending
-- **Complete:** no
+- **Cleanup:** completed and approved on 2026-08-23
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Cleanup result
 

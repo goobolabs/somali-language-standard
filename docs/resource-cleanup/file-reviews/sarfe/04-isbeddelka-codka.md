@@ -5,8 +5,7 @@
 - **Priority:** P2
 - **Method:** repository-only, line-by-line tabular audit against cleaned
   `naxwe/02`, `naxwe/07`, and `dhawaaq/03`
-- **Audit status:** approved; SLS-native cleanup applied and awaiting
-  maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-19
 - **File size at audit start:** 65 lines; 324 words; 1,981 bytes
 - **Resource SHA-256 at audit start:**
@@ -91,9 +90,9 @@ accent rows stay out of the L6 table.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the
   instruction, "go ahead."
 - **Approved finding IDs:** M04-R001 through M04-R008
-- **Cleanup:** applied; awaiting maintainer review
-- **Cleanup approval:** not started
-- **Complete:** no
+- **Cleanup:** applied and approved 2026-08-23
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Audit validation
 

@@ -68,19 +68,13 @@ file.
 
 ## Current status
 
-Files [`01-maahmaahyada.md`](01-maahmaahyada.md) (phase-1),
-[`02-murtida.md`](02-murtida.md), [`03-xikmad-soomaali.md`](03-xikmad-soomaali.md),
-[`04-sheekooyin-soomaaliyeed.md`](04-sheekooyin-soomaaliyeed.md) …
-[`11-hubsiimo-laan.md`](11-hubsiimo-laan.md),
-[`23-ina-cabdille-xasan.md`](23-ina-cabdille-xasan.md), and
-[`24-ereybixinta-maansada.md`](24-ereybixinta-maansada.md) received the 2026-08-19
-cleanup audit and applied repairs (awaiting cleanup review). Files
-[`12-bisaddii-bubaysta.md`](12-bisaddii-bubaysta.md) and
-[`13-xeebtii-dahabka.md`](13-xeebtii-dahabka.md) are **complete** (2026-08-19 PDF
-phase-2 transcriptions). Files `14`–`22` are not yet audited.
-Audit records are in
+Files [`01-maahmaahyada.md`](01-maahmaahyada.md) through
+[`24-ereybixinta-maansada.md`](24-ereybixinta-maansada.md), together with this
+README and [`00-sources.md`](00-sources.md), completed the audit and cleanup
+process. Cleanup approval was granted on 2026-08-23. Audit records are in
 [`docs/resource-cleanup/file-reviews/suugaan/`](../../docs/resource-cleanup/file-reviews/suugaan/).
-This collection is not marked complete.
+The collection is complete for this cleanup pass; source limitations and later
+evidence-based corrections remain open.
 
 ## Intended use
 

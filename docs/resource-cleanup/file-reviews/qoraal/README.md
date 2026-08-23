@@ -4,8 +4,7 @@
 - **Collection / family:** qoraal / collection map and conventions
 - **Priority:** P3
 - **Method:** repository-only, line-by-line documentation audit
-- **Audit status:** approved; SLS-native cleanup applied and awaiting
-  maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-19
 - **File size at audit start:** 67 lines; 360 words; 2,787 bytes
 - **Resource SHA-256 at audit start:**
@@ -68,9 +67,9 @@ be marked complete.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the
   instruction, "go ahead."
 - **Approved finding IDs:** ORD-R001 through ORD-R007
-- **Cleanup:** applied; awaiting maintainer review
-- **Cleanup approval:** not started
-- **Complete:** no
+- **Cleanup:** applied and approved 2026-08-23
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Audit validation
 

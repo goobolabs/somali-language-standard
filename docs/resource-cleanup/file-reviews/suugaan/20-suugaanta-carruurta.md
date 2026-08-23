@@ -4,7 +4,7 @@
 - **Collection / family:** suugaan / carruur (1976 anthology: Idaajaa folktales + Dahabo children's stories + Russian tale translation)
 - **Priority:** P1
 - **Method:** whole-file literary audit; comparison with local image PDF and raw OCR
-- **Audit status:** complete
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit date:** 2026-08-19
 - **File size at audit start:** 1,696 lines
 - **Resource SHA-256 at audit start:**
@@ -89,8 +89,8 @@ Estimated effort: comparable to files 17–19 (multi-batch vision transcription)
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the instruction, "go ahead."
 - **Finding IDs:** SUU20-R001 through SUU20-R011
 - **Cleanup:** phase-2 PDF transcription (2026-08-19; 8 batches, pages 1–249)
-- **Cleanup approval:** pending
-- **Complete:** no
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Cleanup result
 
@@ -114,4 +114,4 @@ file after page-image comparison and boundary review.
 - **Post-cleanup:** 2,305 lines
 - **Resource SHA-256 after cleanup:**
   `b5cce85007add63864d32758ae456ac21ee0f3f46f50b43d87ced654766e3dc0`
-- **Status:** awaiting cleanup approval
+- **Status:** complete; cleanup approved 2026-08-23

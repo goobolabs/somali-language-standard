@@ -4,7 +4,7 @@
 - **Collection / family:** naxwe / source registry
 - **Priority:** P3
 - **Method:** repository-only, row-by-row metadata and status audit
-- **Audit status:** approved; conservative registry cleanup applied and awaiting review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-12
 - **File size at audit start:** 33 lines; 250 words; 1,698 bytes
 - **Resource SHA-256 at audit start:**
@@ -81,9 +81,9 @@ volume identification. The previously approved file 14 author must remain.
 - **Audit approval:** approved by the maintainer on 2026-08-12 with the
   instruction, "go ahead."
 - **Approved finding IDs:** N00S-R001 through N00S-R010
-- **Cleanup:** applied; awaiting maintainer review
-- **Cleanup approval:** not started
-- **Complete:** no
+- **Cleanup:** applied and approved 2026-08-23
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 - **Decision requested:** review and approve the cleaned registry before the
   cleanup-approval or complete stages are marked.
 

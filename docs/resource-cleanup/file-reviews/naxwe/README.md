@@ -4,7 +4,7 @@
 - **Collection / family:** naxwe / collection map and conventions
 - **Priority:** P3
 - **Method:** repository-only, line-by-line documentation audit
-- **Audit status:** approved; cleanup applied; awaiting maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-12
 - **File size at audit start:** 40 lines; 237 words; 1,958 bytes
 - **Resource SHA-256 at audit start:**
@@ -82,9 +82,9 @@ linguistic example should be introduced.
 - **Audit approval:** approved by the maintainer on 2026-08-12 with the
   instruction, "go ahead for the one we audited."
 - **Approved finding IDs:** NRD-R001 through NRD-R009
-- **Cleanup:** applied; awaiting maintainer review
-- **Cleanup approval:** not started
-- **Complete:** no
+- **Cleanup:** applied and approved 2026-08-23
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 - **Decision requested:** review and approve the cleaned README before the
   cleanup-approval or complete stages are marked.
 
@@ -149,7 +149,7 @@ linguistic example should be introduced.
 
 ### Cleanup validation
 
-- Cleanup approval and completion remain unmarked pending maintainer review.
+- Cleanup approval was granted on 2026-08-23; the file is complete.
 - `git diff --check`: passed.
 - Structure: one H1, two H2 headings, one valid two-column Markdown table with
   all nine logical entries, six top-level convention bullets, and three nested

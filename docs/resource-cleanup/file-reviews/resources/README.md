@@ -4,8 +4,7 @@
 - **Collection / family:** resources / top-level evidence-library map
 - **Priority:** P3
 - **Method:** repository-only, line-by-line documentation audit
-- **Audit status:** approved; cleanup applied and awaiting maintainer
-  cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-19
 - **File size at audit start:** 124 lines; 667 words; 6,444 bytes
 - **Resource SHA-256 at audit start:**
@@ -96,9 +95,9 @@ suugaan files should not be cleaned from this README.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the
   instruction, "go ahead."
 - **Approved finding IDs:** RES-R001 through RES-R006
-- **Cleanup:** applied; awaiting maintainer review
-- **Cleanup approval:** not started
-- **Complete:** no
+- **Cleanup:** applied and approved 2026-08-23
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Audit validation
 

@@ -4,7 +4,7 @@
 - **Collection / family:** naxwe / primary grammar
 - **Priority:** P2
 - **Method:** repository-only, line-by-line SLS content audit
-- **Audit status:** approved; conservative SLS cleanup applied and awaiting review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-12
 - **File size at audit start:** 216 lines; 1,260 words; 8,148 bytes
 - **Resource SHA-256 at audit start:**
@@ -85,9 +85,9 @@ Recommended links are `02-sarfaha-magacyada.md`,
 - **Audit approval:** approved by the maintainer on 2026-08-12 with the
   instruction, "go ahead."
 - **Approved finding IDs:** N03-R001 through N03-R010
-- **Cleanup:** applied; awaiting maintainer review
-- **Cleanup approval:** not started
-- **Complete:** no
+- **Cleanup:** applied and approved 2026-08-23
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Cleanup result and review
 

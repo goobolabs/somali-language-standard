@@ -6,7 +6,7 @@
 - **Collection / family:** naxwe / Somali-English grammar terminology
 - **Priority:** P2
 - **Method:** repository-only, row-by-row terminology, structure, and format audit
-- **Audit status:** approved; cleanup applied; awaiting maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-12
 - **File size at audit start:** 269 lines; 1,166 words; 9,735 bytes
 - **Resource SHA-256 at audit start:**
@@ -118,9 +118,9 @@ should be introduced.
   instruction, "go ahead for the one we audited."
 - **Approved finding IDs:** ERF-R001 through ERF-R010, as amended by the
   maintainer's bilingual single-file decision
-- **Cleanup:** applied; awaiting maintainer review
-- **Cleanup approval:** not started
-- **Complete:** no
+- **Cleanup:** applied and approved 2026-08-23
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 - **Decision requested:** review and approve the bilingual `ereyfur.md` before
   cleanup approval or completion is marked.
 
@@ -197,7 +197,7 @@ should be introduced.
 
 ### Cleanup validation
 
-- Cleanup approval and completion remain unmarked pending maintainer review.
+- Cleanup approval was granted on 2026-08-23; the file is complete.
 - `git diff --check`: passed.
 - Pair preservation: the 268 Markdown pairs exactly match the original TSV's
   Somali-English columns after applying the five approved Somali and six

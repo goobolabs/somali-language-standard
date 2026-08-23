@@ -29,7 +29,8 @@ here once, so content files stay clean.
   [`qaamuus/00-sources.md`](../qaamuus/00-sources.md).
 - The 2026-08-19 cleanup audit and applied repairs for letter files are in
   [`docs/resource-cleanup/file-reviews/madax-ereyo/`](../../docs/resource-cleanup/file-reviews/madax-ereyo/).
-  Registry files are not marked complete.
+  Cleanup approval was granted on 2026-08-23, and the registry files are
+  complete for the cleanup pass.
 
 ## Intended use
 

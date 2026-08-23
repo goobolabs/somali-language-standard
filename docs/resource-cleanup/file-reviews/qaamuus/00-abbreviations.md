@@ -4,8 +4,7 @@
 - **Collection / family:** qaamuus / grammatical and domain code key
 - **Priority:** P2
 - **Method:** repository-only, table-row audit with entry-tag cross-check
-- **Audit status:** approved; registry cleanup applied and awaiting
-  maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-19
 - **File size at audit start:** 79 lines; 696 words; 3,273 bytes
 - **Resource SHA-256 at audit start:**
@@ -93,9 +92,9 @@ audits, not silent table expansion without source proof.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the
   instruction, "go ahead."
 - **Approved finding IDs:** QA00A-R001 through QA00A-R007
-- **Cleanup:** applied; awaiting maintainer review
-- **Cleanup approval:** not started
-- **Complete:** no
+- **Cleanup:** applied and approved 2026-08-23
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Audit validation
 

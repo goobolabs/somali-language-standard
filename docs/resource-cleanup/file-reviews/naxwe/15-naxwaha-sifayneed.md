@@ -4,7 +4,7 @@
 - **Collection / family:** naxwe / supplementary grammar
 - **Priority:** P0
 - **Method:** repository-only, line-by-line audit
-- **Audit status:** approved; SLS-native rewrite applied and awaiting review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-12
 - **File size at audit start:** 5,191 lines; 42,543 words; 242,495 bytes
 
@@ -228,5 +228,5 @@ Rewrite validation:
 - all local Markdown link targets exist; and
 - the rewrite is recorded as `N15-SLS001` in the correction log.
 
-- **SLS rewrite approval:** pending maintainer review
-- **Final complete:** no
+- **SLS rewrite approval:** approved 2026-08-23
+- **Final complete:** yes

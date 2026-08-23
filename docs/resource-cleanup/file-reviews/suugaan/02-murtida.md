@@ -4,7 +4,7 @@
 - **Collection / family:** suugaan / murti glossary
 - **Priority:** P2
 - **Method:** whole-file glossary audit; repository-only
-- **Audit status:** approved; cleanup applied and awaiting maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit date:** 2026-08-19
 - **File size at audit start:** 221 lines
 - **Resource SHA-256 at audit start:**
@@ -33,8 +33,8 @@ per-file provenance blocks.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the instruction, "go ahead."
 - **Finding IDs:** SUU02-R001 through SUU02-R004
 - **Cleanup:** applied on 2026-08-19
-- **Cleanup approval:** pending
-- **Complete:** no
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Cleanup result
 
@@ -45,4 +45,4 @@ were added, removed, or reordered.
 - **Resource SHA-256 after cleanup:**
   `66f1dd6bad0158bc3f8b4666990145e00b14a8597c7775f46122854ef63ccda0`
 - **Wordlist parity:** n/a
-- **Status:** applied; awaiting maintainer cleanup review
+- **Status:** complete; cleanup approved 2026-08-23

@@ -4,7 +4,7 @@
 - **Collection / family:** suugaan / maanso reference (SLS-native summary)
 - **Priority:** P2
 - **Method:** whole-file reference audit; repository-only
-- **Audit status:** approved; no cleanup edits required; awaiting maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit date:** 2026-08-19
 - **File size at audit:** 79 lines
 - **Resource SHA-256:**
@@ -33,8 +33,8 @@ noted in the closing section.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the instruction, "go ahead."
 - **Finding IDs:** SUU24-R001 through SUU24-R003
 - **Cleanup:** applied on 2026-08-19 (verification pass; no text changes)
-- **Cleanup approval:** pending
-- **Complete:** no
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Cleanup result
 
@@ -45,4 +45,4 @@ reference model described above.
 - **Resource SHA-256 after cleanup:**
   `3445ef7821766ff21976c77372e39b332e1b6dad6b0f13850ad6cb07ff6f7037`
 - **Wordlist parity:** n/a
-- **Status:** applied; awaiting maintainer cleanup review
+- **Status:** complete; cleanup approved 2026-08-23

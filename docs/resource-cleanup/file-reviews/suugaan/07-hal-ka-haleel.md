@@ -5,7 +5,7 @@
 - **Priority:** P1
 - **Method:** whole-file, line-by-line literary-content audit; direct comparison
   with the local source scan
-- **Audit status:** approved; cleanup applied; awaiting cleanup approval
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit date:** 2026-08-14
 - **File size at audit:** 6,413 lines; 64,253 words; 414,794 bytes
 - **Resource SHA-256:**
@@ -223,8 +223,8 @@ Cleanup must not:
 - **Audit approval:** approved by the maintainer on 2026-08-14
 - **Finding IDs:** SUU07-R001 through SUU07-R011
 - **Cleanup:** applied on 2026-08-14
-- **Cleanup approval:** pending
-- **Complete:** no
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Cleanup result
 
@@ -253,5 +253,5 @@ Applied changes include:
 
 No literary section was summarized or replaced with new editorial prose. The
 source registry already had the scan-supported author and 2004 date, so no
-registry change was necessary. Cleanup remains awaiting maintainer review and
-is not marked complete.
+registry change was necessary. Cleanup was approved by the maintainer on
+2026-08-23 and is complete.

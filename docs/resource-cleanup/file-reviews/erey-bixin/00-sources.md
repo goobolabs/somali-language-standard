@@ -4,8 +4,7 @@
 - **Collection / family:** erey-bixin / source registry
 - **Priority:** P3
 - **Method:** repository-only, row-by-row metadata audit
-- **Audit status:** approved; registry cleanup applied and awaiting
-  maintainer cleanup review
+- **Audit status:** approved; cleanup approved 2026-08-23; complete
 - **Audit started:** 2026-08-19
 - **File size at audit start:** 50 lines; 284 words; 2,010 bytes
 - **Resource SHA-256 at audit start:**
@@ -88,9 +87,9 @@ compiler spelling in this registry stays `Cabdalla Cumar Mansuur`.
 - **Audit approval:** approved by the maintainer on 2026-08-19 with the
   instruction, "go ahead."
 - **Approved finding IDs:** EB00S-R001 through EB00S-R006
-- **Cleanup:** applied; awaiting maintainer review
-- **Cleanup approval:** not started
-- **Complete:** no
+- **Cleanup:** applied and approved 2026-08-23
+- **Cleanup approval:** approved 2026-08-23
+- **Complete:** yes
 
 ## Audit validation
 

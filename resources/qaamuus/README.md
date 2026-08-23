@@ -51,9 +51,9 @@ The 2026-08-19 cleanup audit and approved registry repairs are in
 [`docs/resource-cleanup/file-reviews/qaamuus/`](../../docs/resource-cleanup/file-reviews/qaamuus/).
 Source mapping lives in [`00-sources.md`](00-sources.md). Letter files
 [`01-b.md`](01-b.md) … [`31-uu.md`](31-uu.md) received the 2026-08-19 cleanup
-audit and applied repairs (awaiting cleanup review). Broken `ld` / `eeg` target
-analysis remains deferred to the `data/` pipeline. This collection is not
-marked complete.
+audit and applied repairs. Cleanup approval was granted on 2026-08-23. Broken
+`ld` / `eeg` target analysis remains deferred to the `data/` pipeline. This
+collection is complete for the cleanup pass.
 
 Bare headwords extracted from this dictionary live in
 [`madax-ereyo/`](../madax-ereyo/) — see

@@ -80,12 +80,11 @@ once, so content files stay clean.
   [`19-dugsiga-fasalka-5aad.md`](19-dugsiga-fasalka-5aad.md),
   [`20-suugaanta-carruurta.md`](20-suugaanta-carruurta.md), and
   [`21-suugaanta-dhallaanka.md`](21-suugaanta-dhallaanka.md) (PDF
-  transcriptions; awaiting cleanup review),
+  transcriptions),
   [`22-suugaanta-soomaaliyeed.md`](22-suugaanta-soomaaliyeed.md) (PDF-guided cleanup
-  2026-08-19; awaiting cleanup review),
+  2026-08-19),
   [`23`](23-ina-cabdille-xasan.md), and
   [`24`](24-ereybixinta-maansada.md) received the 2026-08-19 cleanup audit and
-  applied repairs (awaiting cleanup review). **No suugaan file is Complete.**
-  Records are in
+  applied repairs. Cleanup approval was granted on 2026-08-23. Records are in
   [`docs/resource-cleanup/file-reviews/suugaan/`](../../docs/resource-cleanup/file-reviews/suugaan/).
-  This registry is not marked complete.
+  All suugaan resources are complete for this cleanup pass.
