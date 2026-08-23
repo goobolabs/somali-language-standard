@@ -4,7 +4,11 @@
 **Scope:** every file under `resources/`
 **Strategy:** audit one whole file line by line, review the audit, apply the
 approved fixes, then review the fix
-**Status:** active
+**Status:** complete — baseline closed 2026-08-23
+
+This document remains as the operational record of the completed cleanup
+workflow. Later evidence-backed corrections use the ordinary issue and pull
+request process; they do not reopen this baseline automatically.
 
 ## 1. Purpose
 

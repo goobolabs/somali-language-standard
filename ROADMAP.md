@@ -11,35 +11,39 @@ Dates are targets, not promises; the lifecycle gates in
 
 ---
 
-## Milestone 1 — Repository foundation ✅ *(v0.1.0 — current)*
+## Milestone 1 — Repository foundation ✅ *(v0.1.0)*
 
 Professional open-source scaffolding: governance, contribution workflow,
 licensing structure, documentation, planning documents, GitHub templates, and
 placeholder CI. The repository is ready to receive contributors.
 
-## Milestone 1b — Resources evidence baseline *(in progress)*
+## Milestone 1b — Resources evidence baseline ✅ *(completed 2026-08-23)*
 
-Eight-collection source library in `resources/`, documented in
-[`docs/RESOURCES.md`](docs/RESOURCES.md). Collections are curated and
-**accepted with limitations**; remaining metadata and rights gaps are tracked
-there.
+The eight-collection source library in `resources/` completed its file-by-file
+audit, cleanup, maintainer approval, and provenance closeout. The 145-file
+baseline is documented in [`docs/RESOURCES.md`](docs/RESOURCES.md) and
+[`RESOURCE_CLEANUP_TRACKER.md`](RESOURCE_CLEANUP_TRACKER.md).
 
-**Before Milestone 2 (orthography and core grammar specs):**
-
-- Close out open items in [`docs/RESOURCES.md`](docs/RESOURCES.md) (dictionary
-  metadata, rights confirmation, deferred supplements as needed)
+The collections remain **accepted with limitations**. Open metadata, rights,
+and deferred-source gaps stay visible in `docs/RESOURCES.md`, but they are
+follow-up evidence work rather than blockers to normative drafting.
 
 Resources milestones are **not** the same as implementation phases in
 [`IMPLEMENTATION_PLAN.md`](IMPLEMENTATION_PLAN.md). See
 [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) §4.1.
 
-## Milestone 2 — Core standards *(v0.2 — after Milestone 1b)*
+## Milestone 2 — Core standards *(next — target v0.2.0)*
 
 The foundation layer of the standards catalog, drafted and moved into public
 review: the Alphabet Standard (SLS-0001), Orthography Standard (SLS-0002), and
 the core Grammar Standard (SLS-0003), plus the standards registry
 (`standards/`) that tracks them. Interim governance is replaced by a named
 Language Council before anything is ratified `Stable`.
+
+Work starts with SLS-0002, using the completed evidence baseline to draft
+spelling and word-boundary rules. SLS-0004 (punctuation) and SLS-0005
+(capitalization) follow; SLS-0003 (grammar) begins after the orthography layer
+is sufficiently defined.
 
 ## Milestone 3 — Schemas *(v0.3)*
 

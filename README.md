@@ -6,10 +6,11 @@ SLS defines grammar, orthography, terminology, translation guidance, style
 conventions, and AI/benchmark resources for Somali — as a versioned, normative,
 citable standard that any system, human or machine, can implement against.
 
-> **Status:** Phase 1 — Alphabet Standard (in progress). The standards catalog
-> ([`standards/`](standards/REGISTRY.md)) is live; SLS-0000 (Standards Process)
-> and SLS-0001 (Somali Alphabet) are drafted at `status: Draft`. No standards
-> have been ratified `Stable` yet. See the [Roadmap](ROADMAP.md).
+> **Status:** Milestone 2 — Core Standards is ready to begin with SLS-0002
+> (Somali Orthography). The 145-file resources evidence baseline is complete,
+> and SLS-0000 (Standards Process) and SLS-0001 (Somali Alphabet) are
+> `Proposed`. No standards have been ratified `Stable` yet. See the
+> [Roadmap](ROADMAP.md).
 
 ---
 
