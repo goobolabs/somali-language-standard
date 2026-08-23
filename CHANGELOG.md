@@ -16,13 +16,33 @@ releases, schema versions, and per-standard versions relate.
   (the §24 formal template), `registry.json` (machine-readable source of truth,
   seeded with the full 53-standard launch set), `REGISTRY.md` (human mirror),
   and `meta/` governance records.
-- **SLS-0000** SLS Standards Process Standard → `Draft` — the self-describing
+- **SLS-0000** SLS Standards Process Standard → `Proposed` — the self-describing
   meta-standard distilled from ARCHITECTURE.md Part II.
-- **SLS-0001** Somali Alphabet Standard → `Draft` — letter inventory (21
+- **SLS-0001** Somali Alphabet Standard → `Proposed` — letter inventory (21
   consonants + 5 vowels), canonical collation order, digraph rules, glottal-stop
   representation, vowel-length notation, excluded letters, and Unicode code
   points (`spec/orthography/0001-alphabet.md`).
+- **SLS-0002** Somali Orthography Standard → `Proposed` — evidence-mapped
+  candidate rules for word boundaries, bound conjunction clitics, gemination,
+  morphophonemic spelling, compounds, unmarked tone, and adapted loanwords
+  (`spec/orthography/0002-spelling-rules.md`).
+- **SLS-0003** Somali Grammar Standard → `Proposed` — eight topic documents
+  covering word classes, noun and verb morphology, pronouns, clause structure,
+  negation, questions, and bounded error diagnostics, plus a formal lifecycle
+  and compliance wrapper (`spec/grammar/0010`–`0018`).
+- **SLS-0004** Somali Punctuation Standard → `Proposed` — evidence-mapped
+  candidate rules for sentence endings, syntax-sensitive commas, colons,
+  quotations, parentheses, and the hyphen/dash boundary
+  (`spec/orthography/0004-punctuation.md`).
+- **SLS-0005** Somali Capitalization Standard → `Proposed` — conservative
+  candidate rules for sentence beginnings, proper names, calendar names,
+  *Soomaali*, common seasons and directions, and digraph case, with the
+  supplementary-source limitation retained
+  (`spec/orthography/0003-capitalization.md`).
 - `spec/0000-index.md` — the specification index.
+- Four evidence maps and the Milestone 2 lifecycle-readiness record under
+  `docs/standards/`.
+- `VERSION` set to the Milestone 2 target repository version `0.2.0`.
 - Completed eight-collection resources evidence baseline: 145 files audited,
   cleaned, maintainer-approved, and documented with 501 approved provenance
   records.
@@ -31,8 +51,9 @@ releases, schema versions, and per-standard versions relate.
 
 - Promoted SLS-0000 and SLS-0001 from `Draft` to `Proposed`, opening their
   public comment period.
-- Marked the resources prerequisite complete and made SLS-0002 (Somali
-  Orthography) the next implementation task.
+- Completed the SLS-0002 through SLS-0005 proposal package. Their ≥14-day
+  public-comment clocks begin when the proposal branch is published.
+- Marked the resources prerequisite complete for normative drafting.
 
 ## [0.1.0] - 2026-07-08
 

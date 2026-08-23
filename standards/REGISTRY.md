@@ -28,10 +28,10 @@ drafted.
 | ID | Title | Status | Version | Owner |
 |---|---|---|---|---|
 | SLS-0001 | Somali Alphabet Standard | Proposed | 0.1.0 | language-council |
-| SLS-0002 | Somali Orthography Standard | planned | — | language-council |
-| SLS-0003 | Somali Grammar Standard | planned | — | language-council |
-| SLS-0004 | Somali Punctuation Standard | planned | — | language-council |
-| SLS-0005 | Somali Capitalization Standard | planned | — | language-council |
+| SLS-0002 | Somali Orthography Standard | Proposed | 0.1.0 | language-council |
+| SLS-0003 | Somali Grammar Standard | Proposed | 0.1.0 | language-council |
+| SLS-0004 | Somali Punctuation Standard | Proposed | 0.1.0 | language-council |
+| SLS-0005 | Somali Capitalization Standard | Proposed | 0.1.0 | language-council |
 
 ## Lexicon (`SLS-0100`–`0199`)
 

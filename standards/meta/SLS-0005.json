@@ -1,0 +1,23 @@
+{
+  "id": "SLS-0005",
+  "title": "Somali Capitalization Standard",
+  "category": "foundation",
+  "version": "0.1.0",
+  "status": "proposed",
+  "owner": "language-council",
+  "reviewers": [],
+  "dependencies": ["SLS-0002"],
+  "implements": [
+    "spec/orthography/0003-capitalization.md"
+  ],
+  "publication_date": null,
+  "supersedes": null,
+  "superseded_by": null,
+  "revision_history": [
+    {
+      "version": "0.1.0",
+      "date": "2026-08-23",
+      "change": "Initial evidence-mapped draft"
+    }
+  ]
+}

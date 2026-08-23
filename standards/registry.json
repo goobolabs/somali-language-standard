@@ -1,7 +1,7 @@
 {
   "$comment": "Machine-readable source of truth for the SLS standards catalog. Governed by SLS-0000. status 'draft' entries are authored; 'planned' entries are reserved identifiers from ARCHITECTURE.md §31 not yet drafted (version null, implements []). IDs are permanent and never reused.",
   "registry_version": "0.1.0",
-  "updated": "2026-07-10",
+  "updated": "2026-08-23",
   "standards": [
     {
       "id": "SLS-0000",
@@ -34,41 +34,57 @@
       "id": "SLS-0002",
       "title": "Somali Orthography Standard",
       "category": "foundation",
-      "status": "planned",
-      "version": null,
+      "status": "proposed",
+      "version": "0.1.0",
       "owner": "language-council",
       "dependencies": ["SLS-0001"],
-      "implements": []
+      "implements": [
+        "spec/orthography/0002-spelling-rules.md"
+      ]
     },
     {
       "id": "SLS-0003",
       "title": "Somali Grammar Standard",
       "category": "foundation",
-      "status": "planned",
-      "version": null,
+      "status": "proposed",
+      "version": "0.1.0",
       "owner": "language-council",
       "dependencies": ["SLS-0001", "SLS-0002"],
-      "implements": []
+      "implements": [
+        "spec/grammar/0010-parts-of-speech.md",
+        "spec/grammar/0011-noun-morphology-gender-plurals.md",
+        "spec/grammar/0012-verb-system-tense-aspect-mood.md",
+        "spec/grammar/0013-pronouns.md",
+        "spec/grammar/0014-sentence-structure-word-order.md",
+        "spec/grammar/0015-negation.md",
+        "spec/grammar/0016-question-formation.md",
+        "spec/grammar/0017-common-mistakes.md",
+        "spec/grammar/0018-somali-grammar-standard.md"
+      ]
     },
     {
       "id": "SLS-0004",
       "title": "Somali Punctuation Standard",
       "category": "foundation",
-      "status": "planned",
-      "version": null,
+      "status": "proposed",
+      "version": "0.1.0",
       "owner": "language-council",
       "dependencies": ["SLS-0002"],
-      "implements": []
+      "implements": [
+        "spec/orthography/0004-punctuation.md"
+      ]
     },
     {
       "id": "SLS-0005",
       "title": "Somali Capitalization Standard",
       "category": "foundation",
-      "status": "planned",
-      "version": null,
+      "status": "proposed",
+      "version": "0.1.0",
       "owner": "language-council",
       "dependencies": ["SLS-0002"],
-      "implements": []
+      "implements": [
+        "spec/orthography/0003-capitalization.md"
+      ]
     },
     {
       "id": "SLS-0100",

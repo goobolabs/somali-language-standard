@@ -195,7 +195,8 @@ work in `spec/` builds on it in a separate step.
 
 These items remain visible follow-up work, but do not block normative drafting.
 The completed baseline satisfies the resource dependency for Implementation
-Phase 2; SLS-0002 is the next planned standard.
+Phases 2–3; SLS-0002 through SLS-0005 were accepted for `Proposed`
+publication on 2026-08-23.
 
 ---
 

@@ -613,7 +613,7 @@ do not reopen the milestone unless they materially invalidate its evidence.
 | --- | --- |
 | Curation | Eight collections with `00-sources.md`, charters, and numbered content |
 | Baseline | Scope, traceability, and limitations documented per collection |
-| Spec drafting | Baseline complete; normative work begins with SLS-0002 under Milestone 2 |
+| Spec drafting | Baseline complete; the SLS-0002 through SLS-0005 proposal package is tracked under Milestone 2 |
 
 Orthography and later normative drafting (`spec/orthography/`, `data/lexicon/`,
 etc.) build on the baseline in [`docs/RESOURCES.md`](RESOURCES.md).

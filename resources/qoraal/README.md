@@ -4,9 +4,12 @@ Curated Somali orthography reference material: principles of written Somali,
 word-splitting rules (speech vs writing), and punctuation (*astaamaynta*). This
 collection is part of the SLS [descriptive evidence
 library](../../docs/RESOURCES.md), not the normative standard. Normative rules
-belong in the [`spec/` layer](../../spec/0000-index.md). Planned specs include
-SLS-0002 (spelling), SLS-0004 (punctuation), and SLS-0005 (capitalization); none
-of those three is treated as drafted from this collection.
+belong in the [`spec/` layer](../../spec/0000-index.md). SLS-0002
+(orthography) and SLS-0004 (punctuation) were accepted for `Proposed`
+publication on 2026-08-23 using this collection as descriptive evidence.
+SLS-0005 (capitalization) was accepted at the same stage while explicitly
+retaining its supplementary-source limitation. The collection itself remains
+non-normative.
 
 Content in files [`01`](01-hadal-iyo-qoraal.md)–[`05`](05-astaamaynta.md) is
 **Somali only**. File [`06-xarafka-weyn.md`](06-xarafka-weyn.md) allows a
