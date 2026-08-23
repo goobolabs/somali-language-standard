@@ -1,18 +1,20 @@
 # Qaamuuska eray-bixinta ee Fisikis
 
+Eray-bixinta fisikiska ee ururintan. Ishu waa [`00-sources.md`](00-sources.md).
+
 ## A
 
-A.C. Motor — Mator Q:T.
-Abaorptivity — Nuugitaan
-Aberation — Raydh
-Aberation, Chromatic — Yaydh midabeed
-Aberation, spherical — Haydh: kubbadeed
+A.C. Motor — Mator Q.T.
+Absorptivity — Nuugitaan
+Aberration — Haydh
+Aberration, Chromatic — Haydh midabeed
+Aberration, spherical — Haydh kubbadeed
 Absolute — Sugan
-Absolute Expansion — Fidid augan
+Absolute Expansion — Fidid sugan
 Absolute Humidity — Suyuc sugan
 Absolute magnitude — Laxaad sugan
 Absolute permittivity — Samaxaad sugan
-Absolute temperature — Yeerkul sugan
+Absolute temperature — Heerkul sugan
 Absolute unit — Halbeeg sugan
 Absolute-Zero — Eber sugan
 Absorptance — Nuugitaanimo
@@ -40,12 +42,12 @@ Accumulator — Wurtye
 Achromatic colors — Midabayo-haydh
 Achromatic fringes — Hariiro-haydh
 Aclinic line — Birlab-badhe
-Acoustic absorption — Nuugid: Jabageed
+Acoustic absorption — Nuugid jabaqeed
 Acoustic Bridge — Kaabad jabaqeed
 Acoustic capacitor — Madhxiye jabaqeed
 Acoustic filter — Kala~reebe, jabaqeed
 Acoustic grating — Shuqduud jabaqeed
-Acoustic impedance — Xayir fabageed
+Acoustic impedance — Xayir jabaqeed
 Acoustics — Cilmi jabaqeed
 Action — Fal
 Activation — Kicin
@@ -65,7 +67,7 @@ Aerial impedance — Meyir Eerfyal
 Aerial loop — Qool Eeriyal
 Aerial noise — Buuq Eerdyaal
 Aerial wave — Wir Eerdyaal
-Aerodynamics — Eeroodaynaamik (ada@)
+Aerodynamics — Eeroodaynaamik
 Aerofoil — Eeeroofayal
 Aerometre — Fawobeege
 Aeronautics — Cilmi duulimaad
@@ -77,9 +79,9 @@ Air capacitor — Madhxiye hawa
 Air condition — Hawo qaboojiye
 Air glow — Iftiin hawo
 Air-core transformer — Doordye hawordhuux
-Aircraft — Dayyurad
+Aircraft — Dayuurad
 Airship — Markab hawo
-Airspeed — Xavaarg -hawo
+Airspeed — Xawaare hawo
 Algorithm — Algoridam
 Allotropy — AlotarobL
 Alloy — Birdhaf
@@ -88,8 +90,8 @@ Alpha decay — Mataataxa alfas
 Alpha particle — Saxarka Alfa
 Alpha ray spectrum — Jeegaanta falaadhaha Alfa
 Alpha rays — Falaadhsha Alfa
-Alternating current (A.C.) — Quigul talantaaliyr (Q.T)
-Alternating current Bridge — Kaabad Q,T.
+Alternating current (A.C.) — Qulqul talantaaliyr (Q.T.)
+Alternating current Bridge — Kaabad Q.T.
 Altimeter — Joogbeege
 Altitude — Joog
 Amalgam — Meerchof
@@ -109,8 +111,8 @@ Amplitude — Qoton
 Amplitude Modulation — Habrid qoton
 Amplitude splitting — Jeebis qoton
 Analyser — Saafe
-Anamolous — Sirgacan
-Anamolous Behavior of Water — Asawga sirgacan ee Biyaha
+Anomalous — Sirgacan
+Anomalous Behavior of Water — Asawga sirgacan ee Biyaha
 Anemometre — Anemoomitir (Qawaare~tawo beeg)
 Aneroid — YWorlaawe (Aneroydh)
 Angle — Xagal
@@ -128,17 +130,17 @@ Angular Impulse — Gijo xagleed
 Angular momentum — Daafad xagleed
 Angular velocity — Keynasn xagleed
 Anion — Ayoontabane
-Anistropy — Anistroobi
+Anisotropy — Anistroobi
 Annihilation — Liqid
 Annihilation radiation — Kaah liqid
 Anode — Qotintogane
 Anode characteristic — Astaan qotintogane
-Anode current — Qulqul gotintogane
+Anode current — Qulqul qotintogane
 Anode Drop — Dhicid qotintogane
-Anode load — Rar gotintogane
+Anode load — Rar qotintogane
 Anode modulation — Habrid qotintogane
 Anode rays — Falaadho qotintogane
-Anode saturation — Dheregsanaan qetintogane
+Anode saturation — Dheregsanaan qotintogane
 Antenna — Anteena
 Anticathode — Lid-qotintabane
 Antiferromagnetism — Lid-xadiidbirlabnimo
@@ -146,13 +148,13 @@ Antimatter — Lid-maatar
 Antinode — Lid-guncin
 Antiparticle — Lid-saxar
 Antiresonance — Lis-iskudubadhac
-Aperature — Dalooi
-Aperature Angle — Xagal dalool
-Aperature Distortion — Qaablun
+Aperture — Dalool
+Aperture Angle — Xagal dalool
+Aperture Distortion — Qaablun
 Apex — Fig
 Apparent — Muuqda
 Apparent Depth — Qoto muuqata
-Apparent Expansion — Fidid muugqata
+Apparent Expansion — Fidid muuqata
 Apparent magnitude — Laxaad muuqda
 Arc-lamp — Laambad~qaanso
 Armature — Xurbiye
@@ -171,7 +173,7 @@ Atmospheric Electricity — Danab Gibileed
 Atmospheric pollution — Ajow eibileed
 Atmospheric pressure — Cageadis gibtieed
 Atmospheric Radio — Raadiyso gibiiced
-Atom — Atag
+Atom — Atam
 Atomic Bomb — Qunbulo Atomced
 Atomic Energy — Tamar Atoweed, bu' eed
 Atomic Heat — Kul Atomeed
@@ -219,7 +221,7 @@ Beam — Dhud
 Beam current — Qulqul dhud
 Beat — Jiib,garaac
 Beat oscillator — Walhade jiibeed
-Beat reception — Qabasho 41ibeed
+Beat reception — Qabasho jiibeed
 Bel (unit) — Bel (Halbeeg)
 Bell jar — Cambis~dawan
 Bending moment — Maroofis liiciye
@@ -227,21 +229,21 @@ Beta — Blita
 Beta Decay — Mataataxa Biita
 Beta particles — Saxarrada Biita
 Bias — Xaglis
-Bias voltage — Kaglis Fooltayj
+Bias voltage — Xaglis Fooltayj
 Biaxial — Laba dhidibeed
-Biconcave — haba golxo
+Biconcave — Laba golxo
 Biconvex — Laba tuuro
-Bifocal — aba kulmis
+Bifocal — Laba kulmis
 Bimetallic strip — Jeex laba bireed
 Binding Energy — Tamar isugayn
 Binding Force — Xoog Isuhayn
-Black body — Dul meadow
+Black body — Dul madow
 Black body radiation — Kaah dulmadow
 Black hole — God madow
 Blocking capacitor — Madhxiye xidhe
 Boiling point — fax karkar
 Bond Energy — Tamar dabar
-Boundary layer — Dub soohd{n
+Boundary layer — Dub soohdin
 Boyle's law — Xeerka boyel
 Brackett series — Taxa Baraakit
 Breakdown — Jabid
@@ -271,7 +273,6 @@ Capacitor — Madhalye
 Capacity — Qaad
 Capillarity — Tintafid
 Capture — Qabasho
-Carbon cycle — Meerte Sersttsa
 Carnot cycle — Meertada Knovsot
 Carnot law — Xeerka kaarnot
 Carrier — Side
@@ -281,9 +282,9 @@ Casting — Bir-qaabayn
 Catalysis — Kalkaalid
 Catalyst — Kalkasle
 Catching diode — Laba-qotinle qable
-Cathode — Gotintabane
+Cathode — Qotintabane
 Cathode ray Oscilloscope — Gailiskeob falleadh-gotin-tabane
-Cathode rays — Fallaadho qotin tebane
+Cathode rays — Fallaadho qotin tabane
 Cathode-ray tube (CRT) — Dhuun fallaadh-qot in-tabane (D.F.Q)
 Cation — Agyon-togen
 Cavendish experiment — Tijaabadda katandiah
@@ -629,7 +630,6 @@ Exponential function — Fansaar jibbaaran
 Exposure — Bandhigid
 Extension — Ladh
 Extinction — Dabar go'
-Eyepiece — @bol-Lleed
 
 ## F
 
@@ -1023,7 +1023,7 @@ Nuclear Reactor — Falgaliye bu'eed
 ## O
 
 O.A.S.M. System — Habka 0.A.S.M.
-Object — Waltax
+Object — Walax
 Object Space — Dululaati walaxeed
 Objective — Walaxeed
 Oblique — Janjeere
@@ -1074,7 +1074,7 @@ Photon — Footon
 Photovoltaic cell — Unug Footoofooltig
 Physical Laws — Xeerarka Dabiiciga ah
 Physical Optics — Obtikada Dabiiciga
-Physics — Fiaika
+Physics — Fisikis
 Pico — Bitko
 Pico-Farad — Biikoo-Faraad
 Pinhole Camera — Kamara Bindalool
@@ -1083,7 +1083,7 @@ Pitch — Danan
 Planck's constant — Madoorsoomaha Balaank
 Plane — Sallax
 Plane Mirror — Muraayad sallax
-Plane of incidence — Ssllax Abbaar
+Plane of incidence — Sallax Abbaar
 Plane of Reflection — Sallax Noqod
 Plane of Refraction — Sallax Qalloccean
 Planet — Meere
@@ -1397,9 +1397,9 @@ Weight — Culeys
 Welding — Laxaamad
 Wheatstone bridge — Shaxda wiitstoon
 Wimshurst machine — Mashiinka Fimsheerse
-Wind — Dabeyl!
+Wind — Dabeyl
 Wing — Baad
-Work — Havl
+Work — Hawl
 Work function — Hawl-fansaar
 World — Adduunyo
 

@@ -1,10 +1,12 @@
 # Qaamuuska eray-bixinta ee Xisaab
 
+Eray-bixinta xisaabta ee ururintan. Ishu waa [`00-sources.md`](00-sources.md).
+
 ## A
 
 Abacus — Abakas
 Abbreviation — Soc gaabin
-Abgorptive laws — Xeerarka isnuug
+Absorptive laws — Xeerarka isnuug
 Abscissa — Absiisa
 Absolute value of a complex number — Qiimaha sugan ee tiro murakab ah
 Absolute value of a real number — Qiimaha sugan ee tiro maangal ah
@@ -12,12 +14,12 @@ Absolute value of a vector — Qiimaha sugan ee leeb
 Abundant number — Tiro hodan ah
 Accurate — Sax
 Acre — Eykar
-Acute angle — Xagel fiigan
+Acute angle — Xagal fiiqan
 Acute-angled triangle — Saddexagal fiiqan
 Add — U gee
 Addend — Loo geeye
-Addition — Taugeyn
-Additive identity — Asal madoorshaha ‘Jeugeynta
+Addition — Isugeyn
+Additive identity — Asal madoorshaha ‘Isugeynta
 Additive inverse — Taweydaarka isugeynta
 Adjacent angles — Xaglo deris ah
 Algebra — Aljebra
@@ -25,23 +27,22 @@ Algebra, Boolean — Aljebrada bool
 Algebraic Operations — Xisaabfallo aljebraad
 Algebraic sum — Wadar aljebraad
 Algebraic symbols — Astaamo Aljebraad
-Algebraic term — Tibix aijebraad
+Algebraic term — Tibix aljebraad
 Algorithm, Euclidean — Algoordamka Yuklid
-Algorithn — Algoordan
-Alternate angles — Xagio talantaalli ah
+Algorithm — Algoordan
+Alternate angles — Xaglo talantaalli ah
 Alternating series — Dareerin talantaalli ah
 Altitude — Joog
 AM. (Ante Meridiem) G.H — (Gelin Hore}
-Ambigugua case — Xaaladda murugsan
+Ambiguous case — Xaaladda murugsan
 Amicable numbers — Tirooyin isjecel
 Amount — Hanti, Jumlad
 Amplitude (Argument) of a complex number — Sicado tiro murakab ah
 Amplitude of a function — Sicado fansaar
 Analysis — Saafid
 Analytic geometry — Joometeri saafan
-And — Tyo
-Angle — vertex of an Gees uagleed
-Angle at centte " — Xagal xudduneed
+And — Iyo
+Angle at centre — Xagal xudduneed
 Angle at circumference — Xagal neeria
 Angle bisection — Kala badhid xagleed
 Angle of depression — Xagal dhacsan
@@ -58,11 +59,11 @@ Angle, obtuse — Xagal furan
 Angle, polar — Xagal geftineed
 Angle, positive — Xagal cogan
 Angle, reflex — Xagal daacsan
-Angle, right — Xagal quoman
+Angle, right — Xagal qumman
 Angle, straight — Xagal toosan
 Angle, vertex of an — Gees xagleed
 Angles, adjacent — Xaglo deris ah
-Angles, alleruate — Xaglo talantaalli ah
+Angles, alternate — Xaglo talantaalli ah
 Angles, complementary — Xaglo isqumniye
 Angles, conjugate — Xaglo xisdi ah
 Angles, corresponding — Xagla gudboon
@@ -74,12 +75,11 @@ Annulus — Fargal
 Answer — Jawaab
 Ante meridiem (A.M) — Gelin hore (G.H.)
 Antecedant fae — Muqadam
-Anticlock wise (Counter clockwise) — Lid saacadwareeg
 Anticlockwise (Counter clockwise) — Lid saacadwareeg
 Antiderivative — Lid diirane
 Antilogarithm — Lidlogardam
 Apex — Fig
-Applied mathematics — Xdaaab dabbagqaad
+Applied mathematics — Xisaab dabbagqaad
 Approach — Siqid
 Approach a limit, to — Siqid xad
 Approximately — Seeb ahaan
@@ -87,13 +87,13 @@ Approximation — Seebid
 Arabic numerals — Astirooyin carbeed
 Arbitrary — Iqtiyaari
 Arbitrary assumption — Qaadasho iqtiyaari ah
-Arbitrary constant — Ma doorsoowe igtiyaari
+Arbitrary constant — Ma doorsoowe iqtiyaari
 Arbitrary units — Halbeegyo iqtiyaari ah
 Arc of a circle — Qaanso goobo
 Arc of a circle,major — Qaanso weyn goobo
 Arc of a circle,minor — Qaanso yar goobo
 Are — Qaanso
-Are of a curve — Qaanszo xood
+Arc of a curve — Qaanszo xood
 Area — Bed
 Argument — Dood
 Argument of a complex number — Sicado tiro murakab ah
@@ -117,12 +117,13 @@ Assumptions, fundamental — Qaadasho aasaasi ah
 Astrold Aideke Asymmetry — Wanqar La‘aan
 Attributes Sifooyin Average — Celcelis
 Average, geometric — Celcelis joomereri ;
-Average, harmenic — Celcelis tawaafugi
-Axia of revolution — Dhidib wareeg
-Axie of synmetry — Dhidib wanqer
+Average, harmonic — Celcelis tawaafugi
+Axis of revolution — Dhidib wareeg
+Axis of symmetry — Dhidib wanqer
 Axis — Dhidib
 Axis, coordinate / " — Dhidibyo kulea
 Axis, polar — Dhidib geftinesd
+
 ## B
 
 Balance — Milean
@@ -131,10 +132,10 @@ Base of a cone — Sal toobin
 Base of a syatem of numbers — Sal habdhie tiroceyin
 Base of logarithm — Sal logardam
 Base of power — Sal jibbaar
-Batween — U dnexaysa
+Between — U dnexaysa
 Bearing — Fool
 Bearing of a line — Fool xarriigeed
-Beviation — Leexsanaan
+Deviation — Leexsanaan
 Bias (Biassed) — Dhameex, dhameex ah
 Biconditional — Laboshardiile
 Bijective mapping — Aaddia midmid ah
@@ -166,6 +167,7 @@ Braces — Tidicyo
 Branch — Laan
 Breadth (Width) — Ballac
 Broken line — Xaritq googo‘an
+
 ## C
 
 Calculate — Xisaabi ws
@@ -311,6 +313,7 @@ Cycle — Meerto
 Cyclic — quadgilateral &fargeesoole mt crscn
 Cyclic polygon — Geesoole weere2u
 Cylinder — Dhululubo
+
 ## D
 
 Data, grouped — Daata kooxayesn
@@ -380,6 +383,7 @@ Dodecahedron Tobaniyolabo — sallaxle
 Domain — Horaad
 Domain of a function — Horaad fansaar
 Double — angle formulas Jidadka labo xaglood
+
 ## E
 
 E Figure — Shaxan
@@ -429,6 +433,7 @@ External point Bar dibadeed — Extract Soa saar
 Extract a reot of a number — Soo saar xidid fire
 Extreme (s) Darif — (Yo)
 Extreme and mean ratio — Saamigal darif fyo dkex
+
 ## F
 
 Face — Weji
@@ -477,11 +482,11 @@ Functions, algebraic — Fansaar aljebraad
 Functions, composition of Dhafid fansaaro Functions — equality of uh isie'egaan fansaaro Funcrtions, Trigonometric Fansaarro tirgncometerL
 Functior, continuous — Fansaar is haysta
 Funetion, identity — Fansaar asainadoorshe
+
 ## G
 
 Gain — Macaash
 Gdd — Kisi
-General Guad General equation — Isle'eg guud
 Generalization Cuudahaaneyn Generate — Dhali
 Generator of a group — Koox dhaliye
 Genter of symmetry — Xuddun wangar
@@ -508,6 +513,7 @@ Group, sub — Koox heosaad
 Group, symmetric — Koox wanqaran
 Grouping terms — Kooxayn tibxa
 Group» permutation — Roux tacayn
+
 ## H
 
 Half — Badb
@@ -538,15 +544,16 @@ Howomorphism — Honomoorfiya
 Hundred's place — Rugta boqolaad
 Hyperbolic Function — Fansaar labosaable
 Hyperbolic Legar ith — Logardam labosaable
-Hyperboloid Labosaabeke c. Hypotenuse — Shakaal
 Hypothesis — Afeef
 Hypothesis, composite — Afeef dhafan
 Hypothesis, Null — Afeef madhan
 Hypothesis, simple — Afeef fudud
+
 ## I
 
 Identity — Midaal
 Improper fraction — Jajab maqummane
+
 ## K
 
 Keal axis — Dhidib maangal ah
@@ -554,7 +561,7 @@ Key — Fure
 Keyword — Ereyfure
 Kilogram — Kiloogaram
 Kilometer — Kiloomitir
-Kumber — murakab ah
+
 ## L
 
 Laclusion Ku jirid inconsistent — aquattoans Surmaseegto
@@ -578,6 +585,7 @@ Logarithmic curve — Xood logardam
 Logic, mathematical — Loojik xisaabeed (Mandiq)
 Lowest common multiple — Dhufsane yaraha ay wadaagaan _
 Lowest terms, in ” — ‘Tibxaha ugu fudud
+
 ## M
 
 Machine — Mishiin
@@ -627,6 +635,7 @@ Multiplication, ianer — Isku dhufasho dhexe
 Multiplication, scalar Taku dhufasho — foolwaa
 Multiplicative identity — Asal madoorshaha isku
 Multiplicative inverse — Rogaalka isku dhufashada
+
 ## N
 
 Nautical — mile May! badeed
@@ -636,15 +645,13 @@ Negation — Diidmo
 Negation of a proposition — Diidmo hawraareed
 Negative — Taban
 Negative angle — Xagal taban
-Negative direction Jiho taban Negative sign — Calaamad taban
-Neighborhood Derisnimo Nec Saati . Normal — Ligane
 Non-trivial solution — Furfuris basiid ah
 Notation, scientific — Qormo saynis
-Null sec — Urur madhan
+Null set — Urur madhan
 Number line — Kariiq tlro
 Number, absolute — Tiro sugan
 Number, abundant — Tiro hodan ah
-Number, perfect Tire — buuxda
+
 ## O
 
 O\Differnettation — Xigsinayn
@@ -667,6 +674,7 @@ Orthogonal curves — Xoodad taku gqctoma
 Orthogonal dotome Orthogonal circles Geobocyin isku — qotom
 Outcome — Natiijo
 Outcome space — Natiijo dulalaatl
+
 ## P
 
 Page — Bog
@@ -761,6 +769,7 @@ Proposition — Hawraar
 Pyramid, Fruetum of a — Gunbur dhimmen
 Pythagorean numbers — Tirseyinka Baysegras
 Pythagorean theorem — Aragtiinka Qaveoras
+
 ## Q
 
 Qdde — Saami bagti fyo nasiib
@@ -768,6 +777,7 @@ Quadracic formula — Jid saabley
 Quadrant of a circie — Waax goobeed
 Quadratic equation, diseri- minant of a — Takeoraha isle'eg saabley
 Quantity — Xaddl
+
 ## R
 
 Radian — Gacansin
@@ -811,7 +821,6 @@ Regular polygon — Geesoole qzeabsan
 Relative maximum = — U wayne « eegid
 Remainder — Hedhe, basi
 Remainder theorem — Aragtiin hedhsa (bacqi)
-Reota of an equation Kididdo isle'egeed Root — square Xidid labajibbsar
 Resultant Eelasd Revolution : Wareeg, Revolution — axis of Dhidib warseg
 Rexahedron — Lixsalxaale
 Rhombus — Qardhacs
@@ -824,6 +833,7 @@ Rounding off nuubera — Tirooyin duubid
 Routine — Rootiin
 Row — Dhinactax
 Rule — Qaanuun
+
 ## S
 
 Sample — Muunad
@@ -876,7 +886,6 @@ Similar trangles — Saddexagalo isu eg
 Similer terms — Tibxo isu eg
 Similtaneous — inequalities Temale’egyo wadajira
 Simplification — Fududayn
-Simplified Fududaysan : Sinultaneous. equations — Isle'egyo wadajirs
 Sine — Sayn
 Sine curve — Xood sayn
 Sine of a oumber — Sayn tiro
@@ -921,6 +930,7 @@ Synthetic division — Qaybsoon
 System, mathematical — Habdhis xisaabeed
 System, number — Habdhis tire
 Systen — Habdhis
+
 ## T
 
 Table — Tuse
@@ -987,12 +997,12 @@ Trinomial square, perfect — Saddex tibxaale dhan
 Triple root of an equation — Saddexda xidid ee isle'egeed
 Trisection — Saddex-qayb
 Trivial — Basit, meena yar
-Non-trivial solution — Furfuris basiid ah
 Truncated — La-jare
 Truth table — Tuse-rumeed
 Truth value — Qiime-rumeed
 Turning point — Bar noqod
 Two-dimensional — Labo aaddimaale
+
 ## U
 
 Unbiased — Madhameex, dhexdhexaad
@@ -1011,6 +1021,7 @@ Unknown quantity — Xaddi lama yaqaan
 Upper — Sare
 Upper bound — Soohdin sare
 Upper limit of integration — Xadka sare ee abyineed
+
 ## V
 
 Value — Qiime
@@ -1032,21 +1043,25 @@ Vertices of a polygon — Geesaska geesoole
 Vertices of a triangle — Geesaska saddexagal
 Volume — Mug
 Volume of a solid — Mugga adka
+
 ## W
 
 Weight — Culays
 Whole number — Tiro dhan
 Word — Eray
 Work — Hawl
+
 ## X
 
 X-axis — Dhidib-x
 X-coordinate — Kulan-x
+
 ## Y
 
 Y-axis — Dhidib-y
 Y-coordinate — Kulan-y
 Yard — Waar
+
 ## Z
 
 Zero — Eber
@@ -1073,7 +1088,7 @@ Accumulate — Wadareyn,caddadeyn
 Accumulation point — Heerka wadareynt
 Accurate measuring — Halbeeg sugan
 Adjust — Qaabayn ,habeyn
-Algebraic Equation — Isle,egyo algebra
+Algebraic Equation — Isle'egyo algebra
 Algebraic function — Qaybaha aljabra
 Algebraic symbol — Astaan aljebra
 Alternate angle — Xaglo talantaali ah
@@ -1185,14 +1200,14 @@ Divisor — Qaybe
 Elevation angle — Xagal kacsan
 Eliminant — Natiijo
 Equal — La mid
-Equation — Isle,eg
+Equation — Isle'eg
 Equality — Isu eg
 Equate — Isle,ekee
 Equivalence — Isu dhignaan
 Equivalent — U dhigma
 Error — Khaldan
 Example — Tusaale
-Exponential equation — isle,egta
+Exponential equation — isle'egta
 Exponential law — jibaarada
 Factor — ISIR
 Factorize — Isiree
@@ -1225,10 +1240,10 @@ Income — Dakhli
 Increase — Kor ukac
 Infinite — Aan xadla‐
 Integral — Abyoone
-Integer positive — Abyoone taban
-Integer negative — Abyoone togan
+Integer positive — Abyoone togan
+Integer negative — Abyoone taban
 Integral calculus — kaalkulas ah
-Integral equation Integral — isle,eg ah
+Integral equation Integral — isle'eg ah
 Integral number — Tiro abyan
 Interval — Dhextaal
 Innviable — Madoorsoome
@@ -1284,7 +1299,7 @@ Proper subset — Hormo gelin qu‐
 Power unit — Halbeegt jibaar
 Perpendicular — xagal quman
 Quadrangle — Afargeesl
-Quadratic — Labajibaarane,isle,eg
+Quadratic — Labajibaarane,isle'eg
 Quadric — Saabley
 Quadratic equation Kvatratisk — saabley ah
 Radical — Xididka jibarka
@@ -1300,7 +1315,7 @@ Real set — Urur sugan/hufan
 Revenue — Dakhli
 Second derivative — labaad
 Set — Urur
-Simultaneous equation Simultane — Isle,egyo wada jira
+Simultaneous equation Simultane — Isle'egyo wada jira
 Slant — Janjeer
 Solution — Xalin
 Solvable — La xalin karo
@@ -1317,7 +1332,7 @@ Symbol — Sumad
 Term — Xili,amin
 Thermometer — Termoomitir
 Unitary — Halbeegyo
-Unit equation — Halbeegyo isle,eg
+Unit equation — Halbeegyo isle'eg
 Unit fraction — Halbeeg jajab
 Unit of length — Halbeega dhererka
 Unit of time — Halbeega wakhtiga
@@ -1346,8 +1361,8 @@ Allocate — Qoondee
 ## Sumadaha xisaabta
 
 Plus/add (+) — Kudar
-Minus/substract (−) — Ka goyn
-Divide (÷) — Qybin
+Minus/subtract (−) — Ka goyn
+Divide (÷) — Qaybin
 Divide (/) — Qaybin
 Multiply/time (.) — Kudhufo
 Multiply (×) — Kudhufasho
@@ -1355,21 +1370,21 @@ Is equal to (=) — La mid ah
 Does not equal (≠) — La mid ma ahan
 Almost equal to (≈) — La mid ah ugu dhawaan
 Is greater than (>) — Ka wayn
-Is greater than or equal to (≥) — Ka weyn ama le,eg
+Is greater than or equal to (≥) — Ka weyn ama le'eg
 Is much greater (>>) — Aad ugu weyn
 Is less than (<) — Ka yar
-Is less than or equal to (≤) — Ka yar ama le,eg
+Is less than or equal to (≤) — Ka yar ama le'eg
 Is much less than (<<) — Aad uga yar
 Plus or minus (±) — Kudar ama ka goy
 Complex set (C) — Urur dhafan
 Integer set (Z) — Urur abyoone
 As (::) — Markii
 Therefore (∴) — Sidaas darted
-For all (∀) — Dhamaan
+For all (∀) — Dhammaan
 Set ({}) — Urur
 Union (∪) — Isutag
 Does not equal to (≠) — Lama mid aha
-approximately equal to (≈) — Ugu dhywaan nla mid ah
+approximately equal to (≈) — Ugu dhawaan la mid ah
 Integral (∫) — Ayoone
 Infinite (∞) — Aan dhamaad la hayn
 Square root (√) — Xididka laba jibaaran

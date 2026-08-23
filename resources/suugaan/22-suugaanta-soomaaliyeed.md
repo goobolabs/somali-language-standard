@@ -6,19 +6,17 @@ Maxamed Ibraahim Warsame (Hadraawi), wuxuu ku dhashay miyiga degmada Burco, Gobo
 
 Isaga oo 9 jir ah ayaa Cadan oo dalka Yemen ah loogu geeyay adeerkii Axmed Warsame Siciid (Niibsan) iyo aayooyinkii Caasha Maxamed Xasan iyo Shamis Xasan Nuur Qaaje oo halkii hooyadii u galay. Waxbarashadiisii asaasiga ahayd ilaa dugsi sare wuxuu ku qaatay Dugsiga Baadariga Cadmeed ee wakhtiga la odhan jirey St. Anthony's High School.
 
-Isla Magaalada Cadan ayuu kaga shqeeyey macallinimo muddo laba sannadood ah. Sannadkii 1967 ayuu Cadan ka guuray una kicitimay Soomaaliya waxaanu degey magaalo madaxda — Muqdisho. Isaga oon ku raagin waxa uu shagadii u horeysay ka qabtay Wasaarada Warfaafinta 1969.
+Isla Magaalada Cadan ayuu kaga shaqeeyey macallinimo muddo laba sannadood ah. Sannadkii 1967 ayuu Cadan ka guuray una kicitimay Soomaaliya waxaanu degey magaalo madaxda — Muqdisho. Isaga oon ku raagin waxa uu shaqadii u horeysay ka qabtay Wasaarada Warfaafinta 1969.
 
-1971kii ayuu shagadii ugu horeysay ee rasmiga ahayd ka qabtay Wasaarada Waxbarashada oo uu ka noqday macallin Dugsiga Hoyga Nolosha ee Lafoole (Afgooye), isla wakhtigaas oo uu ka qaadan jirey darajada tababarka macallinimada, Maxaddii Macallinimada ee Lafoole (N.T.E.C).
+1971kii ayuu shaqadii ugu horeysay ee rasmiga ahayd ka qabtay Wasaarada Waxbarashada oo uu ka noqday macallin Dugsiga Hoyga Nolosha ee Lafoole (Afgooye), isla wakhtigaas oo uu ka qaadan jirey daraasadda tababarka macallinimada, Maxaddii Macallinimada ee Lafoole (N.T.E.C).
 
-Kartidiisa hal-abuurnimo markii ugu horeysay waxay soo shaac baxday intii aanu ka tegin magaalada Cadan. Wuxuu alifay Riwaayadii la odhan jirey "Hadimo" soona bandhigay sannadkii 1966kii. Ha yeeshee wuxuu sii doob dilaacsaday maansadiisuna caan baxday intii uu Soomaaliya u soo wareegay, gaar ahaan intii ku sinayd 1970kii oo ay soo shaac baxeen heesaha tirada badan aadna u soo jiitay dareenka dadka.
+Kartidiisa hal-abuurnimo markii ugu horeysay waxay soo shaac baxday intii aanu ka tegin magaalada Cadan. Wuxuu alifay Riwaayadii la odhan jirey "Hadimo" soona bandhigay sannadkii 1966kii. Ha yeeshee wuxuu sii doob dilaacsaday maansadiisuna caan baxday intii uu Soomaaliya u soo wareegay, gaar ahaan intii ku sinayd 1970kii oo ay soo shaac baxeen heesaha tirada badan aadna u soo jiitay dareenka dadka, xiise badana u kiciyeen, uuna noqday nin suugaantiisu si gaar ah u taallo, si goonni ahna cid waliba u dhadhansato, had iyo jeerna dadka ka dhex dhalisa olole doodeed. Waxa la soo qaadan kara Riwaayadii "Aqoon Iyo Afgarad" iyo silsilad-maanseedii "Siinley" iyo Riwaayadii "Tawaawac" ee ay ka mid ahaayeen "Hal La Qalay iyo Ceel Walwaaleed".
 
-Waxa la soo qaadan kara Riwaayadii "Aqoon iyo Afgarad" iyo silsilad-maanseedii "Siinley" iyo Riwaayadii "Tawaawac" ee ay ka mid ahaayeen "Hal La Qalay iyo Ceel Walwaaleed".
+Suugaantiisu waxay noqotay tu si gaar ahaaneed uga nixisa oo uga cabsiisa xukunkii keli-talinta ee Siyaad Barre, sida darteedna ay goor walba daba taaganyihiin Hay'adaha Cadaadinta iyo Cabudhinta ee taliskaasi. Ka dib silsilad-maanseedii "Siinley" iyo Riwaayadii "Tawaawac" ayey qabteen 11kii Nofembar ee 1973kii, kuna xidheen Qansax-Dheere (Gobolka Bay).
 
-Suugaantiisu waxay noqotay tu si gaar ahaaneed uga nixisa oo uga cabsiisa xukunkii keli-talinta ee Siyaad Barre. Ka dib silsilad-maanseedii "Siinley" iyo Riwaayadii "Tawaawac" ayey qabteen 11kii Nofembar ee 1973kii, kuna xidheen Qansax-Dheere (Gobolka Bay).
+Waxa la soo daayey bishii Abriil 1978, ka dibna wuxuu noqday Agaasimaha Waaxda Fanka ee Akaadeemiyaha Cilmiga, Fanka iyo Suugaanta. Isla marka horraantii 80kii, wuxuu madaxa hore kaga jirey raggii mayalka u qabtay hoggaaminayeyna Silsiladii ku caan baxday "Deelley" ee ku lidiga ahayd taliskii Siyaad Barre.
 
-Waxa la soo danyey bishii Abriil 1978, ka dibna wuxuu noqday Agaasimaha Waaxda Fanka ee Akaadeemiyaha Cilmiga, Fanka iyo Suugaanta. Isla marka horraantii 80kii, wuxuu madaxa hore kaga jirey ragga mayalka u qabtay hoggaaminayeyna Silsiladii ku caan baxday "Deelley".
-
-11kii Maajo 1982kii ayuu Maxamed Ibraahim tegey goobaha uu ka socday halganka Mucaaradka hubaysan, kuna biiray Ururka Dhaqdhaqaaqa Wadaniga Soomaaliyeed (S.N.M.).
+11kii Maajo 1982kii ayuu Maxamed Ibraahim tegey goobaha uu ka socday halganka Mucaaradka hubaysan, kuna biiray Ururka Dhaqdhaqaaqa Wadaniga Soomaaliyeed (S.N.M.), wuxuu halkaas ka galay halgan siyaasadeed iyo mid suugaaneed oo weji waddani ah, bulsho iyo qaddiyadda xuquuqda dadnimada guudba leh.
 
 ## Baaq
 
@@ -40,7 +38,7 @@ beentaada weeyaan.
 Balcad Jawhar Shalanbood
 barakada Qoryoolay
 waxa canab bislaadee
-Baydhabo u gaar tahay
+Baydhabi u gaar tahay
 Boosaaso iyo Beer
 Bixin Duule Laalays
 Biyo Guure Kala-baydh
@@ -48,7 +46,7 @@ beeraha Wajaalee
 
 lagu reebay baahida
 Baar-dheere iyo Jilib
-wa bogol kun oo mayl
+wa boqol kun oo mayl
 dhulka lagu badhaadhee
 beeyadu ku taallee
 badar lagu abuuree
@@ -59,7 +57,7 @@ barkadeen xareeddoo
 Waxa taa ka sii badan
 dhulka barisamaadkee
 beesheennu daaqdee
-barta aynu dhagannaa
+barta aynu dhaqannaa
 barqo dhereg ka joogtee.
 
 Iyadoo barwaago ah
@@ -71,13 +69,13 @@ buuruhu is haystaan
 waaberi cadceeddii
 soo saartay baallaha
 bilcilkiyo maraagii
-shinbiruhu ka buugeen
+shinbiruhu ka buuqeen
 indhihii basaasow
 Boorame ma aragteen?
 Ma ogtahay barbaareey
 heesaha Barawn tumo
 adigaan bogga u lulin
-Beerrey Kabeebey
+Beerrey Kabeebery
 bismillaahi Saylici
 Hana-haybsantii bari
 Batar iyo Wareegtaa
@@ -105,14 +103,14 @@ ama qurux ku caan baxay
 ama laysku baantaa
 ama lagu bogsoodaa
 kal bugtaa ku faydaa
-kugu deega baashaal
+kugu deeqa baashaal
 guri bila ku magac dheer
 hablaheenna bilicdiyo
 biligiyo ilwaadka leh.
 Bilcantii shisheeya ah
 ninka beegsanaayow
 waxaan kaaga baqayaa
-inaad baadi nogotee
+inaad baadi noqotee
 cidla baylah keligaa
 yaanu bahalku kaa helin
 isu buri geyaankaa
@@ -136,7 +134,7 @@ sida haad ma fuuleen
 dayax heego joogoo
 hubka laguma tuureen
 hawo laguma gaadheen
-cirka hirar ka muugdoo
+cirka hirar ka muuqdoo
 hooyoy addoomuhu
 halkay maanta joogaan
 adigow horseedoo
@@ -146,7 +144,7 @@ horaaddada jaqsiisee
 habtay baan xisaab iyo
 tiro lagu helaynoo.
 Marka aad nin hiilloo
-laga bago hashiisiyo
+laga baqo hashiisiyo
 halyey diran dhashaabaa
 hooyo lagu xusuustaa
 
@@ -164,7 +162,7 @@ ku labaad hilaadshoo
 haga maatadiisoo
 la higsado dhashaa baa
 hooyo lagu xusuustaa.
-Marka aad nin hooggtyo
+Marka aad nin hooggiyo
 ka hor taga dagaalkoo
 garta hubin yaqaanoo
 xaqa hoos u eegoo
@@ -173,16 +171,16 @@ dabka hura bakhtiiyoo
 ku haggoogta dhiiggoo
 dadka kala hagaajoo
 kala haga dhashaa baa
-hooyo lagu xasuustaa.
+hooyo lagu xusuustaa.
 Markaad hoobal caaniyo
 hindisaa farshaxanoo
 hab-dhaca iyo luuqdiyo
 hawraarta maansada
 hensayn yaqaannoo
-Rabbi hibo u sityo
+Rabbi hibo u siiyo
 labadaba hannaanshiyo
 hal-abuur dhashaa baa
-hooyo lagu xasuustaa.
+hooyo lagu xusuustaa.
 
 Dumar iyo haween baa
 nolol lagu haweystaa
@@ -190,7 +188,7 @@ kuwa lagu hammiyayee
 sida hawd caleen weyn
 rag u wada hamuumee
 ishu halacsanaysaa
-hablahaaga weeyee
+hablahaaga weyee
 marka guur la haybshee
 gabadh heego dheeroo
 hoobaan la moodoo
@@ -208,7 +206,7 @@ kolba aanad hees iyo
 hoobey ku sabinoo
 hawshaada waayaa
 hanaqaadi maayee
-hoysgii kalgacalkee
+hoygii kalgacalkee
 naxariistu hadataay.
 Hooyoy dushaadaa
 nabad lagu hubaayoo
@@ -256,7 +254,7 @@ imminkaan gardaadshoo
 weli maan gunaanadin.
 Murti nimaan gunteediyo
 baran gogol-dhiggeedoo
-gonda degi agoonnoo
+gonda degi aqoonnoo
 garab-daar lahayn baa
 gawlgawla hadalkoo
 kolba dhinac garoocdee
@@ -288,7 +286,7 @@ birta kuma gumaadeen ?
 
 Gu' hagaagay oo da'ay
 dhutka geedo jiifaan
-gurya-samo barwaago ah
+gurya-samo barwaaqo ah
 haddii geeddi lagu furo
 dhallin-yaro isgurataa
 gurdan-raaca fiidkii
@@ -299,7 +297,7 @@ googooska luuqdiyo
 gedda sacabka loo jaro
 hablahaa u gaaroo
 garashada codkoodaa,
-gof gaboobey kicisoo
+qof gaboobey kicisoo
 gelbiskiyo mashxaraddaa
 gama kaa ilaashee,
 haddaan gabadhi boodayn
@@ -328,7 +326,7 @@ ninka raga u gudinoo
 iyadaa guddoonkiyo
 gadh-hayaa naftaadiyo
 gaadiidka reerkiyo
-gurgurshaaga nogotoo
+gurgurshaaga noqotoo
 arrin kula gorfaysee,
 haddaan gaari kula jirin
 illaa noloshu guul ma leh .
@@ -368,7 +366,7 @@ hablii talada guunkiyo
 gunti jirey xishoodkee
 hadalkoodu gaabnaa;
 hablihii gef hooyiyo
-garsan jirey guhaaddee
+qarsan jirey guhaaddee
 hadday goddollo soomaan
 ama gaajo liitaan
 cidi aanay garan jirin;
@@ -399,7 +397,7 @@ gumar shidan ku noqotoo
 gebi dheer ku dumisee
 ninka inan ma-geyda ah
 gurrac kaga danaystee
-gol-ganiin ku maalow,
+gol-qaniin ku maalow,
 gefka aad falaysiyo
 waxaad gaaxsanaysiyo
 gashigaad cunaysaa
@@ -437,19 +435,19 @@ Cabdi Qays ogaysii.
 Aayadaha Quraankiyo
 Arraxmaan siday tidhi
 hadalkii Ilaahay
-ruuxii Islaam ah
+ruuxii Islaam ihi
 sida uu aqoonsadey.
 Waa oomman hawdoo
 waa guri abeesoo
 edeg weeye hoosoo
-abatagan ku yaalloo
-waa til madow oo
+abataqan ku yaalloo
+waa iil madow oo
 Rabbigay addoomaha
 kaga aar gutaayoo
 waxaa laga arooraa
 irridaha xabaashoo
 anban maayo ruuxii
-gabri lagu adkeeyaa.
+qabri lagu adkeeyaa.
 Marna oogdeenniyo
 waa oosha guudkoo
 waa beer udgoon iyo
@@ -474,7 +472,7 @@ uurkaaga baadhoo
 ulajeeddadaadaan
 ka arkaa dhul dheeroo
 arrintaadu Qaysow
-afgobandsi weeyee.
+afgobaadsi weyee.
 Aakhiro Cabdow
 way aasan tahay
 iilkay jirtaa
@@ -485,9 +483,9 @@ awrkii cirkey
 ku ag-xidhan tahee
 dadku yuu ku eedeyn
 ha dhex gelin ammuuraha
-isha xidho afkana dhoqo
-arag magal warkana ood.
-(Muqdisho, 1972)
+isha xidho afkana dhawr
+arag maqal warkana ood.
+(Xamar, 1972)
 
 ---
 
@@ -652,7 +650,7 @@ laga furay daboolkoo
 dalaggaad ku beertaa,
 qofba weel darsanayaa.
 
-Inkastuu gof diintiyo
+Inkastuu qof diintiyo
 dar Ilaahay jecel yahay,
 laba daan af-yeeshaa
 kolley waa danbaabaa
@@ -660,7 +658,7 @@ hadduu kaa abaal daro
 dadka kaad u roontahay
 adigaa dulqaatee,
 Rabbow aanu nala degin
-dhulka aannu daagnaa.
+dhulka aannu daaqnaa.
 Rabbiyow ha nagu dumin
 cirkan duudka weynoo,
 Rabbiyow ha nagu didin
@@ -694,7 +692,7 @@ belo laga ducaystiyo
 ma-naxaan ha noo dagin
 duullaan ha noo jebin.
 Rabbiyow dawladnimaduna
-kuma iman dalxtisoo
+kuma iman dalxiisoo
 door-roonayaal baa
 u deldeley naftoodoo
 dumar baa hugoodiyo
@@ -824,7 +822,7 @@ kama helin jawaabtii.
 Xalay fiid horaadkii
 sow haatufkiisii
 hud-hudkii u soo diray
-gacan haadiskiisti
+gacan haadiskiisii
 kama halacsan sheeddoo
 hurin bayla socotee
 kama hadhin barbaartii.
@@ -841,7 +839,7 @@ hawdkiyo xabaalaha
 hiilkaygu keenee
 hamabalyada i siiyee
 hoggaiiga yeedhaw;
-hawraarta luugdiyo
+hawraarta luuqdiyo
 hab-dhaceeda maansada
 adigaa higgaadshee
 anigana war iga hoo."
@@ -865,7 +863,7 @@ dusha iga hadheeyoo
 haro aan go'ayn baan
 darayaa hadhuubkoo
 hoobaan bislaataan
-habag li'i dhex joogaa
+habaq li'i dhex joogaa
 ishu halacsanaysaa
 guri hoos qabow bay
 halabtaydu taallaa,"
@@ -880,7 +878,7 @@ hablo Xuural-caynaan
 haasaawiyaayoo
 huwanahay taftoodoo
 lagu yidhi u heesoo
-hugunkaad maglaysiyo
+hugunkaad maqlaysiyo
 hoobaydu waa geel
 igu soo hormanayoo
 hawl bay sugaysee
@@ -943,7 +941,7 @@ cudur kama dilaacoo
 dulin kama abuurmoo
 dabar-gooye kama dhicin.
 Waa degel qabow oo
-gorrax diib is marisoo
+qorrax diib is marisoo
 jidhka aan damqayn baa
 loo soo deldelayoo
 dadku kuma gabooboo
@@ -958,7 +956,7 @@ dhul fog looga doontaa.
 
 Duunyadiisu waa geel
 daran iyo tigaad cuna
-ido deexda lagu dhago
+ido deexda lagu dhaqo
 fardo lagu dabbaal dego
 carro weeye dihinoo
 dirka magac ugaadheed
@@ -967,20 +965,20 @@ farow iyo dibtaag baa
 derrimaha ku fara badan
 cawlaan didaynoo
 cidi aanay dilinoo ;
-gofna aanu dabannoo
+qofna aanu dabannoo
 dibindaabyo aragoo
 dannigii ka ba'ay baa
 dugsanaysa xoolaha.
 
-Dad ahaanna waa garan
+Dad ahaanna waa qaran
 waa duul is wada dhalay
-galo iyo dirsooc ma leh
+qalo iyo dirsooc ma leh
 dab dhexdooda kama huro
 weligood ma diriraan
 isma docadoceeyaan
 dumar kama baroortaan
 dooxatiyo wareentiyo
-budhcad duusha kuma magal
+budhcad duusha kuma maqal
 daandaansi ma oggola
 xumo uma dulqaataan
 nabaddana ma diidaan
@@ -992,7 +990,7 @@ sacabkana ma daayaan
 danna kama fogaadaan.
 
 Nin dabayli wadatoo
-waxaan ahay dalxtis tyo
+waxaan ahay dalxiis iyo
 doolaalo keentoo
 degdeg baa i soo galay
 dibna waan u kacayaa
@@ -1002,7 +1000,7 @@ dulucdiina kama bogan
 balse daymo halacsiga
 kollay doorkan maanta ah
 halkaas aan ku dagagaro.
-(Muqdisho, 1973)
+(Xamar, 1973)
 
 ---
 
@@ -1189,7 +1187,7 @@ dayax taabba-qaadoo
 toban iyo shan joogiyo
 xiddigaha tartamayee
 isku taxay dushiisaa
-tahan tiga hirayoo
+tahan iiga hirayoo
 Tusmo barashadeediyo
 taltallaabsigeediyo
 tarantarinta laafyuhu
@@ -1209,19 +1207,20 @@ tebi idhi dhambaalkee
 taarkii ma geynoo
 is-ma tarin dedaalkuu
 u tabaabushaystoo
-taab-gaabnidiisay :
+taab-gaabnidiisay
 naftu xadhiga tawseed
 ugu turunturrootoo
 la tawaawacaysaa.
+Miyuu tuuray hadalkii ?
 Miyuu tiray jacaylkii ?
 Mise tulud raqdeeduu
 ugu taagan yahay geed ?
 Mise wuxuu tukanayaa
 Faral iyo Taraawiix ?
-Mise wuxuu taraarkti
+Mise wuxuu taraarkii
 kala dhacay Tabciyo Sheekh ?
 Sidan Timo haldhaaley
 ugu tebey hurdada xalay
 anigaba Tog-dheer baa
-tusku tiga muuqdaa.
-(Muqdisho, 1972)
+tusku iiga muuqdaa.
+(Xamar, 1972)

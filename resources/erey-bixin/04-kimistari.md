@@ -1,5 +1,7 @@
 # Qaamuuska eray-bixinta ee Kimistari
 
+Eray-bixinta kimistariga ee ururintan. Ishu waa [`00-sources.md`](00-sources.md).
+
 ## A
 
 Absolute — Sugan
@@ -224,7 +226,7 @@ Boron phosphate — Booron fosfeyt
 Boron trichloride — Booron saddex koloraydh
 Boyle's law — Xeerka bool
 Brass — Baraas
-Brin's test — Hubaashada birin
+Brin's test — Hubsashada birin
 Brine — Biyo cusbadeed
 Bromate — Boromeyt
 Bromide — Boromaydh
@@ -249,7 +251,7 @@ By product — Warqash
 
 ## C
 
-Cadmium — Kaadmiyan
+Cadmium — Kaadmiyam
 Cadmium acetate — Kaadmiyam asiteyt
 Cadmium bromide — Kaadmiyam boromaydh
 Cadmium carbonate — Kaadmiyam karboneyt
@@ -644,7 +646,7 @@ Group — Urur
 
 Haber process — Habka haber
 Hafnium — Haakniyam
-Haldane apparatus — Saabadnka haldeyn
+Haldane apparatus — Saabaanka haldeyn
 Half cell — Unug badh
 Half life — Cimri badh
 Half reaction — Falgal badh
@@ -726,7 +728,7 @@ Hydrosulphuric acid — Haydarosalfiyuurik asiidh
 Hydroxide — Haydarogsaydh
 Hydroxyl ion — Aayoonka haydarogsayl
 Hygroscopic — Sayaxe
-Hybo — Haybo
+Hypo — Haybo
 Hypochlorite — Haybokolorayt
 Hypophosphate — Haybofosfeyt
 Hypophosphoric acid — Haybofosfoorik asiidh
@@ -735,6 +737,9 @@ Hyposulphite — Haybosalfeyt
 Hyposulphuric acid — Haybosalfiyuurik asiidh
 Hyposulphurous acid — Haybosalfiyuuroos asiidh
 Hypothesis — Afeef
+
+## I
+
 Ideal gas — Neef mitaali ah
 Ideal gas constant — Madoorsoomaha neefta mitaaliga ah
 Ideal gas equation — Isle'egta neefta mitaaliga ah
@@ -771,7 +776,7 @@ Inhibitor — Jooje
 Inhibitor, chemical — Jooje falgal
 Inhibitor, oxidation — Jooje ogsidhayn
 Initiator — Bilaabe
-Inorganic — Organik ma ahe
+Inorganic — Orgaanik ma ahe
 Inorganic acid — Asiidh orgaanik ma ahe
 Inorganic chemistry — Kimistariga orgaanik ma ahe
 Inorganic compounds — Iskudhisyada orgaanik ma ahe
@@ -1726,7 +1731,7 @@ Whale oil — Saliid nibiri
 White lead — Balambam cad
 White metal — Bir cad
 Wolfram=Tungsten — Woolfargis
-Wood alcohol — Alkohool gori
+Wood alcohol — Alkohool qori
 Work — Shaqo
 
 ## X

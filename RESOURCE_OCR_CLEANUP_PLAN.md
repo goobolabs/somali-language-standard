@@ -48,7 +48,7 @@ structure, search:
 
 - the same file, especially repeated examples, headings, and parallel lists;
 - related files in the same collection;
-- `resources/qaamuus/` and `resources/wordlists/`;
+- `resources/qaamuus/` and `resources/madax-ereyo/`;
 - glossary, grammar, and terminology records for the same word or concept;
 - existing source notes, provenance records, and review reports in the
   repository.
@@ -165,8 +165,8 @@ First audit every file, without editing resource text. Audit order is:
    `15-naxwaha-sifayneed.md`;
 2. high-risk `resources/suugaan/` files;
 3. `resources/erey-bixin/`;
-4. `resources/qaamuus/` and derived `resources/wordlists/`;
-5. remaining `naxwe/`, `orthography/`, `phonology/`, and `morphology/` files;
+4. `resources/qaamuus/` and derived `resources/madax-ereyo/`;
+5. remaining `naxwe/`, `qoraal/`, `dhawaaq/`, and `sarfe/` files;
 6. collection source notes and metadata files.
 
 After an audit is approved, clean one approved file at a time, then obtain the

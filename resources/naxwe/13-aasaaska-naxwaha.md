@@ -11,8 +11,8 @@ Naxwaha sifayneed waxaa loo eegi karaa saddex heer:
 
 | Heer | Waxa lagu baaro | Tixraac SLS |
 | --- | --- | --- |
-| Codayn | dhawaaqyada, sida ay isu raacaan iyo sida qoraalku u matalo | [`../phonology/`](../phonology/) |
-| Sarfi iyo qaybaha hadalka | qaabka erayga, isrogrogga iyo qaybta uu ka tirsan yahay | [`../morphology/`](../morphology/) |
+| Codayn | dhawaaqyada, sida ay isu raacaan iyo sida qoraalku u matalo | [`../dhawaaq/`](../dhawaaq/) |
+| Sarfi iyo qaybaha hadalka | qaabka erayga, isrogrogga iyo qaybta uu ka tirsan yahay | [`../sarfe/`](../sarfe/) |
 | Weereyn | sida erayada iyo oraahyadu u dhisaan weer | [`09-weer-fudud.md`](09-weer-fudud.md)–[`12-noocyada-weeraha.md`](12-noocyada-weeraha.md) |
 
 Faylkani wuxuu diiradda saarayaa qaybaha hadalka. Faahfaahinta
@@ -112,7 +112,7 @@ dhigin: *geel, haween, rag, xayn, kadin*. Qaabka kooxdu ma aha mar
 walba wadar laga soo saaray keli muuqda.
 
 Paradigmaha la xaqiijiyey waxay ku jiraan
-[`../morphology/01-magacyada.md`](../morphology/01-magacyada.md).
+[`../sarfe/01-magacyada.md`](../sarfe/01-magacyada.md).
 
 ### 4.4 Erey lammaan
 
@@ -317,7 +317,7 @@ kasta; waxaa lagu falanqeeyaa degaanka ay weerta kaga jiraan.
 
 Isrogrogyada iyo qaybaha falka waxaa lagu faahfaahiyey
 [`07-sarfaha-falalka.md`](07-sarfaha-falalka.md) iyo
-[`../morphology/02-falalka.md`](../morphology/02-falalka.md).
+[`../sarfe/02-falalka.md`](../sarfe/02-falalka.md).
 
 ## 8. Falkaabka
 
@@ -405,6 +405,6 @@ la dayanayo.
 | Tirooyinka | [`05-sarfaha-tirada.md`](05-sarfaha-tirada.md) |
 | Xiriiriyeyaasha iyo meeleeyayaasha | [`06-sarfaha-iskuxireyaasha.md`](06-sarfaha-iskuxireyaasha.md) |
 | Falalka | [`07-sarfaha-falalka.md`](07-sarfaha-falalka.md) |
-| Paradigmaha sarfiga | [`../morphology/`](../morphology/) |
-| Codaynta | [`../phonology/`](../phonology/) |
+| Paradigmaha sarfiga | [`../sarfe/`](../sarfe/) |
+| Codaynta | [`../dhawaaq/`](../dhawaaq/) |
 | Weereynta | [`09-weer-fudud.md`](09-weer-fudud.md)–[`12-noocyada-weeraha.md`](12-noocyada-weeraha.md) |

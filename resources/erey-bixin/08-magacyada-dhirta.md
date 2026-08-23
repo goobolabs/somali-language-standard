@@ -1,5 +1,7 @@
 # Magacyada dhirta Soomaaliyeed
 
+Eray-bixinta magacyada dhirta ee ururintan. Ishu waa [`00-sources.md`](00-sources.md).
+
 ## A
 
 Periploca aphylla — Aan-ole
@@ -24,15 +26,15 @@ Chrozophora oblongifolia — Afmadoobeeya
 Odyssea mucronata — Afruug
 Zygophyllum robecchii — Aftaxoole
 Fagonia socotrana — Aftoxole
-Indigofera phillipwiae — Agaar
+Indigofera phillipsiae — Agaar
 Acacia tortilis — Agac
 Carissa edulis — Agam
 Enneapogon cenchroides — Aggan
-Oldenlandia famstigiata — Agno-cafaret
+Oldenlandia fastigiata — Agno-cafaret
 Portulaca oleracea — Agno-uen
 Adenium obesum — Agon
 Matthiola dimolehensis — Ahno
-Enneapogon schimperanus — Aiya-makarre
+Enneapogon schimperianus — Aiya-makarre
 Carissa deflersii — Akhanisa
 Oncoba spinosa — Akoko
 Typha angustifolia — Alala
@@ -50,7 +52,7 @@ Enteropogon macrostachys — Askoraf
 Trichilia somalensis — Assalbaned
 Sehima nervosum — Aus-gedud
 Cymbopogon commutatus — Aus-gurun
-Dicanthium annulatum — Ayax-makare
+Dichanthium annulatum — Ayax-makare
 
 ## B
 
@@ -66,7 +68,7 @@ Acacia asak — Bak-baky
 Zygophyllum hildebrandtii — Bal-ad
 Hibiscus dongolensis — Balambaal
 Pavonia kotschyi — Bal-baleh
-Enneapogon schimperanus — Baldhoole
+Enneapogon schimperianus — Baldhoole
 Pavonia kotschyi — Bal-bale
 Commiphora myrrha — Balsam
 Musa paradisiaca — Banane
@@ -103,7 +105,7 @@ Crotalaria albicaulis — Casuuro
 Justicia flava — Caws-cad
 Leptochloa obtusiflora — Caws-carun
 Chloris roxburghiana — Caws-dameer
-Pennisetum setaceum — Caws-damer
+Pennisetum setaceum — Caws-dameer
 Heteropogon contortus — Caws-gaduud
 Cymbopogon commutatus — Caws-garuun
 Danthoniopsis barbata — Caws-lumbuule
@@ -135,14 +137,14 @@ Indigofera articulata — Durreho
 Ziziphus mucronata — Eddi-scebel
 Plumbago zeylanica — Elkus
 Lawsonia inermis — Ellan
+
+## F
+
 Entada abyssinica — Faradheere
 Hyphaene hildebrandtii — Fara-xoot
 Caucanthus edulis — Fara-yar-yar
 Vernonia hildebrandtii — Fid-fide
 Clitoria ternatea — Fifiole
-
-## F
-
 Boswellia bricchettii — Foox
 Ruta tuberculata — Fodade
 Commiphora crenato-lobata — Fol
@@ -156,7 +158,7 @@ Acalypha fruticosa — Geed-gadhaadh
 Cassia baccarinii — Geed-madow
 Indigofera spinosa — Geed-qodxeed-cad
 Cucumis prophetarum — Geed-xamar
-Boswellia freereana — Gegar
+Boswellia frereana — Gegar
 Cenchrus ciliaris — Gerat
 Cordia sinensis — Goba
 Acacia tortilis — Gode
@@ -171,7 +173,7 @@ Acacia edgeworthii — Gule
 Acacia nubica — Gummar
 Acacia tortilis — Gurrah
 Commiphora gurreh — Gurreh
-Balanites aegyptica — Gut
+Balanites aegyptiaca — Gut
 
 ## H
 
@@ -255,8 +257,8 @@ Cynodon dactylon — Os-gira
 
 ## P
 
-Commiphora erlangerana — Parnas
-Commiphora erlangerana — Paror
+Commiphora erlangeriana — Parnas
+Commiphora erlangeriana — Paror
 
 ## Q
 
@@ -342,7 +344,7 @@ Cordeauxia edulis — Ye-eb
 Cordeauxia edulis — Yeheb
 Cordeauxia edulis — Yehib
 Cordeauxia edulis — Yicib
-Boswellia freereana — Yegaar
+Boswellia frereana — Yegaar
 Gyrocarpus hababensis — Yo-ob-dalan
 Acacia etbaica — Yoobe
 Acacia etbaica — Yube

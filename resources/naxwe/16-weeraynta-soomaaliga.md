@@ -21,7 +21,7 @@ Ishu afka waxay u kala dhigaysaa unugyo is dul saaran:
 
 | Heer | Qeexidda guud ee isha | Tusaale ama tixraac |
 | --- | --- | --- |
-| Cod / foonim | qaybta cod ee ugu yar | [`../phonology/`](../phonology/) |
+| Cod / foonim | qaybta cod ee ugu yar | [`../dhawaaq/`](../dhawaaq/) |
 | Alan | codad isu raacay oo leh shaqal | *guri* → *gu-ri* |
 | Morfiim | qaybta ugu yar ee macne ama hawl naxweed leh | *guri + o* |
 | Erey | hal morfiim ama morfiimmo isku biiray | *shalay*; *guryo* |
@@ -31,7 +31,7 @@ Ishu afka waxay u kala dhigaysaa unugyo is dul saaran:
 
 Tusaalaha *guryo*, ishu waxay u kala qaadaysaa *guri* oo ah morfiim sal ah
 iyo *-o* oo ah morfiim naxweed tilmaamaya wadar. Dhismaha morfiimmada waxa
-si faahfaahsan u haya [`../morphology/`](../morphology/).
+si faahfaahsan u haya [`../sarfe/`](../sarfe/).
 
 ## 2. Weerta fudud
 
@@ -240,8 +240,8 @@ iyo [`11-weerta-adag.md`](11-weerta-adag.md).
 
 | Mawduuc | Khayraadka faahfaahsan |
 | --- | --- |
-| Codadka iyo alanka | [`../phonology/`](../phonology/) |
-| Morfiimka iyo dhismaha ereyga | [`../morphology/03-dhismaha-ereyga.md`](../morphology/03-dhismaha-ereyga.md) |
+| Codadka iyo alanka | [`../dhawaaq/`](../dhawaaq/) |
+| Morfiimka iyo dhismaha ereyga | [`../sarfe/03-dhismaha-ereyga.md`](../sarfe/03-dhismaha-ereyga.md) |
 | Weerta fudud iyo qurubyada diiradeed | [`09-weer-fudud.md`](09-weer-fudud.md) |
 | Oraah magaceedka | [`10-dhismaha-oraah-magaceedyada.md`](10-dhismaha-oraah-magaceedyada.md) |
 | Weerta adag | [`11-weerta-adag.md`](11-weerta-adag.md) |

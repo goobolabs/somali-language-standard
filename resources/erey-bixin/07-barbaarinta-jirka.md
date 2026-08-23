@@ -1,5 +1,7 @@
 # Barbaarinta Jirka — Qaamuuska Ereybixinta
 
+Eray-bixinta barbaarinta jirka ee ururintan. Ishu waa [`00-sources.md`](00-sources.md).
+
 ## Ereybixin guud
 
 Ability to sprint — awooda fagaxda
@@ -49,7 +51,7 @@ Finish — dhammaad
 Foul — qalad
 Form — qaab
 Goal — gool
-Goal-average — celcelis golal
+Goal-average — celcelis goolal
 Goal-line — xarriigda goolka
 Goal-post — tiirka goolka
 Goalkeeper — goolhaye
@@ -67,7 +69,7 @@ Knock-out system — qaabka isreebka
 Lawn (tennis) — dheer (teeniska)
 Line-up of the team — safidda kooxda
 Loser — lumiye
-Man-to-man defence — difaac gof-qof
+Man-to-man defence — difaac qof-qof
 Massage — farriin
 Measure — cabbir
 Misplaced pass — dhiibid khaldan
@@ -105,21 +107,21 @@ Referee's whistle — siiriga garsoore
 Resistance — caabin
 Result — go'aanka
 Rough play — ciyaar qalafsan
-Rule — sharc
+Rule — sharci
 Rule infringement — sharci jebin
 Schedule — jadwalka waqtiga
 Score — dhalin
 Shooting position — meesha toogashada
 Shot — toogasho
 Shower — tiir
-Spinned shot — toogasho winiin
+Spin shot — toogasho winiin
 Speed — fagax, xawli
 Sports — isboorti
 Sports equipment — qalab isboorti
 Sports facility — fududeeyayaasha isboortiga
 Sports medical supervision — takhtarka caafimaadka isboortiga
 Sports physician — takhtar isboorti
-Sportman — isboortiyahan
+Sportsman — isboortiyahan
 Sportswoman — isboortiyahanad
 Standing start — bilow taagnid
 Start — bilow
@@ -146,7 +148,7 @@ To catch the ball — gabashada kubbadda
 To coach — tababarid
 To control the ball — xukumidda kubbadda
 To deceive one's opponent — khiyaameynta ciyaartoyga
-To disqualify — ke saarid
+To disqualify — ka saarid
 To dribble — garaacid
 To give up — iska deyn
 To go in for sports — ku bixid isboortiga
@@ -177,7 +179,7 @@ To save with the foot — ku badbaadinta cagta
 To seize a chance — ka faaideysiga fursada
 To shake off — ruxid
 To shoot wide — toogasho balaadh ah
-To spread the defence — firdhinta daaface
+To spread the defence — firdhinta difaace
 To stiffen up — kakanaat
 To substitute — isku beddel
 To suffer defeat — guuldaro weyn
@@ -202,12 +204,12 @@ Zone defence — difaac waageer
 Attack — weerar
 Back court — gegida qaybta dambe
 Balance beam — dheeli tir fallaaro
-Ball control — xukumaada kubadda
+Ball control — xukumidda kubbadda
 Basket — koley
 Basketball — kubbadda koleyga
 Basketball player — ciyaaryahan kubbadda koleyga
 Blocking — harayn
-Boundary line — xarriigda xedke
+Boundary line — xarriigda xadka
 Bounce pass — dhiibid dhul-ke-kac
 Bounce shot — toogasho kubbad dhulka-kac ah
 Centre — dhexda
@@ -286,7 +288,7 @@ Zone defence — difaac waageer
 
 ## Kubbadda cagta
 
-Ball control — xukumaada kubadda
+Ball control — xukumidda kubbadda
 Corner flag — calanka geeska
 Corner kick — laadka geeska (koonaha)
 Double-footed — labalugooti
@@ -312,7 +314,7 @@ Inside kick — laadka gudaha
 Kick-off — laadka bilowga
 Left back — difaac bidix
 Linesman — calan haye
-Midfield — bartamaha garoonke
+Midfield — bartamaha garoonka
 Obstruction — xanibaad
 Off-side — hobsayd
 Off-side position — goobta hobseedka
@@ -325,7 +327,7 @@ Penalty kick — laadka ganaaxa
 Penalty spot — dhibicda ganaaxa
 Policeman (libero) — ninka bileyska ah
 Punching — ku dhufasho
-Rebound — soo nogosho
+Rebound — soo noqosho
 Red card — kaarka cas
 Right back — difaac midig
 Right-footed — midigle
@@ -350,7 +352,7 @@ Yellow card — kaarka huruudda ah
 All round competition — tartanka sideed waqdhac
 Apparatus work — saabaan shaqo
 Arabian cartwheel — shaag carbeed
-Artistic gymnastic — qaalmorogad faneed
+Artistic gymnastics — qaalmorogad faneed
 Balance — dheeli tir
 Balance beam — dheeli tir fallaaro
 Bent hang — laalaadin qalloocan
@@ -416,7 +418,7 @@ Catching violation — qabasho qaldan
 Chest pass — dhiibasho xabad
 Corner throw — geeska tuurid
 Defensive player — ciyaartoyga difaaca
-Direct pass — dhiibisho toos ah
+Direct pass — dhiibasho toos ah
 Dive shot — quusid toogasho
 Double catch — laba goor taabasho
 Double dribble — laba gacmocdin
@@ -430,8 +432,8 @@ Goal area — bedka goolka
 Goal area line — xarriigda bedka goolka
 Handball — kubbadda gacanta
 Handball player — ciyaartoyga kubbadda gacanta
-Head pass — dhiibasho wadax
-Indirect pass — dhiibisho dadban
+Head pass — dhiibasho madax
+Indirect pass — dhiibasho dadban
 Jump pass — dhiibasho booddo
 Lead attacker — hoggaamiye
 Lob shot — toogasho tooxan
@@ -440,7 +442,7 @@ Penalty line — xarriigda ganaaxa
 Penalty shot — toogasho ganaax
 Pivot player — ciyaartoyga udubka ah
 Play maker — qaybiye
-Reverse pass — dhiibisho gadaalcelis ah
+Reverse pass — dhiibasho gadaalcelis ah
 Reverse shot — toogasho gadaalcelis ah
 Shot — toogasho
 Side-view — aragti dhinac
@@ -472,7 +474,7 @@ Competition officials — mas'uuliyiinta tartanka
 Crouch start — bilow foororsan
 Decathlon — tobanneada
 Discus throw — saxan tuurka
-Discus thrower — gaxan tuure
+Discus thrower — saxan tuure
 Field events — waqdhacyada garoonka
 Hammer — burus
 High jump — booddada sare
@@ -484,7 +486,7 @@ Javelin throw — waran tuurka
 Javelin shaft — usha waranka
 Long jump — booddada hoose
 Long-distance racer — oroddada dhaadheer
-Man's Competitions — tartanka ragga
+Men's Competitions — tartanka ragga
 Medical service — shaqada caafimaadka
 Middle-distance racer — oroddada dhexe
 Motionless position — xaalad dhag dhegasho leh
@@ -561,10 +563,10 @@ To throw back the javelin — dib u tuuridda waranka
 ## Kubbadda laliska
 
 Antenna — antenna
-Attack line — xarriiqda weerarka
+Attack line — xarriigda weerarka
 Attack zone — weegaarka weerarka
 Back zone — weegaarka dambe
-Ball bounced back from the net — kubbad ka soo nogotay shabagga
+Ball bounced back from the net — kubbad ka soo noqotay shabagga
 Ball running along the net — kubbad shabagga ku dul carareysa
 Block — baloog
 Change of service — beddelka tuurashada
@@ -578,7 +580,7 @@ End line — xarriigda dhammaadka
 Fault — qalad
 Field of play — garoonka ciyaarta
 Free space — meel bannaan
-Front-line player — ciyaartoyga xarriiqda hore
+Front-line player — ciyaartoyga xarriigda hore
 Height of the net — dhererka shabaga
 Hook service — tuurasho mageelin
 Inside — gudaha
@@ -596,8 +598,8 @@ Order of service — tuurashada dalabka ah
 Out — debedda
 Overarm pass — dhiibidda gacanta ka kor
 Overhead service — tuurasho madaxa korkiisa
-Pack-line player — ciyaartoyga xarriiqda dambe
-Personal warning — digniin shaqsi
+Back-line player — ciyaartoyga xarriigda dambe
+Personal warning — digniin shakhsi
 Rally — dhaqdhaqaaq kubbadda
 Receiving formation — qaabeynta helidda
 Receiving side — dhinac gaarsiin
@@ -619,7 +621,7 @@ Spike — tumid
 Time-out — saacad joojin (latashi)
 To block — baloog
 To cover an angle — xagal daboolid
-To cross the centre line — ka talaabid xarriiqda dhexe
+To cross the centre line — ka talaabid xarriigda dhexe
 To drop the ball behind the block — ku rid kubbadda baloogga gadaashiisa
 To drop to the ground — ku rid dhulka dushiisa
 To follow the ball — raac kubbadda

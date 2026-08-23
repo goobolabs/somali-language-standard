@@ -1,5 +1,7 @@
 # Qaamuuska eray-bixinta ee Bayoolaji
 
+Eray-bixinta bayoolajiga ee ururintan. Ishu waa [`00-sources.md`](00-sources.md).
+
 ## A
 
 Abdomen — Ubac
@@ -25,9 +27,9 @@ Addiction — Waleef (fukrenimo)
 Adductor muscles — Muruqyo gadhabi
 Adipose tissue — Nud xaydheed
 Adrenal gland — Qanjidh kelyood
-Adventitious roots — Kidido farac
+Adventitious roots — Xididdo farac
 Aeration — Hawo siin
-Aerial roots — Kidido haweed
+Aerial roots — Xididdo haweed
 Aerobic respiration — Neefsasho ogsijiin leh
 Aestivation — Suuris jiilaal
 Afferent — Fuliye
@@ -56,7 +58,7 @@ Alternation of generation — Taran talantaali ah
 Alveolus — Alfiyoolas
 Amino acid — Amiino asiidh
 Amitosis — Amitosis
-Ammion — Xuubka xabka
+Amnion — Xuubka xabka
 Ammocoetes larva — Caydiga Ammoosiit
 Ammonia — Ammooniya
 Ammonifying bacteria — Baakteeriyada Ammoontyeysa
@@ -65,7 +67,7 @@ Amniotic fluid — Kab xab
 Amoeba — Amiiba
 Amoebocytes — Amiibosayt
 Amoeboid — Qaab amoebaaleed
-Amonification — Ammoeniyeyn
+Ammonification — Ammoeniyeyn
 Amphibia — Berribiyood
 Amphioxus — Amfiyooksas
 Amylase — Amilays
@@ -153,6 +155,7 @@ Autotrophic — Taquudiye
 Auxin — Oksiin
 Aves — Shimbiraha
 Axillary bud — Rugub surdhubeed
+
 ## B
 
 Bacillus — Baasilas
@@ -177,7 +180,7 @@ Bile duct — Marin xamayti
 Bilharzia — Kaadi dhiig
 Binary fission — Dhambalan
 Binomial nomenclature — Magacaabid labaygan
-Biochemistry — Kimigtariga noolaha
+Biochemistry — Kimistariga noolaha
 Biogenesis — Nolol ka askun
 Biological control — Kantaroolka bayoolajiyeed
 Biological factor — Isir bayolojiyeed
@@ -216,6 +219,7 @@ Bulb — Badhe
 Bulbil — Badhi yar
 Bundle sheath — Kiish dheg
 Bursa — Dhareeray
+
 ## C
 
 Cactus — Qodxan
@@ -323,6 +327,7 @@ Cytology — Barashada unugga
 Cytolysis — Baabi'id unug
 Cytoplasm — Saytobalaasam
 Cytosine — Saytoosiin
+
 ## D
 
 Deoxyribonuclease — Dhiifogsirayboniyuukliis
@@ -378,6 +383,7 @@ Double fertilization — Bacrim lamaan
 Drupe — Laflay
 Ductless gland — Qanjidh marin la'
 Duodenum — Laba iyo tobanle
+
 ## E
 
 Ear drum — Dheg dhexaad
@@ -473,6 +479,7 @@ Eye — Isha
 Eye muscles — Muruqyo ileed
 Eyeball — Kubbadda isha
 Eyelids — Xirribo
+
 ## F
 
 Facial nerve — Dareen side waji
@@ -497,7 +504,7 @@ Fibril — Miiq yar
 Fibrin — Fibrin
 Fibrinogen — Fibrinojiin
 Fibrous — Miiqan
-Fibrous root — Kidid miigan
+Fibrous root — Xidid miigan
 Fibula — Blixiyar
 Filament — Liif
 Fin — Baalbiyood
@@ -539,6 +546,7 @@ Fungicide — Sangi-dile
 Fungus — Fang
 Funicle — Samaya ugxan side
 Fur — Bhogox
+
 ## G
 
 Gallbladder — Xanjareeri
@@ -560,19 +568,19 @@ Germ cells — Unugyo jinsi
 Germ layer — Lalab jinsi
 Germ tube — Dhuun jinsi
 Germination — Sigil
-Gills — Redhsdhazie
 Gizzard — Midxin
-Gland — Ganjidh
+Gland — Qanjidh
 Glomerulus — Tintaf shebaq kelli
 Glycogen — Gilisarect
 Glycolysis — Semaysanka gleykojiniisis
 Grafting — Talaal jiimid
 Granulocyte — Hidhifley
-Green gland — Ganjidh cagaaran
+Green gland — Qanjidh cagaaran
 Growth — Korriin
 Guard cell — Unug ilaaliye
 Gullet — Hunguri
 Gut — Calool yaro
+
 ## H
 
 Haemoglobin — Hitmoglobiin
@@ -630,6 +638,7 @@ Hypogeal — Haybojiyal
 Hypothesis — Afkaar
 Hypotonic — Milan hoose
 Hypoxia — Ogsijiin yari
+
 ## I
 
 Inspiration — Neef qaadasho
@@ -655,6 +664,7 @@ Irritability — Carin, dhidhid
 Isolation — Faquuq
 Isotonic — Isku mid
 Isotope — Isku nooc
+
 ## J
 
 Jawbone — Snuq
@@ -662,6 +672,7 @@ Jellyfish — Koliuun sabeed
 Joint — Kala goys
 Juice — Dheecaan
 Juvenile period — Xilli dhallinyaro
+
 ## L
 
 Lacrimal ducts — Marin ilmo
@@ -672,11 +683,11 @@ Lamina — Caleen
 Lancelets — Adhaxlay biyood
 Large intestine — Mindhicir weyn
 Larva — Caydi
-Laryngeal cartilage — Carjow quiaanquishe
-Larynx — Quiaanquishe
+Laryngeal cartilage — Carjaw qulaanqulshe
+Larynx — Qulaanqulshe
 Lateral — Dhinac, feedheed
 Lateral line system — Habdhis xariiq dhinaceed
-Lateral roots — Kidid dhinac
+Lateral roots — Xidid dhinac
 Laxative — Dilciye
 Leach — Culagcul
 Leaf disease — Cudur caleemeed
@@ -707,6 +718,7 @@ Lung worm — Gooryaan sanbab
 Lymph — Limfe
 Lymphatic organ — Organ limfeed
 Lymphatic system — Habdhis limfeed
+
 ## M
 
 Macrogamete — Gamet ka weyn
@@ -781,6 +793,7 @@ Muscle tissue — Nud muruqeed
 Musculature — Muruqyo jidheed
 Mutation — Dhalan geddin hidde side
 Mutualism — Kala faa'iideysi
+
 ## N
 
 Natural selection — Xulasho dabiici
@@ -816,6 +829,7 @@ Nurse — Kalkaaliye
 Nutrient — Nafaqeeye
 Nutrition — Nafaqo
 Nymph — Koronkoro
+
 ## O
 
 Organ — Organ
@@ -843,6 +857,7 @@ Ovule — Ugxan side yare
 Ovum — Ugxan
 Oxidation — Oksidhayn
 Oxyhemoglobin — Oksihimoglobiin
+
 ## P
 
 Paleontology — Baalentoloji
@@ -926,6 +941,7 @@ Pulmonary — Pulmonari
 Pulp cavity — Raqer buruc
 Pupil — Isha
 Pyramid — Gunbur
+
 ## R
 
 Radicle — Xiddo
@@ -971,6 +987,7 @@ Root nodule — Barar xidid
 Root pressure — Cadaadis xidid
 Root system — Habdhis xidid
 Ruminant — Calyo ceshade
+
 ## S
 
 Saliva — Candhuuf
@@ -1079,6 +1096,7 @@ Synovial fluid — Dareere kala goys
 Synthesis — Samayn
 System — Habdhis
 Systole — Sistool
+
 ## T
 
 Tail — Dabo
@@ -1111,7 +1129,7 @@ Tibia — Bilixni weyn
 Tissue — Nud
 Tissue culture — Nud beerid
 Tonsils — Xoqgado, gquman
-Tooth — Ilk
+Tooth — Ilig
 Tortoise — Diin
 Toxin — Mariid
 Trace element — Curiye raad
@@ -1145,6 +1163,7 @@ Turgor movement — Dhaqdhaqaaq fooc
 Turgor pressure — Cadaadis fooc
 Twig — Tafaq
 Twin — Mataan
+
 ## U
 
 Unicellular — Hal unuglay
@@ -1169,6 +1188,7 @@ Urinogenital duct — Marin kaadi-taran
 Urinogenital system — Habdhis kaadi-taran
 Uterine milk — Dheecaan makaan
 Uterus — Makaan
+
 ## V
 
 Vaccination — Talaalid
@@ -1220,6 +1240,7 @@ Virus — Fayras
 Viscera — Qaaxo ku jir
 Vision — Arag
 Vitamin — Faytamiin
+
 ## W
 
 White blood cell — Unugga cad ee dhiigga
@@ -1229,13 +1250,15 @@ Wind dispersal — Firdhis dabayl
 Wind pipe — Hunguri cad
 Wind pollination — Faxlid dabayl
 Womb — Makaan
-Wood fibres — Gan gqori
+Wood fibres — Gan qori
 Worm — Gooryaan
 Worm disease — Cudur gooryaan
+
 ## X
 
 Xerophyte — Geed abaareed
 Xylem — Saylan
+
 ## Z
 
 Zoology — Suoloji

@@ -165,7 +165,7 @@ sameeyo erey cusub; lammaanintuna waxay fududaysaa in erey cusub laga
 sameeyo laba erey ama in ka badan oo kala madaxbannaan.
 
 Faahfaahinta lifaaqyada iyo faraca waxa laga helayaa
-[`../morphology/03-dhismaha-ereyga.md`](../morphology/03-dhismaha-ereyga.md).
+[`../sarfe/03-dhismaha-ereyga.md`](../sarfe/03-dhismaha-ereyga.md).
 
 ## 1.2 Dhawaaqyada
 
@@ -206,7 +206,7 @@ dhawaaqyada waxay u adeegsataa si ay ereyo u samayso iyo si ay u
 kala duwdo ereyadaas.
 
 Faahfaahinta codadka waxa laga helayaa
-[`../phonology/`](../phonology/).
+[`../dhawaaq/`](../dhawaaq/).
 
 ### Alifba'da soomaaliyeed
 
@@ -257,7 +257,7 @@ Kala-duwanaanshahan, inkastoo hadalka lagu adeegsado, qoraal ahaan
 laguma muujiyo alifba'da soomaaliyeed.
 
 Faahfaahinta tayada iyo dhererka shaqallada waxa laga helayaa
-[`../phonology/04-shaqaallada.md`](../phonology/04-shaqaallada.md).
+[`../dhawaaq/04-shaqaallada.md`](../dhawaaq/04-shaqaallada.md).
 
 ### 1.2.2 Codkaca
 
@@ -290,7 +290,7 @@ dheddig ah kaga dhacaa shaqalka ugu dambeeya, kuwa labka ahna shaqalka
 ka horreeya kan ugu dambeeya. Qaabkani ma daboolayo magac kasta.
 Faahfaahinta codkaca iyo caynta waxa laga helayaa
 [`02-sarfaha-magacyada.md`](02-sarfaha-magacyada.md) iyo
-[`../phonology/05-codadka-sare.md`](../phonology/05-codadka-sare.md).
+[`../dhawaaq/05-codadka-sare.md`](../dhawaaq/05-codadka-sare.md).
 
 ### 1.2.3 Shibbanayaasha
 
@@ -303,8 +303,8 @@ qaybood loogu soo bandhigay:
 /d/, /k/ → /g/, iyo /m/ → /n/ marka qaabab gaar ahi dhammaad
 yimaadaan. Tani ma aha xeer aan reebbanayn oo dhammaan ereyada
 khuseeya; faahfaahinta iyo ka-reebitaannada waxa laga helayaa
-[`../phonology/08-gariirka-iyo-spread-glottis.md`](../phonology/08-gariirka-iyo-spread-glottis.md)
-iyo [`../morphology/04-isbeddelka-codka.md`](../morphology/04-isbeddelka-codka.md):
+[`../dhawaaq/08-gariirka-iyo-glotis-furan.md`](../dhawaaq/08-gariirka-iyo-glotis-furan.md)
+iyo [`../sarfe/04-isbeddelka-codka.md`](../sarfe/04-isbeddelka-codka.md):
 
 14) *waa gun-ta-day* — /t/ oo erey dhexdiisa ku jirta oo alan ka bilaabmaya
 15) *waa gu-nud* — /t/ oo dhammaad ku beegan, isu beddeshay /d/
@@ -323,7 +323,7 @@ yimaadaan, cod wuxuu isu beddelaa isagoo isu ekaysiinaya midka kale:
 21) /l/ + /t/ → /sh/ : *bil* + *ta* → *bisha*
 
 Isbeddelladan waxa lagu faahfaahiyey
-[`../morphology/04-isbeddelka-codka.md`](../morphology/04-isbeddelka-codka.md).
+[`../sarfe/04-isbeddelka-codka.md`](../sarfe/04-isbeddelka-codka.md).
 
 **c) Iskudheehmid (elision/coalescence).** Marka laba erey isu
 yimaadaan iyadoo dhexda laga saaray cod ama codad ku beegan
@@ -337,5 +337,5 @@ bixisaa saddexdan tusaale:
 Tusaalayaashani waxay muujinayaan codad ka dhici kara hadalka isku
 xiran; ma dejinayaan xeer qoraal oo guud. Kala duwanaanshaha hadalka
 iyo qoraalka waxa lagu faahfaahiyey
-[`../orthography/01-hadal-iyo-qoraal.md`](../orthography/01-hadal-iyo-qoraal.md)
-iyo [`../orthography/02-eray-kooban-hadalka.md`](../orthography/02-eray-kooban-hadalka.md).
+[`../qoraal/01-hadal-iyo-qoraal.md`](../qoraal/01-hadal-iyo-qoraal.md)
+iyo [`../qoraal/02-eray-kooban-hadalka.md`](../qoraal/02-eray-kooban-hadalka.md).

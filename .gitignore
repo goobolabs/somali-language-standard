@@ -33,6 +33,10 @@ htmlcov/
 .cache/
 .tesseract/
 .tessdata/
+.tmp-ocr/
+tmp-ocr/
+.cursor-tmp-*.png
+source-evidence/
 
 # --- Generated release bundles (CI only) ---
 releases/

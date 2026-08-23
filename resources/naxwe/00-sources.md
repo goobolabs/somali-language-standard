@@ -61,6 +61,6 @@ source books.
   verification against every source scan; current workflow state is recorded
   in the [cleanup tracker](../../RESOURCE_CLEANUP_TRACKER.md).
 - *Habka Qoraalka* (1977) is curated in the
-  [orthography source registry](../orthography/00-sources.md).
+  [orthography source registry](../qoraal/00-sources.md).
 - *Codaynta Af Soomaaliga* (1977) is curated in the
-  [phonology source registry](../phonology/00-sources.md).
+  [phonology source registry](../dhawaaq/00-sources.md).

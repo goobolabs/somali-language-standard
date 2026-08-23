@@ -70,7 +70,7 @@ qaabkiisa:
 Kuwani waa qaababka isbeddelka codeed ee cutubkani ururiyey; ma aha
 sheegasho ah in liisaska xaraf-dhammaadku daboolayaan magac kasta.
 Isbeddellada noocan ah waxa kale oo lagu soo koobay
-[`../morphology/04-isbeddelka-codka.md`](../morphology/04-isbeddelka-codka.md).
+[`../sarfe/04-isbeddelka-codka.md`](../sarfe/04-isbeddelka-codka.md).
 
 ### Qodobka iyo tirada
 

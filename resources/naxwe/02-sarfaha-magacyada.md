@@ -173,7 +173,7 @@ madax-bannaan uma xaqiijiyo dhammaan safafka. *Golo* iyo *gato* iyaguna
 waa qaababkii isha oo aan laga helin xaqiijin qaamuuseed, sidaas
 darteed laguma beddelin qiyaas. Faahfaahinta codkaca waxa laga helayaa
 [`01-ereyada.md`](01-ereyada.md) iyo
-[`../phonology/05-codadka-sare.md`](../phonology/05-codadka-sare.md).
+[`../dhawaaq/05-codadka-sare.md`](../dhawaaq/05-codadka-sare.md).
 
 ## 2.3 Tirada
 
@@ -240,7 +240,7 @@ keliga ahaayeen. Sidaas darteed caynta magaca wadarta ahi ma
 waafaqsana caynta dabiiciga ah.
 
 Soo koobidda fasalladan waxa laga helayaa
-[`../morphology/01-magacyada.md`](../morphology/01-magacyada.md).
+[`../sarfe/01-magacyada.md`](../sarfe/01-magacyada.md).
 
 ### 2.3.1 Dibkabayaasha wadarta sameeya
 
@@ -328,8 +328,8 @@ carbeedka: *macallin* → *macallimiin(ta)*, *dersi* → *duruus(ta)*,
 *weli* → *awliyo(da)*.
 
 Qaababkan iyo isbeddellada codeed ee la socda waxa lagu soo koobay
-[`../morphology/01-magacyada.md`](../morphology/01-magacyada.md) iyo
-[`../morphology/04-isbeddelka-codka.md`](../morphology/04-isbeddelka-codka.md).
+[`../sarfe/01-magacyada.md`](../sarfe/01-magacyada.md) iyo
+[`../sarfe/04-isbeddelka-codka.md`](../sarfe/04-isbeddelka-codka.md).
 
 **5) Durkidda codkaca oo keliya** — dibkabe la'aan, codkaca ayaa
 gadaal u dhaqaaqa. Codkac ku beegan shaqalka ugu dambeeyaa waa
@@ -382,5 +382,5 @@ Magacyada dheddigga ah ee ku dhammaada *-o* waxay wadar ku noqdaan
 | waddo(da) | waddooyin(ka) |
 
 Faahfaahinta fasallada wadarta iyo isbeddelladooda codeed waxa laga
-helayaa [`../morphology/01-magacyada.md`](../morphology/01-magacyada.md)
-iyo [`../morphology/04-isbeddelka-codka.md`](../morphology/04-isbeddelka-codka.md).
+helayaa [`../sarfe/01-magacyada.md`](../sarfe/01-magacyada.md)
+iyo [`../sarfe/04-isbeddelka-codka.md`](../sarfe/04-isbeddelka-codka.md).

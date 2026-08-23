@@ -105,7 +105,7 @@ Baradigmahan oo buuxa iyo isbarbardhigga falalka dibkabayaasha leh
 waxa lagu sharxay
 [`07-sarfaha-falalka.md`](07-sarfaha-falalka.md#7213-falal-horkabayaal-leh)
 iyo
-[`morphology/02-falalka.md`](../morphology/02-falalka.md).
+[`sarfe/02-falalka.md`](../sarfe/02-falalka.md).
 
 Diidmada joogtada waxaa ka horreeya **ma**: *aqaan* →
 *ma aqaan*; *yaal* → *ma yaalo*; *yiraahdaa* → *ma yiraahdo*;

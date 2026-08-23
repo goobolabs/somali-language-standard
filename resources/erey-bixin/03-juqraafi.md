@@ -1,14 +1,16 @@
 # Qaamuuska eray-bixinta ee Juqraafi
 
+Eray-bixinta juqraafiga ee ururintan. Ishu waa [`00-sources.md`](00-sources.md).
+
 ## A
 
 Ablation — Baraf dhalaal
 Aborigines — Abooriginiis
 Abrasion — Dhul rif
 Absolute drought — Abaar ba'an
-Abysal deposit — Tuulimaad mool
-Accumulated temperature — Wadar heerkui
-Activity — Dhaqdhaqaag
+Abyssal deposit — Tuulimaad mool
+Accumulated temperature — Wadar heerkul
+Activity — Dhaqdhaqaaq
 Adaptation — Qabatin
 Adiabatic — Kul xidhan
 Advection — Hawoguur gudban
@@ -25,12 +27,12 @@ Aggradation — Dhul aasid
 Aggregate — Rooshaan
 Agriculture — Beerflow
 Agronomist — Aqoon yahan beereed
-Agronomy — Agoon beereed
+Agronomy — Aqoon beereed
 Aids — Kaaliyeyaal
 Air gap — Karin hawo
 Air mass — Cuf hawo
 Air port — Gego dayuuradeed
-Air route — Marinks cirka
+Air route — Marin cirka
 Air transport — Gaadiidka cirka
 Albedo — Albiido
 Alfalfa — Alfalfa
@@ -61,17 +63,17 @@ Anthropology — Cilmiga isirka dadka
 Anti trades — Xageashi
 Anticline — Laab tuurle
 Antipodes — Isu beeganayaal
-Aphelion — Majiiro gorraxeed durugsan
+Aphelion — Majiiro qorraxeed durugsan
 Apogee — Majiire dayaxeed durugsan
 Apparent time — Gadiid
 Apple — Tufaax
 Applied geography — Adeegsiga juqraafiga
 Archipelago — Arkibilaago
 Arctic circle — Goobada aartik
-Arid — Ooomane
+Arid — Oomane
 Artesian basin — Samanka aartifs
 Artesian well — Ceelka aartits
-Astenosphere — Astenosfeer
+Asthenosphere — Astenosfeer
 Asteroid — Asteroid
 Atlantic coast — Xeebta Aatlaantik
 Atlas — Atlas
@@ -80,7 +82,7 @@ Atoll — Atool
 Attrition — Rifan
 Autumn equinox — Deyr caanamaajio isleeg
 Avalanche wind — Deneyl barafeed
-Axis, earth — Dhidid dhuleed
+Axis, earth — Dhidib dhuleed
 Azimuth — Kug
 Azimuthal projection — Brojakshan kugeed
 Azonal soil — Carre caydhtin
@@ -110,7 +112,6 @@ Bed rock — Dhadhaab saleed
 Bedding plane — Lakab raseed
 Beheading — Marin maroorsi prem
 Bench mark — Calaamad la doortay
-Bey “ — Atwosphere eibil
 Bioclimatology — Barashada Cimilonoloteed
 Biogeography — Filiqsanaant nafleyda
 Black cotton — Cudbiley saa
@@ -121,8 +122,7 @@ Block lava — Kutlad laafa ah
 Blossom showers — Roob guyeed
 Blue mud — Dhoobo bluug
 Bonne's Projection — Barojekshanka banne
-Bora “ — Bora
-Bos — AR) oe
+Bora — Bora
 Bottom — y Bannaan suubaaneed
 Boulder clay — Dhoobo caydhiin
 Break water — Mawjad celiye
@@ -137,14 +137,14 @@ Brown coal — Dhuxul cawlan
 Brunkur cycle — Cimilo wareeg
 Buffer state — Dawlad dhexdhexaad ah
 Built-up area — Xharaabado
-Buys Ballot's laws — Keerka bays baalot
+Buys Ballot's laws — Xeerka bays baalot
 
 ## C
 
 Cainozoic Era — Waagil kaynosoyk
 Cairn — Taallo dhagaxeed
 Calcareous — Kalshiyam side
-Caleification — Kaalshiyameyn
+Calcification — Kaalshiyameyn
 Calms of cancer — Deganaayasha koonfur waqooyi
 Calms of capricorn — Degganayaasha k.koonfureed
 Canal 3 — Kelli Aa
@@ -221,17 +221,16 @@ Consequent river — Waadi weheliye
 Conservation — Daryeel
 Consumption — Kharashka
 Continental climate — Cimilo qaaradeed
-Continental crust — Qolof qaaratieed
+Continental crust — Qolof qaaradeed
 Continental divide — Qaybsan qaaradeed
 Continental drift — Kala durug qaaradeed
 Continental glacier — Baraf qaaradeed
-Continental shelf — Raso qaatadeed
+Continental shelf — Raso qaaradeed
 Continental slope — Titre qaaradeed
-Contour 2 — Joogekeeye a
+Contour — Joog ekeeye
 Contour interval — Faraqa joog ekeeye
 Convection rain — Dul ka hoor
 Copper — Maat
-Copse — Rayn. yar 3 =a
 Coral island — Jasiirad shacaabi
 Coral polyp — Shacaabi dhaliye
 Coral reef — Shacaabi taxan
@@ -241,11 +240,9 @@ Core of earth — Xudunta dhulka
 Corn belt climate — Cimilada jiidda galleyda
 Corrosion — Dhagaxburbur kimikaad
 Coseismic line — Xariiq dhul gariir
-Coseismicline — Xariiq dhul gariir
 Cotton belt climate — Cimilada jiidda cudbileyda
 Counter-trades — Lid dabyl ganacsi
 Course river — Marin webi
-Courter-trades — Lid dabyl ganacsi
 Cove — Khoor yar
 Cover crop — Nabaad guur joojiye
 Crag and tail — Mici dheer
@@ -297,16 +294,14 @@ Dew point — Barta dharabka
 Dew pond — Berkad dharab
 Diagonal — Xagal gooye ty
 Diameter — Dhexroor D
-Diet — Holding land Mulktyad he ates
 Diluce — Badhax
 Dip — Xagal janjeedh
 Dissected plateau — Dul dooxan
-Distribution — Filigsanaan, baahsanaan
+Distribution — Filiqsanaan, baahsanaan
 Diurnal range — Faraga sareeya/Hooseeye
 Divergence — Kala tag
 Divide — Kala rog
 Doctor, the — Dabayl caafimaad
-Dogmatic — Ku @hegenaan
 Dome — Qubbad
 Domestic animal — Dab joog
 Domestic industry — Sanco guri
@@ -326,7 +321,7 @@ Dust well — Baraf boodhle
 ## E
 
 Earth — Dhulduniyeed
-Earth movement — Dhagdhaqaaga dhulka
+Earth movement — Dhaqdhaqaaqa dhulka
 Earth pillar — Titr dhuleed
 Earth quake — Dhul gariir
 Earth quake period — Waqtiga dhulgariirka
@@ -460,7 +455,7 @@ Green belt — Jiid cagaaran
 Green flash — Walac cagaar
 Green house effect — Raad guri cagaar
 Grid system — Habka giridh
-Grit ‘ — Dhagax burbur eect
+Grit — Dhagax burbur eect
 Ground frost — Baraf dhuleed
 Groundwater — Biyo dhuleed
 Growing season — Xilid abuur
@@ -504,7 +499,7 @@ Hurricane — Duufaan
 Hydroelectric power — Xoogga danab biyood
 Hydrologic cycle — Heertada biyaha
 Hydrophyte — Dhir biyood is
-Hygroscope — Huur tuse ~~ =a Sire
+Hygroscope — Huur tuse
 
 ## I
 
@@ -651,7 +646,6 @@ Pampas — Pampas
 Pancake ice — Baraf laxooxeed
 Parahelic circle — Goobo qorrax beeneed
 Parallel of latitude — Barbarada loolalka
-Paraseiene — Dayax beenaad
 Paraselene — Dayax beenaad
 Paraselenic circle — Goobo dayax beeneed
 Partial drought — Abaar qaybeed
@@ -762,14 +756,12 @@ Secular — S Soofireen
 Sedimentary rocks — Dhadhaab lakabeed
 Seed selection — Abuur xulasho
 Seepage — Muusid coe
-Sees — Etestan wind Dabayl xagaa
-Sef — Period Kal
 Seiche — Mawjad hareed ous
 Seif dune — Seef bacaad
 Seismic focus — Bilow gariir
 Seismology — Cilmiga dhul gariirka ites
 Sensible horizon — Ufuq muuqda
-Serra — Silsilad buureed ~ secs
+Serra — Silsilad buureed
 SGeocentric — Dhulxuduneed
 Shale — Gaantay pee
 SHarmattaan — Harmataan
@@ -889,7 +881,6 @@ Water table — Oogada biyaha hoose
 Water-parting — Kala rog
 Waterfall — Biyo dhac
 Weather — Cimilo gooreed
-Wel — w= Pelagic deposits Tuulimaadyo badeed
 Well — Ceel
 Wet spell — Kal roobaad
 Wheat belt — Jiida qamadi

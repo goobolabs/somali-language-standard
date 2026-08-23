@@ -8,7 +8,7 @@ as rules.
 
 Live file map and entry formats: [`resources/README.md`](../resources/README.md).
 
-**Last updated:** 2026-07-19
+**Last updated:** 2026-08-19
 
 ---
 
@@ -37,13 +37,13 @@ Milestone 1b.
 | Collection | Role | Content files | Status | Known limitations |
 | --- | --- | ---: | --- | --- |
 | `qaamuus/` | Monolingual dictionary (*Qaamuuska Af-Soomaaliga*) | 32 + abbreviations | review | Compiler, edition, republication rights incomplete |
-| `wordlists/` | Bare headwords derived from `qaamuus/` | 26 | active | 31 heads without direct qaamuus match (for `data/` later) |
+| `madax-ereyo/` | Bare headwords derived from `qaamuus/` | 26 | active | 31 heads without direct qaamuus match (for `data/` later) |
 | `naxwe/` | Grammar and syntax reference | 18 + explained grammar terminology (`ereyfur.md`) | review | Supplements `13`–`17` carry OCR-fidelity caveat |
 | `erey-bixin/` | Technical/administrative glossaries (EN→SO) | 9 (`01`–`09`) | active | `09-farsamada-culuunta.md` partial OCR |
 | `suugaan/` | Proverbs, wisdom, stories, poetry, school literature | 24 | active | *Ismail Mire* deferred; variable OCR on some school texts |
-| `orthography/` | Writing, word-splitting, punctuation | 6 | active | Capitalization interim supplement at `06` |
-| `phonology/` | Sound system, IPA, prosody, dialect phonology | 8 | active | No audio/acoustic evidence; Orwin *Metrics* deferred |
-| `morphology/` | Inflectional paradigm tables | 4 | active | Saeed/Green cross-check optional; publisher permission pending |
+| `qoraal/` | Writing, word-splitting, punctuation | 6 | active | Capitalization interim supplement at `06` |
+| `dhawaaq/` | Sound system, IPA, prosody, dialect phonology | 8 | active | No audio/acoustic evidence; Orwin *Metrics* deferred |
+| `sarfe/` | Inflectional paradigm tables | 4 | active | Saeed/Green cross-check optional; publisher permission pending |
 
 Each collection has `00-sources.md` (bibliographic inventory), optional
 `00-<meta>.md`, numbered content files, and `README.md` (charter and format).
@@ -80,7 +80,7 @@ Monolingual dictionary evidence — headwords, grammatical codes, definitions,
 cross-references (`ld`, `eeg`). Intended as seed evidence for a future
 `data/lexicon/`. Does not include hand-corrected entries or new definitions.
 
-### `wordlists/`
+### `madax-ereyo/`
 
 Bare headword lists derived from `qaamuus/` — one headword per line, no
 definitions. For spellcheckers, autocomplete, tokenisers, and NLP baselines.
@@ -107,22 +107,22 @@ Literary and cultural evidence — *maahmaah*, *murti*, sheeko, *gabay*,
 school suugaan, children's literature, and literary reference. Foreign-language
 passages from original publications are omitted, not translated.
 
-### `orthography/`
+### `qoraal/`
 
 Writing, word-splitting, and punctuation from *Habka Qoraalka* (1977), files
 `01`–`05`. Capitalization evidence is an interim supplement in
 `06-xarafka-weyn.md` (Nilsson §2.3). Alphabet inventory overlap with
 `naxwe/01-ereyada.md` is intentional and not duplicated here.
 
-### `phonology/`
+### `dhawaaq/`
 
 Sound system reference from *Codaynta Af Soomaaliga* (1977), files `01`–`07`.
-`08-gariirka-iyo-spread-glottis.md` is a Somali-first supplement from Orwin
+`08-gariirka-iyo-glotis-furan.md` is a Somali-first supplement from Orwin
 (phonation research) and does not displace *Codaynta* as primary authority.
-Orthographic punctuation lives in `orthography/05-astaamaynta.md`; prosodic
-*astaamaynta* lives in `phonology/05-codadka-sare.md`.
+Orthographic punctuation lives in `qoraal/05-astaamaynta.md`; prosodic
+*astaamaynta* lives in `dhawaaq/05-codadka-sare.md`.
 
-### `morphology/`
+### `sarfe/`
 
 Tabular paradigm reference extracted from the 1999 HAAN grammar (via curated
 `naxwe/` chapters): gender, number, plurals, conjugation, derivation,
@@ -133,10 +133,10 @@ morphophonology. Complements pedagogical `naxwe/`; does not prescribe norms.
 | Boundary | Resolved by |
 | --- | --- |
 | Alphabet/vowel inventory | `naxwe/01-ereyada.md` |
-| Punctuation vs prosodic *astaamaynta* | `orthography/05-astaamaynta.md` vs `phonology/05-codadka-sare.md` |
+| Punctuation vs prosodic *astaamaynta* | `qoraal/05-astaamaynta.md` vs `dhawaaq/05-codadka-sare.md` |
 | Technical terms vs proverbs/wisdom | `erey-bixin/` vs `suugaan/` |
-| Full dictionary vs headword list | `qaamuus/` vs `wordlists/` |
-| Grammar prose vs paradigm tables | `naxwe/` vs `morphology/` |
+| Full dictionary vs headword list | `qaamuus/` vs `madax-ereyo/` |
+| Grammar prose vs paradigm tables | `naxwe/` vs `sarfe/` |
 
 ---
 
@@ -144,8 +144,8 @@ morphophonology. Complements pedagogical `naxwe/`; does not prescribe norms.
 
 - Every collection maintains `00-sources.md` with title, author, year, and a
   file map linking content files to source works.
-- Content derived from another collection (e.g. `morphology/` from `naxwe/`,
-  `wordlists/` from `qaamuus/`) records that derivation.
+- Content derived from another collection (e.g. `sarfe/` from `naxwe/`,
+  `madax-ereyo/` from `qaamuus/`) records that derivation.
 - OCR-recovered material states its fidelity posture in `00-sources.md` and
   collection READMEs. Unreadable fragments are omitted, not silently repaired.
 - Missing licence or republication rights are recorded as **limitations**, not
@@ -159,8 +159,8 @@ Representative open limitations:
 | `naxwe/13`–`17` | 0.9–6.3% raw OCR noise per file; review-status supplements |
 | `erey-bixin/09` | Partial scan; Italian-source redistribution terms unresolved |
 | Capitalization | Interim Nilsson supplement; no Somali-primary source located |
-| Phonology | No audio/acoustic evidence |
-| Morphology | Saeed/Green academic cross-check not excerpted without permission |
+| `dhawaaq/` | No audio/acoustic evidence |
+| `sarfe/` | Saeed/Green academic cross-check not excerpted without permission |
 
 ---
 
@@ -180,7 +180,7 @@ work in `spec/` builds on it in a separate step.
 | Dictionary compiler, edition, republication rights | open |
 | `naxwe/13`–`17` OCR supplements | accepted with fidelity caveat |
 | `erey-bixin/09` partial scan | accepted with omission policy |
-| Capitalization primary source | interim supplement in `orthography/06` |
+| Capitalization primary source | interim supplement in `qoraal/06` |
 | Phonology audio/acoustic evidence | not yet sourced |
 | Morphology academic cross-check | bibliographic only; no excerpts without permission |
 
