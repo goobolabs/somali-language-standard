@@ -186,13 +186,13 @@ somali-language-standard/
 ├── resources/                       # curated source evidence (pre-spec); see §4.1
 │   ├── README.md
 │   ├── qaamuus/                     # monolingual dictionary
-│   ├── wordlists/                   # bare headword baseline
+│   ├── madax-ereyo/                 # bare headword baseline
 │   ├── naxwe/                       # grammar reference
 │   ├── erey-bixin/                  # technical terminology glossaries
 │   ├── suugaan/                     # literature, proverbs, poetry
-│   ├── orthography/                 # writing and punctuation evidence
-│   ├── phonology/                   # sound system and IPA evidence
-│   └── morphology/                  # inflectional paradigm tables
+│   ├── qoraal/                      # writing and punctuation evidence
+│   ├── dhawaaq/                     # sound system and IPA evidence
+│   └── sarfe/                       # inflectional paradigm tables
 │
 ├── tools/                           # designed here, implemented in a later phase
 │   ├── validators/
@@ -232,7 +232,7 @@ somali-language-standard/
 | `data/translation-pairs/` | Parallel EN↔SO sentence/phrase pairs for MT training and eval. | Contributors + reviewers | Hand-authored |
 | `ai/` | Everything shaped for direct AI consumption: system prompts, instruction/fine-tuning sets, RAG chunks, correction pairs. | Maintainers + contributors | Hand-authored, partly derived from `spec/` + `data/` |
 | `benchmarks/` | Eval suites + scoring methodology, kept separate from training data to avoid contamination. | Maintainers + Council | Hand-authored |
-| `resources/` | The canonical linguistic source library and evidence base. Eight curated collections (dictionary, grammar, terminology, literature, orthography, phonology, morphology) plus derived wordlists. Documented in [`docs/RESOURCES.md`](RESOURCES.md). | Maintainers | Curated source data |
+| `resources/` | The canonical linguistic source library and evidence base. Eight curated collections (qaamuus, naxwe, erey-bixin, suugaan, qoraal, dhawaaq, sarfe) plus derived madax-ereyo. Documented in [`docs/RESOURCES.md`](RESOURCES.md). | Maintainers | Curated source data |
 | `tools/` | Validator/build/export scripts. Empty in the planning phase; scaffolded in Phase 0 implementation. | Maintainers | Code (future) |
 | `docs/` | The public documentation site (built from `spec/` + narrative docs). | Maintainers | Generated + hand-authored |
 | `releases/` | Compiled, versioned, distributable bundles — the thing most consumers actually download. | CI only | Generated |

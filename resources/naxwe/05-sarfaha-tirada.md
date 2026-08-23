@@ -67,7 +67,7 @@ Waxaa loo baahan yahay qiyaas lagu cabbiro walaxdaas:
 
 Kala-soocidda magacyada tirsama iyo kuwa aan tirsamin waxa kale oo lagu
 faahfaahiyey
-[`morphology/01-magacyada.md`](../morphology/01-magacyada.md#magacyada-aan-wadar-yeelan).
+[`sarfe/01-magacyada.md`](../sarfe/01-magacyada.md#magacyada-aan-wadar-yeelan).
 
 Tiraalayaasha waxaa kaloo lagu dari karaa dibkabaha **-eeye** si loo
 sameeyo tiro-ku-dhowaad: *tobaneeye naagood*, *labaatameeye nin*.

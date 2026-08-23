@@ -1,5 +1,7 @@
 # Farsamada iyo Culuunta
 
+Eray-bixinta farsamada iyo culuunta ee ururintan. Ishu waa [`00-sources.md`](00-sources.md).
+
 ## Warshadaha iyo qalabka
 
 absolute error — laaxinka sugan
@@ -19,8 +21,7 @@ analogy — isku-soocid
 angle valve — naas xagleed
 arc furnace — tinnaar-gaanseed
 area meter — qulqulecabire
-area meter ,rotameter — wareeg-beeg
-area meter, rotameter — rotametro
+area meter, rotameter — wareeg-beeg
 area, surface — bed
 arithmetic mean, mean value — celcelis aritmetikaad
 atomization — dhedayn
@@ -31,7 +32,6 @@ baffle — naas labeed
 ball bearing — kushineto kubadeed
 ball mill — shiid dhardhaareed (kubadeed)
 bar graph, histogram — histogaram
-barometric — barometrico
 barometric condenser — fariisiye barometrikeed
 basket strainer — miira dambiil
 batch distillation — barabixin aan xiriir ahayn
@@ -52,16 +52,14 @@ bubble tray — sixni burgad
 bubble-cap plate — sixni dawaneed
 builder — firfireeye
 butt joint — curcur alxaman
-by pass — by pass
-by pass valve — naaska by-pass
 by-pass — ka-bootin, by pass
 by-pass valve — naaska by-pass
 calibration curve — xood cabbireed
 capacity, volume — mug
-carburator — shidaal-siiye
+carburetor — shidaal-siiye
 catalytic cracking — keraykin kalkaalan
 catalytic hydrogenation — haydrojinayn kalkaalan
-cement kiln — finnaar sibireed
+cement kiln — tinnaar sibireed
 center of gravity — xuddunta-cuf jiidadha
 centrifugal compressor — caabiye xuddun-kajeed
 centrifugal extractor — kalasooce xudun-kajeede
@@ -73,27 +71,22 @@ centrifugal sedimentation — maaxin xudduun-ka jeeda
 centrifugal separation — kalasoocid xuddun-ka jeed
 chemical engineering — injineeriyada kiimikaad
 chemical reactor — falgeliye kiimikaad
-chemical resistance — adkaysiga kimikaad
+chemical resistance — adkaysiga kiimikaad
 chemist — kimikoyagaan
-chiller — scambiatore refrigerante
 chimney, stack — dhuun-qaac
 classifier — ablableeye
 cloud point — barta dhedoodka
 coal gasification — neef-ka-dhigidda dhuxusha
-coalescent — flocculante
 coaxial — isku-dhidib
 coconut oil — saliid qumbe
 coke oven — tinnaar dhuxuleed
 coking — koking
 coking still — tinnaar dhuxuloobid
 column, tower — kuud
-combustione furnace — tinnaarka gubashada
 component, constituent — xubin
-component, costituent — xubin, qayb
 compressed — caabiyan
 compressible fluid — hoor diisme ah
 condensable vapor — uumi-fariisankara
-condensate — condensato
 condensate flash — uumiyaynta flash ee hoor
 cone crusher — shiiddo masafeed
 countercurrent extraction — kalasoocid qulqul-kajeedda
@@ -101,21 +94,16 @@ continuous distillation — barabixin xiriir ah
 continuous function — fansaar xiriir ah
 control valve — naaska hubinta
 conveyor — gaade
-cooling tower — kuudka gaboojinta
-core, nucleus — nucleo
-costant — costante
-craking — craking
+cooling tower — kuudka qaboojinta
 cut oil — saliid firfirsan
 decantation, settling — maaxig
 decibel — desibel
 decigram — desigram
 decimeter — desimeter
 decolorizer — midabtire
-definition — defiinizione
 demineralization — macdan-kasaarid
 deodorizing — urkabi'in
 derivative — xigsiin,derivaat
-descaling — disincrostazione
 design, project — aglool
 dew-point curve — xood sayaxeed, xood dharabeed
 dew-point pressure — cadaadis dhedood
@@ -126,7 +114,6 @@ differential extraction — kalasoocid xigan
 differential manometer — caabbi-beeg farqgiyeed
 differential manometer, differential pressure gage — caabbi-beeg farqiyeed
 differential pressure — cadaadis-farqiyeed
-diffuser, blowtank — diffusore
 diffusion coefficient — madoorsoomaha baahidda
 diffusivity — diffusivita’
 digester — karkariye
@@ -139,7 +126,6 @@ displacement pump — biyo-jiid mugeed
 distillate — barabaxsan
 distillation column — kuudka barabixineed
 distillation curve — xoodka barabixineed
-Dodge polverizer — shiidka Dodge
 Dodge pulverizer — shiidka Dodge
 double - pipe exchanger — kul gudbiye laba dhuumoodle ah
 drive — gudbin
@@ -147,10 +133,8 @@ drop — dhibic
 dropwise condensation — fariisin dhibiceed
 drum filter — miire-durbaan
 duct — dhuun
-dust, powder — polvere
 eccentricity — xoodbeeg
-economics — dhagaale
-eddy diffusivity — diffusivita' turbolenta
+economics — dhaqaale
 eddy motion — socod carraaran
 elastic failure — doorsoomid joogto ah
 electronics — elektronik
@@ -160,12 +144,11 @@ energy balance — beegis tamareed
 engine oil — saliidda matoorrada
 engineer — injineer
 enriching column — kuudka ribkadhigidda
-entalpy balance — beegis entalbiyeed
+enthalpy balance — beegis entalbiyeed
 equivalent diameter — dhexroor-udhigah
-eristallization — wirqoobid
-erystallizer — wirqeeye
+crystallization — wirqoobid
+crystallizer — wirqeeye
 eutectic — eutetik
-evaluetion — valutazione
 evaporative condenser — fariisiye roobeed
 evaporator, vaporizer — uumiyeeye
 expansion joint — curcur fidsan
@@ -177,25 +160,23 @@ extractor — kalasooce
 extruder — miiqe
 extrusion — miiqid
 fabrication — Samayn
-factory, industry — warshed
+factory, industry — warshad
 falling film — lakab xadeed kula
 Fanning number — tirada Fanning
 Fanning number; Fanning friction factor — tirada Fanning
-fead tray — sixniga rarka
+feed tray — sixniga rarka
 film boiling — kar-xuubeed
 film condenser — fariisiye xuubeed
 filmwise condensation — fariisin xuubeed
 filter cake — dhooqgada haraaga
 filter cake washing — dhagidda kuudka miire
 filter press — caabbi-miir
-filtre cake washing — dhagidda kuudka miire
-fiow reactor — falgeliye xiriir ah
+flow reactor — falgeliye xiriir ah
 fire brick — dambasyaal
-fire estinguisher — dabdemiye
+fire extinguisher — dabdemiye
 fire, focus — dab
 flash distillation — barabixin flash ah
 flashing — uumiyaynta flash
-flaxe — torcia
 floc — calas
 flooding — buuxdhaaf
 flotation — sabbayn
@@ -206,15 +187,11 @@ fluidized bed — jiif-hoor
 forming — gaabayn
 four-way valve — naas afar-dulle
 Fourier number — tirada Fourier
-free settling — sedimentazione libera
 friction factor — madoorsoomaha isliska
 friction loss — rar-dhac
-friction loss, friction head — em em me em ee me mm fe ff te tf ee en en em en ee em
 fuel oil — saliidda la shito
-furnace, kiln, oven — tinaar, marraaq
-fusion, meelting — dhalaalid
+furnace, kiln, oven — tinnaar, marraaq
 fusion, melting — dhalaalid
-gage — calibro
 gas producer — neef-dhaliye
 gas scrubbing — dhaqid neefeed
 gaseous diffusion — baahid neefeed
@@ -223,8 +200,8 @@ gasometer — neefbeeg
 Gay-Lussac tower — kuudka Gay-Lussac
 geometric mean, mean proportional — celcelis jeometriyeed
 globe valve — naas kubadeed
-Glower tower — kuudka Glower
-gram-molecular weight — garaam-molekiyuul i
+Glover tower — kuudka Glover
+gram-molecular weight — garaam-molekiyuul
 Grashof number — tirada Grashof
 grinding mill — shiid dagiijiye
 hammer mill — shiid burriseed
@@ -239,20 +216,20 @@ heat of vaporization — kulka uumiyoobidda
 heat transport — kul -qaadid
 homogenize — isku-kaanayn
 homogenizer — isku-kaaneeye
-horizontal crusher — shiiddo jiifeed b
+horizontal crusher — shiiddo jiifeed
 horizontal-tube evaporator — uumiyeeye dhuumo-jiif ah
 hydraulic loss — tamar-dhac
 hydrodynamic pressure — cadaadis qulquleed
-inclination — Jjanjeer
+inclination — janjeer
 incompressible fluid — hoor aan diismin
 increment — koror
 industrialization — warshadeyn
 instability — degganaansho la'aan
 instruction — tilmaan
 instrument, instrumentation — qalab
-instrumentation — galab
+instrumentation — qalab
 interface, phase boundary — dhexyaal
-internal energy — tamarta guadaha
+internal energy — tamarta gudaha
 irradiation — shaacis
 isenthalpic expansion — fidid isku-entalbiyeed
 isentropic expansion — fidid isku-entrobiyeed
@@ -264,7 +241,6 @@ Knudsen number — tirada Knudsen
 laminar boundary layer — lakab xadeed xaleefa
 laminar flow — qulqul xalleefeed
 laminar motion — socod xallefeed
-laminar-boundary layer — lakab xadeed xaleefa
 law, principle — xeer
 liquid piston rotary compressor — caabiye girgir-biyood
 liquid-liquid extraction — kalasoocid qulqulayaal
@@ -283,21 +259,19 @@ melting furnace — tinnaar dhalaalin
 mercury manometer — caabbi-beegga merkuri
 mill — shiid
 miter joint — curcur xagleed
-mixing — isku-qgasid
-moist air — aria umida Ei
+mixing — isku-qasid
 moist gas — neef qoyan
 moisture — huur
-mole fraction — Jjajab moleed
+mole fraction — jajab moleed
 molecular diffusion — baahid molekuleed
 nominal diameter — dhexroor-u-yaal
 nucleate boiling — kar-bu'eed
 Nusselt number — tirada Nusselt
 ohm — ohm
 ohmmeter — ohm-beeg
-ohmmetro — ohm-beeg
 oil-gas process — neef-ka-dhigidda saliidda macdaneed
 Oliver filter — durbaanka Oliver
-operating line — xood hawlead
+operating line — xood hawleed
 optimization — bilid
 ore deposit — dhul-jiif
 orifice — dul
@@ -318,17 +292,16 @@ plug valve — naas labeed
 porosimeter — shagshagbeeg
 porosity — shagshaq
 porosity, riddle — shagshaq
-pot furnace — tinnar-dheri
-potenzial energy — tamarta kaydsan
+pot furnace — tinnaar-dheri
+potential energy — tamarta kaydsan
 preheater — sii-kululeeye
 pressure fan — babis-afuufe
 problem — masa'lo
-process planing — agloolitaanka darigadda
+process planning — agloolitaanka darigadda
 process, operation — dariigad
 production — waxsoosaar
 project engineering — agloolitaan
 propeller fan — babis-dhidible
-pulley, sheave — carrucola
 purification — saafiyayn
 purity — saafinimo
 push nipple — curcur xiriireed
@@ -336,12 +309,11 @@ rabbet — curcur lab-dhadigeed
 random error — laaxin habgana
 Raymond bowl-mill pulverizer — shiidka Raymond
 reaction zone — meelsha falgalka
-reactivity — reattivita'
 real gas — neef waaqici ah
 reliability — kutalgal
 reciprocating compressor — caabiye-meere
 reflux ratio — xiriirka dib-u-noqodka
-resistence furnace — tinnaar-caabbiyeed
+resistance furnace — tinnaar-caabbiyeed
 revolution per minute, r.p.m — wareeg minitkiiba
 revolution per second, r.p.s — wareeg sekenkiiba
 Reynolds number — tirada Reynolds
@@ -353,22 +325,17 @@ rotary pump — biyo-jiid wareegeed
 safe load — rar-amni
 sample, specimen — xul
 sand filter — miire carrood
-saturated air — aria satura E
 saturator — dhergiye
 scaling — qolfoobid
-scot — fenditura
 selective adsorption — uumiqaadasho soocineed
-sensor — sensore
-sesame 0il — saliid sisinta
 sesame oil — saliid sisinta
 settler — maaxiye
 settling, sedimentation — maaxin
-shear strenght — u-adkaysiga sarmada
+shear strength — u-adkaysiga sarmada
 sheat — qob
 short-tube vertical evaporator — uumiyeeye dhuumo-joog-gaagaaban
 sieve plate — sixni dulalle
 sliding-vane compressor — caabiye-baalalle
-slope — pendenza
 sludge — dhoobo
 smoke — qaac
 softening point — barta rabaagga
@@ -379,31 +346,26 @@ spiral-tube heat exchanger — kul-gudbiye mareegle ah
 spray — buufis
 spray nozzle — dhedeeye
 spray tower — kuud-firdhis
-stainless alloy — birsan aan dexalaysan
+stainless alloy — birsan aan daxalaysan
 static pressure — cadaadiska negaanta
 steady state — xaalad neg
 steady-state flow — qulqul neg
 steam distillation — barabixin uumile
 steam fog — dhedo uumiyeed
-steam, water vapor — vapore acqueo
 stirring — xurbis
 Stokes number — tirada Stokes
 stop valve — naaska joogsiga
-suction head — Jjoogga soo-nuugidda b
+suction head — joogga soo-nuugidda
 superheated vapor — uumi-kuldhaafsan
 surface condenser — fariisiye bedeed
-tecnology — tecnologia
 theoretical plate — sixni suuban
 thermal compressor — kul-caabi
-thermal diffusion — diffusione termica
 thermal energy — tamarta kuleed
 thermocompression evaporator — uumiyeeye kulcaabbiyeed
 thermometry — kulbeegid
 thickening — maaxbeeg
 throttle valve — naaska qiyaasidda
 to calcine, oxidation — ogsidayn
-to calibrate — calibrare
-to compress — comprimere
 to decolorize — midabtirid
 to deoil — saliid-ka-saarid
 to purify — saafiyayn, saafikadhigid
@@ -418,27 +380,22 @@ tube-still heater — tinnaar-dhuuneed
 tumbling mill — shiid durbaneed
 tunnel kiln — tinnaar-duleed
 turbine — turbiin
-turbolence — turbolenza
 turbulent flow — qulqul carraaran
 turbulence — carraan
 turbulent boundary layer — lakab xadeed carraaran
 U-tube heat exchanger — kul gudbiyaha-u
 union joint — curcur saddex cadle ah
 union, pipe fitting — isku-xir
-unstable equilibrium — deggenaansha cabban
+unstable equilibrium — degganaansho cabban
 unsteady state — xaalad aan negeyn
 vacuum filtration — miirid cadaadis dhiman
 vacuum flashing — uumiyaynta flash ee cadaadis dhiman
-value, cost — valore, costo
-vapor — vapore
 vapor pressure — cadaadis uumiyeed
-vapore pressure — cadaadis uumiyeed
 velocity head — dherer-xawaareed
 volume flow rate — butaac mugeed
 volume meter — butaac-beeg
 washing — dhaqid
-wattability — goyid
-witish — biancastro
+wettability — goyid
 
 ## Qorshaynta magaalooyinka
 
@@ -447,7 +404,7 @@ House — Guri
 Dwelling — Hoy
 Fresh water — Biyo macaan
 Bachelor flats — Hoy qofkaliya
-Elevation; height — Koreyn; dherir
+Elevation; height — Koreyn; dherer
 Building space standards — Hal dalool ee dhismo
 Floor space standards — Hal dalool ee bed
 Floor space index — Isu qeybinta dednaanta
@@ -460,7 +417,7 @@ Regional — Goboleed
 Building by-law — Sharciyada dhismaha
 Traffic survey — Ka war heynta gaadiidka
 Aerial survey — Sawirqaadidda kor laga soo sameeyey
-Topographical survey; survey of land — Uruurinta iyo sahaninta tobograafiyeed
+Topographical survey; survey of land — Uruurinta iyo sahaninta topograafiyeed
 Sewerage system — Dhuuma wasakh fogayska
 Gas grid — Dhuumaha gaybiyo gaaska
 Electricity grid — Xargaha qaada xoogga korontada

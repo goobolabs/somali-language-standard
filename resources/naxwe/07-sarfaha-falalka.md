@@ -229,7 +229,7 @@ Tusaale isbarbardhig (joogto caadaley / tagto fudud / timaaddo):
 | III | raadso | raadsadaa | raadsaday | raadsan doonaa |
 
 Isrogrogga oo kooban waxaa lagu soo ururiyey
-[`morphology/02-falalka.md`](../morphology/02-falalka.md); baaradigmayaasha
+[`sarfe/02-falalka.md`](../sarfe/02-falalka.md); baaradigmayaasha
 iyo diidmadooda oo faahfaahsanna waxay ku jiraan
 [`08-hogatuska-baradigmaha-falalka.md`](08-hogatuska-baradigmaha-falalka.md).
 
@@ -409,7 +409,7 @@ Tusaalooyin fal (isrogrogga I → II masdar):
 
 Lifaaqyadan iyo magacyada falalka ka farcama waxaa si kooban loogu
 ururiyey
-[`morphology/03-dhismaha-ereyga.md`](../morphology/03-dhismaha-ereyga.md).
+[`sarfe/03-dhismaha-ereyga.md`](../sarfe/03-dhismaha-ereyga.md).
 
 #### 7.3.2.2 -an
 

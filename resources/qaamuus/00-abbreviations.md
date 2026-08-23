@@ -1,5 +1,11 @@
 # Abbreviations
 
+Trilingual decode key for grammatical and domain codes used in dictionary
+entries [`01-b.md`](01-b.md) … [`31-uu.md`](31-uu.md). Entry format and
+cross-reference tokens (`ld`, `eeg`) are described in
+[`README.md`](README.md) and the top-level
+[`resources/README.md`](../README.md).
+
 | Abbreviation | Af-Somali | Italian | English |
 |---|---|---|---|
 | a | Amar | imperativo | imperative |
@@ -46,7 +52,7 @@
 | lh | laahansho | possessivo | possessive |
 | ly | layeele | oggetto | object |
 | m | magac | nome | noun |
-| maan. maanso | poesia/poetico poetry/poetic |  |  |
+| maan. maanso | maanso | poesia/poetico | poetry/poetic |
 | mg | magudbe | intransitivo | intransitive |
 | mi | mideeya | inclusivo | inclusive |
 | mu | magacuyaal | pronome | pronoun |
@@ -71,7 +77,7 @@
 | u-j | u jeediye | allocutivo | allocutive |
 | w | wadar | plurale | plural |
 | we | weyddimeed | interrogativo | interrogative |
-| wr | weer | frase sentence |  |
+| wr | weer | frase | sentence |
 | xi | xiriiriye | congiunzione | conjunction |
 | xis | xisaab | matematica | mathematics |
 | y | yeele | soggetto | subject |

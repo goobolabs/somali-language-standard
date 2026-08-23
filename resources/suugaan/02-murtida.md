@@ -87,7 +87,7 @@ Quudhsi — yaraysi, yasid, lita
 Shidho — galida adhiga si marti loogu sooryeeyo
 Saadaal — sahadin
 Shililalkay — kaalin, heer
-Saameeshay — buumisay, daf ka slin
+Saameeshay — buumisay, daf ka silin
 Shucab — caarada hore, baarka, bul
 Saar — geed saar, xayaab, geed dhirta isku mara
 Sidig — hal ilmo aanay dhalin ku irmaan, laba halaad oo ilmo ku wada irmaan, nirigta aba halaad ku wada irmaan
@@ -99,7 +99,7 @@ Sogob — orgi weyn oo dhufaan ah
 Sahay — cuntada loo qaato safarka, saadka safarka
 Sollo — laba laamood dhexdood
 Sako — xoolo sadago ah oo masaakiinta la siiyo
-Soqjna — foofna, daaq geyn
+Soofna — foofna, daaq geyn
 Salow — dhibaato colaad (dagaal)
 Subulaha — meel magaceed
 Suddeenna — kayn jig ah, meel dhir badan, kaynteenna

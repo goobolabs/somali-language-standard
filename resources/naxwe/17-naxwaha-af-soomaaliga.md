@@ -42,7 +42,7 @@ askari,* iyo *beeraley*.
 Alifba'dii iyo shaxihii dhawaaqa ee ilduceedku aad bay OCR-ku u dhaawaceen,
 sidaas darteed halkan dib looguma dhisin. Habka codadka, shaqallada,
 shibbanayaasha iyo codkaca waxa si sugan u haya
-[`01-ereyada.md`](01-ereyada.md) iyo [`../phonology/`](../phonology/).
+[`01-ereyada.md`](01-ereyada.md) iyo [`../dhawaaq/`](../dhawaaq/).
 
 ## 2. Magacyada
 
@@ -78,7 +78,7 @@ Ishu waxay sidoo kale soo bandhigtaa dibkabayaal magacyada dadka lagu arko:
 Kuwani waa ururinta isha, mana aha xeer lagu go'aamin karo caynta magac kasta.
 Caynta magaca iyo kaalinta codkaca waxa lagu faahfaahiyey
 [`02-sarfaha-magacyada.md`](02-sarfaha-magacyada.md) iyo
-[`../morphology/01-magacyada.md`](../morphology/01-magacyada.md).
+[`../sarfe/01-magacyada.md`](../sarfe/01-magacyada.md).
 
 ### 2.3 Qaababka wadarta
 
@@ -556,7 +556,7 @@ la akhriyi karo:
 
 Faahfaahinta faraca iyo lammaanaha ereyada waxa haya
 [`01-ereyada.md`](01-ereyada.md) iyo
-[`../morphology/03-dhismaha-ereyga.md`](../morphology/03-dhismaha-ereyga.md).
+[`../sarfe/03-dhismaha-ereyga.md`](../sarfe/03-dhismaha-ereyga.md).
 
 ### 9.2 Ku dhufasho iyo codkac
 
@@ -567,7 +567,7 @@ ereyo isku qoraal ah ama amar iyo tagto isu eg. Waxay tusaalooyinka ku dartaa
 SLS arrintan wuxuu ku falanqeeyaa *codkac*. Codkaca magaca, caynta iyo falka
 waxa lagu faahfaahiyey [`01-ereyada.md`](01-ereyada.md),
 [`02-sarfaha-magacyada.md`](02-sarfaha-magacyada.md), iyo
-[`../phonology/05-codadka-sare.md`](../phonology/05-codadka-sare.md).
+[`../dhawaaq/05-codadka-sare.md`](../dhawaaq/05-codadka-sare.md).
 
 ### 9.3 Labanlaabka falka
 
@@ -745,14 +745,14 @@ Qaar ka mid ah qaababkaas waa ururinta iyo falanqaynta ilduceedka, qaarna
 qoraalkoodu wuu duugoobay ama wuu kala duwan yahay. Faraca magacyada iyo
 falalka waxa si sugan loogu raacayaa
 [`07-sarfaha-falalka.md`](07-sarfaha-falalka.md) iyo
-[`../morphology/03-dhismaha-ereyga.md`](../morphology/03-dhismaha-ereyga.md).
+[`../sarfe/03-dhismaha-ereyga.md`](../sarfe/03-dhismaha-ereyga.md).
 
 ## 13. Tixraacyada SLS
 
 | Mawduuc | Khayraadka faahfaahsan |
 | --- | --- |
-| Codadka, alanka iyo codkaca | [`01-ereyada.md`](01-ereyada.md); [`../phonology/`](../phonology/) |
-| Magacyada, caynta iyo wadarta | [`02-sarfaha-magacyada.md`](02-sarfaha-magacyada.md); [`../morphology/01-magacyada.md`](../morphology/01-magacyada.md) |
+| Codadka, alanka iyo codkaca | [`01-ereyada.md`](01-ereyada.md); [`../dhawaaq/`](../dhawaaq/) |
+| Magacyada, caynta iyo wadarta | [`02-sarfaha-magacyada.md`](02-sarfaha-magacyada.md); [`../sarfe/01-magacyada.md`](../sarfe/01-magacyada.md) |
 | Qodob, tilmaame iyo lahaansho | [`03-sarfaha-tifaftireyaasha.md`](03-sarfaha-tifaftireyaasha.md) |
 | Magacuyaallada | [`04-sarfaha-magacuyaallada.md`](04-sarfaha-magacuyaallada.md) |
 | Tirada | [`05-sarfaha-tirada.md`](05-sarfaha-tirada.md) |
@@ -763,5 +763,5 @@ falalka waxa si sugan loogu raacayaa
 | Oraah magaceedka | [`10-dhismaha-oraah-magaceedyada.md`](10-dhismaha-oraah-magaceedyada.md) |
 | Weerta adag iyo shardileyda | [`11-weerta-adag.md`](11-weerta-adag.md) |
 | Weyddiinta, diidmada iyo amarka | [`12-noocyada-weeraha.md`](12-noocyada-weeraha.md) |
-| Dhismaha ereyga | [`../morphology/03-dhismaha-ereyga.md`](../morphology/03-dhismaha-ereyga.md) |
+| Dhismaha ereyga | [`../sarfe/03-dhismaha-ereyga.md`](../sarfe/03-dhismaha-ereyga.md) |
 | Ereybixin naxweed | [`ereyfur.md`](ereyfur.md) |

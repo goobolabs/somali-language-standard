@@ -1,15 +1,17 @@
 # Eraybixinta Af Soomaaliga ee Hawlaha Wasaaradaha
 
+Eray-bixinta hawlaha wasaaradaha ee ururintan. Ishu waa [`00-sources.md`](00-sources.md).
+
 ## Wasaaradda beeraha
 
 Acre — Akar
 Adjustment — Hagaajis, kabis
-ADMINISTRATION — Maamul
+Administration — Maamul
 Adult — Shilin weyn
 Advance — Hormaris
 Agronomist — Beeradhaari, beera-yaqaan
 Agronomy — Beera-aqoon
-Ahids — Malabiso (cayayaan)
+Aphids — Malabiso (cayayaan)
 Anatomy — Ooga-aqoon
 Anemograph — Dabayl qore
 Annuity — Gugiiba
@@ -46,7 +48,7 @@ Cash flow — Naqad-soo-gal, lacagcad
 Cassava — Moxoggo
 Castor bean — Cabbane
 Catchment Area — Biyaqabad, biyashub
-Cattle tike — Shiln Lo’ad
+Cattle tick — Shiln Lo’ad
 Census — Dadiyoxoolatiris, dadiyoduunyotiris
 Centipedes — Dhertaxaniinyo, geelcaacis
 Cereal crops (A) — Baxal badar
@@ -233,7 +235,6 @@ Relief Canal — Keli-nasis
 Rendi Conto — Xisaanaq, xisaabeelis
 Revote — Haraafur
 Rice — Bariid, bariis
-Rice — Weevil Suus bariid, daniye
 Risk — Biime
 River Stage — Heer webi
 Salary — Mushaar, mushahaar
@@ -300,10 +301,9 @@ Variable cost (vc) — Qiime gadgaddooma
 Variance — Kala-duwinaansho, kalamid
 Variety trials — Dirtijaabis, dirbaxnaanis
 Vegetables (C) — cagcagaar
-Velocity — Dherayn, xawli
+Velocity — Dheerayn, xawli
 Virus — Fiirus, waabaayakeen
 Viticoltura — Canab-abuur, carmo-abuur
-Vote — Book Buugga baaqi tuska
 Wasps — Xoon, laxle
 Water melon — Qare, xabxab
 Waterlogging — biyaddac
@@ -312,7 +312,7 @@ Weevils — Suus, afdheer, daniye
 Weir — Xiintooy
 Wheat — Sarreen, qamadi
 White Flies — Diqsi cadde
-Wood Borders — Geesariyood
+Wood Borers — Geesariyood
 Working Capital — Xoolamadax xooliya (shaqeye)
 Yield — Tacab, baxal, soosal
 
@@ -340,14 +340,14 @@ Bank — Bangi
 Beneficiary — Samadheef
 Bon (request for – application of) — Cawilnaq (codsasho, arji, doonasho)
 Branch -post Office — Laanta boosta
-Bulwy parcel — Xirmo kuusan
+Bulky parcel — Xirmo kuusan
 By air-mail — Dhaanbaal dayuuradeed
 C/0 Telegraph office L/H — xafiiska taarka
 Cancellation — Tirid
 Cancellation (manual, mechanical) — Tirid (gacmeed; makiinadeed)
 Cancellation (ordinary, special) — Tirid (caadi, gaar)
 Cancelled postage stamp — Tigidh tirtiran
-Capital baring interest — Korsocod raasamaal
+Capital bearing interest — Korsocod raasamaal
 Cash (cash office, cash -hours) — Naqad (xafiiska naqadka, saacadda naqadka)
 Cash on delivery (cod) — Naqad dhiibid
 Certificate (request for an issue of a copy of) — Naqal shahaado dalab naqal
@@ -376,7 +376,6 @@ Contents, not admitted — kujireen
 Correction A/C holder — Kujireen dafiran
 Correction of address — Sixidda xisaab hayeha
 Correspondence delivery by private — Rug sixid
-Counter - orders instructions (given by senders or Geynta waraaqaha gaarka ah addressees) — Tifaf-tirka fursada, ujeedo (bixinta diraha ama
 Country (of origin, forwarding) — ruglaha)
 Cover, wrapping, packing Dal (asli, — gudbiye)
 Credit — Dahaar, xirxir, raseyn
@@ -385,8 +384,6 @@ Credit confirmation of, correction of — Xisaab ggashi (caadi, gaar)
 Current and personal correspondence — Gashi (sugan, saxan)
 Customs — examination Isu socodka xaashiyaha joogtada ah
 Customs fee (fiscal, fixed, not postal) — Baaridda furdada
-Cashuur — furdadeed (cashuur la’ booseed, cashuur
-Customs Office — sanad…go’an)
 Customs post office — Xafiiska furdada
 Customs reconditioning charges — Boosta furdada
 Customs, clearance Dib u — hagaajinta cashuurta
@@ -398,7 +395,6 @@ Declaration — Taariikhda tigidhka
 Declaration of contents of custom's value — Caddayn
 Declared value — Caddeynta alaabta furdad qiimaynta
 Delayed — Qiime caddeysan
-Delegation of collection Hakad raagsin (to) Deliver (to the address - only in person) Ergada uruurinta (to) — Deliver to the addressee, in manu propria Ugeynta rugle keliya
 Denomination (of pounds of money orders) — Rug geyn
 Department — Qiima dhac/ gini, xawaalad
 Deposit — Qayb
@@ -406,16 +402,15 @@ Deposit into current account — Kayd
 Destination — Xisaab socota kordhinteeda
 Destination Office — Rug
 Disagreement (in credit, in heading etc.) — Xaafis hoyaatin
-Dispatch (air mail- reign - ordinary) — Isdhaaf gashi (isdiidid xisaabeed)
+Dispatch (air mail- foreign - ordinary) — Isdhaaf gashi (isdiidid xisaabeed)
 Dispatch note Dirid — dhanbaal dayuuradeed (debedda, caadi)
 Dispatched sending — Ogeysiinta diridda
 Dispatching of telegram — Dirniin
 Documentation — Taar dirid
-Domicille, care of (c/o) — Dhigmo
+Domicile, care of (c/o) — Dhigmo
 Dry seal — Deggenaa, laga helo = c/o =l/h
 Duplication charge — Kharash naqal
 Duplicato (request, issue, delivery of) — Xanjada adag
-Endorsement (of money orders of postal cheques, Naqal, codsasho (-siin, -geyn) etc.) — Sumadeynta (xawaaladda jeegga boosta, imw)
 Envelope ( in an open — envelope)
 Error (in heading in operation) — Buqshad (buqshad furan)
 Exempt from customs duty Gefka — xisaab maamulka
@@ -495,14 +490,11 @@ Passport — Tilmaanta xirmada
 Payment (to the place address, at sight etc.) — Baasboorte
 Period of validity — Lacagsiinta (rugle, lacag gacan u saar)
 Period, time of … Muddo — tayookideed
-Personal correspondence (airmail, foreign ordinary Waqti, goor etc.) — Isu socod waraaqa gaara (dhanbaal dayuuradeed,
-Personal identity — payers supporting evidence debadeed, caadi, imw)
 Personal particular, (to state one's ) — Warqad muujin markhaatiyeed
 Philatelic counter — Sheegidda tilmaanta qofka
 Philatelic Office Farsad muun — tigidh
 Philately — Xafiiska muunad tigidh
 Picture postcard Muunad — tigidh
-Pigeon holes rack Sawirjaafiga boostada (to) — Post a letter - Posting God xaashadeed
 Post Office — Xaashad dirid
 Post office — box Xafiis boosto
 Post saving bank — Sanduuqa boosta
@@ -514,7 +506,6 @@ Postage- stamp catalogue — ?Kharash naqal/ka dhaafiidda cashuur booseedda
 Postage stamps — sheet Abwaanka tigidhaha
 Postal — Xaashadda tigidhaha
 Postal delivery Officer — Boostad
-Postal money order (ord. Fixed, *denominternation, Sarkaalka xafiiska geynta domestic, international) — Xawaalad booseed (caadi, go’aan, gudaha caalami)
 Postal — operation
 Postal parcel (ordinary, express, urgent, insured) — Maamulka boosta
 Postal saving — booklet Xirmo boosto (caadi, warfin, dhakhso, caymaysan)
@@ -547,7 +538,6 @@ Reimbursement (in full, on account ) — Dhigniin (cashuur ballaneed go’an)
 Reply - paid postcard — Dhamaan (celin, xisaab u celin)
 Reply paid coupon — Xaashi jaafiya ee jawaab celina
 Request (for withdrawal, for reimbursement) — Rasiidka jawaab celinta
-Request of cancellation (or modification of the Codsasho (ka noqod, u celin) amount of the cheque) — Codsasho jeegtir (beddelka xisaabta jeegga)
 Residual — credit
 Retransmission — Haraaga gashiga
 Retransmission by means of punched tape Dib u — dirid
@@ -567,24 +557,19 @@ Size (limits — of)
 Small parcel with declared — Toox xadka
 Small postal parcel — Xirmo caddaysan
 Special delivery — Xirmo boosto yar
-Stamped paper of ... lires Geyn — gaara (to)State one's personal identity Warqad tigidhsan oo… liire
 Stolen, thief — ?jabe’
 Storage charges La — xaday tuugo
 Subject: of a postage stamp — Kharashka bakhaarka
 Surcharge — Daarid
 Switching (switchboard) — Korsocod
-Telegram (ordinary, express, urgent, priority, top Daarid priority letter) — Taar (caadi, warfin, dhaqso, xiin, xaashad)
 Telegram sent by — telephone
 Telegraph boy — Taar telefoon
 Telegraph Office — Taarwade
-Telegraphic money order ( international, domestic Xafiiska taarka ord. urgent ) — Xawaalad taar (caalami, gudaha, caadi dhakhsa)
 Telephone — call
 Telephone call ( private, urgent) — Wicidda telefoonka
 Telephone call local Wicidda — telefoonka (gaar, degdeg)
 Telephone call telegraphs — Telefoon wicidda gudaha
 Telephone — exchange Taarka telefoon wicidda
-Telephone service (local, long distance, Beddelaadda telefoonka international, European) — Hawsha telefoonka (gudaha durugsan, caalanka iyo
-Telex service (private public) — yurub)
 Temporary Post Office — Hawsha telexka
 Termination — Boos ku meelgaar
 Time - table (post office hours, cash hours, window Ebyoonid hours) — Looxa hawl qeexa (saacadda xafiiska boosta,
@@ -796,7 +781,7 @@ Audience — Dhegaystayaal, is-arag
 Bibliography — Qofkahadal, biyogarafiya
 Biography — Buugagsheeg
 Celebration — Dabbaaldeeg damashaad
-Charge d' — Affaires Siihayaha safaaradda
+Charge d'Affaires — Siihayaha safaaradda
 Chart — Haashi, kar
 Charter — Kiraysi, ballan dhigan
 Circular Note — Afti fafsan
@@ -852,7 +837,7 @@ Lunch — Qado
 Message — Farriin
 Mission — Ergo, wafdi
 National Anthem — Heesta ummada
-National — Day Maalinta ummada
+National Day — Maalinta ummada
 Neo-Colonialism — Gumeysi
 Non-Resident Ambassador — Safiir aan fadhiyin
 Note verbale — Afti
@@ -1018,7 +1003,7 @@ Hook — Kullab, soo qabato
 Horse power HP — Xoog faras XF
 Ignition, lighting starting — Shidisìd, daarin, kicin
 Illuminative — Dhalaale, iftiime
-In put — Gudagelin
+Input — Gudagelin
 Income (receipts, earnings, etc.) — Rassidh, xoogsi, dheef galaw
 Industry — Sancada
 Infrastructure — Idhillaac
@@ -1105,8 +1090,8 @@ To block — Cabbur
 To conduct — Wade’
 To connect - to coupling Isku — xiriirin
 To crank — Wareejin
-To — excite Cabsiin
-To — feed Dheefin
+To excite — Cabsiin
+To feed — Dheefin
 To give in charge Ku — hallayn
 To grin a — tool Soofayn
 To heighten Kor — udhig
@@ -1114,7 +1099,7 @@ To light — Daarid
 To light, to raise — Taagid
 To lengthen — Dheereysiin
 To lower the power factor — Dhimidda tamarlaha
-To — sharpen Afayn, fiiqid
+To sharpen — Afayn, fiiqid
 To Switch off — Demi
 To widen, to — extend Baaris, fidin
 Trade marks, patent, and design — Xarar, sumad ganacsi, ruqsad
@@ -1217,7 +1202,7 @@ Calculator — Quruurixiye
 Caliber — Dalool, karti
 Caliper — Jurmiqiyaas
 Cam — Waalxoqe
-Cam — shaft Waalwade
+Cam shaft — Waalwade
 Capacity Mug, — safdhig
 Carpenter — Niiaar, faaryame
 Cartography — kartoograafi
@@ -1686,7 +1671,7 @@ Sprayer — Buufiye
 Sprayers (for paint) — Makiinada buufisha
 Spring — Gariirad
 Staff — Qori cabbir
-Stainless — steel Mirirdiid
+Stainless steel — Mirirdiid
 Stand — Hoosdhig
 Stand by — Diyaar ahaan
 Starter Kiciye, dare, — selef
@@ -1799,15 +1784,15 @@ Wood preservatives (general) — Aboorceliye
 Wood working Machinist — Qori dhambale
 Wooden handles — Daah
 Workshop — Waabshaqo
-*angle dozer eliminato (pag. — 5)
-* Tergue modificato in Number (pag. 14, — n°376)
-Wasaraadda — Gaadiidka
+
+## Wasaaradda Gaadiidka
+
 Acceleration Hanka — degdegsiinyo
 Acetylene — Ajetliin
 Adjustable storage bins Rako — yaryar
 Air brake — Joojiye neefeed qaboojis dabayleed
-Air — cooled are welder Makiinad laxamadeed
-Air — cooling Qaboojis dabayleed
+Air-cooled arc welder — Makiinad laxamadeed
+Air cooling — Qaboojis dabayleed
 Air coupler — Neef cadaadis dhime
 Air dispensing hose nozzle with pressure gauge Tuubo, — dhuun neefeed iyo qiyaseed
 Aluminum and aluminum alloy welding — flux Budo laxaamadeedda bir ciidedda iyo jaandiga
@@ -1819,7 +1804,7 @@ Blow gun Buufimo — dhuumeed
 Bolt and nut hold all Rakada — qadobada iyo dhuujiyeyaasha
 Brake adjustment — Hagaajin joojiye
 Brake horse power — Joojiye laxaadfaras
-Brass and — cooper welding flux Budo laxaamadeedda bir ciideedda iyo maarta
+Brass and — copper welding flux Budo laxaamadeedda bir ciideedda iyo maarta
 Bronze welding rods — Maar
 Cast iron and high carbon — steel welding flux Budo laxaamadeedda bir ciideedda iyo birlab saare
 Cast iron and high cast and nickel — steel welding flux Budo laxaamadeedda bir ciideedda iyo bir cadka
@@ -2098,7 +2083,6 @@ Troops — Askar
 Two pace — forward Tallabo dib soco
 Unload Ka — qub
 Who is there — Waa kuma
-*sinis (n° 49) move (?) *darade (n° 32) —  keep alert
 1° pezzo di un colpo di fuoco Madfac — kowaad, xabbad rid
 A pressione — Cadaadin
 A strappo — Jillaabid
@@ -2492,11 +2476,6 @@ Washer — Lingax
 Wheel drum — Daalle, habaas celiye
 Wire — Silig
 Zero line — Jaho
-*barche pneumatiche di gomma  — gommone
-*destromd un carro sinistra (n°250) —  girare un carro a sinistra (u leexi= girare)
-*glutch (n°130) clutch — (debci=allentare)
-*grancase (n°176) — qabaalka= abbeveratoio, vasca per lavare i panni, vasca da bagno
-*antipersonale (n° 291) mina — antiuomo
 
 ## Wasaaradda Garsoorka iyo Diinta
 
@@ -2531,7 +2510,6 @@ Grazia (Bixis, bixin) — Cafi
 Giuramento — Dhaar
 Immobili — Maguuraan
 Incidente — Dhiillo Musiibo
-Infermità — Waalli lngiuria Cay
 Legittimo — Lahaansho, bud dhigid
 Legge — Xeer, Sharci
 Liberazione Deysmo, — furid
@@ -2797,7 +2775,7 @@ Calendar — Taariikhays
 Campaigning Halgan, — oogsi
 Case Arrin, — dacwad
 Cash balance certificate Maragga — xisaabsimidda
-Cash — book Buugga lacagta
+Cash book — Buugga lacagta
 Casual labor — Shaqo marmar ah
 Category — Qayb
 Changing situation — Isbeddelka waqtiiga
@@ -2833,7 +2811,7 @@ Crime — Dembi
 Criminal — Dembilow
 Culture Hiddo, — dhaqaan
 Curative measure — Cudur-bajin
-Curriculum Vitae — Nalolwarran
+Curriculum Vitae — Nololwarran
 Date — Taariikh
 Declaration — Ku-dhawaaqid, caddayn
 Decoration Bilid, — billad-siin
@@ -3034,7 +3012,7 @@ Scale — Mashruuc
 Scheme — Jilid
 Scholarship — Tawraddiid
 Search — Ereg-shaqayn, dulsaar
-Secendment (? Leech?) — Sir
+Secondment — Sir
 Secret — Xubin
 Section — Ammaan, nabad-gelyo, dammaanad
 Security — Xulasho
@@ -3098,7 +3076,6 @@ Vocational — school Maal-hur ama maal hurid
 Voluntary contribution — Xoog-hur ama xoog hurid
 Voluntary labour — Maamulka is hurka
 Voluntary organization — Qaybsanaanta buugga xisaabta
-Vote — book partitionis entrata uscita Diiwaanka- dhamballada
 Voucher — Sahay, jicsin
 Way bill — Hub
 Weapon — Maarkhaati, marag
@@ -3234,7 +3211,7 @@ Isolation — Takoor
 Jaundice — Cagaarshow, indhacaseeye
 Laboratory — Shaybaar
 Laboratory technician — Saanaca shaybar
-Larvacidem — Lullumadile
+Larvicide — Lullumadile
 Leprosy Baras, — juudan
 M.C.H. center — Golaha xannanada hooyada iyo dhallanka
 Mackintosh — Dhaaraan
@@ -3286,7 +3263,7 @@ Physiotherapy — Jimcis
 Plasma — Carun
 Plasma transfusion — Carukushub
 Plaster — Dhegto
-Plaster of pairs — Kabay
+Plaster of Paris — Kabay
 Pneumonia — Karjeex, wareento
 Positive — Qabe
 Pot — Dheri
@@ -3504,7 +3481,6 @@ Somali Table – Tennis Association Ururka — Soomaaliyeed oo kubbadda miiska
 Somali Tennis Amateur Association Ururka — Soomaaliyeed oo ciyaaryahanka taanishaka
 Somali Volleyball Federation — Xiriirka Soomaaliyeed oo kubbadda gacanta
 Spikes Kabo — tartan
-Spooning sticky-rests in hand – — scooping Kubbad-luudis
 Spring board diving — Qori-muquur
 Sprints-races — Fagax, dhababaco
 Stagger — Dalanbaabi
@@ -3583,7 +3559,7 @@ Calculating Machine — Makiinadda xisaabta
 Caloric — Kaloorig
 Capital Gumaro, — madax xoolo ah, xarun
 Capital Account — Xisaabta socota
-Capital — Budget Miisaaniyadda saldhigga ah
+Capital Budget — Miisaaniyadda saldhigga ah
 Cartography — Maam-aqoon
 Catalogue — Buugga hanuuninta
 Census — Tirada dadka iyo xoolaha
@@ -3698,7 +3674,7 @@ Macro - economics — Dhaqaale-guud
 Manpower Assessment Intiho — ciidan
 Manpower — Requirement Baahi ciidan
 Marital status - Guur; — guri - Jahaan
-Maritime — Traffic Saqaafe-badeed
+Maritime Traffic — Saqaafe-badeed
 Marketable Surplus — Dheeraad iib-gal ah
 Material Incentive — Callaalid
 Maximum — Ugu-badnaan
@@ -3733,7 +3709,7 @@ Objective both senses — Ujeeddo, abballin, il-fayow ku eegidda
 Occupation - — Xirfo
 Odd and even Number Kisi — iyo dhaban, tiro dhiman iyo tiro buuxda
 Omission — Dhaafid
-Ordinary — Budget Miisaniyadda caadiga ah
+Ordinary Budget — Miisaniyadda caadiga ah
 Output — Soo saarid
 Party Isu — dhigan, xisbi
 Per Capita — Madaxiiba. Qofkiiba
@@ -3843,14 +3819,13 @@ Annual Board survey Guddiga — kormeeridda Sanadguurada
 Asset — Hanti
 Audit — Dhabiil
 Balance - — sheet Xaashida foontuska
-Bill of landing — Qorka soo - dejinta
+Bill of lading — Qorka soo - dejinta
 Bonus Hawlid, — abaal - gud
-Budget classification Laòa gurka — miisaaniyadda
 Budgeting — Miisaaniyad - dhig
 Budgeting and treasury Debt — Laanta miisaaniyadda iyo khasnaadda
 Capital Investment — Maal-gelin
-Capital — Outlay Maal-muujin
-Cash — book Diiwaanka lacagta cad
+Capital Outlay — Maal-muujin
+Cash book — Diiwaanka lacagta cad
 Cashier — Lacaghaye
 Charge Ku - gad, — qiime
 Charge (landing or shipping) — Qor-lacageed, hawl
@@ -3890,7 +3865,7 @@ Deposit — Curaar
 Deposit Account — Xisaab curaara
 Detention — Qabsasho
 Devaluation — Qiime-dhac
-Development — Budget Miisaaniyadda horumarinta
+Development Budget — Miisaaniyadda horumarinta
 Development levy — Xisaabta horumarinta
 Direct — Tax Cashuur toos-u-qaad
 Duty — Cashuur
@@ -3949,7 +3924,7 @@ Monopoly — Keli-cun
 Mortgage — Rahmaad
 Mortgage — fee Xisaabta rahmaadda
 Net — Xaasil
-Ordinary — Budget Miisaaniyadda caadiga ah
+Ordinary Budget — Miisaaniyadda caadiga ah
 Outstanding bill — Kharash - taagan
 Over - — Expenditure Kharash - dhaafin
 Over collection — Dheeraad cashuur
@@ -4132,7 +4107,7 @@ Well - logging — Ceel-qiyaas
 Academic year Sano-dugsi, sano-cilmi, sano — waxbarasho
 Adviser La — taliye
 Agriculture — Beero
-Art and — Craft Farsamo iyo canco
+Art and Craft — Farsamo iyo canco
 Book — Buug
 Central Inspection — Kormeeridda guud
 Counsellor La — taliye
@@ -4140,7 +4115,7 @@ Culture — Dhaqan, hiddo
 Curriculum — Manhaj
 Degree Kolej, — shahaada-mufti , muftinnimo
 Department — Qayb
-Documentation Centre — Rugta qoeaal qaydinta
+Documentation Centre — Rugta qoraal qaydinta
 Duplicating paper — Xaashida qoraal badinta
 Education Statistics — Natiijo-aqoonta waxbarashada
 Education Stores — Guriga kaydka waxbarashada
@@ -4164,7 +4139,7 @@ Koranic — Schools Malcaamad, dugsi quraan
 Language Commission Guddiga — afka
 Library, Librarian — Guriga buug-kaydinta, laybrari, laybrari-haye
 Literature — Murti
-Museum — Guriga hiddaha, matfax
+Museum — Guriga hiddaha, matxaf
 National University Jamacadda — dalka
 Orphanage — Rugta agoonta
 P.T. Tababbarka — jidka
@@ -4197,7 +4172,7 @@ Vocation — Fasax
 Voucher — Xaashida lacag bixinta
 Women Education — Waxbarashada haweenka
 
-## Wasaaradda Wararka yo Hanuuninta Dadweynaha
+## Wasaaradda Wararka iyo Hanuuninta Dadweynaha
 
 Abortion — Dhicis
 Abortive — Dhicis
@@ -4371,7 +4346,7 @@ Status — quo Sidaas
 Stenography — Qorsi-koob
 Strategic — Hab-dagaal
 Strike — Hawl-diid
-Sufferage — Horayn
+Suffrage — Horayn
 Surveying — Sahaamin
 Symbol Muunad, — mudan
 Symposium — Kulan-cilmi

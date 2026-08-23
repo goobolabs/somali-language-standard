@@ -1,126 +1,573 @@
 # Hal-Karaan
 
-## Hibeyn
-
-Waxaan Diiwaankan Hal-karaan u hibeynaya gaar ahaan shacbiga
-| Soomaaliyeed ee dagaalka negaadi la’aaneed kula jira taliska diktaatoo-
-' riga ah ee dalka ka dhisan, ee ku foogan dib u soo noolaynta,
-| midnimmadooda, xorriyaddooda iyo maamuskooda dadnimo.
-| Waxaan weliba si gaar ah ugu hibeynayaa daabacaadda diiwaankan
-halgamaaga u ban-baxay xoraynta ummadeed, shahiid iyo nooleba ee
-nafahooda u huray dhiiggoodiina u hibeeyey qaddiyadda sees u dhigidda
-nolol aayatiin leh oo u qalanta aadamiga.
-Aniga oo ku hadlayaa magaca jabhadihii hoggaaminayey halganka
-Soomaaliyeed gaar ahaan, iyo ummadda Soomaaliyeed quud ahaan,
-ayaan Diiwaankan u hibaynayaa dadka sokeeyaha ah ee ku dhaqan
-Dalkaas Ethiopia iyo dawladihii u kala danbeyyey, tii hore tyo ta maanta
-jirta labadaba. Waxaan dalkaas iyo dadkaas uga mehadnagayaa sidii ay
-ugu hagar-baxeen halganka Soomaaliyeed, isula barbar taageen hiil iyo
-hoo iyo sida ay ula naf qaybsadeen Welina ula naf qaybsanayaan scacbiga
-Soomaaliyeed iyo sida au weli ugu hagar la’ yihiin danaha iyo wanaagga
-ummadda Soomaaliyeed. Waxan iyana Diiwaankan u hibaynayaa
-shacabka dalkaas aanu walaalaha nahay ee Eriteria oo dhowaan ku
-guulaystey gobanimadoodii ka dib markay 30sannadood oo dhow dhow
-naf iyo maalba u hureen.
-Waxaan diiwaankan guud ahaan u hibeynayaa shucuubta aduunka ee
-xaqooda u dagaallamaysa ama dadnimada, dimuqraaddiyadda, xasil-
-looni nabadeed iyo xuquuqal insaanka hiilka u ah.
-- Curiyaha
-
 ## Waa kuma Hadraawi?
+Maxamed Ibraahim (Hadraawi), waa hal-abuur maanseedi; mudh-baxay, oo dabuubta maansadiisa kala soo dhex baxay dhudhubo shareeran iyo dhadhaabo shuban dhexdood. Maansadiisu waa dawan, baaq iyo qaylo-dhaan badheedhay xilli argagixiso tii ugu darayd taagantahay. oo aqoontii cilmiyeed, iyo kartidii hal-abuurnimo galoofowdey, afkuna yeedha gabay.
 
-Maxamed Ibraahim (Hadraawi), waa hal-abuur maanseed; mudh-baxay,
-; oo dabuubta maansadiisa kala soo dhex baxay dhudhubo shareeran iyo
-OAYRT 4 dhadhaabo shuban dhexdood. Maansadiisu waa dawan, baaq iyo
-Teawil ADDEX 44 D . qaylo-dhaan badheedhay xilli argagixiso tii ugu darayd taagantahay. oo
-| meWIO agoontii cilmiyeed, iyo kartidii hal-abuurnimo galoofowdey, afkuna
-| Kalamaan yeedha gabay.
-Bara Baraale Waa iftiin xilliga mugdigu sina u damin kari waayey iyo astaan, runtii, lagu
-Daalacan tilmaansan karo yoolka hirashada ummadnimada iyo aayaha dadnimada
-Dha ie ee ku jira duunka hoose ee dadka Soomaaliyeed, oon marna dhimanaynin,
-| R Ih si kasta oo uu u weyn yahay nabarka ku dhacay iyo dhaawaca gaadhay.
-ved Wuxuu ku dhashay miyiga Degmada Burco, Gobolka Togdheer,
-Qudur 0 } Woqooyiga Soomaaliya hilaadii 1943; halkaas oo uu ku ababay sanadihii
-(alaal ; hore ee caruurnimadiisa, isla sanadahaas oo ay xijaabatey hooyaddiis
-Fido Kaaka Jaamac Buux, ka dibna adeerkii Axmed Warsawa Sictid (Niibsan)
-ae ayaa loogu geeyay magaaladas Cadan (Yemen) aayooyinkti Caasha
-Dhalaalimo ; Maxamed Xasan iyo Shamis Xasan Nuur Qaaje aya halkii hooyadiiu galay.
-Wari Wax barashadiisii asaasiga ahayd ilaa dugsiga sare wuxuu ku qaatay
-fp alan-gal Dugsigit Baadariga Cadmeed ee wakhtigaa la odhan jirey (St. Anthony's
-D beat High School.1956 - 1964)
-. ; ji ik Be Isla Cadan ayuu kaga shaqeeyey macallinimo muddo laba sanadood ah.
-Gabadh Maaon i 1967 ayuu Cadan ka guurey una kicitimay Soomaaliya. Waxa uu degey
-Heelivo } Mugqdisho. Halkaas ayuu ka bilaabay shaqadti ugu horeysey Wasaarada
-Jiitama Warfaafinta 1969kii, kumase raagin. 1971 kii ayuu shagadii ugu horeysey
-S ee rasmiga ahayd ka qabtay Wasaarada waxbarashada, isagoo macallin
-BAAD f ka noqday Dugsi Hoose, Dhexe, Sare 00 ku Dhexyaalley Dugsiga Hoyga
-QAYBIA AF , Nolosha ee Lafoole (Afgooye), isla wakhtigaas oo uu ku qaadanayey |
-Isa Sudhan daraasada tababarka macallinimada machadkii Macallinimada ee
-SE is * Lafoole (N.T.E.C).
-pitadh gal i Kartidiisa hal-abuurnimo markit u gu horeysey waxay SOO shaac baxday
-ee f intii aanu Cadan ka tegin. 1966kii ayuu curiyey soona ban-dhigay
-Gol Jann fi Riwaayadii la magac baxday "HADIMO”. Ha yeeshe wuxuu Si fiican u
-Cirid Nolosnd doob dillaacsaday maansadiisuna caan baxday intuu u soo wareegey
- alallei Soomaaliya, gaar ahaana, intii ku sinayd 1970 nadti 00 ay soo shaac
-Dus ef baxeen heesaha tirada badan ee aadna u soo jiitey dareenka dadka, Wuxu
-Ga noqday nin suugaantiisu si gaar ah u taallo, si goonni ahna cid waliba u
-noo dhadhansato, had iyo jeerna dadka ka dhex dhalisa olole dood iyo muran
-> ah. Waxa la soo qaadan karaa Riwaayaddii "Aqoon tyoA fgarad” oo ay ku
-la jireen Saaxiibadiis Maxamed Xaashi Dhamac (Gaariye) Siciid Saalax
-Axmed, Muuse Cabdi Cilmi iyo silsiladii maansadii ’Siinley” tyo
-ON ,
+Waa iftiin xilliga mugdigu sina u damin kari waayey iyo astaan, runtii, lagu tilmaansan karo yoolka hirashada ummadnimada iyo aayaha dadnimada ee ku jira duunka hoose ee dadka Soomaaliyeed, oon marna dhimanaynin, si kasta oo uu u weyn yahay nabarka ku dhacay iyo dhaawaca gaadhay.
 
-Riwaayaddii "Tawaawac” ee ay ku jireen heesaha ay ka mid ahaayeen ’ ' SF
-"Hal la Qalay iyo Ceel Walwaaleed”. ¢ ?
-Suugaantiisu waxay nogotay tu si gaar ahaaneed uga nixisa 00 uga f ip 7
-cabsiisa xukunka keli talinta ah, sidaas darteed, ayaa hay'adaha Ot
-cadaadiska iyo cabbudhintu u daba taagnaayeen. Ka dib silsilad- Pull 4
-maanseeddii ’Siinley” iyo Riwaayadii "Tawaawac” iyo sababo kale oo , rh
+Wuxuu ku dhashay miyiga Degmada Burco, Gobolka Togdheer, Woqooyiga Soomaaliya hilaadii 1943; halkaas oo uu ku ababay sanadihii hore ee caruurnimadiisa, isla sanadahaas oo ay xijaabatey hooyaddiis Kaaka Jaamac Buux, ka dibna adeerkii Axmed Warsawa Siciid (Niibsan) ayaa loogu geeyay magaaladas Cadan (Yemen) aayooyinkii Caasha Maxamed Xasan iyo Shamis Xasan Nuur Qaaje aya halkii hooyadii u galay. Wax barashadiisii asaasiga ahayd ilaa dugsiga sare wuxuu ku qaatay Dugsiga Baadariga Cadmeed ee wakhtigaa la odhan jirey (St. Anthony's High School. 1956 - 1964)
 
-| maansooyinkiisa laxidhtidha ayaa 11kii Noofambar ee 1973kii loo fb “f
+Isla Cadan ayuu kaga shaqeeyey macallinimo muddo laba sanadood ah. 1967 ayuu Cadan ka guurey una kicitimay Soomaaliya. Waxa uu degey Muqdisho. Halkaas ayuu ka bilaabay shaqadii ugu horeysey Wasaarada Warfaafinta 1969kii, kumase raagin. 1971kii ayuu shaqadii ugu horeysey ee rasmiga ahayd ka qabtay Wasaarada waxbarashada, isagoo macallin ka noqday Dugsi Hoose, Dhexe, Sare oo ku Dhexyaalley Dugsiga Hoyga Nolosha ee Lafoole (Afgooye), isla wakhtigaas oo uu ku qaadanayey daraasada tababarka macallinimada machadkii Macallinimada ee Lafoole (N.T.E.C).
 
-| taxaabay xabsiga, waxaa la geeyey Qansax-dheere (Gobolka Bay) o uu ku —_—
-xidhnaa ilaa 9kii Abril ee 1978. es e
-Wakhtigaas ka dib, ilaa bilowgii 1982kii, wuxuu Akadamiyada Cilmiga, a c.
-Fanka iyo Suugaanta ka ahaa Agaasimaha Waaxda Fanka; isla markaana dn
-wuxuu madaxa hore kaga jirey raggii mayalka u qabtay ee hoggaaminayey <<)
-Silsilad-maanseeddti caanbaxday ee "Deelley”, kana qaraxday dalka ie
-horraantii sannadkii 1980kii. ss |
-I dit May 1982kii ayuu tegey goobaha uu ka socdey halganka Mucaaradka nae
-hubaysani, wuxuuna ku biiray Uruka Dhaqdhaqaaqa Waddaniga eos
-Soomaaliyeed (SNM). Wuxuu halkaas ka galay halgan siyaasadeed, rad
+Kartidiisa hal-abuurnimo markii ugu horeysey waxay soo shaac baxday intii aanu Cadan ka tegin. 1966kii ayuu curiyey soona ban-dhigay Riwaayadii la magac baxday "HADIMO". Ha yeeshe wuxuu si fiican u doob dillaacsaday maansadiisuna caan baxday intuu u soo wareegey Soomaaliya, gaar ahaana, intii ku sinayd 1970 nadii oo ay soo shaac baxeen heesaha tirada badan ee aadna u soo jiitey dareenka dadka, Wuxu noqday nin suugaantiisu si gaar ah u taallo, si goonni ahna cid waliba u dhadhansato, had iyo jeerna dadka ka dhex dhalisa olole dood iyo muran ah. Waxa la soo qaadan karaa Riwaayaddii "Aqoon iyo Afgarad" oo ay ku la jireen Saaxiibadiis Maxamed Xaashi Dhamac (Gaariye) Siciid Saalax Axmed, Muuse Cabdi Cilmi iyo silsiladii maansadii "Siinley" iyo
 
-| suugaaneed oo weji waddaniya leh. pain a
-Ibraahim Sheek Muuse Wacays. pa
+Riwaayaddii "Tawaawac" ee ay ku jireen heesaha ay ka mid ahaayeen "Hal la Qalay iyo Ceel Walwaaleed".
+
+Suugaantiisu waxay noqotay tu si gaar ahaaneed uga nixisa oo uga cabsiisa xukunka keli talinta ah, sidaas darteed, ayaa hay'adaha cadaadiska iyo cabbudhintu u daba taagnaayeen. Ka dib silsilad-maanseeddii "Siinley" iyo Riwaayadii "Tawaawac" iyo sababo kale oo maansooyinkiisa laxidhiidha ayaa 11kii Noofambar ee 1973kii loo taxaabay xabsiga, waxaa la geeyey Qansax-dheere (Gobolka Bay) o uu ku xidhnaa ilaa 9kii Abril ee 1978.
+
+Wakhtigaas ka dib, ilaa bilowgii 1982kii, wuxuu Akadamiyada Cilmiga, Fanka iyo Suugaanta ka ahaa Agaasimaha Waaxda Fanka; isla markaana wuxuu madaxa hore kaga jirey raggii mayalka u qabtay ee hoggaaminayey Silsilad-maanseeddii caanbaxday ee "Deelley", kana qaraxday dalka horraantii sannadkii 1980kii.
+
+1dii May 1982kii ayuu tegey goobaha uu ka socdey halganka Mucaaradka hubaysani, wuxuuna ku biiray Uruka Dhaqdhaqaaqa Waddaniga Soomaaliyeed (SNM). Wuxuu halkaas ka galay halgan siyaasadeed, suugaaneed oo weji waddaniya leh.
+
+Ibraahim Sheek Muuse Wacays.
+
+Inkasta oo ay wax caadi ah tahay, in had iyo jeerba, qoraalka suugaaneed, lagu magac siiyo oo loo nisbeeyo ciddii curisay ee halabuurkiisa lahayd, haddana arrimuhu sida la moodayo ma aha.
+
+Waayo, hawl kastaaba waxay bisayl noqotaa ama lamahadiyaa marka natiijadeeda u danbaysaa soo gaadho ciddii loogu talagalay inay ku intifaacdo. Taas darteed, bilowgeeda ilaa midhkeeda u danbeeya, ma jirto hawl qofnaba keli u qabtaa ama hadduu qabtana qabyo beeshaa. Isaga oo aan innaba qof labaad gacanta u taagin. Iyada oo guud ahaanba sidaas ah, ayey ta diiwaan-maanseedkan ku saabsani ka xag jirtaa.
+
+Haddii uu magacaygu, hadda, diiwaankan dusha sare, kaga yaallo ama aan ahay ninkii curiyey maansooyinka ku daabacan, waxa aad ugu hawshooday oo wax badan oo tacab ah ku bixiyey, siyaalo kala duwanna gacan uga geystey dad badan oo aan midkoodna magaciisu dusha sare kaga daabacnayn, hase yeeshee, haddana aan hubo, in aan la'aantood, hawsha maansooyinkani sidun u bislaateen, kuna jirteen maanta, gacanta dadweynaha akhrisanaaya iyo cid kasta oo sideeda uga faa'iidaysanaysa.
+
+Sidaas darteed, waxa ugu yar ee ay mudan yihiin waa xusidda magacyadooda iyo kaalinta ruux waliba hawshan ka qaatay wadar iyo waaxid. Mahadaydu ha gaadho qofkii mudan.
+
+Ibraahim Xaaji Muuse (Wacays), run ahaan, gacanta uu ku leeyahay hawsha aad u culus ee gashay diiwaankan wax lagu qiimayn karo u dhigma lama heli karo. Runtii haddii aanu Wacays u guntan dhammanba hawsha daabacaadda, oo intaas oo jeer ku noqosho iyo dibu sixidba lahayd, haddii aanu isagu nafta dul dhigin, qormaynta, hormaynta iyo gebi ahaanba hoggaaminta hawshaas oo aanu hadh iyo habeenba u soo jeedin, isaga oo isla markaas, xagga caafimaadka ka dhibban oo xanuusanaya. Diiwaankan daabacani maanta gacanta kuma jireen, haddii aan Wacays oo kale u hagar bixin. Inkasta oo aanay ku filayn, waxaan kolleyba u celinayaa mahad aad iyo aad u ballaadhan.
+
+Waxaan si gaar ah isagana u xusayaa saaxiibkayga qaaliga ah ee Rashiid Sh. Cabdillaahi. Laga bilaabo maansada Daalacan, waa dhif tix aan tiriyo oo marka ugu horraysa ee aan soo ban-dhigo, aanu Rashiid ka mid ahayn dadka goob jooga ka ah. Mar kasta waa qofka ugu horreeya ee gol-dalooldada maansayda farta iigu fiiqa. Dhinaca kale, wuxuu Rashiid ka mid yahay infa aysi gaar ah u xiiso geliso, taas oo keenta in ay anigana igu dhiirri geliso curinta maansada. Rashiid waxa uu ka mid yahay raggii lahaa abaabulka, isku dubba ridka, iyo soo if bixinta diiwaankan. Rashiid si joogto ah ayuu u lafa-gura hal-abuurkayga, fidintiisana si weyn ayuu uga qayb qaata.
+
+Gogol-dhigga diiwaankan oo la odhan karo waa qoraal suugaaneed oo sidiisa u madax bannaan, waxa ku hawshooday Rashiid. Mahad ballaadhan baan u celinayaa.
+
+Waxaa isna mahad aan la koobi karin mudan Cali Jaamac Basaale (Guush) oo hawsha daabacaaddan Wacays ku weheliyey bilow ilaa dhammaad.
+
+Runtii, haddii aanay hawsha soo ururinta, kaydinta, qoraalka teebka iyo sii dhilidda diiwaankani helin gacanta uu muddo dheer ku hayey Cali Jaamac Basaale (Guush), maantana kama dambaysteedii aanu u maleegan, marnaba xaaladda adag ee uu hadda ku soo baxay diiwaankani, kuma soo bixi kareen. Wuxuu Cali Jaamac Basaale (Guush) isaguna iga mudanyahay mahadnaq aad iyo aad u ballaadhan.
+
+Iminka ma xasuusni, ereyo iyo wedho aan kaga abaal gudo xanuunka iyo hawlaha dad fara-badan ka qabsaday suura gelinta iyo soo saarista diiwaankan suugaaneed, waxase hubaal ah in Jaamac Cali Maxamed (Jaamac Weyne) oo sidiisaba ku caan baxay is-dirid iyo inuu daacad ka noqdo hawl kasta oo ummadeed oo uu qabanayo, ayaa diiwaankan u shiilay maanka iyo maskaxda, una amaahday wakhti iyo awood ka baxsan intii uu markaas karayey, ma jirto karti iyo dadaal uu Jaamac Cali Maxamed kala hadhay daabacaada diiwaankan mana suura gasheen indiiwaankani meel maro, haddii aanu Jaamac ku nuux nuuxsan oo aanu duldhigin aqoon, sabir iyo farsamo sida ragga kor ku xusan, Ibraahim Sheekh Muse Wacays, Rashiid Sheekh Cabdillaahi iyo Cali Jaamac Basaale (Guush).
+
+Ma illaawin mana illaawi karo Xaliimo Cali Maxamed oo Hawsha aan ka sheekeeyey, Jaamac ku lammaanayd ama laba ku ahayd.
+
+Waxaan si gaar ah u xusayaa Cabdi Jaamac Cawad (Faysal), oo dedaal xad-dhaaf ah, iyo xusul-duub hagar-la'aan ah ka geystey qabanqaabaddii iyo daabacaaddii diiwaankan. Waxaan hubaa haddii aanu Faysal sidaas ugu hawl gelin, danihiisana ku daayicin inaanu diiwaankani soo baxeen, Sidaa awgeed, mahadnaq gaar ah oo ma guuraan ah ayaan u hibeynayaa Cabdi Jaamac Cawad iyo marwadiisa Fadumo Maxamed Xasan Xuseen.
+
+Waxaa kale oo aanan kaalintii uu lahaa illaawi karin, Ibraahim Axmed Warsame (Toyota). Ibraahim waa ninkii maansooyikan markii ugu horreysey ku bilaabay diiwaan gelin uu gacantiisa ku qoray kuna dhammeeyey, taasoo saldhig u ah duug hadhka maansadan. Mahad ayaan uga celinayaa xilkaas uu isa saaray.
+
+Raaqiya Cabdillaahi Oomaar oo ku xeel dheer, ku fadallo cad u doodidda xuquuqda aadmiga ayaa dadaalkeeda guud ahaaneed ku dartey inay diiwaankan dhaqaale lagu daabaco u yaboohiso. Qoraallo iyo xidhiidho farabadan, hawl aan la koobi karin oo hagar la'aneed ayay ku talax tagtay sida ay arrintaas u suura gelin lahayd. Taas oo ay Raaqiya si raganimo leh ugu guuleysatey. Raaqiya Cabdillaahi Oomaar iyo dhiggeedaba si weyn baan ugu mahad celinayaa.
+
+Waxaa iyana mahad iyo sharaf iga mudan Professor I. M. Lewis, The London School of Economics and Political Science. Professor B. W Andrzejewski, Institue of Cushitic Languages and Literature University of London iyo Professor Said S. Samatar, Rutgers University Newark, oo diiwaankan sidii loo daabici lahaa ku taageerey qoraallo xeel dheer oo dhiirri geliyey ciddii Diiwaankan daabacaaddiisa ka qayb qaadatay. Sidan horeba u sheegey cidda suura gelinta daabacaadda diiwaankan ka qaybqaadatay aad bay u fara badan yihiin. Waxa aan shaki lahayn haddii cid kasta oo gacan ka geystey ama ku hawshootay la xuso in la yaabi lahaa. Iyada oo aan sidaa la yeeli karayn, bal aan soo hadal qaado dhowr goobood iyo dhowr guuto.
+
+Waxa aan kasha iyo laabta uga mahad celinayaa dadka ku kala dhaqan dalalka:-
+
+1. Norway
+2. Jamhuuriyadda Jabuuti
+3. Sweden
+4. Denmark
+5. Ingiriiska(U.K)
+6. Ivory Coast
+7. Tunis
+
+Waxa mudnaan gaar ah leh Ururka Saaxibtinnimada Soomaalida iyo Noorwijiga (Den Norske Somaliakomiteen) oo uu hormood u yahay Baaderiga caanka ah Bishop Bjørn Bue.
+
+Hay'adda diiwaanka isku dubbaridkiisa iyo soo saariddiisa leh, waxay si xishmad leh ugu mahad naqaysaa Mudane Ismaaciil Cumar Geelle oo aan waxba kala hadhin suura gelinta iyo soo bixidda diiwaankan. Hay'addani waxay mar kale ku hambalyeynaysaa Mudane Ismaaciil sida uu had iyo jeer ugu hagar baxo faafinta iyo xoojinta fanka iyo suugaanta iyo sida uu gacan buuxda u siiyo adkaynta iyo taabagalka dhaqanka iyo hidaha guud ahaan. Ismaaciil iyo hay'adaha hoos yimaadaa waxay marar badan gacan buuxda ka geysteen diiwaanno kan ka horeeyey.
+
+Waxa aanu jecelnahay iyana in aanu u mahad naqno hay'adaha hoos yimaada Ismaaciil qaar ka mid ah sida:-
+
+Wasaaradda Warfaafinta iyo Guriga Ummadda ee Jabuuti guud ahaan iyo Maamulayaashooda, Ismaaciil Xuseen Taani, Cabdi Miiggane iyo dhammaan madaxda iyo hawlwadeennada hay'adahaas.
+
+Waxa aanu iyana aad ugu mahad naqanyaa hal-abuurada, hooballada iyo dhammaan shacabiga Jamhuuriyadda Jabuuti.
+
+Iyada oo aanan waraaq ku soo koobi karin dadkii gacanta ka geystey hawsha maansooyinkan bilowgoodii ilaa maanta oo ay buug ahaan udaabacantay, waxa qudha ee aan dadkaa u hidin karnaa ay tahay oo keliya magacyada in yar oo ka mid ah oo aan halkan ku xuso.
+
+Waxaan halkan ugu mahadnaqayaa saaxiibbada magacyadoodu hoos ku qoran yihiin oo gacan weyn ka geystey ilaalinta, ururinta, fidinta iyo daryeelida maansooyinkan, naftayada iyo noloshayada.
+
+1. Maxamed Maxmuud Warsame "Dhabaney"
+2. Axmed Maxamed Warsame "Jiinis"
+3. Maxamed Xaashi Dhamac "Gaariye"
+4. Maxamed Cabdillaahi Riiraash
+5. Antuwaan Faransuwaar
+6. Maxamed Xuseen Xasan
+7. Faarax Axmed Cali "Gamuute"
+8. Yaasiin Axmed X. Nuur "Yaasiin Dheere"
+9. Jaamac Cali Geelle
+10. Cali Aw Cusmaan Maxamed "Cali-Biid"
+11. Jaamac Maxamuud Xayd
+12. Cabdi Xuseen Gurraase
+13. Cabdulraxmaan Maxamed Maax
+14. Yaasiin Ducaale Cali
+15. Idris Xaaji Cismaan
+16. Maxamed Jaamac Noor "Blacke"
+17. Qaalib Cismaan Fadan
+18. Yoonis Cali Nuur
+19. Maxamed Ibraahim Bookh
+20. Maxamuud Cabdi Cali-Ducaale
+21. Maxamuud Cabdi Cali-Bayr
+22. Saleebaan Cali Bulaale
+23. Siciid Ismaciil Daahir
+24. Muuse Axmed Saxar
+25. Dr Cali Cabdiraxmaan
+26. Maxamuud Aadan Jaamac-Galaal
+27. Cabdikariin Faarax Qaarey
+28. Xasan Sabriye
+29. Maxamed Xasan "Great"
+30. Xasan Siciid Saalax iyo Marwadiisa Caasha Xasan Cali
+31. Cumar Siciid
+32. Muraad Xasan Boqore
+33. Siciid Faarax Maxamuud
+34. Saynab Maxamed Jaamac
+35. Yuusuf Cabdillaahi iyo Marwadiisa Saamiya Yuusuf Cali Sh. Madar
+36. Cumar Xasan Sheekeeye iyo Marwadiisa Faa'isa Axmed Maxamed Halac
+37. Deeqa Jaamac Jibriil
+38. Dr. Faadumo Sheekh Cali Jimcaale
+39. Rooda Maxamuud Ibraahim
+40. Fu'aad Binu Cabdulcasiis
+41. Axmed Cabaas Axmed
+42. Maxamed Daahir Afrax
+43. Xaaji Xasan Maygaag Samatar
+44. Faadumo X. Cumar Buraale
+45. Ubax X. Cumar Buraale
+46. Jaamac Cismaan Ismaaciil iyo Marwadiisa Aamina Jaamac.
+47. Xasan Guure Jaamac
+48. Samsam Cabdi
+49. Al Mujaahid Al Akbar Cabdul Raxmaan Aw Cali Faarax
+50. Cabdillahi Baaruud Cige
+51. Maxamed Jaamac Xujaale (Aabi)
+52. Xuseen Gaabane
+53. Cabdul Raxmaan Salaax Axmed (Lisaaye)
+54. Axmed Ismaaciil Aadan (Dhakaar)
+55. Mustafa Cabdillaahi Aadan
+
+Waxan si gaar ah ugu mahad naqaya saaxaiibkayga qaaliga ah Cali Cabdi Faarax iyo marwadiisa, Sahra Ibrahim Xirsi, Degmo, Nuur, Ibrahim iyo Ilwaad.
+
+Waxan iyana u mahad naqayaa Shacbiga, hal-abuurrada iyo Hooballada labada dal; Soomaaliya iyo Jamhuuriydda Jabuuti.
+
+## Hibeyn
+Muddo dheer oo ilaa tobaneeyo sano ah ayaan madaxa ku hayey oo aan runtii si kulul ugu taamayey inaan erey qoran ka idhaahdo maansada Hadraawi (Maxamed Ibrahim Warsame), kuna gudbiyo dareen iyo fikrad wixii ay maansadaasi igu dhalisay. Haddana, iyada oo sidaas ah marna ma qabyo-tirin qoraal tafa tiran mana tahlin wax dhaafsiisan qodobbo geli kara qormaynta guud (general outline), iyo fikrado koobkooban oo noqon kara keliya bar tilmaamo iyo tusmooyin xusuusta loo dhigo.
+
+Inkasta oo ay jireen sababo kale oo kolal iga dhex-gelayey igana shuqliyey, ha yeeshee waxaa ka badan taas, inta aan si uga gabargaaley ee aan hore ugu dhiirran waayey; waxaana dhacday mar kasta oo aan ku talo goosto ku dhaqaaqeeda in aan haddana dib uga soo waabto.
+
+Waxaa walaaca igu wacnaa dhowr rrimood oo ku lug leh xidhiidhka gaar ahaaned ee aan anigu qof ahaan muddo dheer la galay suugaanta Maxamed Ibrahim Warsame (Hadraawi), iyo wax yaalo kale oo labadaas weheliya.
+
+Tan hore waxaa weeye, baaxadda aad u ballaadhan ee suugaanta Hadraawi ay leedahay ee ma aha tirada maansooyinka ama dhererkooda iyo qoraallada kale ee weheliya. Meesha aan ka hadlayaa waa baaxadda murtida ku jirta iyo dulucda farriinteeda ama dhambaalka ay siddo iyo bilicda fannimo iyo sida loo qiimo siin karo dhismaheeda farshaxannimo iyo qiyaasta meeshay ka fadhiisan karto socodka suugaanta Soomaaliyeed; waxay ku soo kordhisey iyo kaalintay gudatay iwm.
+
+Runtii suugaanta Hadraawi waa bad weyn oo kale, mana le'eka tiradeeda kow iyo laba iyo wax la mid ah ee laga taataabtay. Bad weyntaas obocdeeda iyo caalamka jiifa nin sahamiyaa kuma talo-gelaayo ereyo kooban iyo weedho degdeg loo yidhi. Bad weynta Hadraawi iyo adduunka ballaadhan ee uurkeeda yaalla, waxaa qaadi kara oo lagu deyi karaa abwaag; iyana waxa ay u baahan yihiin wakhti dheer iyo u gacanbixid. Wakhti kooban iyo ereyo dhowr xaashiyood qaata markii ay noqotay, ayaan bad weynta ka soo maagey.
+
+Ta xigta ee ku saabsan aniga iyo maansada Hadraawi, waxaa weeye sida goonida ah, ee aan xidhiidhka ula lahaa, aniga iyo tiro yar oo aannu isku meel ka wada joogney maansadan. Waxa sifo gaar ah u yeelaya xidhiidhkaasi waa isaga oo ku dhisnaa, mar walba, iyo ilaa haddan aynu joognaba, isla joog iyo wada kulan toos ah. Si kale haddii loo yidhaahdana, waxa weeye, ma ahayn meesha aannu ku kulanno anigiyo tixda Hadraawi, "cajalada iyo rikoodhka" la gesho, iyo dhawaaqa laga maqlo oo qudha, wax qoraal ku yaal haba dambeeyee. Waxaan ka mid ahaa, muddo ka badan tobaneeyo sano, dhowr qof oo tix walba dhalashadeedii, sida ummulisada cid kasta oo kaleba uga gacan horraysa oo dibad bixinteeda gardaadisa.
+
+Maxay taasi leedahay ee noqon kara wax gaar ah oo dadka kale lagaga diwaanaado? Maxase u dheexeeya labada qof ee ku kala horreeyey maqalka ama akhriska tix-maanseed, oo labaduba si isku mid ah, uga bogteen, una dhuuxeen? Waa su'aal meesha ku jirta; jawaabteeduna waa tay u duurxulayso, oo runtii, marka ay intaas oo qudha tahay, labadaasi wax ay ku kala duwanaan karaan, dhexdooda kama muuqato. Sidaas darteed waa in aynu hoos ugu daadegno xidhiidhkaas gaar ahaaneed iyo saamayntiisa.
+
+Ta meesha ku jirtaa waa xaaladda xanuunka badan ee ku timid dhaqankii Soomaaliyeed guud ahaan, kana soo jeedda nidaamka keli taliska qofeed ee wax ku xukuma hab maamul argagixin ah, musuq iyo bah-gooyada reereed iyo qalaalaasaha dumiyeey dhismihii bulshada, ummadnimadeedii iyo gobanimadeedii dhinac kasta oo ay ahaydba.
+
+Ta xannuunka leh, ee halkan lagu soo qaadi karaa, waa himilooyinkii wacnaa ee ummadnimo loogu hiranayey, caqligii wax-garadka ahaa, aqoontii cilmiyeed iyo farsamo, hal-abuurinimadii fanka iyo midh dhalkeedii ba oo giddiba dabkoodii la bakhtiiyey. Dhinac kalena waa qiyamti dadnimo ee wacnayd iyo anshaxii bulsheed oo ba'ay. Waxaana ka dhashay inay qofka, siiba wax garadkii dadka iyo aqoontiisii, garashadiisii iyo hal abuurinimadiisii is-waayaan, isaga iyo wax qabadkiisiina kala baadiyoobaan.
+
+Muddo dheer bay maansadani aniga iyo rag kale dhaymo ay nooga ahayd waayaha cidhiidhyoon ee ku astaysan ceejinta caqliga iyo dareenka dadnimo. Waxay tix walba noo ahayd sidii dabar adag oo na laga furay, mugdi aannu uga baxnay iftiinka cadceedda iyo adduunkeeda ballaadhan. Runtii, tix walba maalinteeda waxay noo ahayd tu naga goysa waran nagu taagan.
+
+Sidaa darteed, ma laga yaabaa, waxa aan ka sheegaaba inu noqdo wax kasoo go'ay dareen xiise is-ahaaneed (subjective) oo qudha? Ma suurowdaa inay i jiidato xaqiiqdaasi, iyadoo layga sugayo abbaar ku fadhida caqli iyo ra'yi miisaaman oo cuskanaya majare hagaagsan, lafa-gur mawduuci ah iyo qiimayn isu-dheelli tiran?
+
+Ta u dambaysa ee aan kaga hadhaayo qodobkan afeefta ahi waa anigoo aan sheegan karin kartidii nin gaar ugu go'ay barashada iyo daraasadda aqoonta fanka iyo suugaanta; iskeedabana taydu tahay wax ka soo jeeda korodhsi hiwaayaddeed. Taas awgeed, waxaa madaxayga ku legdamaya ta lay tirinaayeey ee aan u badnaa ku hawshoodkeeda, taas oo ah wixii ku lug leh aqoonta bulshada iyo suugaanta. Shaki malaha oo way jirtaa meelo badan oo labadu ku kulmaan; aqonyahan cilmi bulsheedna wuu heli karaa wax badan oo uu ka yidhaahdo suugaanta Hadraawi, sidaas oo ay tahay haddana waxa ay taasi ka mid ahayd sababaha aan dib ugaga soo maagey.
+
+Waxay waddaba maanta iyo madbacadda ay maansadaasi gashay ee ay noqotay in ay ku gudubto qaab lagu reer gesho laguna faafiyo kii ugu habboonaa, waxay ila tahay geed aan ku xoqdo oo dambe iima hadhin, ee waa inaan wejiga ku diiraa. Sidaas darteed waxa keliya oo aynu is-weydiin karnaa hadda, waa abbaarta iyo mawduuca qodbbada, ka hadalka maansadan, dhinaca aynu kaga iman karno iyo wajahadda aynu ula kacayno iyo meesha gunaanadkeedu ku biya shubanayo.
+
+### I
+
+Waa caado dunida ka dhaxaysa in buugga loo yeelo hordhac loogu talo galo furaha irridaha laga gelayo buuggaas iyo murtida jiifta. Waxaa laga yaabaa inaan badiba qofku akhrisan, hor-dhaca buugga, haddii aan wax ku qasbaa jirin, sida raad-raac: sahamin cilmiyeed iyo wax la mid ah. Waxa dhici karta in qofku toos u guda galo mawduuca, isagoo leh, "waxa hordhacu iiga sheegayo buugga, sow aniguba kala ma soo bixi karo"! Waa run, oo badanaa hawraarta hordhaca buugga laga fishaa waa war ku saabsan mawduuca buuggaasi ka hadlayo iyo majaraha dersiddiisu raacayso iyo ujeeddada ay ku biyo-shubayso; haddii ay tahay diiwaan maanseedna abbaarta hordhaciisa laga filaa waa-(inkasta oo aanu jirin mawduuc qudha iyo ujeeddo keliya oo diiwaanku leeyahay) lafa-gur iyo falanqayn ku saabsan heerka hal-abuuridda maansooyinka, dhinac kastoo ay tahayba iyo qiimayntooda iwm. Dhab ahaanna il-dheerida iyo qotada aqoonta akhristuhu way u suura gelin kartaa inuu la soo baxo dulucda buugga, wax kasta oo hordhaca lagu soo urursheyba. Ha ahaate, kol uu mar danbe isha mariyana dedaalka hor-dhacu waa inuu akhristaha wax ku kordhiyo.
+
+Haddaba sidee ugu waxtar roon ee aynu u guda gallaa hor-dhaca diiwaanka maansada Hadraawi ee ina hor yaalla?
+
+Sida aynu horeba u nidhi suugaanta Hadraawi waa badweyn, aan dunida uurkeeda jiifta si fudud loogu babac dhigi karin lagagana warrami karin ereyo kooban. Waxaa raaca badweyntaas suugaaneed oo aan hore cidina obocdeeda ugu sahan tegin kuna deyin daraaso dhinac kastaba buuxda oo qabyo-tiran isuna dheelli tiran. Waxaa kale oo weheliya, iyada oo ay maqantahay daraasooyin, kuwaas oo kale ah, oo ku saabsan suugaanta Soomaaliyeed iyo heerarka taariikheed ee ay soo martay iyo guud ahaanba taqaafadda, dhaqanka iyo hiddaha Soomaaliyeed iyo waayaha bulsho taariikheed ee giddigoodba ku leh saamayntooda suugaanta Hadraawi ay maansadeedii hadda ina hor taalo.
+
+Sidaa awgeed, waxay dani khasbaysaa, in aynu daraasadda maansada Hadraawi ee isu dhan u dayno haddeeda iyo haddii Alle yidhaahdo, hor-dhacanse aynu ku soo ururinno inta maanta aan is-leeyahay waa lagama maarmaan.
+
+Sida aynu, hadda ka hor, u sheegnay kolleyba waa in ereyga hordhacu waxtar uga noqdo akhristaha dhinacyo ku lug leh garashada iyo fahamkamaansadan. Waxay ila tahay, mar haddii uu qodobku yahay Hadraawi iyo maansadiisa buuggan ku daabacan, in masaladaasi noqon karto tu laga wada hadli karo oo loogu tegi karo murti la xiisayn karo.
+
+Marka aynu haddaba, sahankeena, sidaa ugu yool-samaynno, isla marka ahaanna waxa ila qumman in aynu ku hor marno dhawr hal oo jid-bannayn u noqon kara yoolkaas.
+
+Waxay tahay, haddii la soo qaado Hadraawi iyo maansadiisa, waxay u badantahay in waxa maanka ku soo dhacaa noqdaan maansooyinkiisa oo qudha, oo aanay jirin wax ka baxsan maansooyinkaas, oo malaha la gelin karo.
+
+Runtiise sida ay ila tahay waxa kale oo jira arrimo aan ahayn maansada lafteeda lase leh xidhiidh adag, arrimahaasoo aan looga maarmi karayn falanqaynta iyo lafa-gurka tooska ah ee maansadani.
+
+Ma aha Hadraawi iyo maansadiisan oo qudha ee waxaa la odhan karaa taasi waa wax la wadaago; Waayo, dhinacyada ku saabsan shuruudaha wacaalaha taariikheed, dhaqan iyo faneed ee ku raad leh soo-if-baxa maansoyahan kasta iyo maansadiisa, ma aha wax ninnaba ku gooni ah. Iyada oo sidaas ah, haddana, dadku raadka waayaha noloshu ku yeeshaan guud ahaanba, waa laga helaa waxay ku kala duwan yihiin iyo waxa ay iskaga mid yihiinba.
+
+Si kasta oo ay tahayba sababaha kala goonnii yeeshay Hadraawi iyo badiba suugaan-yahanka Soomaaliyeed ee sebenku kulmiyey, marka hore waa nin iyo isha uu ku eegay adduunka xilligaasi iyo awaalaha nolosha ka jira, sida uu wax u arkay, inta uga muuqatay iyo dhinaca uu ka maray; meesha uu iska taagay hirdanka dunida ka socdey sida uu wax u qiimeeyey, waxa uu xeeriyey iyo mawqifka uu doortay; marka xigana waa ninba sida ay noqotay fal-celintiisa dareenkiisa iyo sida suugaantiisu uga tarjumayso ama uga tibaax-keenayso ee ay warkeeda inoo siinayso. Murtida aynu duuduub ugala soo bixi karnaa waxaa weye; raadka qof waliba uu ku cumri-dhammaysto ee uu nolosha kaga tago, wuxuu tilmaamo, ee sumad u noqdasidii uu ula fal-galay ee uu uga fal-celiyey waayihii xilligii uu nolaa iyo wixii kala soo dersey.
+
+Sidaas darteed, ma ka dhigan karnaa gooninnimadaas, su'aal aynu jawaabteeda u baadi-doon tagno? Waxay iigu muuqataa, in akhristaha maansadan siiba qofkii il-dheer ku dersaya ay u tahay waxtar, haddii aynu wax uga iftiiminno aragti dareen-qaad iyo qaabka cabbiriddeeda, farriinteeda iyo mawqifka, waxa ay kaga duwan tahay iyo waxa ay la wadaagto suugaanta Soomaaliyeed ee ay xilliga kula fac tirsanayso; in aynu dibadda soo dhigno xaqiiqada waayaha dunida ay ka muuqaal-celinayso suugaantaasi iyo sida loogu kala tegey habka iyo majiiraha garasho, ka dibna adduun-aragga, qiyamta iyo mawqifka iyo qaabka hal abuuridda iyo farshaxannimada.
+
+Inta aynaan hoos u gelin dhumucda ujeeddada aynu u soconno, waxaa ila habboon innaga oo ka il-boganna waxa dusha sare yaalla ee inoo noqonaya bar-kulan aynu ka wada bilaabi karno dooddeenna. Waxa ugu dhow ee daymada horeba u muuqanaya, ama uu maanku haleelayaa waa su'aalo dhowra oo lug ku leh Hadraawi iyo suugaantiisa; su'aalahaas oo muujinaya kana marag kacaya in suugaantaas wax ku goonni ahi jiraan. Waxay su'aashu inoo jid bixinaysaa:- Maxaa keenay goonnimada iyo warkeedaba? Maxaynu dareennay ee ay maankaba ugu soo dhacday gooninnimadu?
+
+Jawaabtu waxay ag-taallaa dadka Soomaaliyeed iyo muranka is mari waaga ah ee dhexdiisa ka jira, kuna saabsan Hadraawi iyo suugaantiisa. Marka aynu si guud isha u marino bulshada Soomaaliyeed waxaynu ugu tegeynaa aragtiyo iyo mawwaaqif kala wada jeedda oo is burinaya oo laga kala qabo suugaanta Hadraawi. Haddii aynu dusha sare ka taataabanno waxa ka mid ah, kuwa soo socda:-
+
+1. Hadraawi iyo maansadiisaba aad baa loola col-yahay; mana jiro maanso yahan Soomaaliyeed oo loo dhigi karo nacaybka iyo colaada loo hayo isaga iyo maansadiisaba.
+
+2. Hadraawi iyo maansadiisa aad iyo aad baa loo jecel yahay; maba jiro, magac iyo maanso toona, cid la ag keeni karayaa.
+
+3. Ma aha suugaanta Hadraawi wax la garan karo, macnaha iyo ujeeddada ku jirta ee uu ku talo-galay curiyaheedu waana wax ku adag maanka dadka; Sidaas darteed waxa dhacda in cid waliba goonideed madaxa ku daaliso, kaddibna u fasirato si gaarkeed ah iyo wejiga qofku ka dhigto.
+
+4. Hadraawi waa maansayahan Soomaaliyeed oo maanta jira ka ugu magac dheer; ka loogu hadal-haynta badanyahay ee maansadiisu ugu tisqaadka ballaadhandahay, uguna hal qabsiga badan tahay; ka tixdiisuna dareenka ugu weyn kiciso, sida ugu kulul loo xiiseeyo ee maansadiisa goob kasta oo dad Soomaaliyeed joogo siraad lagu doonayo.
+
+Waxaan is-leeyahay waa suura-gal in suugaanta Hadraawi lagu tilmaami karo ifafaale yaab ku leh bulshada Soomaaliyeed ee maanta jirta. Ifafaalenimadu waa meesheedee, la yaabka ay leedahay ayaa wax inooga daalacayaan. Maxay ku noqotay in maanso-yahanka Hadraawi kulmiyo intaasoo ah si-u-arag, si-u-qiimayn iyo mawqifyo, kala jeedooyin iyo is-burisyo ah? Sidee buu hal mar ku helay colaadda u kulul iyo jacaylka u ballaadhan una qotada dheer? Maxaase maansadiisa ka yeelay tu si fog loogu kala tago, ilaa xad ay noqotay tu aan la garanayn oo ujeeddadeed mugdi saaran yahay; tu laga naxo oo la colaadiyo; iyo, isla markaas haddana, tu aad loo xiiseeyo oo loo riyaaqo, oo ugu badan soo jiidashada iyo dhaqaajinta maanka dadka?
+
+La-yaabku haddii uu laba yahay, midkooda ah dhabanka iyo gacanta laysa saaro isaga gees inaga dhig. Kiisa kalee wax-ku-oolka ugu dhow waa ka lagu salayn karo hawraarta laga soo weriyey Giriigii, waayo-taariikheedkii beri hore ahaa, taasoo odhanaysa "la yaabku hooyada falsafadda". Sidaa darteed, murtidu waxay ku jirtaa wixii la yaab leh daba gal kooda iyo soo dibad saarka xidhiidhka caqli galka ah ee isku xidhaya dhinacyada ifafaaleeyaasha is burinaya ama u muuqda wada diiddan. Waxaan uga socdaa mid keliya oo ah; caqliga u jeellan mur maansadan iyo kasha u xiisa qabta bilicdeedaba, wax baa kaga xidh jawaabaha su'aalaha la yaabka leh ee aynu kor ku soo taabannay.
+
+Marka ay tahay jihadee loo kacaa oo runta badiba laga raadiyaa, waa hubaal ah, sida dadka qaarkii moodi karo ama is moodsiin karo, ma kumana koobna sababta loogu heshiin la'yahay maansadani isla suugaantaa iyo curiyaheeda, waxaa inagu filan oo aynu kaga gudba mawaaqiifta kala jeeddaa waa wax dhex yaalla dadka kale ee ay maan halkooda ugu tagto ama la kulanto, isaga oo aanu hal-abuuraheedii war hayn inta badan. Sidaas darteed, Hadraawi kamaba qayb galo fikradaha is-asaraaraya ee ku saabsan maansadiisa; waayo isagu wixii uu odhan lahaaba wuxuu hore ugu dhiibtay tixdiisa. Sidaan qabo haddii wax laga weydiiyo ujeeddada "Tixdaa", "Tuducaas", ama "Beydkaas" jawaabta uu ka bixiyaa ma noqonayso, tu lagu muran baxayo. Mar haddii ay sidaas tahay, waa inaynu xaqiiqada ka doonnaa bulshada Soomaaliyeed dhexdeeda.
+
+### II
+
+Hadal iyo dhammaantii, jawaabaha laga bixin karo su'aalaha ku jeedda maansadan waxa lagala soo bixi karaa bulshada Soomaaliyeed oo haddii si fiican loo fiirsado lana lafa guro waayaheeda nololeed iyo siday u saameeyo wacyigeeda.
+
+Bulshadaas waxa ku dhex jira cudur ku xididdaystay oo kala wada googooyey halbowleyaashii dhaqaaleed, bulsheed, siyaasadeed, dhaqameed iyo wacyigii ummadnimo ee dadka Soomaaliyeed isku xidhaye sugayey midnimada jiritaankooda bulshanimo.
+
+Qaska iyo qalaalaasaha dalka Soomaaliyeed muddo dheer ka soo jiray heerka uu gaadhey burburka bulsho ee ka dhashay ayaa u sabab ah caadada dadku inuu kala go'doomo, in dareenkoodii is-waayo oo ay duunka hoose ee bulshada Soomaaliyeed kala fogaadaan aragtida laga qabo maansadan iyo curiyaheeda.
+
+Sidaas awgeed la-yaab malaha, in qofku maansada Hadraawi u arko tu uu jecel yahay ama tu uu neceb yahay; waxaana jira in qofku maansada u arko tu uu garan karo ama tu uu garan waayo. Sidaas darteedna lays weydiin karo sida ay isu raaci karaan.
+
+Mid ka mid ah arrimahaas waa in dadweynaha ballaadhan ee Soomaaliyeed, iyadoo aanay ka wada madhnayn kooxaha indheer-aragtada iyo dabaqadaha dhexe ee reer magaalka ah, si aad u weyn ayuu u xiiseeyaa oo ay u soo jiidataa maansadani.
+
+Ta kalee barbar-keeda taallaa waxa weeye in dadweynaha ballaadhan, marka loo eego wacyigiisa garasho iyo sida uu u arko xaqiiqada nolosha, ay ku saleysan tahay abbaariego bulshadii reer guuraaga ahayd ee qabiilka ku dhisan. Sidaas darteed, dadweynahaasi maansada maanta wuxuu u arkaa si ka duwan sidii uu u arki jirey maansada sooyaalka ahayd.
+
+Waaqica nolol bulsheed ee sidaas ahi wuxuu ku yimi isbeddel weyn oo ku yimid bulshada Soomaaliyeed tan iyo bilowgii xilligii gumaysiga ilaa maanta. Isbeddelkaasi wuxuu keenay in la isku daro dhaqankii hore iyo noloshii cusub ee magaalooyinka iyo noloshii casriga ahayd.
+
+Haddii maansadan laysku maan dhaafay sida mararka qaarkood la maqlo, taasi waxay muujinaysaa in bulshada Soomaaliyeed ay ku jirto marxalad is-dhaafsi ah oo ay isku dhex jiraan wacyigii hore iyo kan cusub, dimuqraaddiyad iyo aqoonsiga qarannimo iyo wixii la mid ah.
+
+Arrimahaas dartood ayay maansadani si kala tagsan ugu soo dhacaysaa dadweynaha ballaadhan, iyadoo qof waliba u arko sida uu u arko, isagoo ku saleysan waayihiisa nololeed iyo aragtidiisa.
+
+Way jirtaa oo dhab ahaan, lama beenin karo in dadweynaha ballaadhan ay maansadan si weyn u xiiseeyaan, isla markaana ay u arkaan inay tahay tu ay ku raaxaystaan, iyagoo aan si buuxda u fahmin dulucdeeda iyo ujeeddadeeda, laakiin ay ku raaxaystaan bilicdeeda iyo habka ay u dhigto murtida iyo qiyamta dadnimada guud ahaaneed ee ay maansadani daafacayso.
+
+Taariikhdaas iyo dhacdooyinkeeda, aynuna kala soo baxno laba arrimood oo muhiim ah oo saameeyey sida bulshada Soomaaliyeed u aragto maansadan.
+
+Ta koowaad:- keli-taliyaha Siyaad Bare wuxu xoog hubaysan ku qabsaday taliskii dalka 1969kii, isagoo ku dhawaaqay nidaam cusub oo uu ugu yeeray "hantiwadaagga cilmiga ku dhisan". Intaan taliskaasi laba jirsanba waxa ku noqday laf dhuun u ah dalka iyo dadweynaba, isagoo ku xukumay hab maamul keli talis ah oo argagixiso leh.
+
+Marka loo sii dhabba galo fal-celinta Siyaad Barre iyo sarbeeb-sansaanaka uu ku cabbiro maansadiisa, waxaa la arkaa in uu isagu u arko in maansada Hadraawi ay tahay tu ka soo horjeedda taliskiisa, isagoo u arko inay tahay tu ay ku dedayso burburinta nidaamkiisa.
+
+Ta kalee ee ah dabool saaran maansadan, waxaa weeye in maansadani ay ka hadasho arrimo ay ka mid yihiin xorriyadda, caddaaladda, dimuqraadiyadda, iyo xuquuqda aadanaha, taas oo ay ka soo horjeedaan nidaamka keli taliska ah ee Siyaad Barre.
+
+In maansadani tahay tu shaqlan oo ay maro ku dedantahay arrimahaas, waxay keentay in taliska Siyaad Barre uu maansadan u arko tu colaad ah, isagoo u arko inay tahay tu ay ku dedayso burburinta nidaamkiisa. Sidaas ayay kula colloobeen.
+
+Siyaad Barre, oo laga dhigan karo tusaaha (typical) looga tilmaan qaadan karo nin kasta oo ay isku asluub iyo fal dhaqan yihiin, mar walba lama huraan bay ahayd inay maansadan oo kale isa seegaan. Waayo, isagu sida uu xukunka ugu qabsaday muruq iyo xoog mutuxan, ayuu isla markiina ku meel dhigtay in talo adduunba tiisa noqoto. Wuxuu ku talo goostay in aan isaga cidi ku laba ahaan; in dareenka, garashada iyo aqoontuba ku gudhaan hawadiisa iyo damaciisa qof ahaaneed, ereyguna noqdo mid keliya oo isaga laga sugo. Ka dibna wuxuu bir afaysan ku doonay in layska wada dhigo oo laga wada maarmo hal-abuur caqliyeed, cilmiyeed iyo fan iyo suugaaneedba, laguna doorsado muhmal iyo mala-awaal, khudbado gola-ka-fuul ah iyo hadllo aan sal iyo sabab midna lahayn. Ma jirtooyin sidaas ah ayuu khasab ka dhigay in lagaga kaaftoomo hodannimada runta iyo xaqaa'iqa adduunka, nolosha bulsheed iyo fikirka aadamiga.
+
+Sidaas darteed, suugaantiisu (Siyaad Barre) waxa ay noqotay tu halkaas ku sal leh oo ka jeesata isla markaana dayrisa runta kuna wacad furta xurriyadda, sharafka dadnimada iyo qiyamta fanka dhabta ah. Waxaa ka dhashay suugaanta hunguri raaca ah ee la yaqaanno.
+
+Marka Siyaad Barre kaas yahay maansadanina waa tusaaha dhinaceeda kale ee looga tilmaan qaadan karo, fikir iyo ficilba, mawqifka jara-diidka ah, caqaliga iyo carrabka xakamaha qaadan waayey, ee ka xidhiidh goosan waayey runta, waaqica nolosha iyo qiimaynata dadnimada ku wacan.
+
+Sidaas ayay maansadani bulshadeedii kaga meel weydey kuna noqotay kootarabaan iyo wax lala dhuunto oo meel madow lagula kulmo. Waxaa talisko caleema saaray oo uu makarafoon cod-dheer siiyey ku-sheega heesaha afka Siyaad Barre ka waraaba ee ammaantiisa ku tasbiixsada, ereyada mugga yar ee damaca keli taliyaha lagu dhudhumiyey, dhinac kastana kaga saameelan; dhawaaqa qaawan oo aan wax u qarsoon lahayn, murti hoos u qodan, nuxurna ka arradan oo ka caydha ah hoga-tusaale meel la dhigan karo. Waxa sidaasi ah ayuu u masayray markuu colaadinayo maansadan oo kale.
+
+Haddii uu maansadan dhaleeco uga dhigay inay wax dedayso daboolka saarani waa huga qurxoon ee ay huwantahay; waana shaqalka iyo hagoogta farta gaashaysan ee qaabka fannimadeeda; taas oo ah shardi aan ka maqnaan karayn fanba dhammaantii. Waxa didinayaa taliska waa habka af-gobaadsiga ah iyo dhismaha dabuubta dabban ee u dhigan hannaanka sarbeebta iyo maahmaahda ah ee ay ku salaysan tahay mug weynideeda iyo qaadkeeda murtida aad u ballaadhan ee ku dherersanaysa jiritaanka nolosha aadamiga xilli kasta iyo meel kastaba.
+
+Sidaas awgeed, haddii ay dhacday, in siyaalo kala duwan loo fasiiray ama loo arkay murti kala jaad ah oo xilliyo iyo meelo kala duwan, marba cidi goonni ugala soo baxayso oo ay ugu dabbaqayso waayaha hadba nolosha ka jira, taasi waa marag u dhacaya maansadan oo furaya inay kaalinteedii gudatey.
+
+Ta labaad:- Waxay marar badan maansada Hadraawi iyo raga kale oo jidkiisa raacay, la kulmeen canaan iyo guhaad kaga yimaadda laba geesood, wada jir iyo kala jirba. Waxa dhacda, tusaale ahaan, qolooyin u tirsan suugaanta, weliba maansada soomaaliyeed, oo isku daya inay ka hadlaan waayaha colaadeed ee maanta dalka Soomaaliya sida baas uga oogan, ha-yeeshee gabayadoodu aanay, weelba u noqon karin nolosha dunida maanta jirta iyo waayaheeda.
+
+Nimankaas tixdoodu duluc iyo qaab midnaba wax kama duwana gabayadii ay laba nin oo gabyaa, taariikh beri fog ahayd, isu celin jireen, marka labadooda qabiil colaadtamaan. Kii ay wax u raacaan waa dummaddiisee badiba isha ay adduunka ku eegaan xilligan iyo habka ay uga maansoon karaan ayaa kaas ah.
+
+Qolada kale, oo iyaga toodu la yaab noqon kartaa waa kooxda aqoonta tacliimeed leh ee loogu erey bixiyey in-dheer aragto. Waxa ku jira oo badanka tilmaanta hadalku u dhacayaa kuwooda Jaamacadaha adduunka hore u maray ka soo baxay ee haddana caqligoodu dib ugu guurey heer nololeed oo taariikhda bulshadu ka soo hayaantay oo ay ka kortay. La yaabku waa sida maankoodu isaga hor imanayo ee koodii weliba laba iyo ka badan u kala yaallo. Waxaa taasi inoo muujinaysaa labada carrab ee midkoodna ka hadlo Yurub iyo Ameerika oo kale, ka kalena ka hadlo Soomaaliya iyo sida labadaa carrab iyaga oo qof qudha ku wada yaalla ay haddana u kala fog yihiin. Sababtu waxay tahay, waxa dhexdiisa ku hirdamaya laba wacyi oo is-burinaya; ka hore oo la xidhiidha tacliinta iyo aqoonta casriga ee xadaaradda adduunka maanta laga kasbaday, taasoo tiyoori ahaanna ay ku dabbaqaan afkaartooda guud ahaan; iyo ka labaad oo la xidhiidha caqliga dib-u-guurka ah ee ay dabbaqaan afkaarta xintanka qabyaaladeed, iyo hab-dhaqankeeda shirqoolka ahba, marka ay ka hadlayaan waayaha soomaaliya iyo loollankeeda siyaasadeed.
+
+Kuwaas, sida garaadkoodu uga lumay oo uu uga hallaabay abbaartii toosnayd ee u geyn lahayd garashada heerka nolosha bulshada iyo socotadeeda taariikheed, ayay maansadanna marinkeeda ku seegeen oo uu maankoodu ku gefey una garan la'yahay dulucda iyo farshaxannimada quruxdeeda.
+
+Ta saddexaad:- Dadweynaha ballaadhan ee Soomaaliyeed, iyadoo aanay ka wada madhnayn kooxaha indheer-aragtada iyo dabaqadaha dhexe ee reer magaalka ah, si aad u weyn ayuu u xiiseeyaa oo ay u soo jiidataa maansadani. Ha yeeshee marka dadweynaha ballaadhan iyo mawqifkiisa loo fiiro yeesho waxa inna hor imanaya laba ammuurood oo kala kaan u yaalla, sidaas darteedna lays weydiin karo sida ay isu raaci karaan.
+
+Mid ka mid ah arrimahaas waa in dadweynaha ballaadhan ee Soomaaliyeed, marka loo eego wacyigiisa garasho iyo sida uu u arko xaqiiqada nolosha, ay ku saleysan tahay abbaariego bulshadii reer guuraaga ahayd ee qabiilka ku dhisan. Sidaas darteed, dadweynahaasi maansada maanta wuxuu u arkaa si ka duwan sidii uu u arki jirey maansada sooyaalka ahayd.
+
+Ta kalee barbar-keeda taallaa waxa weeye in dadweynaha ballaadhan, tan iyo 1979 ilaa siddeetamaadkii, maansadan ay si weyn ugu soo jiidatay dadweynaha, inkastoo ay jireen xaalado siyaasadeed oo adag oo ay ka mid ahayd xilligii Siyaad Barre.
+
+Labadaas arrimood ee u muuqda waxaan is-raaci karin, waxayna muujinayaan in bulshada Soomaaliyeed ay ku jirto marxalad is-dhaafsi ah oo ay isku dhex jiraan wacyigii hore iyo kan cusub.
+
+Hase yeeshee, haddii uu dadweynahaas ka suuliyey waaqica nolosha casriga ah, taasi ma aha in uu ka suuliyey maansadan lafteeda, ee waa in uu ka suuliyey fahamka dulucdeeda iyo ujeeddadeeda.
+
+Way jirtaa oo dhab ahaan, lama beenin karo in dadweynaha ballaadhan ay maansadan si weyn u xiiseeyaan, isla markaana ay u arkaan inay tahay tu ay ku raaxaystaan, iyagoo aan si buuxda u fahmin dulucdeeda iyo ujeeddadeeda, laakiin ay ku raaxaystaan bilicdeeda iyo qiyamta dadnimada guud ahaaneed ee ay maansadani daafacayso.
+
+### III
+
+Waxa inoogu dambeeya erey ku saabsan maansadan lafteeda.
+
+Inkasta oo aynu suugaanta Hadraawi is-weydiin ku nidhi badweyn aan si fudud loogu babac dhigi karin, haddana waxaa jira xidhiidh adag oo ka dhexeeya maansada Hadraawi iyo taariikhda bulshada Soomaaliyeed iyo dhaqankeeda.
+
+Dhinacyada laga sahamin karo xidhiidhkaas iyo nuxurkiisa waxaa ka mid ah taariikhda bulshada Soomaaliyeed iyo sida ay u saameeyso maansada Hadraawi.
+
+Maansadii sooyaalka¹ ahayd haddii aynu iyada ku hor marno, waxaynu aragnaa in ay ka duwan tahay maansada Hadraawi dhinacyo badan.
+
+Sidaas darteed maansadani waa xalaqo iyo meeris cusub oo ka soo baxay xilligii cusub ee bulshada Soomaaliyeed.
+
+Tusaalayaasha u mudan ee inna tusaya waxay maansadani tii hore la wadaagto iyo waxa ay ka duwan tahay waxaa ka mid ah habkii dhaqanka bulsheed ee hore sida faldhaqanka iyo anshaxa dadku ku wada socdo, guud ahaanba.
+
+Waxaa la mid ah oo tusaalayaashaas raacaya luqadda iyo ereyadeeda, iyo sidoo kale Haloosiga iyo Folklore-ka Soomaaliyeed.
+
+Arrimahaas xaqiiqadoodu waxay inoo soo baxayaan marka aynu hoos u eegno maansada "Gabadh Madow", iyagoon tuduc u qabyo tirnayn:-
+
+Garayskaygu waa xeel
+guntigaygu waa ciil.
+
+Labadaa beyd marka la akhriyo erayadooda waxa lagala soo baxayaa bulshada ay ku abtirsanayaan, hiddaheedii iyo suugaanteedii. Waxaa la mid ah iyana kuwan soo socda:-
+
+Maxaa gegi dabayliyo
+gocondhaley cagaagliyo
+galoof iyo candhooliyo
+geyi lama deeganiyo
+Guban lagu asqoobiyo
+gabno iigu yeedheen.
+
+Ereyadaasina waxa ay tilmaamayaaan ka sokow luqada iyo ereyadeeda, deegaanka iyo dhaqanka bulshada ay ka soo jeeddo, iyo sidoo kale sida ay u arkaan nolosha iyo waxa ay jecel yihiin ama ay dhibsadaan intaba.
+
+Gebi ahaanba, maansadan, tix kasta oo aad soo qaadato waxaad ka helaysaa astaamo gaar ah oo ay maansadaasi uga weel dhigayso dulucdeeda iyo habkeeda farshaxanimo.
+
+Maansada Hadraawi waxa damqa oo ladhka ku kiciyaa waa nolosha dadnimada guud ahaan iyo sida ay u taallo waayaha ay ku sugantahay iyo dhibaatooyinkeeda wejiyada badan leh.
+
+Waxay cabbiraysaa nolosha dadka Soomaaliyeed maanta ku wool yahay, iyadoo ka hadlaysa arrimaha ay ka mid yihiin colaadda, burburka, qaxootiga, iyo wixii keeni kara.
+
+Taas macneheedu waxa weeye, oo ay ina tusaysaa, in maansadani dhinac iska dhigtay arrimahaas, iyadoo ka hadlaysa cabasho, calaacal, cabasho iwm.
+
+Waxa raaca, aragtidii iyo ficil qaadashadii, ku dhisnayd bulshada abtirsiinta ku dhisan, iyadoo ay ka soo horjeedaan nidaamka cusub ee bulshada casriga ah.
+
+Sidaas awgeed, habka qiyamta bulsheed (System of social values) ee maansadii sooyaalka ahayd waxay ku dhisnayd mabda'a cidhiidhiga ah; "Tolkaa gar iyo gardarraba u hiili" iyo "Ninna intuu kuu jiro kuuma soo dhaafo".
+
+Odhaahdaas ayay maansadii sooyaalka ahayd farriinteeda siddey. Taasi ahayd: "Nabadda, xorriyada, xaq-soorka barwaaqada nolosha, xurmaynta tolka iyo xididka, xaq-dhawrka waalidka iyo waayeelka, dusha, deeqda iyo doodda; magaca hal-abuurka, geesiga iyo wax kasta oo wanaag ah oo sharaf lagu helo giddigoodba, tolkaa la jeclow oo la doon oo nin kasta oo kale uga buri." Farriintaas ayay maansadii sooyaalka ahayd dusha ku qaaday; maansada Hadraawise, taas way ka diiddey oo waxay u deysey halkeedii iyo xilligeedii sabaan tegey ahaa.
+
+Maansada Hadraawi waxay gees iska dhigtay, kadabar goosatay oo ay hayaan dheer, hore uga guurtey, wacyigaa bulsheed iyo habkii dhismaha qiyamtiisa ee soo gunta dhowaa, wejiyada is burinayana lahaa.
+
+Waxa inoogu danbaysa oo iyana ka mid ah, waxyaallaha goonni yeelay maansadan, qaab dhismeedka iyo habka farshaxanimadeeda faneed. Isaga oo aan maansayahankani inaba ka tegin, oo uu aad u xurmeeyo, shuruudaha guud ee maanso oo dhan lagu yaqaan, gaar ahaana, si goonni ah u dhawra kuwa summada iyo baadi-soocda u ah maansada Soomaaliyeed, ayuu haddana maansadiisa ka xorreeyey koobnidii saabkii cidhiidhiga ahaa ee maansadii sooyaalka ahayd, una geliyey qaab mug weyn leh, oo koobi kara adduunka maanta iyo qaddiyadda dadnimada guud, iyo gaar ahaan mushkilada Soomaalinimada ummadnimada iyo gobannimada; isla markaana uu u dhigay qaabkaas, farshaxanimada maanseed ee sida ugu haboon u cabbiri kara, nuxurka midka ah ee nolosha aadamiga, taariikhda bulshada aadamiga iyo gedgedoonkeeda.
+
+Maansadii sooyaalka ahayd waxay dulucdeedu ahayd duni kala googo'an; wax kastaba waxay uga hadli jirtey si toos ah. Ficilka dhacay; qofka ama cidda fashay; wakhtiga iyo meesha intaba, si toos ah, ayay u magac dhebi jirtey; guud-mar iyo duuduub midnaba may aqoon. Sidaas darteed, tixda maanso ee waagaa ahayd, warkeeda, micnaheeda iyo murtideedu muran ma geli jirin; wixii curiyaheedu uga jeedey ee uu ku talo galay in laga fahmo, wax dheer, cidina kalama soo dhex bixi karayn, umana ay baahnayn madaxoo lagu daaliyo.
+
+Maansada Hadraawi sidaasi way ka duwan tahay, mana aha tix munaasabad iyo dhacdo, maalin iyo meel sugan leh. Maansadani ugu horraynba, waxay jebisey qoqobihii cidhiidhyoonaa ee ku koobnaa, goob, wax ka dhacay oo la taaban karo; waxayna qoqobahaas uga baxday adduunka ballaadhan iyo baaxadda nolosha aadamiga. Waxay isku kala bixisay adduunkaas, afartiisa geesood iyo dhumucda sebenka iyo taariikhda aadamaha, tagtadeedii, joogaheedii maanta iyo timaaddadeeda. Waxa u suurageliyey inay cabbirto intaaso dhanba waxay qaadatay, oo ay ka dhigatay agabta ay ka weel tolato qiyamka dadnimada guud, fikradda, mabda'a iyo hal-tusmeedka guud marka ah.
+
+Sidaas darteed, waxa taabashada gala (concrete) ee la xidhiidha falka iyo dhacdada wakhti sugan iyo maalin go'an leh, maansadani kuma ekaato, kumana hakato, inay ka shidaal qaadato mooyee. Markiiba nuxurka oo qudha iyo murtida guud ee duuduubka ah (abstract), ayay u dhigtaa hab hawraareed ma-guuraan ah (Universal).
+
+Waxa masaladaasi inna xusuusinaysaa, sida maansadii ay dhashay xarakaddii gobannimo doonka Soomaaliyeed, gaar ahaan, intii ka dambaysey 1969kii iyo madax bannaanidii qarannimo, ay dhakhsaba uga taabgaabatay, ilaa ay ku guul-darraysatay in ay ka buuxsato, kana yool gaadho ka-tiraab-celinta maanseed (Poetic expression) ee dulucda gobannimada bulshada Soomaaliyeed ee dhalatay iyo aayaheeda. Sababteedu waxa weeye, wacyiga bulsheed, aqoontii iyo khibraddii maansooyinka xilligaas ayaa suuragelin kari waayey in maansadu jebiso oo ay ka gudubto duluc murtiyeedkii iyo qaab-maanseedkii sooyaalka ahaa.
+
+Tusaale ahaan, markii maansa-yahankii si kale oo dhan uu ku garan waayey ayuu dooney in uu ku suureeyo wax uu garan karo oo uu meel sugan ugu hagaagi karo, soona taaban karo xaqiiqadiisa. Sidaas ayay ku timid hasha magaceedu ku caan baxay "Maandeeq", taasoo laga dhigtay calaamad lagu astaysto loogana tilmaan dhigto gobannimadaas. Mar kasta hoos loogu sii fiiro yeesho tilmaamashada hashaasi, waa suurayn iyo sarbeeb aad ugu yar oo aan sina u qaadi karin qaddiyadda ay u taagan tahay, ama looga tusaale-qaatay iyo nuxurkeeda ku saabsan qarannimo ummadeed iyo nolol bulsheed ku dhisan ilbaxnimo xadaaradeed iyo horumar markeeda maaddiga iyo ruuxiba ah.
+
+Maansada Hadraawi waxay martay waddo taa ka duwan, taasoo u suuragelisey inay sahankeeda ku guulaysato, jid cusubna u jeexdo maansada Soomaaliyeed. Jidkaasi waa ka aynu soo taabanayoo waxaa weeye wacyiga abwaanka sida ugu ballaadhan uga buuxsadey garashada caqliyeed ee adduunkiisa iyo bulshadiisa iyo mawqifkiisa dadnimada u hiilaya; dareenka maanseed ee ka dab-qaata waayaha nolosha aadamiga, hadba waxyaalaha la taaban karo ee socda; waxa dhacay oo dhacaya ee goob, goor, mid mid iyo hadba wejiga ay u dhacday ku kala duwan; ka dibna intaas oo dhanba ka tuujinaya nuxurka xaqiiqda iyo qiyamta guud-marka iyo duuduubka ah ee ka koraysa waaqica la taaban karo iyo waayahiisa maalinba wejiga goonnida ah la yimaadda; ama diirka iyo midabbada ku kala duwan leh; ugu danbayntana jidkaasi waa ka hoos maro kale u soo dega ee la muuquura faraha jiriitaanka adduunka, jiriitaanka aadamaha iyo waaya-aragnimada taariikhda iyo dhaxalkeeda aqooneed, wixii ay fan iyo suugaan lahayd, wixii ay sheekooyin iyo ustuurooyin lahayd iyo intii ay lahayd murti iyo hawraaro nuxur wax laga taransado leh. Marka uu intaas oo dhan uga ood gooyo, waa ka waaqiciga nolosha dadka iyo maalinba sida ay u taallo tib iyo mooye u qaada ee inta uu baal qaado lafta iyo dhuuxa jebiyo adduunkana dhisme kale u celiya, una yeela xidhiidho sansaan iyo hab cusub leh oo hannaan kale u warramaya.
+
+Halkaas ayay ka soo jeedaan suurooyinka iyo sarbeebaha hadalka dadban ee habkaa u-yaal iyo u-dhiganka u soo ururinaya ee hoga-tusaalaynaya nuxurka murtida ma-guuraanka ah ee xaqiiqada nolosha aadamiga iyo jidka hayaankeeda joogtada ah. Halkaas ayay maansadani ugu tagtay ma suulaanka qiyamta xaqa, runta, samaha iyo inta ka soo hor-jeedda ee nolosha aadamaha dhexdeeda kula hirdamaysa, sida beenta ama baaddilka; sharka iyo inta hirdankaasi dhalo. Isla mar ahaan, dhismaha cabbirka ma-guuraankaas murtiyeed ayaa dhalay fan cusub oo qaayo iyo qiimo farshaxannimo oo qurxoon leh.
+
+Hab-dhigaalka murtida ma-guuraanka ah ee aadamigu wadaago, ayuu ku jiraa mugga weyn ee qotana u gunta dheer, dadabna u kala baxsan, taas oo maansadan awood u siisay, in ay si wacan uga bogato qaddiyadda bulshada Soomaaliyeed, gobannimadeeda, qarannimadeeda iyo dhismaheeda ummadnimada, taas oo ay weliba ula gudubto oo ay ku hoyso hoyga qaddiyada dadnimada guud ahaaneed.
+
+Aynu ku soo gebagebeyno qodobkan, saddex dhinac oo ku lug leh wax maansada Soomaaliyeed ku cusub oo ay maansadani soo kordhisey ama u sii durkisey hirar hor leh.
+
+Waxaad maansada ku daabacan diiwaankan ku arkaysaa, gaar ahaan, qaybteeda labaad, ee tixda Daalacani ballaysimayso, astaamaha afka Carabiga looga yaqaan "Malxamada".² Waxaa lagu tilmaansan karaa, mawduuc-qaadashada tixda aan ahayn hal keliyaalaha ee ujeeddo badanta ah, ee faraqyada iyo laamaha badan leh; adduunka ballaadhan ee ay hadba dhinac iyo weji hor leh, ka deymoonayso ee ay marba si u lafa-gurayso, murtidana ugala soo baxayso; socodka geeddiga tixda aan meel qudha taagnayn ama ku wareegaynin iyo dhadhanka daraamada sheekada ah ee ay leedahay. Astaan guud ahaaneed ka sokow, waxay maansadani leedahay tixo malxamo toos ah, sida Dibad-yaal iyo Goljanno.
+
+Ta kalena, waxay maansadani meel marisay oo gaadhsiisey hirar durugsan, soo noolaynta iyo reer gelinta hanti luqadeed iyo suugaaneed oo dhaqanka Soomaaliyeed lahaa, ha yeeshee ku socdey duugow, tasow, iyo ilaa inay aakhirka dhimasho ku dambeeyaan. Waxaa raaca oo xusid mudan, ka xoraynta in badan oo ka mid ah miisaanka maansada Soomaaliyeed, fan-hiddoodkii heeso ciyaareedka iyo heeso hawleedka qudha badiba u dabranaa; taas oo ay maansadani in badan oo miisaankaas ka mid ah gelisey una adeejisey hawraarta maanseed, tallaabooyinna hore ugu sii wadday halkii raggi Hadraawi hortii bilaabay arrintaas ku simay.
+
+Waxaa iigu danbeeya oo aan kaga hadhay; maansadan waxaa gunteed u dhaadhici kara oo sirteeda soo heli kar, qof garasho ballaadhan oo caqliyeed u leh waaqica nolosha bulshada Soomaaliyeed iyo adduunka kashiisuna qaaddo, oo dareen-danqasho u leh wanaaga dadnimada guud ahaan, ka dibna, ah qof aan maansadan ula iman maqalka dhegta oo qudha, ka sugin war, wixii maansayahanku ku talo-galay oo aan wax dheer lahay balse fakiriya, maskaxdiisa la fal gelinaya maansada, la doodaya oo ti ku darsanaya. Taas ayaa qof walba u jideynaysa in uu obocda maansada kala qalo oo sida ay isaga ugu qumantahay u kala saafto, oo kala soo baxo murti iyo ujeeddo, isagu goonni uga sahansaday.
+
+Rashiid Sh. Cabdillahi Xaaji Axmed
+
+¹ Sooyaal waxa halkan looga jeedaa tarjumadda ereyga laatiinka ah ee "Classical", xilli ahaanna maansada soomaaliyeed ee sooyaalka ah halkan waxaannu uga jeednaa tii ka horreysey maansadii ka soo bilaabmay xarakadii gobannimo doonka ee afartameeyadii qarnigan cusub.
+
+² Mar haddii aan Af Soomaaliga laga heli karaynin erey u dhigma ereygaas Carabiga ah, ayaan sidiisa ugu qaatay halkan.
+
+### EREYGA CURIYAHA
+
+### I
+
+Way fiicnaan lahayd in aadamuhu isku aragti ka yahay waayaha nolosha kala soo dersa ee soo xidhiidhšanaa intii nololi dunida ka soo jirtey, sababaha dhaliya dhibaatooyinka iyo xaaladaha kobciya, isla mar ahaana wada tashi ka yeesho habkii xal waara loogu heli lahaa mar kastoo ay ahayd, marxalad kastoo la marayo hadday tahay heer caalamiya, qarameed, goboleed, degmo, urureed ama kooxeed ama heer kastoo ay gaadhsiisantahay.
+
+Mar haddiise, wadarta dantu midaysaa is weydo, oo ay hawshii wax ka qabadka dhawareyseyna halkeedii tahay wixii la qaban lahaana, go'aann qaadashadii iyo fulinteediba ay noqotay wax ku xidhan dedaal shakhsiyeed iyo wax ku kooban keli keli iyo qof iyo sida ay isaga la tahay, oo xataa hadday tan ugu haboon tahay nuqsaanteeda leh, natiijada cidda u iilanaysaa waa himiladii danta guud, oo marin habawda.
+
+Sidaa awgeed, ayey maansooyinka buuggan ku urursani yihiin ra'yigayga qofeed oo ka dhashay aniga iyo la-fal-galkaygii nolosha, sidii aan u arkaayey, inta fahamkeeda ay garashadayda aqoneed iiga goysey, iyo intii waaya aragnimadu i tustay, goor iyo xilli kasta oo ay ahaydba, iyo sawirka aan ka bixin karayey, wax yaabihii ka dhacayey hareerahayga, ifafaalaha hadba waayaha ka jira, nuxurka awaalaha xilliga, sababaha iyo tiraab celinta iyo jawaabaha aan ka bixin karayey su'aalaha nolosha, iyo sida xalku ku jiro oo aanan marnaba lahayn waa tii kama danbbaysta ahayd iyo dariiqada qudha ee lagu gaadhi karo ujeedada sugan.
+
+### II
+
+Waxa xus iyo xusuus mudan arrin sida aan aaminsanahay qof kastoo dareen dadnimo iyo daymo u qalanta garasho caqliyeed ku qiimeeya, maan-dheelliyayo markay hor yimaadaan xaaladihii murugada lahaa ee taliska Siyaad Barre geyeysiiyey umadda Soomaaliyeed. Ayaan darrooyinkaas oo aanay jirin meel ay seegeen iyo cid ka badbaadey, ka dib markii qofka denbi looga dhigay ku dhaqanka xaqiisa muwaadinnimo, adeegaynta dantiisa iyo aalaynta ra'yigiisa qof ahaaneed. Taas oo uu ka lahaa inuu ku hor joogsado tix-maanseed madax bannaan iyo cabsi gelinta ciddii ku dhirran lahayd wax intaas ka sii durugsan.
+
+Kala qubnaantii iyo kediskii xadhiggu ku yimi cadaadiskii i saarraa iyo daba galkii Ciidamada amniga, qaabkii aan kaga baxay dalka markaan ku soo biiray halganka iyo dagaalka hubaysan oo qudhiisu qarsoodi ahaa awgood ayaa maansada halkan ku qoran qayb ka mid ahi gacantayda ka baxday.
+
+In kastoo aan isku deyey inaan xusuus ku halo wixii iga lumay, haddane waxaan jeclahay inaan akhristaha xusuusiyo in gaar ahaan qaybta kowaad iyo qaybta labaad iyo guud ahaan wixii is dhaaf lagala kulmo ee leeyihiin sababaha aan kor ku soo qaaday. Waxaa iyana soo hadal qaad mudan in afartaneeyo maanso oo badidoodu koob koobantahay ay halkan ka maqanyihiin.
+
+### III
+
+Waxa qiimaheeda leh oo meesha ku jirta inaan halkan ku sheego, waxa weeye, duruufihii adkaa ee aanu ku sugnayn xilligii aanu isku raacnay in maansooyinkan qaab buug loo daabaco. Ka sokow welwelkii xaaladda guud ee aanu la wadaagney ummadda Soomaaliyeed, iyo gaar ahaan in halganka iyo aragtida danta guud na midayso, marka laga yimaaddo, waxaa xusideeda leh, arrimo gaar u ah Diiwaankan, iyo daabacaaddii aqoon, fan, farsamo, iyo dhaqaaleba leh iyo xaaladaha fara madhnaanta ah ee aanu ku sugnayn, oo aanu u sii dhigi karo sida hoos ku qodobbaysan.
+
+1. Iyadoo aanay gacanta noogu jirin wax qalab daabacadeed sheegtaana teebna Alle ha ka yeelee.
+2. Iyadoo aannaan u haynin wax miisaaniyad iyo dhaqaale ah oo lagu fuliyo hawsha daabacaada oo ku siman wax qalin iyo waraaq la siisto.
+3. Duruufaha nololeed ee aanu ku sugnayn oo aad u adkaa, ahaa xaalad aanu qoraal baaxaddan le'egi ka suuro geli karo, xaalado degganaansho aanay jirin, qoraal iyo hawlihiisu ku ansixi karaan, guri iyo qalab fududeeya hawshan oo kale.
+4. Iyadoo aanaan tahli kareyn hawl gelinta dad khibrad iyo takhasus gaar u leh hawlahan annaguna aannaan sheegan karin ama buuxin karin shuruudaha iyo awooddii cilmi iyo cududeed ee hawshan qabyo tiri lahayd hase yeeshee midda taasi aanu kaga gudubney waxay ahayd go'ansigii loo hawl galo sidii Diiwaankani u soo bixi lahaa, ficilkii lagu guda galay iyo adkaysigii wax kastoo naga hor yimid, iyo ummad farabadan oo aan gacan ka helley ayey ku suuro gashay in hawshani wakhti dheer ka dib u fusho.
+
+Maxamed Ibrahim Warsama
+(Hadraawi)
+
+### TILMAAN
+
+1. Axsaab:-
+Waa is bahaysi ka soo hor-jeedey
+Diinta Islaamka. (Heesta Ergadii Furqaan).
+
+2. Arraweelo:-
+Waa magac ay leedahay shakhsiyadda
+ku jirta sheeko fan hiddood ah oo
+magacaas leh kana mid ah dhaxalka suugaaneed
+ee hiddaha Soomaaliyeed, Waxay shakhsiyadaasi
+tilmaamaysaa haweeney bulshadeeda u talin jirtey,
+Kuna caan-baxday cadaadinta iyo cabudhinta ragga
+(Magaca Maansada Arraweelo).
+
+3. Awr-rayaal:-
+Ciidammadii qaaday hawl-galaddii
+ugu horreyey dagaal hubaysan oo
+lagaga hor-tago taliskii Maxamed Siyaad
+Barre oo ay fuliyeen Naftood hurayaal
+ka tirsanaa Ururka SSDF Gobollada
+Dhexe ee Soomaaliya Magacu wuxuu ku
+baxay iyada oo ciidammadaas gaadiidkoodu
+awr ahaa. (Maansada Daalalley).
+
+4. UNITA:-
+Waa jabhad ka soo hor-jeedda dawladda
+Angoola. (Maansada Isa-Sudhan).
+
+5. Batar:-
+Waa ciyaar ka mid ah ciyaaraha hiddaha
+iyo dhaqanka Soomaalida oo laga ciyaaro gobollo ka mid ah
+Soomaaliya
+(Heesta Baaq).
+
+6. Barshin:-
+Waa geed la qoro oo Gobollada
+Soomaaliya qaar ka mid ah barkimo ahaan
+badiba geel jiruhu u isticmaalo.
+(Heesta Baaq).
+
+7. Baarliin:-
+Caasimaddii jarmalka oo ahayd goobtii 1884kii lagu
+saanyaday Afrika. (Maansada Gabadh Madow).
+
+8. Bari, Nugaal, Mudug:-
+Waa Gobollo ka tirsan dalka Soomaaliya oo uu taliska
+Siyaad Barre ka fuliyey falalkii xasuuqa shacbi iyo
+burburin hantiyeed isagoo u aanaynaya inay taageersan
+yihiin ururka SSDF (Maansada Heeliyo).
+
+9. Banaadiri:-
+Dhar hiddood ku caana gobolkii
+hore loogu yihiin Banaadir.
+(Heesta Baaq).
+
+10. Baaweeye:-
+Shakhsiyad khuraafi ah oo looga
+yaqaanno Soomaalida dhexdeeda inuu
+ahaa nin awood weyni iyo xukun
+qalafsanaan caan ku ahaa.
+(Maansada Barabaraale).
+
+11. Beder, Uxud, Xunayn:-
+Waa Goobo ka mid ah goobihii muslimka
+iyo gaaladu iskaga hor yimaadeen,
+xilliyadii Jihaadka loogu jirey
+taabba gelinta Diinta Islaamka.
+(Heesta Ergadii Furqaan).
+
+12. Beerdhiga:-
+Goob ka mid ah goobihii dagaallada
+kululi ku dhex mareen, ciidammadii
+Daraawiishta iyo ciidammadii gumaysigii
+Ingiriiska. (Heesta Tuke Baal Cad).
+
+13. Beerrey, Kabeebeey:-
+Ciyaar hiddoodyo laga ciyaaro
+Gobollada koonfurta Soomaaliya,
+gaar ahaan dhulka beeraleyda ah ee
+labada webi Jubba iyo Shabeelle.
+(Heesta Baaq).
+
+14. Birjeex:-
+Xaruntii Qaybtii 26naad ee Xoogga
+Dalka Soomaaliyeed oo ku taalla
+magaalada Hargaysa. Dhacdada ahmiyadeeduna
+waxay ahayd "Hawlgalkii naftood hurayaal
+ka tirsan ciidammada xoraynta ee SNM
+12kii Abriil 1983kii ay ku soo badbaadiyeen
+Col. Cabdillaahi Askar Barkhad
+oo goobtaas ku xidhnaa".
+(Maansada Daalalley).
+
+15. Birigaato Roosa:-
+Guutada Cas. Waa koox argagixiso ah oo ka jirta dalka Talyaaniga. (Maansada Isa Sudhan).
+
+16. Binyaanfuu-Dien Fou:-
+Waa meel ka mid ah dhulka Fiyatnaam oo ku caan baxday jabkii xoogaggii xornimo-doonku ugu geysteen ciidammadii gumaysigii Faransiiska 1954kii. (Gabayga Galangal).
+
+17. Bullo:-
+Ciyaar hiddood laga ciyaaro Gobollada koonfureed ee Soomaaliya-Hiiraan iyo degaanka kore ee webiga shabeelle. (Maansada Barabaraale).
+
+18. Xiddigta Oktoober iyo Ogaal:-
+Waa Wargaysyo talisk Siyaad Barre u adeegsado khalkhalinta ra'yal caamka iyo marin-habaabinta Shacbiga Soomaaliyeed. (Maansada Isa Sudhan).
+
+19. Darfooley:-
+Waa dermo-gogoleed ka mid ah kuwa loogu jecelyahay ee ay haweenka soomaaliyeed sida fal-samidu ku jirto u falkiyaan (Heesta Baaq).
+
+20. Dijaal:-
+Waa magaca uu leeyahay qof ama makhluuq suuro qof leh oo sida Diinta Islaamka la inoogu sheegay imaantinkiisa ifku ay ka mid tahay calaamadaha qiyaamaha, waana beenaale sheegan doona inuu yahay Nebi Ciise (Nabad iyo naxariisi korkiisa ha ahaatee) taasoo uu dadka qaar beentaas ku hallayn doono; hase yeeshee wuxuu halligmi doonaa oo sidaas ku bixi doonaa, marka Nebi Ciise (Nabad iyo naxariisi korkiisa ha ahaantee) uu dhab ahaan soo dego. (Maansada Dibadyaal).
+
+21. Durya, Daalaco:-
+Waxay ka mid yihinn Saldhigyada ciidammada xoraynta ee SNM ay kaga duulaan ciidammada cadowga. (Maansada Daalalley).
+
+22. Raage Ugaas, Salaan Carrabey, Sayid Maxamed, Cali Dhuux, Gammuunte, Faarax Nuur, Qamaan Bulxan:-
+Waxay dhammaantood ka mid ahaayeen raggii salka gabay-hoyaaleedka Soomaaliyeed-Classical Poetry-(Heesta Hal-abuur).
+
+23. Saylici:-
+Waa ciyaar ka mid ah ciyaaraha hiddaha u ah Soomaalida oo badiba laga ciyaaro meelo ka mid ah Gobolka Woqooyi Galbeed iyo Jamhuuriyada Jabuuti (Heesta Baaq).
+
+24. Dhabbad iyo Galdogob:-
+Tuulooyin ku yaalla Gobollada dhexe ee Soomaaliya oo ay ciidammada ka fulin jireen hawl galo joogto ah. (Maansada Daalalley).
+
+25. dhagaxtuur:-
+Dhacdadii taariikheed ee ku magac baxday kacdoonkii 11kii jannaayo 1948kii ee shacbiga Soomaaliyeed dhagax ugu badheedheen ciidammadii hubaysnaa ee gumaysigii ingiriiska. (maansada jiitama).
+
+26. Dheg-Dheer:-
+Waa sheeko caruureed soomaaliyeed, laga yaqaan badanka dhulka soomalidu degto, waxayna ka mid tahay suugaanta hiddaha Soomaaliyeed eesoo-jireenka ah. Waxay ku saabsan tahay habar dad-qalato ahayd. (Maansada Dhahar).
+
+27. Geeddi-baabow:-
+Sida la weriyey wuxuu ahaa gar-ma-gaate kakan oo wakhti hore ka talin jirey gobolka Jubbada Sare gaar ahaan degaanka Buur Xakaba. (Maansooyinka Barabaraale, Goljanno iyo Gud-Gude).
+
+28. Ganaane:-
+Waa magac labaad oo uu leeyahay webiga jubba (Maansooyinka Galangal, Durdur iyo Goljanno).
+
+29. Mandheera:-
+Waa Tuulo ka tirsan degmada Berbera oo uu ku yaallo xabsiga ugu weyn Woqooyiga Soomaaliya oo ay hawl-gal guuleed ka fuliyeen naftood hurayaal ka mid ahaa ciidammada xoraynta ee SNM oo uu hoggaaminayey Mujaahid Maxamed Xaashi Diiriye (Lixle) laguna soo badbaadiyey maxaabiis fara badan oo cadowgu ku eedeeyey in ay taliskiisa ka soo horjeedaan, 02/01/1983kii. (Maansada Daalalley).
+
+30. N. F. D.:-
+Waa gobollada Woqooyi Bari ee dalka Kiiniya oo ay ku dhaqan yihiin Ummad Soomaliyeed (Northern Front Districts).
+
+31. Wareegto:-
+Waa ciyaar hiddood laga ciyaaro Gobolka Banaadir iyo meelaha ku dhowdhow (Heesta Baaq).
+
+32. Wilwilo:-
+ciyaar ka mid ah ciyaaraha hiddaha iyo dhaqanka ee Soomaalida oo laga ciyaaro meelo ka mid ah Gobolka Woqooyi Galbeed iyo Jamhuuriyadda Jabuuti(Maansooyinka Barabaraale iyo Waxyi).
+
+33. Hanna-haybsan:-
+Ciyaar hiddood laga ciyaaro meelo ka mid ah Woqooyiga Soomaaliya, gaar ahaan Gobolka Sanaag. (Heesta Baaq).
+
+34. Hawaara, Harga-cuna, Haarriya:-
+Waa abaaro caan ku ah taariikhda xoolo dhaqatada Soomaaliyeed, oo aad loogu riiqmay waayo hore. (Maansada Heeliyo).
+
+### QAYBTA KOWAAD
 
 ## Maansooyinka
 
-daa subag laga lulaa
-lo’ baa saan laga baxshaa
+### SULEEKHA
+
+Idaa subag laga lulaa
+lo' baa saan laga baxshaa
 geel baa sidig loo ogaa
 sengaan orod lala ekayn
 sareedo Ilaahay baa leh
 hablaa Soomaaliyeedna
-) haddaan quruxdooda saanyo
+haddaan quruxdooda saanyo
 haddaan miisaanka saaro
 sagaal tobankii adaa leh.
+
 Suleekhaay araggaagu
-nafta waw samir-sitso
+nafta waw samir-siiso
 saddex bay ku qaddaaye.
-Ha ka goynin salaanta
+Ha ka goynin salaanta.
+
 Sansaankaagiyo jaaha
 sara-joogiyo tooska
 dhexda soohane tooxda
 sayn fardoodda ka dhuuban
 biixiyaa isa saaran
 garaaraa kala soocay,
-sangaroorka la dhiibshaa
-nafta aan sasabaayo |
+sanqaroorka la dhiibshaa
+nafta aan sasabaayo
 somal haad gelinaaya.
+
 Suleekhaay araggaagu
-nafta waw samir-suisoo
+nafta waw samir-siiso
 saddex bay ku qaddaaye
 ha ka goynin salaanta.
+
 Saatirkii ku abuuree
 saluuglaay indhahaaga
 saldhiggooda qorsheeyee
@@ -132,403 +579,557 @@ hibo gaara ku siiyoon
 cidna kuula sed qaybin.
 
 Suleekhaay araggaagu
-nafta waw samir-suisoo AMAL
+nafta waw samir-siisoo
 saddex bay ku qaddaaye
-ha ka goynin salaanta. Dadku kala ayaan roon
-‘ ama kala aqoon dheer
-ama kala asluub weyn
-Saatirkii ku abuuree haddaan eed la doonayn,
-goortan aad samay mooddo ama deegq llaahay
-cabbaadhyaa ku sargooyiyo asaraar ka taagnayn
-sidrigaagiyo laabta dadku eexo kaa gelin
-timahaagan ku seexdee inanyahay la’aantaa
-kolka aad doc u saydho dumar lama abuureen
-sararaa ka degaayee gabadh lama ammaaneen
-. sabarkaaga tegaayaan jacayl looma ooyeen.
+ha ka goynin salaanta.
+
+Saatirkii ku abuuree
+qoortan aad samay mooddo
+cabbaadhyaa ku sargooyiyo
+sidrigaagiyo laabta
+timahaagan ku seexdee
+kolka aad doc u saydho
+sararaa ka degaayee
+sabarkaaga tegaayaan
 samayskooda la yaabay.
-Geed beer udgoon tyo
-Suleekhaay araggaag ta dhex-yaal ugbangeo
-VaLasSs agg ubax iyo man fuulaay.
-nafta waw samir-stisoo Ulihii madheedhkee
-saddex bay ku qaddaaye limey ku yaalliyo
-ha ka goynin salaanta. ilo wada xareedoo
-i nafta lagu illaawaay.
-; Saarey baanad ahayne Dayaxoo iftitmoo
-ry saancad weeye jacaylku arladoo dhan gaadhoo
-surradaan la dhigaynin afar tyo tobnaaday.
-heeryo weeye ku saaran Ms
-soodh halbowlaha gooya Qorraxdoo aroort
-see guud sudhan weeye dhu We mie
-nin ka saahidey oonta — sagal tid dnex y.
-aawadaa uga SoaneD Waxaad tahay aaelnet ae
-saymo looma horseedee. dhexda peo ; a
-xejiyoo adkeeyoo,
-af gobaadsan maayoo,
-| Suleekhaay araggaagu qurux lama amaahdee
-nafta waw samir-siisoo ashkir geenyo ugubey.
+
+Suleekhaay araggaagu
+nafta waw samir-siisoo
 saddex bay ku qaddaaye
-ha ka goynin salaanta. Adhaxdiyo laf-dhabartiyo
+ha ka goynin salaanta.
+
+Saarey baanad ahayne
+saancad weeye jacaylku
+surradaan la dhigaynin
+heeryo weeye ku saaran
+soodh halbowlaha gooya
+seef ku guud sudhan weeye
+nin ka saahidey oonta
+aawadaa uga soomay
+saymo looma horseedee.
+
+Suleekhaay araggaagu
+nafta waw samir-siisoo
+saddex bay ku qaddaaye
+ha ka goynin salaanta.
+
+### AMAL
+
+Dadku kala ayaan roon
+ama kala aqoon dheer
+ama kala asluub weyn
+haddaan eed la doonayn,
+ama deeq Ilaahay
+asaraar ka taagnayn
+dadku eexo kaa gelin
+inanyahay la'aantaa
+dumar lama abuureen
+gabadh lama ammaaneen
+jacayl looma ooyeen.
+
+Geed beer udgoon iyo
+ku dhex-yaal ugbaadoo
+ubax iyo man fuulaay.
+Ulihii madheedhkee
+limey ku yaalliyo
+ilo wada xareedoo
+nafta lagu illaawaay.
+Dayaxoo iftiimoo
+arladoo dhan gaadhoo
+afar iyo tobnaaday.
+
+Qorraxdoo aroortii
+dhulka soo abbaartoo
+sagal iid dhex joogtaay.
+Waxaad tahay adduunyada
+dhexda udub ka haystoo
+xejiyoo adkeeyoo,
+af-gobaadsan maayoo,
+qurux lama amaahdee
+ashkir geenyo ugubey.
+
+Adhaxdiyo laf-dhabartiyo
 sanbabbada agtoodiyo
 ililaha halbowlaha
 eebaa ku mudanoo
 arrintii cuslaatoo
-naftu aammusnaantit
-iimaansan weydoo
-
-Suleek
-eekhaay ara
-(afta way. -oaagu
-Sad Samir-sjj
-dex bay la piso
-7" Salaanig,
-Saatirkij ku ab Dadku kala ayaan roon
-goort * dOuuree ama kala agoon dheer
-@Nn aad samay ama kala asluub weyn
-cabbaad ay mooddo \
-e0aadhyaa ky Sargooy; haddaan eed la doonayn,
-Sidrigaagiyo laabta See ama deegq llaahay
-limahaagan ku seer asaraar ka taagnayn
-kolka aad d sate dadku eexo kaa gelin
-Santee OC U Saydho inanyahay la’aantaa
-sab a degaayee dumar lama abuureen
-¢ arkaaga legaayaan gabadh lama ammaaneen
-samayskooda la yaabay jacayl looma ooyeen.
-. 5 Geed beer udgoon tyo
-uleekhaay araggaagu ku dhex-yaal ugbaadoo
-nafta waw samir-siisoo ubax iyo man fuulaay.
-saddex bay ku gaddaaye Ui Hg ihc
-ha ka goynin , imey ku yaalliyo
-goynin salaanta. ilo wada xareedoo
-nafta lagu illaawaay.
-Saarey baanad ahayne Dayaxoo iftttmoo
-en, Se | arladoo dhan gaadhoo
-saancad weeye jacaylku afapnvoltD OG Be
-surradaan la dhigaynin :
-heeryo weeye ku saaran Qorraxdoo aroortit
-soodh halbowlaha gooya dhulka soo abbaartoo
-seef ku guud sudhan weeye sagal iid dhex joogtaay.
-nin ka saahidey oonta Meat l COA i
-aawadaa uga soomay dhex a udub ka haystoo
-avmo looma horseedee. xejiyoo adkeeyoo,
-Sayer af-gobaadsan maayoo,
-qurux lama amaahdee
-, shkir geenyo ugubey.
-Suleekhaa) araggaag ashkir geenyo ugubey
-waw samir-Sus
-hee - hay ku gaddaa ye Adhaxdiyo laf-dhabartiyo
-saddex Day sa Jaanta. sanbabbada agtoodiyo
-ha ka goynin ililaha halbowlaha
-eebaa ku mudanoo
-arrintii cuslaatoo
-naftu aammusnaantit
+naftu aammusnaantii
 iimaansan weydoo
 
 Amaleey jacaylkii
-soo dhaafyey uurkoo GOD MAD
-afku haysan waayoo OW
+soo dhaafyey uurkoo
+afku haysan waayoo
 goortaan ogaadee
-arammidu dillaacdaan Dumar geesi dhaaxay
-ooddii ka leexshee. gooyeen heddiisoo
+arammidu dillaacdaan
+ooddii ka leexshee.
+
+Axdi jaba,abaal luma
+kaa eegi maayee,
+igadh iyo maqaarkeed
+innagoo ahaannaan
+hadalkii ku ururshee,
+adiguna dheh aammiin.
+
+### GOD MADOW
+
+Dumar geesi dhaaxay
+gooyeen heddiisoo
 ragna garabsi moodkood
-‘ ka gaboobi maayee
-Axdi jaba,abaal luma gunburreyda hoosaan
-kaa eegi maayee, gurrac uga jarmaadoo
-| igadh iyo maqaarkeed darantiyo gulaankaan
-innagoo ahaannaan gebagebo ku dhaafoo
-hadalkii ku ururshee, Guban xeebaheedaan
-adiguna dheh aammiin. sii maalin gaaloo
-gorraxdoo godkeedii
+ka gaboobi maayee
+gunburreyda hoosaan
+gurrac uga jarmaadoo
+darantiyo gulaankaan
+gebagebo ku dhaafoo
+Guban xeebaheedaan
+sii maalin gaaloo
+qorraxdoo godkeedii
 la gelaysa fooddaa
 luguhu i gabeenoon
 socodkii gadaashoo
 Geriyaad dhexdiisaa
 gudcur igu ballaadhoo
-garan waa kaskaygit
+garan waa kaskaygii
 geesaan u jeedoo
 gabaddano naf joogtaa
 gogol doonimaysee
-dhaxantaan go’aygit
+dhaxantaan go'aygii
 garbaha iska saaroo
 good iyo abeesaa
 igu soo gurguurtoo
 gool qawdhamaysaan
-gondaheeda seexdoo |
+gondaheeda seexdoo
 naftu guure mooyee
-gama ’yeeli weydoo
+gama'yeeli weydoo
 guntigaan adkayston
-marada isku gitjoo
+marada isku giijoo
 waagoo guduutaan
 gooddiga abbaaroon
 geyi laga hayaamiyo
-guri madhan ts taagoo
+guri madhan is taagoo
 sida goraya cawshoo
 galab hoos u jeeddoo
-| gu’ barwaaqadiistyo
+gu' barwaaqadiisiyo
 Gaaroodi joogtoo
-| baydari gantaalii
+baydari gantaalii
 geed ugula dhuuntoo
+ku gilgiley fallaadhoo
+meel halis ah gooyaa
+gucle iga dhammaadoo
+godollaan ordaayon
+sida awr gabraareed
+geeddiga higsanayo.
 
-OO
-Coo EE ee
-ku gilgiley fallaadhoo TOG
-meel halis ah gooyaa -DHEER
-gucle iga dhammaadoo N;
-godollaan ordaayon inba wuxu ku taamaa
-sida awr gabraareed ama hees ka tiriyaa
-geeddiga higsanayo. tixo gabay ku sheegaa
+Gobolkaan u jeedaa
+guulluhu i keenoo
+gabayoon duleedkaan
+weheshadey go'aygoo
+anigoo gandoodoo
+is-guhaadinaayaa
+waxaan geystey mooyee
+birta layla gaadoo
+inantaan gardaadsheen
+gaadiid sidiisii
+ku xambaaray guudkaa
+wedka ii guddoontee.
+
+Godob-reeb ha joogee
+lay diid garawshoo
+giddi habar-dugaag baa
+waydaydu gaadhoo
+gorgorka iyo haddaa
+ilmo gabax ka siiso
+garanuugta aydaa
+geedaha ka soonto,
+ma hallayn gartaydee
+gacal baan u waayoo
+golahay lahayd iyo
+geedkeeda keenee
+guddidaan u dhiibee
+guudkeed xil-saaraa
+i gargaari weydoo
+gaaliyo Islaamkaan
+gacan-siin ka waayoo
+god madow dhexdiisaan
+ku gunaanad seegaa
+geeraarku joogaa.
+
+### TOG-DHEER
+
+Ninba wuxu ku taamaa
+ama hees ka tiriyaa
+tixo gabay ku sheegaa
 halka lagu tallaalee
 hawadiisu taallee
-Gobolkaan u jeedaa uurkiisu tebayee,
-guulluhu i keenoo dumar taan ka sahansaday
-gabayoox duleedkaan waa gabadh Tog-dheeroo
-weheshadey go’aygoo Maxamuudi toox weyn
-anigoo gandoodoo saddex-qayd ka tolatoo
-is-guhaadinaayaa tusbax luqunta gelisoo
-waxaan geystey mooyee tafta daraya-muuskii
-birta layla gaadoo taakiyo badh muuqdoo
-inantaan gardaadsheen dhaclihii tarraxayoo
-gaadiid sidiisii sida bogorad taash xidhan
-ku xambaaray guudkaa hadalkeeda tirisoo
-wedka ii guddoontee. kolba erey tukubisoo
-toddobaatan jeer baan
+uurkiisu tebayee,
+dumar taan ka sahansaday
+waa gabadh Tog-dheeroo
+Maxamuudi toox weyn
+saddex-qayd ka tolatoo
+tusbax luqunta geli soo
+tafta daraya-muuskii
+taakiyo badh muuqdoo
+dhaclihii tarraxayoo
+sida boqorad taash xidhan
+hadalkeeda tirisoo
+kolba erey tukubisoo
+toddobaatan jer baan
 soo toosay xalayoo.
-Godob-reeb ha joogee Sidan timo haldhaaley
-lay diid garawshoo ugu tebey hurdada xalay
-giddi habar-dugaag baa anigaba Tog-dheer baa
-Beira eagle : tusku iiga muuqdaa.
-ilm x ka sii
-ae ee oa oe Ninba WUXtE ka taahaa
-eet aia ka soonto, ama talal ku sheegaa
-Re fiatiaom cartaydee oe gacan ku taabtaa
-1alka laga taftaafee
-gacal baan u waayoo Bur
-f urco waxay ku taallaa
-golahay lahayd iyo ididdada tin iyo cidhib
-Ree eanniléenee le idda + Ce oH ul
-Padaigann dhitbee tebinaaya dnuggee
-Paved stsaara hadba dhan u tallawshoo
-A ih weyde a dayax taabba-qaadoo
-| Baio sla oh " O toban iyo shan joogtyo
-Bastia ka aan xiddi gaha tartamayee
-) Pe iow ice isku taxay dushiisaa
-’ iisaan tahan iiga hirayoo
-. ku gunaanad seegaa Tusmo barashadeediyo
-| geeraarku joogaa. taltallaabsigeediyo
-tarantarinta laafyuhu
-a
-
-meeshay i turuqdiyo
-
-tawstay i gelisaa
-
-igu sii tarmaysoo, GUDB AN
-
 Sidan timo haldhaaley
+ugu tebey hurdada xalay
+anigaba Tog-dheer baa
+tusku iiga muuqdaa.
 
-ugu tebey hurdada xalay Waa duni la gaadoo
+Ninba wuxu ka taahaa
+ama talal ku sheegaa
+ama gacan ku taabtaa
+halka laga taftaafée
+Burco waxay ku taallaa
+xididdada tin iyo cidhib
+tebinaaya dhiiggee
+hadba dhan u tallawshoo
+dayax taabba-qaadoo
+toban iyo shan joogiyo
+xiddigaha tartamayee
+isku taxay dushiisaa
+tahan iiga hirayoo
+Tusmo barashadeediyo
+taltallaabsigeediyo
+tarantarinta laafyuhu
+meeshay i turuqdiyo
+tawstay i gelisaa
+igu sii tarmaysoo,
+Sidan timo haldhaaley
+ugu tebey hurdada xalay
+anigaba Tog-dheer baa
+tusku iiga muuqdaa.
 
-anigaba Tog-dheer baa iyadoon gabow iyo
+Tuke Bari ka yimi baan
+tusay boogahaygoo
+u tilmaamay beeshoo
+tebi idhi dhambaalkee;
+taarkii ma geynoo
+isma tarin dedaalkuu
+u tabaabulshaystoo
+taab-gaabnidiisay
+naftu xadhiga tawseed
+ugu turunturrootoo
+la tawaawacaysaa.
+Miyuu tuuray hadalkii ?
+Miyuu tiray jacaylkii ?
+Mise tulud raqdeeduu
+ugu taaganyahay geed ?
+Mise wuxu tukanayaa
+Faral iyo Taraawiix ?
+Mise wuxu taraarkii
+kala dhacay Tabciyo Sheekh ?
 
-tusku iiga muuqdaa. calitr ka dhow iyo
+Sidan Timo haldhaaley
+ugu tebey hurdada xalay
+anigaba Tog-dheer baa
+tusku iiga muuqdaa.
 
+### GUDBAN
+
+Waa duni la gaadoo
+iyadoon gabow iyo
+geerida ka dhow iyo
 geeddiba ku talo-gelin
-Tuke Bari ka yimi baan ve uit qudh-gooyada
-tusay boogahaygoo Bara too Rd SE?
-u tilmaamay beeshoo owe 2 valey oe |
+seeftii qudh-gooyada
+galka looga siiboo
+soo guur la yidhiyoo
+waxay gaaxsanaysiyo
+khasnadii guraysoo
+daba goosanaysoo
+is-gunaanadaysoo
+waagii guduutaba
+ged kalaad ku aragtaa
+gurrac lagama waayee.
 
-eee 'Yy gaaxsanaysiyo
-
-tebi idhi dhambaalkee; khasnadii guraysoo
-
-taarkii ma geynoo daba goosanaysoo
-
-isma tarin dedaalkuu is-gunaanadaysoo
-
-u tabaabulshaystoo waaeii ;
-
-a) gii guduutaba
-taab-gaabnidi isay ged kalaad ku aragtaa
-naftu xadhiga tawseed gurrac lagama waayee.
-gu turunturrootoo
-
-a tawaawacaysaa. Sear
-Miyuu tuuray hadalkti ? of ODL ERO
-Miyuu tiray jacaylkii ? Raagaa sar-gooyoo
-Mise tulud raqdeeduu Cali baa gardaadshoo
-Wie Set toed peed. / Gedihii Qamaan iyo
-ise wuxu tukanayaa gabaygii salaan iyo
-Faral tyo Taraawiix ? gudbantii darwiishkiyo
-| Mise wuxu taraarkii murti weeye gibilloo
-kala dhacay Tabciyo Sheekh ? isku-joog gun iyo baar
-Sidan Timo haldhaaley imidabiauis; sana yom
-Peutebeyihurdada xalay inan gacan farshaxanit
-anigaba Tog-dheer baa na atg) aol ie
-tustaitied muugdaa gaashooyin maristyo
+Sheekadu ged iyo xeel
+af-gobaadsi weeyoo
+Raagaa sar-gooyoo
+Cali baa gardaadshoo
+Gedihii Qamaan iyo
+gabaygii salaan iyo
+gudbantii darwiishkiyo
+murti weeye gibilloo
+isku-joog gun iyo baar
+midabkii is-gaadhiyo
+inan gacan farshaxanii
+harraray garaariyo
+gaashooyin marisiyo
 googoos la saaroo
 nin gardaadsha mooyee
-ruuxii gulaanit
+ruuxii gulaanii
 ka sal-gaadhi maayee
 googgaa abwaankow.
-| Gabadh caana nuugoo
+
+Gabadh caana nuugoo
 gugan maanta dhalatoo
-| dhul gurguurad mooyee
+dhul gurguurad mooyee
 garanaynin socodkoo
 gosha lagu xambaaroo
 hayaanka iyo geeddiga
-
 awr loo gureeyoo
-gaadiid la saaroo gororshoo ku maydhoo
-misna guudka dabatoo ma hadhooyin geystoo
-garka aan furaynoo misna loo garaaboo
-debcinayn garayskoo godob reeb la siiyoo
-guurguurka noloshiyo inan loo guddoonshoo
-godadkii isdaba yiil gudbiyoo is-dhaafshoo
-iska garab maraysoo gocor aan xil hanan iyo
-goormaan lammaanaan He ee u guurshoo |
-ama lay gelbinayaa nt pe aC |
-taladeed ku gaw tidhi ylant gaari maahayn
-waa xaal gurracanoo We xaal Bar racanoo
-gurranoo la yaablee gurranoo la ie
-waxaan uga gol leeyahay Ae OU sY Sa ee
-ruuxii gartow sheeg. ruuxii gartow sheeg.
-Geel aan irmaan lyo
+gaadiid la saaroo
+misna guudka dabatoo
+garka aan furaynoo
+debcinayn garayskoo
+guurguurka noloshiyo
+godadkii isdaba yiil
+iska garab maraysoo
+goormaan lammaanaan
+ama lay gelbinayaa
+taladeed ku gaw tidhi
+waa xaal gurracanoo
+gurranoo la yaablee
+waxaan uga gol leeyahay
+ruuxii gartow sheeg.
+
+Geel aan irmaan iyo
 gabno iyo candhooliyo
 madi guuto deeqdiyo
-gaaniyo horweyn tyo
-y awr goola wadannoo
+gaaniyo horweyn iyo
+awr goola wadannoo
 gaban daadahaynoo
 gallad cidi ku qabinoo
 lala gelin hadhuubkoo
 geedaha aqoonnoo
 garow loo bisleeyo
 geeslow Biciidkiyo
-| Garanuugta seenyoon
+Garanuugta seenyoon
 loo soo gabraaroo
-| misna guul-darraystow
-| ganac loo wardheeroo
+misna guul-darraystow
+ganac loo wardheeroo
 cidi gaadhi weydoo
 ninna goosan waayoo
-dhagankiisu gaar yahay
+dhaqankiisu gaar yahay
 waa xaal gurracanoo
 gurranoo la yaablee
 waxaan uga gol leeyahay
 ruuxii gartow sheeg.
+
 Waayeel gadoodoo
 gacalkii ku duuloo
-. guluf weerar saaroo
+guluf weerar saaroo
 gamcihiisa dhiiggii
+gororshoo ku maydhoo
+ma hadhooyin geystoo
+misna loo garaaboo
+godob reeb la siiyoo
+inan loo guddoonshoo
+gudbiyoo is-dhaafshoo
+gocor aan xil hanan iyo
+nin labaad u guurshoo
+ka gabbaati qaatoo
+yidhi gaari maahayn'
+waa xaal gurracanoo
+gurranoo la yaablee
+waxaan uga gol leeyahay
+ruuxii gartow sheeg.
 
-AXAD Dil Indhahaa habeenkij
-Waa lay addimey ku ilaalinaayoo
-axaddii sidaan dhammideed addunyada
-kuu eegayee afarteeda waaxood
-araggeeda taan hadba gees u eegee.
+### AXADDII
+
+Waa lay addimey
+axaddii sidaan
+kuu eegayee
+araggeeda taan
 ku il-doogsadaay
-ma ae tahay Aammusnow habeenkii
-axdigaad martiyo ugbaadka iyo dooggaa
-meeshaad i tidhi tiiraanyo ooyoo
-waan imanayaa. idilkood xiddigahaa
-Immisaad farriin afar qaed) socodkoo
-ergo soo dirtood Ubax baan guroo
-oontiyo biyaha S00 ey, Sait
-hurdo aawaday me oes oh es d
+ma illawsan tahay
+axdigaad martiyo
+meeshaad i tidhi
+waan imanayaa.
+Immisaad farriin
+ergo soo dirtood
+oontiyo biyaha
+hurdo aawaday
+uga soommanayd.
 
-a soommanayd. VE AGATA),
-“8 ku ag daadiyoon
-ku ilaa xidhoon
-Eed layga keeniyo weheshada idhee.
+Eed layga keeniyo
 midna amar Ilaahay
-kuma aad maqnaanine :!
-; Eedaanka diiggoo
-Bea) taloadade. oogsadey salaadiyo
-waagoo iftiimaan
-Haddaad i tidhaahdo iman maayo Welles inaan ahay
-ma aadeen halkaad ogsooneyd. asaraar ka saaroon
-addimada cuskadayoon
-, Anigaa isla hadloo dib u soo arooree.
+kuma aad maqnaanine
+adigayska baaqde.
+
+Haddaad i tidhaahdo iman maayo
+ma aadeen halkaad ogsooneyd.
+
+Anigaa isla hadloo
 mar waxaan idhaahdaa
-ie : cat maysoo Col wae CG nee
-vay Imanne Su Joog, libsadey xilkeedii
-mar waxaan idhaahdaa samo ugama aayee
-axdigaydin dhigateen aan kala war haynaan
-Kolla oofin maysee ku afgooyey heestee
-samir Eebbe qaadoo maxay adiga kula tahay?
+ku illaawi maysoo
+way imanne sii joog,
+mar waxaan idhaahdaa
+axdigaydin dhigateen
+kolla oofin maysee
+samir Eebbe qaadoo
 ka fogow agteedaan
 uurkayga geliyaa.
+
 Aramida jacayl baa
 i hogaaminaysoo
 misna kuma adkaystoo
 kama hoydo aydoo
 naftu olol ma deysee.
-| SF
 
-OO _———
-; ) lyadoo barwaago ah
-Adigaan ae u re balliyada xareeddij
-ama tats ‘s Sax a ku bariisanaysoo
-ama badaha waaweyn bidix midig dhan loo dayo
-nafta aan ku biimayn. barigiyo galbeedkaba
-buuruhu is haystaa
-Baariis adaan tegin waaberi sated
-ama Boon ka sheekayn S00 saartay baallaha
-barashada dalkaagaa bilcilkiyo maraagii
-horta laga bogtaayoo shinbiruhu bulxamayaan
-beryo laysku hawlaa. rhb basaasow
-oorame ma aragteen?
-| Dhulku baaxad sooriyo
-banan miidhan weeyaan Ma ogtahay barbaareey
-ama waa bus iyo oon heesaha Barawn tumo
-ninka buug ku haystow adigaan bogga u lulin
-beentaada weeyaan. Beerrey Kabeebey
-Bismillaahi Saylici
-Balcad Jawhar Shalanbood i ee AY ck
-barakada Qoryooley Kuu baadi e ae
-waxa canab bislaadee sie
+Indhahaa habeenkii
+ku ilaalinaayoo
+dhammideed addunyada
+afarteeda waaxood
+hadba gees u eegee.
+
+Aammusnow habeenkii
+ugbaadka iyo dooggaa
+tiiraanyo ooyoo
+idilkood xiddigahaa
+afar qaaday socodkoo
+Ubax baan guroo
+soo ururiyoo
+amranow golii
+ooddii madhnayd
+ku ag daadiyoon
+ku ilaa xidhoon
+weheshada idhee.
+
+Eedaanka diiggoo
+oogsadey salaadiyo
+waagoo iftiimaan
+keligey inaan ahay
+asaraar ka saaroon
+addimada cuskadayoon
+dib u soo arooree.
+
+Qof ammaano lumiyoo
+iibsadey xilkeedii
+samo ugama aayee
+aan kala war haynaan
+ku afgooyey heestee
+maxay adiga kula tahay?
+
+### BAAQ
+
+Adigaan cirka u bixin
+ama boodin leexada
+ama badaha waaweyn
+nafta aan ku biimayn.
+
+Baariis adaan tegin
+ama Boon ka sheekayn
+barashada dalkaagaa
+horta laga bogtaayoo
+beryo laysku hawlaa.
+
+Dhulku baaxad sooriyo
+banan miidhan weeyaan
+ama waa bus iyo oon
+ninka buug ku haystow
+beentaada weeyaan.
+
+Balcad Jawhar Shalanbood
+barakada Qoryooley
+waxa canab bislaadee
 Baydhabi u gaar tahay
-Boowiaso ae Bast J Ma ogtahay barbaareey
-Bixin Duule Laaleys qalabkana bud dhumucliyo
-Biyo Guure Kala-baydh ‘pare oe eligawag
-beeraha Wajaalee — EE a
+Boosaaso iyo Beer
+Bixin Duule Laaleys
+Biyo Guure Kala-baydh
+beeraha Wajaalee
 lagu reebay baahida
-Baar-dheere iyo Jilib Ma ogtahay barbaareey
-waa bogol kun oo mayl huga maro Banaadiri
-dhulka lagu badhaadhee saddex qayd bidhaantiyo
-beeyadu ku taallee bafto laba dhudoodaa
-badar lagu abuuree kuu baadi soocee.
+Baar-dheere iyo Jilib
+waa boqol kun oo mayl
+dhulka lagu badhaadhee
+beeyadu ku taallee
+badar lagu abuuree
 lagu ridey bariiskee
-balka la gu tallaalee Ma ogtahay barbaareey
-muuskiyo babaygii barshin iyo darfooley
-barkadeen xa reeddoo, bayluuli xaradhlaa
-Waxa taa ka sii badan kuu baadi soocee.
+balka lagu tallaalee
+muuskiyo babaygii
+barkadeen xareeddoo,
+Waxa taa ka sii badan
 dhulka bari-samaadkee
-pecan eit daaqdee Ma ogtahay barbaareey
-ie aynu dhaqannaa waxa loo buseelaa
-argo dhereg ka Joogtee. ama qurux ku caan baxay
+beesheennu daaqdee
+barta aynu dhaqannaa
+barqo dhereg ka joogtee.
 
-ll
+Iyadoo barwaaqo ah
+balliyada xareeddii
+ku bariisanaysoo
+bidix midig dhan loo dayo
+barigiyo galbeedkaba
+buuruhu is haystaan
+waaberi cadceeddii
+soo saartay baallaha
+bilcilkiyo maraagii
+shinbiruhu bulxamayaaan
+indhihii basaasow
+Boorame ma aragteen?
+
+Ma ogtahay barbaareey
+heesaha Barawn tumo
+adigaan bogga u lulin
+Beerrey Kabeebey
+Bismillaahi Saylici
+Hana-haybsantii bari
+Batar iyo Wareegtaa
+kuu baadi soocee.
+
+Ma ogtahay barbaareey
+qalabkana bud dhumucliyo
+waran iyo billaawaa
+kuu baadi soocee.
+
+Ma ogtahay barbaareey
+huga maro Banaadiri
+saddex qayd bidhaantiyo
+bafto laba dhudoodaa
+kuu baadi soocee.
+
+Ma ogtahay barbaareey
+barshin iyo darfooley
+bayluuli xaradhlaa
+kuu baadi soocee.
+
+Ma ogtahay barbaareey
+waxa loo buseelaa
+ama qurux ku caan baxay
 ama laysku baantaa
 ama lagu bogsoodaa
-kal bugtaa ku faydaa ERGADII FURQ AAN
-kugu deeqa baashaal &:
-mal bila hau magac dheer Nebiggi Ilaahow
-hablaheenna bilicdiyo Boe aie
-| eer ; unkiyo
-biligiyo il-waadka leh aa Were agai Bak
+kal bugtaa ku faydaa
+kugu deeqa baashaal
+guri bila ku magac dheer
+hablaheenna bilicdiyo
+biligiyo il-waadka leh.
+
+Bilcantii shisheeya ah
+ninka beegsanaayow
+waxaan kaaga baqayaa
+inaad baadi noqotee
+cidla baylah keligaa
+yaanu bahalku kaa helin.
+
+Isu buri geyaankaa
+barta gogoshu kuu taal
+bahda lagama maarmaan
+bud-dhiggaaga koowaad
+baaqaygu waa kaas.
+
+### ERGADII FURQAAN
+
+Nebiggi Ilaahow
+Nuurkii Islaamkow
+adigoo adduunkiyo
+ifka weli ka maqan baa
 lagu sii oddorosoo
-Bilcantii shisheeya ah ishaarooyin badan baa
-ninka beegsanaayow dadku kaa arkeenoo
-waxaan kaaga bagayaa Maal maha Illaahay
-inaad baadi nogotee qaar baa astaanlee
-cidla baylah keligaa toddobada ayaamood
-yaanu bahalku kaa helin. Isniin baad ka dhalatoo
+ishaarooyin badan baa
+dadku kaa arkeenoo
+Maal maha Illaahay
+qaar baa astaanlee
+toddobada ayaamood
+Isniin baad ka dhalatoo
 adduunyada xuskaagii
 ololaa ka dhacayoo
-Isu buri geyaankaa urur-weyne goortii
-barta gogoshu kuu taal ugxantaadu bururtaa
-bahda lagama maarmaan xiddiguhu ifeenoo
-bud-dhiggaaga koowaad dayaxaa ilayskii
-baagaygu waa kaas. arladoo dhan gaadhoo
-| onkodkiyo hillaacaa
+urur-weyne goortii
+ugxantaadu bururtaa
+xiddiguhu ifeenoo
+dayaxaa ilayskii
+arladoo dhan gaadhoo
+onkodkiyo hillaacaa
 araggiyo wax maqalkii
 ashqaraar ku ridayoo
 Insigiyo jinkaa farax
@@ -540,906 +1141,1530 @@ dhirtu oogadaadiyo
 afartaada geesood
 ubax iyo caleen bay
 ku ilaa-xidheenoo.
+
 Ab tirsiimadaadiyo
-| meeshaad ku ababtaa
+meeshaad ku ababtaa
 dadku wada ogaayoo
-Aaminatu? Wahab baa
+Aaminatu Wahab baa
 kugu qaaday uurkoo
 weli soo if bixin baa
 adoogaa xijaabtoo
-3 Aamina Waa Aamina Bintu Wahab. Waa Nebi Maxamed hooyadii (Nabad iyo naxariisi korkiisa ha ahaatee).
-ep 61
-EEE EE eee
-
-nafta laga aroorshoo ee
-Amran hooyadaa baa idan kaaga yimiyoo
-ummushii ku dhimatoo se Eebbe kaa wacay
-Allahay Xaliimuu* Neha oogadtisoo
-PRA LEE DUN eayOO ebow geenyo uguboo
-iga aga anga’ amranoo la yaabloo
-iyaduu xilkaagit Ashkiraa ku qaadoo
-adhaxdeeda saar oe Carshigaa il-bidhiqdeed
-iyadaa laf-dhabartiyo irriduhu furmeenoo.
-kugu qaaday adhaxdoo Alaaheenna weyn baad
-abuurtaada Nebiyow afti kala hesheenoo
-ulajeeddo weyn buu noloshiyo iftiinkuu
-ka lahaa Ilaahoo kuu soo egmadayoo
-hadba guri ammaanuu Gaaliyo Islaamkuu
-Rabbi kugu ogaayoo u arrimi ku yidhiyoo
-arrintaada meel buu urur-weyne waa taad
-lat ilaalinaayoo ka akhriday dhambaalkee
-adigoo agoonaad ummadoo dhan shirisee
-Maka adhi ku raacdoo arrintti dhacsiisee
-oon iyo harraad iyo ulajeeddo hadashee
-arrad iyo cagaag baad oosha tidhi hoggaansama.
+nafta laga aroorshoo
+Amran hooyadaa baa
+ummushii ku dhimatoo
+Allahay Xaliimuu
+igadh kaaga dhigayoo
+iyaduu xilkaagii
+adhaxdeeda saaroo
+iyadaa laf-dhabartiyo
+kugu qaaday adhaxdoo
+abuurtaada Nebiyow
+ulajeeddo weyn buu
+ka lahaa Ilaahoo
+hadba guri ammaanuu
+Rabbi kugu ogaayoo
+arrintaada meel buu
+ku ilaalinaayoo
+adigoo agoonaad
+Maka adhi ku raacdoo
+oon iyo harraad iyo
+arrad iyo cagaag baad
 u adkaysanaysee
-Nebigii adeerkii Inkastood wax yaabliyo
-Abu Daalib koriyow. tustay dhawr astaamood |
-waa tay addoomuhu
-ee afar iyo shan mooyee
-2, i . a 4 : Bean kaa aamuseenoo
-limaansan waayeen
-buur oogadeedoo Aayadaha Quraankee
-Adduunyada sirteediyo dhegahana ka awteen
-ifa-faalaheediyo ulajeeddadaadoo
-ku dhex jira ammuuraha adyadaa carruurtiyo
-: ka qarsoon addoomaha gardarada abwaanada
-sow uur-ku-baaliyo ushu kuma damqaynoo
-Malag kuuma imanoo samirkii Ayuub baad
-| Igra kuuma dhiginoo kaga uur samaydoo
-Aayadaha Quraankiyo eeddooda waataad
-] magacyada Ilaahay u adkaysanaysee.
-kuma odhan guddoomoo
-runta kuma ogeysiin. Waan-waanta Eebbiyo
-amar baad sugaysee
-Dabadeed ayaantaas goortii af daatee
-Xaruntii Ilhaamkaa odayadi Quraysheed
-ergo lagala quustaa
-4 Xaliimo-Waa Xaliimatu Sacdiya.
+Nebigii adeerki
+Abu Daalib koriyow.
 
-abbaanduulayaashii ‘
-ka irdhoobey Diintee Allaahu Akbartii bay
-Ashahaada diidiyo pene ts asnaamtii
-arbayaashi qooqaa : u ‘ fe ada
-Beder lagu umaadoo GGnyaal ta Deeree
-es ninba toban abuurtaa
-lagu adhax wareemoo Eedaanki duma
-Chace ie yoo
-Kalas | Head baa Allahay sir iyo caad
-birta loo afaystoo inu yahay mid keliyaad
-waaberi arooryaa asaraar ka saartoo
-Uxud layska helayoo udubbada Furgaan baad
-eebiyo gantaal baa ku adkaysay ciiddoo
-lagu wada idlaadoo xididada u aastoo
-dhiiggii ordaayaa ummad kala qab-weynoo
-oodaha la tegayoo Ashahaada karinoo
-ololkii Xunayn baa anbatoo hallawdoo
-bogorkiyo ugaaskii abtirsiimo lumisoo
-indhashoodi duushoo is addoonsanaysoo
-goobtii Axsaab baa utin kala dhex-taalliyo |
-axan loogu kariyoo aar-doon ku madhatoo
-utin kaa maqnayd baad usha laysku dhacayoo
-aarkeeda gudatoo ooduhu dhex-yaalliin
-Kabcaada ajarankii soo ururshihiiyow.
+Nebigii Ilaahow
+adoo jooga keligaa
+buur oogadeedoo
+Adduunyada sirteediyo
+ifa-faalaheediyo
+ku dhex jira ammuuraha
+ka qarsoon addoomaha
+sow uur-ku-baaliyo
+Malag kuuma imanoo
+Iqra kuuma dhiginoo
+Aayadaha Quraankiyo
+magacyada Ilaahay
+kuma odhan guddoomoo
+runta kuma ogeysiin.
+
+Dabadeed ayaantaas
+Xaruntii Ilhaamkaa
+idan kaaga yimiyoo
+waxa Eebbe kaa wacay
+cirka oogadiisoo
+Nebow geenyo uguboo
+amranoo la yaabloo
+Ashkiraa ku qaadoo
+Carshigaa il-bidhiqdeed
+irriduhu furmeenoo.
+Alaaheenna weyn baad
+afti kala hesheenoo
+noloshiyo iftiinkuu
+kuu soo egmadayoo
+Gaaliyo Islaamkuu
+u arrimi ku yidhiyoo
+urur-weyne waa taad
+ka akhriday dhambaalkee
+ummadoo dhan shirisee
+arrintii dhacsiisee
+ulajeeddo hadashee
+oosha tidhi hoggaansama.
+
+Inkastood wax yaabliyo
+tustay dhawr astaamood
+waa tay addoomuhu
+afar iyo shan mooyee
+kaa aamuseenoo
+iimaansan waayeen
+Aayadaha Quraankee
+dhegahana ka awteen
+ulajeeddadaadoo
+adyadaa carruurtiyo
+gardarada abwaanada
+ushu kuma damqaynoo
+samirkii Ayuub baad
+kaga uur samaydoo
+eeddooda waataad
+u adkaysanaysee.
+
+Waan-waanta Eebbiyo
+amar baad sugaysee
+goortii af daalee
+odayadi Quraysheed
+ergo lagala quustaa
+abbaanduulayaashii
+ka irdhoobey Diintee
+Ashahaada diidiyo
+arbayaashii qooqaa
+Beder lagu umaadoo
+lagu adhax wareemoo
+ajar iyo jihaad baa
+birta loo afaystoo
+waaberi arooryaa
+Uxud layska helayoo
+eebiyo gantaal baa
+lagu wada idlaadoo
+dhiiggii ordaayaa
+oodaha la tegayoo
+ololkii Xunayn baa
+boqorkiyo ugaaskii
+indhashoodi duushoo
+goobtii Axsaab baa
+axan loogu kariyoo
+utin kaa maqnayd baad
+aarkeeda gudatoo
+Kabcaada ajarankii
 nafta lagula eertoo
-libta lagu aroostaa Dunidoo la iibshoo
-Xarameynku tidoo dadku kala irdhooboo
-. uskagii ka maydhoo, dhasha aabbayaashii
-waxa laysku aaminay nolol aasayaanoo
-"Aaway ku aaway qof kastaa itaalkii
-ambagqaad higgaadoo ku adeeganaayoo
-Addin yaa Bilaal”. ruuxaan awood-layn
+libta lagu aroostaa
+Xarameynku iidoo
+uskagii ka maydhoo,
+waxa laysku aaminay
+"Aaway ku aaway
+ambaqaad higgaadoo
+Addin yaa Bilaal".
+
+"Dhammideed adduunyada
+afarteeda waaxyood
+Eedaanka gaadhsii
+Addin yaa Bilaal".
+
+"Awliyada qarsoon iyo
+iilkiyo xabaalaha
+Aammiinta maqashii
+Addin yaa Bilaal".
+
+Allaahu Akbartii bay
+daateen asnaamtii
+Abu Jahal rumeeyoo
+'Ilaahyadi' la beeree
+ninba toban abuurtaa
+Eedaanki dumayoo
+Allahay sir iyo caad
+inu yahay mid keliyaad
+asaraar ka saartoo
+udubbada Furqaan baad
+ku adkaysay ciiddoo
+xididada u aastoo
+ummad kala qab-weynoo
+Ashahaada karinoo
+anbatoo hallawdoo
+abtirsiimo lumisoo
+is addoonsanaysoo
+utin kala dhex-taalliyo
+aar-doon ku madhatoo
+usha laysku dhacayoo
+ooduhu dhex-yaalliin
+soo ururshihiiyow.
+
+Dunidoo la iibshoo
+dadku kala irdhooboo
+dhasha aabbayaashii
+nolol aasayaanoo
+qof kastaa itaalkii
+ku adeeganaayoo
+ruuxaan awood-layn
 la addoonsanaayoo
-fs : dadku ooyayaanoo
-Dhammideed adduunyada umal-taah is seexdaan
-afarteeda waaxyood Nebigii axsaantiyo
-Eedaanka gaadhsii galladiyo abaalkiyo
-Addin yaa Bilaal”. soo rogey ammaankow.
-“Awliyada qarsoon iyo Xaqa kama ajoodow
-lilkiyo xabaalaha runta kama adkaystow
-Aammiinta magashii ammaanada ma lumiyow
-Addin yaa Bilaal”. dadka uma abtiriyow
+dadku ooyayaanoo
+umal-taah ku seexdaan
+Nebigii axsaantiyo
+galladiyo abaalkiyo
+soo rogey ammaankow.
+
+Xaqa kama ajoodow
+runta kama adkaystow
+ammaanada ma lumiyow
+dadka uma abtiriyow
 ammaantaada Nebiyow
 afku koobi maayee
-__ re
-
 waxaad olol bakhtiisiyo
 waxaad eedo reebtiyo
-waxaad in dans WACDARAHA ADDUUNKA
+waxaad iin daweysiyo
 waxaad eel bogsiisiyo
-waxaad aafo damisiyo ;
-illinkaad sate Watlaac hee ku seareay
-dhagankiyo asluubtiyo DUP CER ATS ee
-wareer anigoo la liita
-garaadkiyo aqoontiyo maxaan werwer jiifi waayey.
-timaanka sugan baa Maxaan sida weer cadhaysan
-dadku kaaga aayee saqaa dhexe gaaf-wareegey,
-axdigaagu waa tiir intuu waqal ti hillaacay
-ummaddaadu mudantahay, maxaan kula rooray weelka,
-u baydhay wadiigo leexsan
-Rabbow adiga mooyee bea gu i tilmaami waayey.
-f if acaylku muxuu i wiigay
-Illaah kale ma jiro. anal hiil
-Marka xiga agoonsani muxuu wadnahayga shiilay
-Maxaan shimbiraa waraystay
-Nebi Maxamed E ebbow u dhiibey waraaq daboolan
-Er gadii Furqaan iyo haaddii wacdigayga qaadday
-inuu yahay ma dhaafaan cid weeye tidhaahda weydey.
+waxaad aafo damisiyo
+illinkaad bannaysiyo
+dhaqankiyo asluubtiyo
+garaadkiyo aqoontiyo
+iimaanka sugan baa
+dadku kaaga aayee
+axdigaagu waa tiir
+ummaddaadu mudantahay.
+
+Rabbow adiga mooyee
+Illaah kale ma jiro.
+Marka xiga aqoonsani
+Nebi Maxamed Eebbow
+Ergadii Furqaan iyo
+inuu yahay ma dhaafaan
 Ambiyadda dhammaantood.
+
+Allahayow ha nagu xilin
+noloshiyo adduunyada.
+Eebbow sinnaantiyo
+Islaamnimada xooggee.
+Udgoonow Rasuulkii
+ummaddiisa naga yeel
+na illaali weligaa.
+Rabbow iilka nagu dhawr
+ifka nagu xannaanee.
+Eebbow hortaadiyo
+aakhiro qiyaamaha
+Rabbiyow il debecdoo
+naxariis leh nagu eeg.
+
+### WACDARAHA ADDUUNKA
+
+Walaac anigoo ku seexday
+maxaan walbahaar la toosay
+wareer anigoo la liita
+maxaan werwer jiifi waayey.
+Maxaan sida weer cadhaysan
+saqaa dhexe gaaf-wareegey,
+intuu waqal ii hillaacay
+maxaan kula rooray weelka,
+u baydhay wadiiqo leexsan
+wakhtigu i tilmaami waayey.
+Jacaylku muxuu i wiiqay
+muxuu wadnahayga shiilay
+Maxaan shimbiraa waraystay
+u dhiibey waraaq daboolan
+haaddii wacdigayga qaadday
+cid weeye tidhaahda weydey.
+
 Waayeel dadow
-Allahayow ha nagu xilin inan waalanahay
-noloshiyo adduunyada. duni weer siddoo
-Eebbow sinnaantiyo weligeed dhintoo
-Islaamnimada xooggee. wacadkiyo xadhkii
-Udgoonow Rasuulkii weydaarataan
-ummaddiisa naga yeel weelaynayaa.
-4 na illaali weligaa.
-Rab bow iilka nagu dhawr Wadeeco maxaan ilaashey
-ifka nagu xannaanee. waraabe ka soo xereeyey
-Eebbow hortaadiyo sac weyda maxaan u dhaanshey
-aakhiro giyaamaha Walwaal ugu soo arooray,
-Rabbiyow il debecdoo halkiisa ku soo waraabshey.
-naxarits leh nagu eeg. Maxaan weli soo kexeeyey
+inan waalanahay
+duni weer siddoo
+weligeed dhintoo
+wacadkiyo xadhkii
+weydaarataan
+weetaynayaa.
+
+Wadeeco maxaan ilaashey
+waraabe ka soo xereeyey
+sac weyda maxaan u dhaanshey
+Walwaal ugu soo arooray,
+halkiisa ku soo waraabshey.
+Maxaan weli soo kexeeyey
 wadaaddo maxaan u yeedhay
 u loogey wankayga fiican.
 Waxyeello halkay u taallo
-. naftayda maxaan ka waanshey,
+naftayda maxaan ka waanshey,
 walaalkay nimaan u haystey
 muxuu waddo ii fadhiistay.
 Qof aan wehelkayga moodey
 ka qayb galay weerarkayga
-CC IESE'”CS;z:?“=Si ni
-
 ruuxaan la wadaagey oontu
-ku wiirsadey dhiilladayda. IN A SULD AAN
-Waayeel dadow Axdiyohow ha lumin
-inan waalanahay ugxanyahay ha dhicin
-duni weer siddoo ashkiryohow ha jabin |
-weligeed dhintoo ubaxyohow ha dhiman |
-wacadkiyo xadhkii udubyohow galool
-weydaarataan oggolow dhigaa.
+ku wiirsadey dhiilladayda.
+
+Waayeel dadow
+inan waalanahay
+duni weer siddoo
+weligeed dhintoo
+wacadkiyo xadhkii
+weydaarataan
 weetaynayaa.
-Nin cuskaday Ilaahay
-Maxaan wacdarha adduunka ee ee
-eSO0 Jirey WEG) aheeda Avian Rabeey ;
-warkeeda la ii dhammeeyey soo lururivesy
-maxaa waran layla doonay Adduunyoy hadduu
-habeennimo layla waayey Se bike
-i J yey nin ku aamminaa
-nasiib kaga waa bariistey, helo aayatiin
-maxaa dabin lay wareejey ha lagaa arkee
-wedkeyga la ii shir-qoolay, ishaarada nin goba
-maxaan dacar lay walaaqay ha ka eexanneey.
-waabeeyo ku caafimaaday, >
+
+Maxaan wacdarha adduunka
+u soo jirey waayaheeda
+warkeeda la ii dhammeyey
+maxaa waran layla doonay
+habeennimo layla waayey
+nasiib kaga waa bariistey,
+maxaa dabin lay wareejey
+wedkeyga la ii shir-qoolay,
+maxaan dacar lay walaaqay
+waabeeyo ku caafimaaday,
 Maxaan wacad layla qaatay
-rumaystay Wallaahi beena. bata dist ops
-gowan webiyaal is-jiidhay hadba awr ku guuraa
-exdooda ka waab-samaystay wax Ilaahay kuu qoray
-wanaag anigoo sameeyey cidi oolin maysee,
-maxay wadhi ii dambeysey. ukuntii dillaacdoo
+rumaystay Wallaahi beena.
+Maxaan webiyaal is-jiidhay
+dhexdooda ka waab-samaystay
+wanaag anigoo sameeyey
+maxay wadhi ii dambeysey.
+
+Wayeel dadow
+inan waalanahay
+duni weer siddoo
+weligeed dhintoo
+wacadkiyo xadhkii
+weydaarataan
+weetaynayaa.
+
+### INA SULDAAN
+
+Axdiyohow ha lumin
+ugxanyahay ha dhicin
+ashkiyohow ha jabin
+ubaxyohow ha dhiman
+udubyohow galool
+oggolow dhigaa.
+
+Nin cuskaday Ilaahay
+Eebbow ku magan galay
+Kuma qado agtaadee,
+Arrimaha Rabbow
+soo ururiyee.
+Adduunyoy hadduu
+nin ku aamminaa
+helo aayatiin
+ha lagaa arkee
+ishaarada nin goba
+ha ka eexanneey.
+
+Iima badan naftaydaay
+dadku waaya-arag buu
+hadba awr ku guuraa
+wax Ilaahay kuu qoray
+cidi oolin maysee,
+ukuntii dillaacdoo
 ababtoo fogaatoo
-Wayeel dadow kambalkiyo ardaagaad
-inan waalanahay ku ogeyd ma joogtoo
-duni weer sidoo shimbir ay ku nooloo
-weligeed dhintoo laba baal aroortii
-wacadkiyo xadhkii urur kale la duushaad
-weydaarataan umal taah naftaydaay
-weetaynayaa. ku ugaadhsanaysaa.
-Ruuxaan aqoon tyo
+kambalkiyo ardaagaad
+ku ogeyd ma joogtoo
+shimbir ay ku nooloo
+laba baal aroortii
+urur kale la duushaad
+umal taah naftaydaay
+ku ugaadhsanaysaa.
+
+Ruuxaan aqoon iyo
 axdi naga dhaxayn bay
 dadku igu sidkeenoo
 Eebbow runtii bay
 asaraarayaanoo
 qof ammaanadaadiyo
-
 wacadkaaga iibshay
-addin tigu Pee, Nin abwaanahoo
-Anna xuur al pod A apok ka arradan gacmaha
-Rabbiyow abuurtoo ka irmaan dibnaha
-amranoo la yaabloo tolow Ina Suldaan
-ka garsoon adduunkoo afku maw gudaa ?
-cirka oogadiisiyo Hadday weli Alliyo
-abataqan ku nooloo uur-ku-baalle tahay
-qof ilaasha mooyee hadday aawadeed
-cidi aanay aragoo adhaxdiyo wadnaha
-maalmaha Isniineed waxaa iin ku yaal
-iyo labada lidood ka il-sugan lahayd
-eedaanka subaxdii indhaheeda tolow
-dhulka soo abbaartoo ilmo lagu samraa
-Awliyada jacaylkee ma ka iman lahayd ?
-arammidu ku mudantahay oday lama filee
-marta agalladoodoo afti iyo haddii
-wadne abur tufaayoo ergo loola tago
-olol iyo dab yeeshoo tolow aabbaheed
-aslanoo casaanoo muxuu odhan lahaa ?
+addin iigu xidhayaan.
+Anna xuural-caynaad
+Rabbiyow abuurtoo
+amranoo la yaabloo
+ka qarsoon adduunkoo
+cirka oogadiisiyo
+abataqan ku nooloo
+qof ilaasha mooyee
+cidi aanay aragoo
+maalmaha Isniineed
+iyo labada Iidood
+eedaanka subaxdii
+dhulka soo abbaartoo
+Awliyada jacaylkee
+arammidu ku mudantahay
+marta aqalladoodoo
+wadne abur tufaayoo
+olol iyo dab yeeshoo
+aslanoo casaanon
 ooyaaya dhiigoo
-dhexda eebo kaga taal Urugiyo xusuus baa
-ku afura tidhaahdaa, asaraarka faallada
-indhahaygu haystaan. saqda dhexe abuuree
-umal iyo ladh soo kaca
-Ul madheedhahoon wakhtiyada inkaarta ah
-hor Ilaahay iyo maxaa lagu illoobaa ?
+dhexda eebo kaga taal
+ku afura tidhaahdaa,
+indhahaygu haystaan.
+
+Ul madheedhahoon
+hor Ilaahay iyo
 abaal laysu siin
 orod lagu heleyn
 awood lagu hantiyin
-ayaan tyo nasiib |
-| ma ka adag yihiin ?
+ayaan iyo nasiib
+ma ka adag yihiin ?
+
 Adduun iyo kalgacal
 hadday wada ordaan
 hal-abuur tolow
-wax ma tibiyaa?
+wax ma iibiyaa?
 Beer oodanoon
-| irrid furan lahayn
-| haddii ubax jacayl
+irrid furan lahayn
+haddii ubax jacayl
 ula sare ku yaal
 naf oggoli talooy
 illinkee martaa ?
 
-ee
-sarka-dhaban ha nogonnin,
-SAXARLA ha saluugin qaybaha
-qalin baa saxeexee. ;
-Kau sinnaan dharaartii Wasa is pega Ls
-la sargooyey dunidee 1a U suul-dha yi
+Nin abwaanahoo
+ka arradan gacmaha
+ka irmaan dibnaha
+tolow Ina Suldaan
+afku maw gudaa ?
+Hadday weli Alliyo
+uur-ku-baalle tahay
+hadday aawadeed
+adhaxdiyo wadnaha
+waxaa iin ku yaal
+ka il-sugan lahayd
+indhaheeda tolow
+ilmo lagu samraa
+ma ka iman lahayd ?
+oday lama filee
+afti iyo haddii
+ergo loola tago
+tolow aabbaheed
+muxuu odhan lahaa ?
+
+Urugiyo xusuus baa
+asaraarka faallada
+saqda dhexe abuuree
+umal iyo ladh soo kaca
+wakhtiyada inkaarta ah
+maxaa lagu illoobaa ?
+
+### SAXARLA
+
+Ku sinnaan dharaartii
+la sargooyey dunidee
 Rabbigay sameeyee,
-cirka sare u taagee Kala saar run iyo been
-xiddigaha siraatiyo kala garo sir iyo caad.
-dayax suudi meeriyo In salaadu weligeed
-lagu sugay cadceeddee kal tahay Sunni iyo Faral
-sagalkiyo daruurtiyo u Ogow sax iyo maan.
+cirka sare u taagee
+xiddigaha siraatiyo
+dayax suudi meeriyo
+lagu sugay cadceeddee
+sagalkiyo daruurtiyo
 lagu xidhay sitaacee.
-Dhulka gogol la seexdiyo Inaad saamo jiiddiyo
-sabo lagu negaadiyo sangadh tirasho kala daa.
-laga dhigay sin-dadabkee Naf jacayl sawaaboo
-buuraha la saree. sanka kuu dalooshoo
-Dhirta samayda ciiddiyo kuu sudhay hoggaan baad
-salka loogu joojee, u siddaa maqaarkee,
-saddex laab bad iyo webi ha ku daba-saglaysee
-lagu yidhi sabbeeyee. ha u gaabin seetada
-Dabadeed la saanyee sogsogtiyo cadaaddiyo
-gofba meel la siiyee ha ku saydhin laamaha.
+Dhulka gogol la seexdiyo
+sabo lagu negaadiyo
+laga dhigay sin-dadabkee
+buuraha la saaree.
+Dhirta samayda ciiddiyo
+salka loogu joojee,
+saddex laab bad iyo webi
+lagu yidhi sabbeeyee.
+Dabadeed la saanyee
+qofba meel la siiyee
 saldhiggeedu qaydnaa.
-cidi uma sinnaynoo Waan soo socdaa kow dheh
-| dadku ruux sabooloo waxna waan sidaa laba dheh
-saranseer ku raagiyo samir yeelo weligaa
-guryo-samo nin yaalloo Saxarlaay ha fududaan.
+cidi uma sinnaynoo
+dadku ruux sabooloo
+saranseer ku raagiyo
+guryo-samo nin yaalloo
 sidka dhalay ku haystoo
 helay seer-ma-weydiyo
 laba kala sed-roon baa
 subax nolba joogee.
+
 Waan soo socdaa kow dheh
 waxna waan sidaa laba dheh
 samir yeelo weligaa,
 saxarlaay ha fududaan.
-Sal-fudaydku Xaawu
-' Jannadii ka saree
-ruuxaad sugaysoo
-. maqan waa la saadshaa
-sahan waa la dhawraa.
-Ha sahwiyin ha salelin 73
 
-Se ee UUlUCOssts—‘“‘i‘“SsOOOS<‘<—~S;C«C™
-D ARYEEL kolley waa danbaabaa
-hadduu kaa abaal daro |
-Markaan daafta hoosiyo dadka kaad u roontahay
-arko daymo-bogashada adigaa dul qaatee,
-araraha la daadshiyo Rabbow aanu nala degin
-dhirta lagu daleeyiyo dhulka aannu daagnaa.
-waxa buuro daah weyn Rabbiyow ha nagu dumin
-lagu daabay ciiddiyo cirkan duudka weynoo,
-bado laba-dibleeyaa Rabbiyow ha nagu didin
-ishu damac i gelisaa. ti gue pia feel tie
-abbiyow ha nagu dirin
-F dabaylaha cartamayoo,
-phage ae ahd guud Rabbiyow ha nagu dilin
-ayaxlyo cadceedalyo duufaannadaadoo,
-dildillaanka fadadkiyo Rabbiyow ha nagu darin
-onkodkiyo dayaankiyo durdurrada rogmanayoo
-gang ed GNBERRY VO daad-xoor ha naga dhigin.
-aciyo
+Sal-fudaydku Xaawu
+Jannadii ka saree
+ruuxaad sugaysoo
+maqan waa la saadshaa
+sahan waa la dhawraa.
+Ha sahwiyin ha salelin
+sarka-dhaban ha noqonnin,
+ha saluugin qaybaha
+qalin baa saxeexee.
+Waxan Saatir kuu qorin
+ha u suul-dhabaalayn.
+
+Kala saar run iyo been
+kala garo sir iyo caad.
+In salaadu weligeed
+kal tahay Sunni iyo Faral
+u ogow sax iyo maan.
+
+Inaad saamo jiiddiyo
+sanqadh tirasho kala daa.
+Naf jacayl sawaaboo
+sanka kuu dalooshoo
+kuu sudhay hoggaan baad
+u siddaa maqaarkee,
+ha ku daba-saqlaysee
+ha u gaabin seetada
+sogsogtiyo cadaaddiyo
+ha ku saydhin laamaha.
+
+Waan soo socdaa kow dheh
+waxna waan sidaa laba dheh
+samir yeelo weligaa
+Saxarlaay ha fududaan.
+
+### DARYEEL
+
+Markaan daafta hoosiyo
+arko daymo-bogashada
+araraha la daadshiyo
+dhirta lagu daleeyiyo
+waxa buuro daah weyn
+lagu daabay ciiddiyo
+bado laba-dibleeyaa
+ishu damac i gelisaa.
+
+Markaan daawashada guud
+dayaxiyo cadceeddiyo
+dildillaanka fadadkiyo
+onkodkiyo dayaankiyo
+danab laba dhacaayiyo
+dardaraa hillaaciyo
 arko hogol darroortaa
-runtu igu duxdaayoon Rabbow duunyo nool baan
-derejada Ilaahay ka awow dugsanayoo
-dib u soo xusuustaa. aoe Hey oY pak ca
-dux baruur leh mooyee
-uma baran wax doorshee,
-wegen doogga cawskiyo Rabbiyow diraaciyo
-eegaantu saarrayn Jiilaal dab kululoo
-Gia dls imaaesheen, dibad-joogta cawshiyo
-dabar-gooya xoolaha
-led ike dinay sect dibirtooda naga hay.
-tyow dushiisoo
+runtu igu duxdaayoon
+derejada Ilaahay
+dib u soo xusuustaa.
+
+Haddaan doogga cawskiyo
+deegaantu saarrayn
+dhulku duug ma yeesheen,
+diihaal ma reebeen
+qofna kuma danaysteen
+Rabbiyow dushiisoo
 dunidaada Eebbow,
-adigaan cid diran baad Rabbow duumadaadiyo
-toddobaad ku dadabtoo inta cudurro duushee
-iyadoo danbarisoo doc wareenka feedhaha
-sida doonnan gabadheed sambabbada dalooshiyo
-inta timaha loo dabay daacuun ha nagu ridin.
+adigaan cid diran baad
+toddobaad ku dadabtoo
+iyadoo danbarisoo
+sida doonnan gabadheed
+inta timaha loo dabay
 dunta lagu afmeershaa
-laga furay daboolkoo Rabbiyow dagaalliyo
-‘ dalaggaad ku beertaa, dabley gaatamaysiyo
-gofba weel darsanayaa. belo laga ducaystiyo
-| ma-naxaan ha noo dagin
-Inkastuu qof diintiyo duullaan ha noo jebin.
+laga furay daboolkoo
+dalaggaad ku beertaa,
+qofba weel darsanayaa.
+
+Inkastuu qof diintiyo
 dar Ilaahay jecel yahay,
 laba daan af-yeeshaa
+kolley waa danbaabaa
+hadduu kaa abaal daro
+dadka kaad u roontahay
+adigaa dul qaatee,
+Rabbow aanu nala degin
+dhulka aannu daaqnaa.
+Rabbiyow ha nagu dumin
+cirkan duudka weynoo,
+Rabbiyow ha nagu didin
+bahalaha derderanoo,
+Rabbiyow ha nagu dirin
+dabaylaha cartamayoo,
+Rabbiyow ha nagu dilin
+duufaannadaadoo,
+Rabbiyow ha nagu darin
+durdurrada rogmanayoo
+daad-xoor ha naga dhigin.
 
-ES ——
+Rabbow duunyo nool baan
+ka awow dugsanayoo
+dibnahaygu caaniyo
+dux baruur leh mooyee
+uma baran wax doorshee,
+Rabbiyow diraaciyo
+Jiilaal dab kululoo
+dibad-joogta cawshiyo
+dabar-gooya xoolaha
+dibirtooda naga hay.
+
+Rabbow duumadaadiyo
+inta cudurro duushee
+doc wareenka feedhaha
+sambabbada dalooshiyo
+daacuun ha nagu ridin.
+
+Rabbiyow dagaalliyo
+dabley gaatamaysiyo
+belo laga ducaystiyo
+ma-naxaan ha noo dagin
+duullaan ha noo jebin.
+
 Rabbow dawladnimaduna
-kuma iman dalxtisoo
-door-roonayaal baa HUDHUD
-u deldeley naftoodoo |
-dumar baa hugoodiyo Bogorkay hug iyo ciil
-dahabkii u iibshoo hagardaamo lumisow
-doon-doonisteedii hadimada kalgacalka leh
-dhiig baa ku daatee, Cilmigii u hoydow
-Rabbow daawad curatoo heesaha baroorta ah
-dakharrada bogsiisoo halqabsiga jacaylkow
-ubadkeeda deeqdiyo hambalyiyo salaan iyo
-ka dhig malabka doocaan. hibo iga guddoomoo
-kolley waan hubaayoo
-hawlii adduunyada
-Rabbiyow dirkaygana heshay aayahoodee
-dan-wadaag is-jeceloo hal yar aan ku toydee
-derejeysa qarankiyo Jannadii ma hurudaa ?
-bulsho laga dab qaatoo Hadh qabow ma jiiftaa?
-Carro-Edeg ku dayatiyo Hoobaan ma gurataa?
-ka dhig ul iyo diirkeed. Hablo xuural caynii
-sow kuuma heesaan?
-; Waxa aad la haysaba
-Rabbiyow dugaalkiyo hoo kuma yidhaahdaan?
+kuma iman dalxiisoo
+door-roonayaal baa
+u deldeley naftoodoo
+dumar baa hugoodiyo
+dahabkii u iibshoo
+doon-doonisteedii
+dhiig baa ku daatee,
+Rabbow daawad curatoo
+dakharrada bogsiisoo
+ubadkeeda deeqdiyo
+ka dhig malabka doocaan.
+
+Rabbiyow dirkygana
+dan-wadaag is-jeceloo
+derejeysa qarankiyo
+bulsho laga dab qaatoo
+Carro-Edeg ku dayatiyo
+ka dhig ul iyo diirkeed.
+
+Rabbiyow dugaalkiyo
 dugsi waa dhul hooyoo
-nin da’diisa tuugoo
-dewersadey asaaggii Wedka lama huraayee
-dogonniino weeyoo reer soo hayaamiyo
-dibad ruux u sahan tegey hayin raran ma kulanteen ?
-dulli waayi maayee, Hor llaahay adigiyo
-| dalkayga Ilaahow Hodan maysku aragteen?
-| dhereg iyo daryeel iyo Ma is-dhaafsateen hadal?
-wax na deeqa nagu sili.
-Bal maxaan haweenkiyo
-Rabb. dumar ugu hiloobaa?
-iis (ss ie as fe a Ama kula heshiiyaa, |
-diipanhadiile-dhaa fi i ugu hagar la’aadaa?
-dadku kuu yimaadda Sowtay hir beeniyo
-darka soo fadhiista gH ku tuseen hillaacee
-Rabbiyow ha nagu A rin hogol aan da a iyo
-i inta aad ku digat hanfi kuu aroorsheen
-i areata NT, ce Hirwo kuu garaaceen
-kuugu baaqeen:
-labadaada daarood hungo kuug
+nin da'diisa tuugoo
+dewersadey asaaggii
+doqonniino weeyoo
+dibad ruux u sahan tegey
+dulli waayi maayee,
+dalkayga Ilaahow
+dhereg iyo daryeel iyo
+wax na deeqa nagu sii.
+
+Rabbow doodda Aakhiro
+marka ay durbaankiyo
+dawannadu is-dhaafaan
+dadku kuu yimaaddaan
+darka soo fadhiistaan
+Rabbiyow ha nagu darin
+inta aad ku digatee
+u dareera Naartoo
+labadaada daarood
 Rabbiyow ta door roon
 kuwa degaya naga yeel.
 
+### HUDHUD
+
+Boqorkay huq iyo ciil
+hagardaamo lumisow
+hadimada kalgacalka leh
+Cilmigii u hoydow
+heeseha baroorta ah
+halqabsiga jacaylkow
+hambalyiyo salaan iyo
+hibo iga guddoomoo
+kolley waan hubaayoo
+hawlii adduunyada
+heshay aayahoodee
+hal yar aan ku toydee
+jannadii ma hurudaa ?
+Hadh qabow ma jiiftaa?
+Hoobaan ma gurataa?
+Hablo xuural caynii
+sow kuuma heesaan?
+Waxa aad la haysaba
+hoo kuma yidhaahdaan?
+
+Wedka lama huraayee
+reer soo hayaamiyo
+hayin raran ma kulanteen?
+Hor Ilaahay adigiyo
+Hodan maysku aragteen?
+Ma is-dhaafsateen hadal?
+
+Bal maxaan haweenkiyo
+dumar ugu hiloobaa?
+Ama kula heshiiyaa,
+ugu hagar la'aadaa?
+Sowtay hir beeniyo
+ku tuseen hillaacee
+hogol aan da'ayn iyo
+hanfi kuu aroorsheen
+Hirwo kuu garaaceen
+hungo kuugu baaqeen!
+
 Sowtay ku hawleen
 ku jareen halbowlaha
-haadaan ku koriyeen HAATUF
+haadaan ku koriyeen
 hore kuugu riixeen
-hogga kuu dabooleen Cilmi sow hoggiisii
-hoos kuugu tuureen! hindi suhu imuu geyn
-hambalyiyo salaan iyo |
-Sowtay ku heereen sow hees umaan tirin
-hengelaa ku saareen halka uu ku nool yahay |
-gudcur kuu hillaabeen Asa: pep u guddoontee
-ku dhigeen habaaskee hubi Ha Tema Re
-re kaa ga hoydeen Hodan sow ma weydiin.
-1ororkiyo waraabuhu
+hogga kuu dabooleen
+hoos kuugu tuureen!
+
+Sowtay ku heereen
+hengelaa ku saareen
+gudcur kuu hillaabeen
+ku dhigeen habaaskee
+cidla kaaga hoydeen
+hororkiyo waraabuhu
 hilbahaaga jiiteen
-haadda iyo xuunshadu! Sow waa nin hoydoo
-hanbadooda feenteen. ifka taar la haystee
-kama helin jawaabtii.
-Waxan ugu hamranayaa ?
-hooyaa ka dhalatoo : ies) oy Te
-Paaeee, baa hudhudkii u soo diray
-Wallee hawlahaan galo Seidler
-kama halacsan sheeddoo
-iyo heegantaan dhigo hurin bayla socotee
-dumar lama haweysteen kama hadhin barbaartii.
+haadda iyo xuunshadu!
+hanbadooda feenteen.
+
+Waxan ugu hamranayaa
+hooyaa ka dhalatoo
+naaskii habreed baa
+iga hiilinaayee
+Wallee hawlahaan galo
+iyo heegantaan dhigo
+dumar lama haweysteen
 ragba ma hungureeyeen
 hanti lagama dhiibeen
-guri laguma hoysteen Sow maan hor-gelinoo
-hadal lalama yeesheen! hayhaato maan geyn
+guri laguma hoysteen
+hadal lalama yeesheen!
+
+### HAATUF
+
+Cilmi sow hoggiisii
+hindi suhu imuu geyn
+hambalyiyo salaan iyo
+sow hees umaan tirin
+halka uu ku nool yahay
+anti wuxu guddoontee
+hor Ilaahay ugu tegey
+hubi sow is maan odhan
+Hodan sow ma weydiin.
+
+Sow waa nin hoydoo
+ifka taar la haystee
+kama helin jawaabtii.
+
+Xalay fiid horaadkii
+sow haatufkiisii
+hudhudkii u soo diray
+gacan haadiskiisii
+kama halacsan sheeddoo
+hurin bayla socotee
+kama hadhin barbaartii.
+
+Sow maan hor-gelinoo
+hayhaato maan geyn
 dabadeedna haybtii
 haye kow ma aan odhan.
 Wuxu yidhi halyeygii
 ama haadda soo faray
-ku bilaabay heestii:- )
+ku bilaabay heestii:-
+
 "Ninka ila hadlaayee
 ii soo hiloobee
 hawdkiyo xabaalaha
 hiilkaygu keenee
-/ hamabalyada | Stiyee
-y hogga iiga yeedhow;
+hamabalyada i siiyee
+hogga iiga yeedhow;
 hab-dhaceeda maansada
 adigaa higgaadshee
-anigana war iga hoo.”
-ag 79
-a eee
+anigana war iga hoo."
 
-SS See: eeses—“‘“‘<i‘i‘i‘i‘(C
-”Waxa hawli joogtaa SIDDI
-ama lagu harraadaa -Q A B A xX
+"Waxa hawli joogtaa
+ama lagu harraadaa
 hanad lagu cidhiidhyaa
-hanti lagu gumeystaa Saoxiibka
-'y Qaysow
-dumar hoodo leeyahay marka hore salaan guud
-ragga hoos u eegaan = marka xiga sedkaagiyo
-hoogtada adduunyee. waxa aad ku sugan tahay
-waa inaad na siisaa,
-”Oofka samir hambaystaa marka xiga silsiladdii |
-godka kuma hungoobee murtidaadi soocnayd
-ifka hadimadiisiyo subciyoo dhammeeyoo
-dhibtu way horraysoo solayoo bisleeyoo
-ma huraanta aakhiro ae Eanes: 5
-anigaa ku haystoo oe
-hogol bay kor joogtoo
-onkod iyo hillaac baa Sumaddeedu waxay tahay
-dusha iga hadheeyoo roob saaka da’ay baa
-haro aan go’ayn baan sar-ka-dhaban la yimiyoo
-darayaa hadhuubkoo anna seexan maayee
-hoobaan bislaataan saaxtib ma nabad baa?.
-hagab li’i dhex joogaa Sumaddeedu waxay tahay
-ishu halacsanaysaa heestaydu waa siin
-guri hoos qabow bay sidig weeye dihinoo
-halabtaydu taallaa,” waxa loo saddexa maray
-| : dadka haw sinnaatoo
-b ruuxii saboolii
-Nafta waxan u habayaa caanaha ha saydhee
-sida hooyo wiilkeed saaxiib ma nabad baa?
-naasaa horaadkiyo
-haaneedka slisiyo =
-nirig hooto-nuugoo,” ees ayy ae a
-*Hodan iyo jacaylkeed waa seen j 00
-dani igama haysoo saxar laga ilaashoo
-hablo Xuural laga sugay bidhiiqoo
-haasaawiya en la saluugi maayee
-huwanahay ta ae saaxiib ma nabad baa:
-lagu yidhi u heeso
-geelii hor weyn ies Sumaddeedu waxay tahay
-| igu soo hormanayoon saxan saxo ma roob baa?
-. uhayaa waadaanto Seed geel ma hilib baa?
-hawl bay sugaysee Seko adhi ma xoolaa?
-haye nabad walaalow,” Far-dhexaad ma suul baa?
-; Sakaraad ma lool baa?
+hanti lagu gumeystaa
+dumar hoodo leeyahay
+ragga hoos u eegaan
+hoogtada adduunyee."
 
-SS er... Ul—s—‘a“‘“OSs<‘<i<~i~<;z;C;C ;3;+2CSCS”
-sakaluhu dhex yaalliin
-Biyo sare u jeedaa inan dunida saabkiyo
-halka ay sal-dhigayaan laga saarin tiirkoo
-sahan raacay weydit. gorraxdana siraadkiyo
-laga siibin nuurkoo
-“ay la afuufin suurkaan
+"Qofka samir hambaystaa
+godka kuma hungoobee
+ifka hadimadiisiyo
+dhibtu way horraysoo
+ma huraanta aakhiro
+anigaa ku haystoo
+hogol bay kor joogtoo
+onkod iyo hillaac baa
+dusha iga hadheeyoo
+haro aan go'ayn baan
+darayaa hadhuubkoo
+hoobaan bislaataan
+haqab li'i dhex joogaa
+ishu halacsannaysaa
+guri hoos qabow bay
+halabtaydu taallaa,"
+
+"Nafta waxan u habayaa
+sida hooyo wiilkeed
+naasaa horaadkiyo
+haaneedka siisiyo
+nirig hooto-nuugoo."
+"Hodan iyo jacaylkeed
+dani igama haysoo
+hablo Xuural-caynaan
+haasaawiyaayoo
+huwanahay taftoodoo
+lagu yidhi u heesoo
+geelii hor weyn baa
+igu soo hormanayoon
+uhayaa waadaanto
+hawl bay sugaysee
+haye nabad walaalow."
+
+### SIDDI-QABAX
+
+Saaxiibkay Qaysow
+marka hore salaan guud
+marka xiga sedkaagiyo
+waxa aad ku sugan tahay
+waa inaad na siisaa,
+marka xiga silsiladdii
+murtidaadi soocnayd
+subciyoo dhammeeyoo
+solayoo bisleeyoo
+dabadeedna siistee
+saaxiib ma nabad baa?
+
 Sumaddeedu waxay tahay
-Cabdiyow sabeenii Rabbigay ka sugayaa.
+roob saaka da'ay baa
+sar-ka-dhaban la yimiyoo
+anna seexan maayee
+saaxiib ma nabad baa?.
+Sumaddeedu waxay tahay
+heestaydu waa siin
+sidig weeye dihinoo
+waxa loo saddexa maray
+dadka haw sinnaatoo
+ruuxii saboolii
+caanaha ha saydhee
+saaxiib ma nabad baa?
+
+Heestaydu waa siin
+waa sooryo xididoo
+saxar laga ilaashoo
+laga sugay bidhiiqoo
+la saluugi maayee
+saaxiib ma nabad baa?
+
+Sumaddeedu waxay tahay
+saxan saxo ma roob baa?
+Seed geel ma hilib baa?
+Seko adhi ma xoolaa?
+Far-dhexaad ma suul baa?
+Sakaraad ma lool baa?
+
+Biyo sare u jeedaa
+halka ay sal-dhigayaan
+sahan raacay weydii.
+
+Sumaddeedu waxay tahay
+Cabdiyow sabeenii
 way sumal-xadeenoo
-midi haysa sidatee ; Sumaddeedu waxay tahay
-saddex dhalay warkoodiyo ninka ootay seeraha
-waxay saaka joogaan saxarlana ku guursadey
-xogta aan ku siiyoo haddii uu nin sare yahay
-sarta kaaga jeexee, aan laga sed qaadayn
-Saaxiib ma nabad baa? saadaasha mooyee
-si kalaan ka yeelaa
-suuroobi maysee,
-Sumaddeedu waxay tahay aniguna sidaydaba
-sheekadu sal-fududaan soddohaa rag kale qabo
-ama socodka qaarkiis kuma toobbad seegee,
-kuma sama-falaysoo sumaddeedu waxay tahay
-Cabdiyow ka saan weyn siddi-qabax shan maalmood
-saabkaad u goysoo sahay loogu talo galay
-Guban iyo Saraar bay soddon laguma gaadhee
-suxullada la gaadhoo hadal lama sudhnaadee
-sinta waxay ku haysaa saaxiibkay Qaysow
-subulaha galbeedoo waxad Suubban leedahay
-ninka saylac joogaa saca Faarso nacayow
-sanqadheeda mooyee sagaal beri adoo qaday
-ma yaqaan sirteedoo Samsam yo Bullaalaa
-orgi Sarara weynoo saarkaagu kaa hayn Pea
-sogoboo dhufaaniyo saxarlaay ma kula tahay:
-inay tahay ri‘seenyoon
+midi haysa sidatee
+saddex dhalay warkoodiyo
+waxay saaka joogaan
+xogta aan ku siiyoo
+sarta kaaga jeexee,
+Saaxiib ma nabad baa?
+
+Sumaddeedu waxay tahay
+sheekadu sal-fududaan
+ama socodka qaarkiis
+kuma sama-falaysoo
+Cabdiyow ka saan weyn
+saabkaad u goysoo
+Guban iyo Saraar bay
+suxullada la gaadhoo
+sinta waxay ku haysaa
+subulaha galbeedoo
+ninka saylac joogaa
+sanqadheeda mooyee
+ma yaqaan sirteedoo
+orgi sarara weynoo
+sogoboo dhufaaniyo
+inay tahay ri'seenyoon
 kala saari maayoo
 haddii looga sacab tumo
 Salmihii Gurracaneed
 selel kama baxaysee
-. ha la boodin seeftee
+ha la boodin seeftee
 saaxiib ma nabad baa?
-i Sumaddeedu waxay tahay
-\ ita waranka sooyaan
+
+Sumaddeedu waxay tahay
+inta waranka sooyaan
 samaydii ka maqan tahay
-intay laba su’aalood 33
-ee
+intay laba su'aalood
+sakaluhu dhex yaalliin
+inan dunida saabkiyo
+laga saarin tiirkoo
+qorraxdana siraadkiyo
+laga siibin nuurkoo
+la afuufin suurkaan
+Rabbigay ka sugayaa.
 
-a a... esesesesia‘“ai‘“ai‘“<ai‘i‘i‘<‘<‘<‘<‘<‘<‘<‘(‘(‘(‘(‘(‘(é(aéw
-J EEGAAN TA DHALATAY dhabarkayga raratee
-dhoomaha i saartee
-J eegaanta dhalatee jidka aan dhammaanayn
-cirka lagu dhexrooree igu tidhi ku dhererrow.
-dayaxoo dhammaysoo
-dhulka dacal ku haystiyo Waxba yaan ku dheeraan |
-gorraxdoo dhacaysoo arrintayda dhabaqdi yo |
-dhiganaysa baallaha sunta igu dhalaashiyo
-midba dhool ku mudataay. dhigtan udubka weydiyo
-lurka dhaawacaygee
-Weli waxan dhafoorkiyo dhallinyaro rag iyo dumar
-dhabannada la haystaa dhawr baan aqaannaa
-heegadan dhaqaaq-joog dhugatada kalgacalkiyo
-waxay dheelli-socotaba wada qaba dhukaankoo
-soo caana dhuratee pita hd jalleecada
-isu dhaafi waayee;
-Se ates Mech dhude xidid ahoo qudha
-kugu dherersanaysiyo dhaayaha ku wada yaal
-ta kalee ku dhaajtee inkastay dhaqmaadkiyo
-dhinac Kaaga guratee dhalashada wadaagaan
-dhudhun kaa fogaatee Ghavar WO Taya gad
-ka hillaacday dhuuxee wes Hee ened ie, ve
-dhibic iyo mahiigaan ye ea ae ae epee
-ku dhirbaaxday ctiddee Nafta laba dharaar qudha
-dhirta wada ruxaysoo, isu dhiibi laayoo
-waxa dhaygag ii diley sida dhegaha oo kale
-midabadan dhinbiilaha isu dhiman lahaabay
-dharka wada xariirta ah dantu oodo dhacameed
-dhexda Kuugu duubee midba dhinac u saartoo
-midba dheeha gaarka ah arrintoodu dhiif iyo
-xubin kaaga dhiibshoo, dhul-ku-foorar joogtaa.
+Sumaddeedu waxay tahay
+ninka ootay seeraha
+saxarlana ku guursadey
+haddii uu nin sare yahay
+aan laga sed qaadayn
+saadaasha mooyee
+si kalaan ka yeelaa
+suuroobi maysee,
+aniguna sidaydaba
+soddohaa rag kale qabo
+kuma toobbad seegee,
+sumaddeedu waxay tahay
+siddi-qabax shan maalmood
+sahay loogu talo galay
+soddon laguma gaadhee
+hadal lama sudhnaadee
+saaxiibkay Qaysow
+waxad Suubban leedahay
+saca Faarso nacayow
+sagaal beri adoo qaday
+Samsam yo Bullaalaa
+saarkaagu kaa hayn
+saxarlaay ma kula tahay?
+
+### JEEGAANTA DHALATAY
+
+Jeegaanta dhalatee
+cirka lagu dhexrooree
+dayaxoo dhammadsoo
+dhulka dacal ku haystiyo
+qorraxdoo dhacaysoo
+dhiganaysa baallaha
+midba dhool ku mudataay.
+
+Weli waxan dhafoorkiyo
+dhabannada la haystaa
+heegadan dhaqaaq-joog
+waxay dheelli-socotaba
+soo caana dhuratee
+kugu qabatay dheeggee
+dhammiidaa tin iyo cidhib
+kugu dherersanaysiyo
+ta kalee ku dhaaftee
+dhinac kaaga guratee
+dhudhun kaa fogaatee
+ka hillaacday dhuuxee
+dhibic iyo mahiigaan
+ku dhirbaaxday ciiddee
+dhirta wada ruxaysoo,
+waxa dhaygag ii diley
+midabadan dhinbiilaha
+dharka wada xariirta ah
+dhexda kuugu duubee
+midba dheeha gaarka ah
+xubin kaaga dhiibshoo,
 waxa adiga kaadhigan
-ama baro ku sii dheer Kala dhiman adduunyooy
-qurux kaaga sii dhow, ninkaad dheriga siisa
-middan dhaxanta jiilaal intuu dhuxusha hoosiyo
-dabka iga dhex shidatee dhardhaarrada ku maqanyaa
-wadnahayga dhilatee dhagarta iyo geeridu
-dhillow yahan sidiisii dhoobada ugooyaan.
-dhan kastaba u raacdee Dadba wuxu dhammaadaa
-; xididdada u dhaaftee intuu dharabka doogga leh
-" dhiiggii ka shubatee dhutis ugu tukubayee
-. xinjirtii ka dhuratee hadba meel ku dhaxayee,
-sida dhaanka jiilaal maxaan kaaga dhololaa ?
+ama baro ku sii dheer
+qurux kaaga sii dhow,
+middan dhaxanta jiilaal
+dabka iga dhex shidatee
+wadnahayga dhilatee
+dhillow yahan sidiisii
+dhan kastaba u raacdee
+xididdada u dhaaftee
+dhiiggii ka shubatee
+xinjirtii ka dhuratee
+sida dhaanka jiilaal
+dhabarkayga raratee
+dhoomaha i saartee
+jidka aan dhammaanayn
+igu tidhi ku dhererrow.
 
-AL lala aqal galaayoo,
-ARAG MAQ Rabbigay ennoomane
-‘inti ku abaal marshaayoo
-ntiyo
-Heo hence dhibta lagu illaawaa.
+Waxba yaan ku dheeraan
+arrintayda dhabaqdiyo
+sunta igu dhalaashiyo
+dhigtan udubka weydiyo
+lurka dhaawacaygee
+dhallinyaro rag iyo dumar
+dhawr baan aqaannaa
+dhugatada kalgacalkiyo
+wada qaba dhukaankoo
+dheehashada jalleecada
+isu dhaafi waayee;
+dhude xidid ahoo qudha
+dhaayaha ku wada yaal
+inkastay dhaqmaadkiyo
+dhalashada wadaagaan
+dhayal iyo fudayd baa
+wed u kala dhaqaajaa
+mid dhacdaa halkeedii
+ta kaleeto dhaxashaa.
+Nafta laba dharaar qudha
+isu dhiibi laayoo
+sida dhegaha oo kale
+isu dhiman lahaabay
+dantu oodo dhacameed
+midba dhinac u saartoo
+arrintoodu dhiif iyo
+dhul-ku-foorar joogtaa.
+
+Kala dhiman adduunyooy
+ninkaad dheriga siisa
+intuu dhuxusha hoosiyo
+dhardhaarrada ku maqanyaa
+dhagarta iyo geeridu
+dhoobada u qooyaan.
+Dadba wuxu dhammaadaa
+intuu dharabka doogga leh
+dhutis ugu tukubayee
+hadba meel ku dhaxayee,
+maxaan kaaga dhololaa?
+
+### ARAG MAQAL
+
+Ergaduu farriintiyo
+ku adkeeyey heestee
 egmadaannu kulannoo
-looxii ilhaamkaan Afhayaha barbaartow
-ida uur-ku-baallaha ababshaha dhallaankow
-si
-indhahayga saaroo taliyaha abwaankow
-warku waa ammaanee aabbaha jacaylkow,
-adna Maxamed Moogow adigaan ogeyn baan
-aakhiro halkay tahay uurkaaga baadhoo
-ka arkaa dhu
-ki arrintaadu Qaysow
-Ayadaha Qura ha af gobaadsi weeyee.
-Arraxmaan siday tidhi §
-dalkii Ilaaha .
-es Islaamii f Aakhiro C aa
-7 } way aasantanay
-sida uu aqoonsaday tes jaa
-aakhiro Cabdow
-Waa oomman hawdoo ahataoiliniod
-waa guri abeesoo He kiyo laxaa
-edeg weeye hoosoo awrkii cirkay
-abataqan ku yaalloo ku ag-xidhan tahee
-waa iil madow oo dadku yuu ku eedayn
-Rabbigay addoomaha ha dhex gelin ammuuraha
-kaga aar §ulaayoo isha xidho afkana a
-waxa laga arooraa arag maqal warkana ood.
+looxii ilhaamkaan
+sida uur-ku-baallaha
+indhahayga saaroo
+warku waa ammaanee
+adna Maxamed Moogow
+aakhiro halkay tahay
+Cabdi Qays ogeysii.
+
+Ayadaha Quraankiyo
+Arraxmaan siday tidhi
+hadalkii Ilaahay
+ruuxii Islaamii
+sida uu aqoonsaday.
+
+Waa oomman hawdoo
+waa guri abeesoo
+edeg weeye hoosoo
+abataqan ku yaalloo
+waa iil madow oo
+Rabbigay addoomaha
+kaga aar gutaayoo
+waxa laga arooraa
 irridaha xabaashoo
 anban maayo ruuxii
-qabri lagu adkeeyaa,
+qabri lagu adkeeyaa.
+
 Marna oogadeenniyo
 waa oosha guudkoo
 waa beer udgoon iyo
 duni wada ilaysoo
 waa ceel irmaan iyo
-108ag wada ordaayiyo
+togag wada ordaayiyo
 ilo wada xareedoo
 lagu oon baxaayoo
 naftu eegmo sugashada
-ii ashqaraar ka gaaddoo
-| toddobaatan ooryood 87
-ee
+ashqaraar ka qaaddoo
+toddobaatan ooryood
+lala aqal galaayoo,
+Rabbigay addoomaha
+ku abaal marshaayoo
+dhibta lagu illaawaa.
 
-ia ; Sow goor barqa ahoo
-B PEGE BCE cM bishy, ay Hae tahay
-boodhari inuu diley aniga iyo Beer luli
-been baan u haystee. isku maannu soo bixin.
-Bi’iwaa jacaylow Sow bariidadaydii
-boog aan la dhayinoo iyo bedashadeedii
-cidi baanan karinoo buundada ciyaartee
-beerkiyo wadnaa iyo Beled-Weyn ku taallee
-bogga kaaga taalliyo biyo lulata guudkood
-inuu yahay bir caashaqu badhtankeeda maahayn.
+Afhayaha barbaartow
+ababshaha dhallaankow
+taliyaha abwaankow
+aabbaha jacaylkow,
+adigaan ogeyn baan
+uurkaaga baadhoo
+ula jeeddadaadaan
+ka arkaa dhul dheeroo
+arrintaadu Qaysow
+af gobaadsi weyyee.
+
+Aakhiro Cabdow
+way aasantahay
+iilkay jirtaa
+aakhiro Cabdow
+anbatoo luntoo
+ururkiyo laxaa
+awrkii cirkay
+ku ag-xidhan tahee
+dadku yuu ku eedayn
+ha dhex gelin ammuuraha
+isha xidho afkana dhawr
+arag maqal warkana ood.
+
+### BELED-WEYN
+
+Bi'i waa jacaylow
+boodhari inuu diley
 been baan u haystee.
-Sow bixiso weeyee
-Webigoo butaacoo ballan maannu dhigannoo
-beeraha waraabshoo berri joog imay odhan.
-dhulka baadku jiifoo
-dhirta ubaxu buuxshoo Sow bayd go’aygii
-canabkii bislaadoo layguma bushaareyn
-badarkiyo galleydii ”maantaa la baxayaa”
-laga tuuray baalkoo bulshadii imay odhan.
-Bulladiyo ciyaaraha ”Sow waa bastey oo
-lagu waa bariistoo socod beegsan maayee
-beeluhu gu’joogaan ina baaja caawoo
-sow beri-samaadkii i baxnaansha, ” maan odhan.
-Beled-Weyne maan tegin.
-Sow taliye baasoo
-Dhanka bari magaalada ba’anoo war-moogit
-sow bogorad joogtoo taydii ma beenayn.
-biyo dahab la moodoo
-bilicdii haweenkiyo Sow badiba kooxdii
-bili loo dhammeeyoo goortay badheedhee
-timo bogonta joogoo baabuurki fuuleen ;
-baal goray la moodoo anna baal kamaan korin.
-baarkana casaankii
-bidix midig is gaadhoo Boholyow daraaddii
-| bul-cad lagu xiddeeyoo sow baraq nuglaantii
-badh ku seexanaysoo belo lagu ducaystiyo |
-barkanaysa qaaroo baryo kuma maqnaynoo
-1 huwanaysa baaloo ” biri may xumaatuu
-igu beertay lahashoon baadroolka daadshoo
-. u buseelay maan baran, ka wadaa bukoodoo
 
-bogsan waayo”,maan odhan.
+Bi'iwaa jacaylow
+boog aan la dhayinoo
+cidi baanan karinoo
+beerkiyo wadnaa iyo
+bogga kaaga taalliyo
+inuu yahay bir caashaqu
+been baan u haystee.
+
+Webigoo butaacoo
+beeraha waraabshoo
+dhulka baadku jiifoo
+dhirta ubaxu buuxshoo
+canabkii bislaadoo
+badarkiyo galleydii
+laga tuuray baalkoo
+Bulladiyo ciyaaraha
+lagu waa bariistoo
+beeluhu gu'joogaan
+sow beri-samaadkii
+Beled-Weyne maan tegin.
+
+Dhanka bari magaalada
+sow boqorad joogtoo
+biyo dahab la moodoo
+bilicdii haweenkiyo
+bili loo dhammeeyoo
+timo boqonta joogoo
+baal goray la moodoo
+baarkana casaankii
+bidix midig is gaadhoo
+bul-cad lagu xiddeeyoo
+badh ku seexanaysoo
+barkanaysa qaaroo
+huwanaysa baaloo
+igu beertay lahashoon
+u buseelay maan baran.
+
+Sow goor barqa ahoo
+bishu ay siddeed tahay
+aniga iyo Beer luli
+isku maannu soo bixin.
+
+Sow bariidadaydii
+iyo bedashadeedii
+buundada ciyaartee
+Beled-Weyn ku taallee
+biyo lulata guudkood
+badhtankeeda maahayn.
+
+Sow bixiso weyee
+ballan maannu dhigannoo
+berri joog imay odhan.
+
+Sow bayd go'aygii
+layguma bushaareyn
+"maantaa la baxayaa"
+bulshadii imay odhan.
+"Sow waa bastey oo
+socod beegsan maayee
+ina baaja caawoo
+i baxnaansha," maan odhan.
+
+Sow taliye baasoo
+ba'anoo war-moogii
+taydii ma beenayn.
+
+Sow badiba kooxdii
+goortay badheedhee
+baabuurki fuuleen
+anna baal kamaan korin.
+
+Boholyow daraaddii
+sow baraq nuglaantii
+belo lagu ducaystiyo
+baryo kuma maqnaynnoo
+"biri may xumaatuu
+baadroolka daadshoo
+ka wadaa bukoodoo
+bogsan waayo", maan odhan.
 
 Sow beriga waagiyo
-
-bargo lull Miseibodl Beled-Weyn Allahayow
-geed baaxad weynoo ka dhig guri barwaageed.
+barqo kulul dhexdoodii
+geed baaxad weynoo
 dherer iyo ballaadh-loo
-
-la yidhaahdo baaroo Beerlula Allahayow
-bilig dheer hirkiisti beryo samo ku noolee.
+la yidhaahdo baaroo
+bilig dheer hirkiisii
 ma bidhaansanaynoo
+bulxankiisa yeedhiyo
+ma maqlaynin baaqii.
 
-bulxankiisa yeedhiyo Beled-Weyn Allahayow
-ma maqlaynin baagii. ka dhig beerta raaxada.
-Sow baaxad soorii Beerlula Allahayow
-tyo laba boglayntii ka barii wax yeellada.
-maan nogon bestey oo
-
+Sow baaxad soorii
+iyo laba boglayntii
+maan noqon bestey oo
 bacadkii ma dheelliman.
 
 Sow galab-boqoolkii
-
-annagoo barwaagqiyo
-
+annagoo barwaaqiyo
 meel baadle joognoo
-
 tumanayna Beerrey
-
 sow maan baraarugin.
 
 Riyo beena weeyee
-
 sow baalla-daymii
-
 baabuur lalaayood
-
 haad baalle mooddoo
-
 fananaaya buur dheer
-
 isma odhan ka boodoo
-
 nafta sow ma biimayn.
 
 Nin Banaadir joogoo
-
 Beled-weyn la haystoo
-
 waxaan ahay la baabee
-
 sow baadi doonkii
-
 weli baafis maan ihi.
 
-Beled-Weyn Allaha ow
-
-ka dhig xero badhaadheed
+Beled-Weyn Allahayow
+ka dhig xero badhaadheed.
 
 Beerlula Allahayow
-
 belaayada hareer mari.
 
-i 9]
+Beled-Weyn Allahayow
+ka dhig guri barwaaqeed.
 
-Mua Mudan baad u nogonlayd
-uliyaa saasey dumarkiyo marleydoo
-hay saasey masallaha jacaylkaad
-Muliyaa saasey maamuli lahaydo,.
-hay saasey gabaygaan madhxinayee
-Muliyay saasaa hore ugu masuugaan
-hay saasaa kugu madhin lahaayoo
-Mulliyay saasaa cidi kulama maasheen
-hay saasaa. maskaxdaydan curatoo
-. ae malyan kula gudboonoo
-aa mullaaxda galoo muuqaaga aragoo
-maydhax looga jaraa ? maqlay sheekadaadaa
-Yaa Masaarriyo Hawd ku majeeran-laayoo
-maadha looga guraa ? inta gabadh is mooddaa
-Yaa mageyno irmaan masayr kuugu iman layd.
+Beerlula Allahayow
+beryo samo ku noolee.
+
+Beled-Weyn Allahayow
+ka dhig beerta raaxada.
+
+Beerlula Allahayow
+ka bari wax yeellada.
+
+### MULIYA
+
+Muliyaa saasey
+hay saasey
+Muliyaa saasey
+hay saasey
+Muliyay saasaa
+hay saasaa
+Mulliyay saasaa
+hay saasaa.
+
+Yaa mullaaxda galool
+maydhax looga jaraa ?
+Yaa Masaarriyo Hawd
+maadha looga guraa ?
+Yaa mageyno irmaan
 dhasha looga maraa ?
-Yaa hadhuub madaleed Murankaagu duniduu
-moroh looga tolaa ? maan dhaaf ku ridi-laa
-Yaa maraa hadh qabow kKuwa magqasha raaciyo
-maydal loogu xidhaa ? ma-kastaa ku baranlayd
-Yaa marleyda haween Jidka waxad ku marilayd
-taan maqaarka lahayn sacab iyo mashxaradoo
-looga maarmi karaa ? miyi iyo magaalaad
-Qurux aan masanuun maamuus ka heli-layd.
+Yaa hadhuub madaleed
+moroh looga tolaa ?
+Yaa maraa hadh qabow
+maydal loogu xidhaa ?
+Yaa marleyda haween
+taan maqaarka lahayn
+looga maarmi karaa ?
+Qurux aan masanuun
 male loogu tegeyn
-yaa macnaysan yaqaan ? Midabbada dhabeesha ah
-Miyireey dhibtay diyo quruxdaadan maydhee
-meeraysigaygii Ae fe Nhs hi
-dhegahaad 1adba meel ka sari laa.
-ha ip ] ue nee Madaxuu ku socon laa
-ma huraan ka dhi gatoo mar qgofkii dhegeystaa
-maya baad ku koob meexaanahaygoo
-PE RtOO midho laysku baantaan
-il muggeed wax Joo lvo :
-At IDA kuu marin lahaayoo
-midig baad ka talisee ‘hi
-hawraar magooshoo AEE
-ubax iyo man bixisaan madadda een.
-kugu meherin-laayoo
-marriinkaaga hees iyo Hadba mahadnaqaagaan
-maahmaaho yaabloo mirta dhexe la kici laa,
-nin magtii ka culus iyo gacalkiyo mataanaha
-) murti baan ka dhi bak wedka kala muquunshiyo
+yaa macnaysan yaqaan ?
 
-haddii mawdka geeridu
-iga kaa hor mariyaan H O OYO
+Miyireey dhibtaydiyo
+meeraysigaygii
+dhegahaad ka maratoo
+hadal mooyi keliyaad
+ma huraan ka dhigatoo
+maya baad ku koobtoo
+il muggeed wax joogiyo
+midig baad ka talisee,
+hawraar magooshoo
+ubax iyo man bixisaan
+kugu meherin-laayoo
+marriinkaaga hees iyo
+maahmaaho yaabloo
+nin magtii ka culus iyo
+murti baan ka dhigilaa.
+
+Mudan baad u noqonlayd
+dumarkiyo marleydoo
+masallaha jacaylkaad
+maamuli lahaydo,.
+gabaygaan madhxinayee
+hore ugu masuugaan
+kugu madhin lahaayoo
+cidi kulama maasheen
+maskaxdaydan curatoo
+malyan kula gudboonoo
+muuqaaga aragoo
+maqlay sheekadaadaa
+ku majeeran-laayoo
+inta gabadh is mooddaa
+masayr kuugu iman layd.
+
+Murankaagu duniduu
+maan dhaaf ku ridi-laa
+kuwa maqasha raaciyo
+ma-kastaa ku baranlayd
+jidka waxad ku marilayd
+sacab iyo mashxaradoo
+miyi iyo magaalaad
+maamuus ka heli-layd.
+
+Midabbada dhabeesha ah
+quruxdaadan maydhee
+Rabbi kugu manaystaan
+hadba meel ka sari laa.
+Madaxuu ku socon laa
+mar qofkii dhegeystaa
+meexaanahaygoo
+midho laysku baantaan
+kuu marin lahaayoo
+Muqdishiyo Hargaysaan
+madaddalo waayeen.
+
+Hadba mahadnaqaagaan
+mirta dhexe la kici laa,
+gacalkiyo mataanaha
+wedka kala muquunshiyohaddii mawdka geeridu
+
+iga kaa hor mariyaan
 kama aad maqnaateen
-maankayga gelinoo .
-magac baad ka dhiman layd. Hooyoy is sae Pe
-Marti soorka Eebbiyo j Hee u u aashii
-inta meleg ag-joogtiyo 1abeen kama baxdeenoo
-Z. iftiin lama heleenoo
-marwadii Rasuulkaan dadku uma hayaameen
-magan kaaga dhigi laa. xiddig hawd ka lulatoo
+maankayga gelinoo
+magac baad ka dhiman layd.
+Marti soorka Eebbiyo
+inta meleg ag-joogtiyo
+marwadii Rasuulkaan
+magan kaaga dhigi laa.
+
+Qabrigaaga maansiyo
+murugiyo xusuus iyo
+mahadhaan ku qori laa
+Maka iyo Madiiniyo
+halka Maxamed yaallaan
+calan kuugu mudi laa.
+
+Muliyaa saasey
+hay saasey.
+Cishqi baan mirayoo
+kolba mayracayoo
+muddo dheer isagaan
+majaraa u hayoo
+guntii soo murdiyoo
+kal gacaylkan madow
+aan murwaadka lahayn
+waan ka maydhanayaa
+ninkii meel u hayee
+ku muraadsanayow
+hoo muftaaxa jacayl.
+
+### HOOYO
+
+Hooyoy la'aantaa
+adduunyadu hubaashii
+habeen kama baxdeenoo
+iftiin lama heleenoo
+dadku uma hayaameen
+xiddig hawd ka lulatoo
 sida haad ma fuuleen
-Qabrigaaga maansiyo dayax heego joogoo
-murugiyo xusuus iyo hubka laguma tuureen
-mahadhaan ku qori laa hawo laguma gaadheen
-Maka iyo Madiiniyo cirka hirar ka muuqdoo
-halka Maxamed yaallaan hooy oy addoomuhu
-calan kuugu mudi laa. halkay maanta joogaan
+dayax heego joogoo
+hubka laguma tuureen
+hawo laguma gaadheen
+cirka hirar ka muuqdoo
+hooyoy addoomuhu
+halkay maanta joogaan
 adigow horseedoo
 intaad hanad xambaartee
-Muliyaa saasey haaneedka siisee
-hay saasey. horaaddada jaqsiisee
-Cishgi baan mirayoo habtay baan xisaab iyo
-kolba mayracayoo tiro lagu heleynoo.
-muddo dheer isagaan
-majaraa u hayoo Marka aad nin hiilloo
-guntii soo murdiyoo laga bago hashiisiyo
-kal gacaylkan madow halyey diran dhashaabaa
-aan murwaadka lahayn hooyo la gu xusuustaa
-: waan ka maydhanayaa
-ninkii meel u hayee Marka aad nin hoo-loo
-‘ ku muraadsanayow gurigiisa habaqluhu
-hoo muftaaxa jacayl. isku soo halleeyoo
+haaneedka siisee
+horaaddada jaqsiisee
+habtay baan xisaab iyo
+tiro lagu heleynoo.
+
+Marka aad nin hiilloo
+laga baqo hashiisiyo
+halyey diran dhashaabaa
+hooyo lagu xusuustaa
+
+Marka aad nin hoo-loo
+gurigiisa habaqluhu
+isku soo halleeyoo
 hayntiisa quudhoo
 hor ilaahay geystiyo
 lama hure dhashaabaa
 hooyo lagu xusuustaa.
+
 Marka aad nin himilada
 hilin toosan mariyoo
 hir markii la gaadhoba
-. ku labaad hilaadshoo
+ku labaad hilaadshoo
 haga maatadiisoo
 la higsado dhashaa baa
 hooyo lagu xusuustaa.
 
-kolba aanad hees iyo
-Marka aad nin hooggiyo CES ly
-ka hor taga dagaalkoo oy He sabinoo
-garta hubin yaqaanoo FOS AAG UWABY AG
-saga hoos u eegoo hanaqaadi maayee
-halistivo colaadaha hoyg ul kalgacalkee
-dabka hura bakhtiiyoo NEATUSONTGURIEG
+Marka aad nin hooggiyo
+ka hor taga dagaalkoo
+garta hubin yaqaanoo
+xaqa hoos u eegoo
+halistiyo colaadaha
+dabka hura bakhtiiyoo
 ku haggoogta dhiiggoo
-dadka kala hagaajoo Hooyoy dushaadaa
-kala haga dhashaa baa nabad lagu hubaayoo
-hooyo lagu xasuustaa. hooyoy dhabtaadaa
-hurdo lagu gam’aayoo
-hooyoy taftaadaa
-Markaad hoobal caaniyo dite age helaayoo
-hindisaa farshaxanoo waxa lagu hal-maalaa
-hab-dhaca iyo luuqdiyo hooyo ababintaadee
-hawraarta maansada hayin lagu badhaadhaay
-heensayn yaqaannoo hogol lagu qabooobaay
-Rabbi hibo u siiyo gogol lama huraaneey
-labadaba hannaanshiyo dugsigii hufnaantaay
-hal-abuur dhashaa baa hidda lagu arooraay.
+dadka kala hagaajoo
+kala haga dhashaa baa
 hooyo lagu xasuustaa.
-ie Intaad hooyo nooshahay
-; hambalyiyo salaan baan
-Dumar iyo haween baa hanti kaaga dhigayaa
-bd es i 2 Bibs alee xaq-dhowr baan
-a kaa huwinayaa,
-sida hawd caleen weyn Hoe Giimashadaadung
-rag u wada hamuumee hooggayga weevoo
-ishu halacsanaysaa h see ae Pe
-hablahaaga weeyee kugu haynayaayoo |
-Ne guur la haybshee weligey hogeadgaan
-gabadh heego dheeroo ka dul heesayaayoo
-ener foe hengel baan f Hes Ch
-rl yo hub-qaadloo inta haadka duushiyo
-quan ka hodaniyo idil Hae, dugaaggee
-ira laga aroostaa ifka hibo ku noolow
-| hooyo lagu xusuustaa. aakhiro halkii roon.
-Hooyoy la’aantaa
+
+Markaad hoobal caaniyo
+hindisaa farshaxanoo
+hab-dhaca iyo luuqdiyo
+hawraarta maansada
+heensayn yaqaannoo
+Rabbi hibo u siiyo
+labadaba hannaanshiyo
+hal-abuur dhashaa baa
+hooyo lagu xasuustaa.
+
+Dumar iyo haween baa
+nolol lagu haweystaa
+kuwa lagu hammiyeyee
+sida hawd caleen weyn
+rag u wada hamuumee
+ishu halacsanaysaa
+hablahaaga weyee
+marka guur la haybshee
+gabadh heego dheeroo
+hoobaan la moodoo
+karti iyo hub-qaadloo
+quruxdana ka hodaniyo
+Hira laga aroostaa
+hooyo lagu xasuustaa.
+
+Hooyoy la'aantaa
 higgaad lama barteenoo
-) hooyoy la’aantaa
+hooyoy la'aantaa
 hadal lama kareenoo
 ruuxaanad habinoo
-ee
+kolba aanad hees iyo
+hoobey ku sabinoo
+hawshaada waayaa
+hanaqaadi maayee
+hoygii kalgacalkee
+naxariistu hadataay.
+
+Hooyoy dushaadaa
+nabad lagu hubaayoo
+hooyoy dhabtaadaa
+hurdo lagu gam'aayoo
+hooyoy taftaadaa
+dugsi laga helaayoo
+waxa lagu hal-maalaa
+hooyo ababintaadee
+hayin lagu badhaadhaay
+hogol lagu qaboobaay
+gogol lama huraaneey
+dugsigii hufnaantaay
+hidda lagu arooraay.
+
+Intaad hooyo nooshahay
+hambalyiyo salaan baan
+hanti kaaga dhigayaa
+hamrashiyo xaq-dhowr baan
+dusha kaa huwinayaa,
+Hooyo dhimashadaaduna
+hooggayga weeyoo
+hiyiga iyo laabtaan
+kugu haynayaayoo
+weligey hoggaagaan
+ka dul heesayaayoo
+hengel baan u xidhiyaa
+inta haadka duushiyo
+idil habar dugaaggee
+ifka hibo ku noolow
+aakhiro halkii roon.
+
+### TODDOBAATAN MIDABLEY
+
+Dadka muuqa guudkiyo
+Magac kala sinnaadaay
+Marwo dumar garayskiyo
+Marta kala sinnaadaay
+doqontana masayrkiyo
+mukur kala sinnaadaay
+miidaamo dhegalaay
+badda mawjadeedaay
+kolba maayad keenaay
+ruuxaan malaynayn
+dhiiggiisa miirtaay
+maasaar afweyney
+mindi lagu qadhaabtaay
+marti uma shidheeyaay
+magan kuma hagoogtaay
+mahadhooyin reebaay
+maahmaahda yaabkaay.
+
+Maandeeq irmaanoo
+maraqeeda xoortoo
+nacabkeedu maaloon
+maqasheeda korinneey
+mayey iyo hillaaceey
+miiraale roobaan
+manjaroor biyeyneey.
+
+Maydali fardoodeey
+ashkiraan murkucanneey
+madow iyo casaaneey
+maarriin dhalaalaay
+magarkii la sheegaay
+toddobaatan midabeey.
+
+Geedaan magool iyo
+midho iyo caleen iyo
+ubax iyo man dhalinoo
+aan maydhax laynoo
+lagu oodan maalkoo
+milic laga hadh gelineey.
 
 Maartii dhalaashee
-Dadka muuga guudkiyo aan moodey dahabkee
-Magac kala sinnaadaay milantee caddaatee
-Marwo dumar garayskiyo isku miir dillaacdaay.
-Marta kala sinnaadaay
-dogontana BAe! Meydyohow goslaayee
-mukur kala sinnaadaay milgihii xishoodkiyo
-miidaamo dheg alaay maamuuska weydaay.
-badda mawjadeedaay Manjihii ku daaloo
-kolba maayad keenaay madaxaad ku socotaa
-ruuxaan mal aynayn meelaad ku nooshiyo
-dhiiggiisa miirtaay muslinka iyo Gaalada
-maasaar afweyney midka aad la dhaqantahay
-mindi lagu qadhaabtaay mooyaan adduunkoo
-marti uma shidheeyaay ma-huraanka aakhiro
-magan kuma hagoogtaay madhax kuuma yaalloo
-mahadhooyin reebaay maantay xisaabtiyo
-maahmaahda yaabkaay. miisaanka joogtee
-naftu kugu mudduci tahay
-: maanlay afkaagaa
-Maandeeg irmaanoo kugu “4 F He fu es ayee,
-marageeda xoortoo sawtaad iimudatee
-nacabkeedu maaloon igu muusannawdaan
-magasheeda korinneey fartan malabka kuu daray
-mayey tyo hillaaceey sawtaad melmelateed
-mitraale roobaan murdisada ka leefteed
-manjaroor biyeyneey. mahad iigu celiseed
-igu tidhi macaanaa.
-| Maydali fardoodeey
-| ashkiraan murkucanneey Ma filayn abaal laay
-madow iyo casaaneey maxrashoon kaliileed
-maarriin dhalaalaay ama maangad iyo hawl
-magarkii la sheegaay Waxaan kuu maleegtee
-toddobaatan midabeey, danahaaga maamulay
-muran inaad ka keentoo
-Geedaan magool iyo MAAS u peace?
-midho iyo caleen iyo mogorraysi ba !
-ubax iyo man dhalinoo
-aan maydhax laynoo Mugdigaan u heesaay
-) lagu oodan maalkoo gudcurkaan majeertaay
-) milic laga hadh gelineey, maansooyinkaygiyo
+aan moodey dahabkee
+milantee caddaatee
+isku miir dillaacdaay.
 
+Meydyohow qoslaayee
+milgihii xishoodkiyo
+maamuuska weydaay.
+Manjihii ku daaloo
+madaxaad ku socotaa
+meelaad ku nooshiyo
+muslinka iyo Gaalada
+midka aad la dhaqantahay
+mooyaan adduunkoo
+ma-huraanka aakhiro
+madhax kuuma yaalloo
+maantay xisaabtiyo
+miisaanka joogtee
+naftu kugu mudduci tahay
+maanlay afkaagaa
+kugu marag furaayee,
+sawtaad i mudatee
+igu muusannawdaan
+fartan malabka kuu daray
+sawtaad melmelateed
+murdisada ka leefteed
+mahad iigu celiseed
+igu tidhi macaanaa.
+
+Ma filayn abaal laay
+maxrashoon kaliileed
+ama maangad iyo hawl
+Waxaan kuu maleegtee
+danahaaga maamulay
+muran inaad ka keentoo
+midiggeys u baydhoo
+moqorraysi baratee.
+
+Mugdigaan u heesaay
+gudcurkaan majeertaay
+maansooyinkaygiyo
 murtidayda lumiyaay
 madaddaalo beeneey
-maaweeladaadii HO OB AL
+maaweeladaadii
 meexaanahaagii
-iyo muhashadaydii Ninkan hirarka dhaadheer
-maankaan ka saaroo dadka kala hadlaayee
-kaa maydhay laabtoo qof kastaba la haystee
-masallii jacaylkiyo ugu taga halkiisow
-kuu dhigay maqaarkaad kolley waan hubaayoo
-maydhaamanaysoo haasaasahaagiyo
-nafta kaa muquunshee. waxa aad had iyo jeer
-la haloosiyeysaa
-3 hibo gaar ah weeyee.
+iyo muhashadaydii
+maankaan ka saaroo
+kaa maydhay laabtoo
+masallii jacaylkiyo
+kuu dhigay maqaarkaad
+maydhaamanaysoo
+nafta kaa muquunshee.
+
 Ruuxii merganayaa
-ie. Meee ereny Hiddo maxaad ku dhaqantaa?
-kolla miigan mayside pane raed ka leeae ey
-caawa yaad miraysaa 1ub maxaad ka sidataa:
-PT cnt: acaitat adduunyadu hir weeyee
-Apdo qantanay maxaad haabanaysaa?
-cidhibtee ku mudantahay MALOU ECLInasaa?
-miciyaha ku haysan. eel
+miyir qaata soortee
+laba midig ku daaqaay
+kolla miigan mayside
+caawa yaad miraysaa
+tolow yaad ku maqantahay
+cidhibtee ku mudantahay
+miciyaha ku haysan.
+
+### HOOBAL
+
+Ninkan hirarka dhaadheer
+dadka kala hadlaayee
+qof kastaba la haystee
+ugu taga halkiisow
+kolley waan hubaayoo
+haasaasahaagiyo
+waxa aad had iyo jeer
+la haloosiyeysaa
+hibo gaar ah weeyee.
+
+Hiddo maxaad ku dhaqantaa?
+hanti maxaad ka leedahay?
+hub maxaad ka sidataa?
+adduunyadu hir weeyee
+maxaad haabanaysaa?
+maxaad haybinaysaa?
+
 Waxa hoobal lay yidhi
 aan kuu higgaadshee
 hiddo waxaan ku dhaataa
@@ -1449,387 +2674,659 @@ suugaanta hodanka ah
 hubna waxaan ka qaataa
 hal-abuurka midhihiyo
 hannaankiyo sargooyada
-. qalab lagu hufaayoo
-| lagu haadiyaayoo,
-: hugunkayga yeedhaa
-lagu hawl galaayoo |
+qalab lagu hufaayoo
+lagu haadiyaayoo,
+hugunkayga yeedhaa
+lagu hawl galaayoo
 heellooyinkaygaa
 bulsho lagu hagaayo
 ka hallawsan weligii
 lagu hoga-tusaayoo
-: hawraarahaygaa,
+hawraarahaygaa,
 dhasha lagu habaayoo
 dadku hadalladayduu
 ka dhigtaa hal haysoo
 dhegtu heesahaygay
-hangal taag ku maqashaa.
+hanqal taag ku maqashaa.
 
-aidan ieelinan oe oes da ya ‘
-aynaatom 1aaneedka uma qaba
-halistiyo wax yeellada weligey hal curatoo,
-ka arkaa hog dheeroo duco iyo habaar baa
-hoydayda yeedhaa i hareera yaalloo
-nacab soo hillaabtiyo waxan ahay nin hodanoo
-horor lagu ogaadaa. hayntana ka madhanoo
-adoo igu hamiyayaan
-: , waxba ii huraynoo
-Bina waxan u Mg ae halac laygu dhaafiyo
-ane Rs sh gee? gacan-haadis mooyee
-qofka himiladaydiyo qofna tima hagar baxo.
+Hayhaato meelaan
+halistiyo wax yeellada
+ka arkaa hog dheeroo
+hoydayda yeedhaa
+nacab soo hillaabtiyo
+horor lagu ogaadaa.
+
+Birta waxan u haystaa
+hubka waxaan ku laayaa
+qofka himiladaydiyo
 neceb horu markayg oo
 hagar-daamo taliyee
-eee hadimadaydoo A da uu nya a ; h i ‘ ibaa
-baan ahay. lanti un
-fee ‘ halse iga dardaarana
-, nafta haysan maynoo
-H ammi baa i lumiyoo mar qudhay hallowdaa
-hogashiyo waareer baa furataa hoggaankee
-hilbahayga laastoo dadka ii han weynow
-fp laftii baan marka aad i hoysaan
-ku hadaafayaayoo hogga ii banaysaan
-ma haleelo dhaymaha waa in lay hagoogtaa
-heensaha korkaygoo waxan hiil ka geli jirey
-| ma hadhsado kaliilaha ama hoo ka tari jirey
-mas ku jiro hoggiisoo hengel lagu taxgeliyaa
-cawa daran la hoydoo hadhow lay xasuustaa
-hurdo loo mar dhigay baan hebbel lay yidhaahdaa.
+jecel hadimadaydoo
+horseed sheelan baan ahay.
+
+Hammi baa i lumiyoo
+hogashiyo waareer baa
+hilbahayga laastoo
+haraggiyo laftii baan
+ku hadaafayaayoo
+ma haleelo dhaymaha
+heensaha korkaygoo
+ma hadhsado kaliilaha
+mas ku jiro hoggiisoo
+cawa daran la hoydoo
+hurdo loo mar dhigay baan
 anna Haro-walwaaleed
 Hora hora idhaahdaa.
-j
+
 Inta aan higgaaddiyo
 hindisaha ku jeedaa
 dadku iga hayaamaa
 hore layga guuraa.
+
 Inkastaan u heegnahay
-' xilka aan hagoognahay,
+xilka aan hagoognahay,
 misna habaqlahaygay
 haaddii ka dheregtoo
-. hanbo feena mooyee
+hanbo feena mooyee
 hor dhac kuma badhaadhoo
-hayinkaygu ima geyn 103
+hayinkaygu ima geyn
+weli hogol da'aysoo
+haaneedka uma qaban
+weligey hal curatoo,
+duco iyo habaar baa
+i hareera yaalloo
+waxan ahay nin hodanoo
+hayntana ka madhanoo
+adoo igu hamiyayaan
+waxba ii huraynoo
+halac laygu dhaafiyo
+gacan-haadis mooyee
+qofna iima hagar baxo.
 
-! . Ka rog 00 haddana saar.
-Sabkax 00 haddana seed
-seemman oo haddana sulan Siinleyda maansada
-sidkan 00 haddana sagan haddii saami loo dhigo
-sahlan oo haddana sudan dadku uma sinaadoo
-sal leh 00 haddana sigan suugaanta hadalkiyo
-sillan 00 haddana sugan Cabdiyow sargooyada
-subkan oo haddana solan, lagu kala sed roonoo
-ts eed ied we ka siiyiyo
-sida ay la nogotuu
-wax sawaaban noqotee ninba seylad keennee,
-maxaan kuu sameeyaa? ha saluugin Riiraash?
-Ina Saalax® haw dudin
-Af-Qallooc’ ha saamayn,
-Ka rog 00 haddana saar. we ;
-Waa lagu sugaayoo boomed Woes
-i)
-lagu saadinaayee fe Dania Seeane
-ala sooci doonee
-ninka Saylac Joogow laba seeble yeelkii
-sagalkiyo daruuraha ha ku lumo sursuuraha
-wararkaagi saaraa sixirkiyo shan xuubluhu
-xX vile bay bishii soon ha ka dhaco sallaankee
-saxal-qaaddu keentoo xidho saanadaadoo
-sahankaagi noo yimi sulufkiyo colaadaha
-sahaydiina noo keen samaydaadu yay jabin.
+Adduunyadu hir weeyoo
+hanti uma dudaayee
+halse iga dardaarana
+nafta haysan maynoo
+mar qudhay hallowdaa
+furataa hoggaankee
+dadka ii han weynow
+marka aad i hoysaan
+hogga ii banaysaan
+waa in lay hagoogtaa
+waxan hiil ka geli jirey
+ama hoo ka tari jirey
+hengel lagu taxgeliyaa
+hadhow lay xasuustaa
+hebbel lay yidhaahdaa.
+
+### KA ROG OO HADDANA SAAR
+
+Sabkax oo haddana seed
+seemman oo haddana sulan
+sidkan oo haddana sagan
+sahlan oo haddana sudan
+sal leh oo haddana sigan
+sillan oo haddana sugan
+subkan oo haddana solan,
+af soomaaligaygow
+lagu saari waayoo
+wax sawaaban noqotee
+maxaan kuu sameeyaa?
+
+Ka rog oo haddana saar.
+
+Waa lagu sugaayoo
+lagu saadinaayee
+Cabdiyow ma socotaa?
+Xeebaha sintoodiyo
+ninka Saylac joogow
+sagalkiyo daruuraha
+wararkaagi saaraa
+Xamar bay bishii soon
+saxal-qaaddu keentoo
+sahankaagi noo yimi
+sahaydiina noo keen
 xagayaga sareediyo
-Ww -ma-
-Sand ib weydee ; Ka rog 00 haddana saar.
-i a joogtaa:!
-Ka rogoo hadd Gabadheena Saaqiyo
-a
-8 ie saar. Samawada ku magac dheer
-Tiro <i rag saluugla ula baxay
-j ; Ag siman sagaal tuur marna Suuban lagu yidhi
-ne yadieay bal suuree kula siistay Baaruud®
-0 Daa ma saan baa
-| saddex iyo shan waa kee? race ee rye
-| Sakalaha ha laga u : 5 Riiraash-waa Maxamed Cabdillaahi Riiraas
-laba Sulub h / ly 6 6 Ina Saalax: Waa siciid Saalax Axmed
-4 lagu daro 7 Af-Qalooc:Waa Xaaji Aadan Axmed.
-KY uryo Samo ha la gu furo 8 Baaruud:Waxa looga jeedaa cabdi Aadan Qays.
-104 ite
+waa Seer-ma-weydee
+maxaad saaka joogtaa?
 
-adna haygu sara tegin sanadaa la dhaxayaa |
-waa Saxarla sheekadu. sahay lagama maarmee
-ha la jiro sibraarada.
-Ka rog 00 haddana saar.
-Ka rog 00 haddana saar.
+Ka rogoo haddana saar.
+
+Tiro siman sagaal tuur
+soddon keen sideed hoo
+waxa hadhay bal suuree
+ma so'baa ma saan baa
+saddex iyo shan waa kee?
+Sakalaha ha laga guro
+laba sulub ha lagu daro
+guryo samo ha lagu furo.
+
+Ka rog oo haddana saar.
+
+Siinleyda maansada
+haddii saami loo dhigo
+dadku uma sinaadoo
+suugaanta hadalkiyo
+Cabdiyow sargooyada
+lagu kala sed roonoo
+Rabbi wuxu ka siiyiyo
+sida ay la noqotuu
+ninba seylad keennee,
+ha saluugin Riiraash
+Ina Saalax haw dudin
+Af-Qallooc ha saamayn,
+
+Soomaali weyn baa
+xaajada la socotoo
+iyaga ka seegiyo
+ka sugaaya garanoo
+kala sooci doonee
+laba seeble yeelkii
+ha ku lumo sursuuraha
+sixirkiyo shan xuubluhu
+ha ka dhaco sallaankee
+xidho saanadaadoo
+sulufkiyo colaadaha
+samaydaadu yay jabin.
+
+Ka rog oo haddana saar.
+
+Gabadheena Saaqiyo
+Samawada ku magac dheer
+rag saluugla ula baxay
+marna Suuban lagu yidhi
+sumaddeedu waa caan
+kula siistay Baaruud
+
+adna haygu sara tegin
+waa Saxarla sheekadu.
+
+Ka rog oo haddana saar.
+
 Hararada sal iyo baar
-lagu taxay sitaacee Saanteena guudkiyo
-loo soohay baarkiyo suntu hilibka dhaaftoo
-saddexlaha ujeedaa sal waxay ku leedahay
-dhigta loogu saabboo saableyda uurkiyo
-marti sama falkeedaa sambabada dhexdoodoo
-koramada sagaal jirey maal baa la sarayaa
-loo sudhay hoggaankoo selel looma baahnee
-sooryaa la hurayaa kil seexdayow 1ooS.
+lagu taxay sitaacee
+loo soohay baarkiyo
+saddexlaha ujeedaa
+dhigta loogu saabboo
+marti sama falkeedaa
+koramada sagaal jirey
+loo sudhay hoggaankoo
+sooryaa la hurayaa
 safar baa la furayaa
-sumallaa la galayaa Ka rog oo haddana saar.
+sumallaa la qalayaa
 xididkiyo sokeeyaha
-laga seexan maayee soodhkiyo billaawaha
-salliyada xariirta ah sinta midig ha lagu xidho
-socotada u kala roga. faraskana silsiladdiyo
+laga seexan maayee
+salliyada xariirta ah
+socotada u kala roga.
+
+Ruuxii saboolow
+xil ku saari maayee
+saca maatada u godol
+saadaal ku noolow
+samirkana ha moogaan.
+Ruuxaan wax sidinoo
+shirka soo salaamow
+adigaa wax sugayee
+sarar iyo leg iyo badhi
+kee baan ku siiyaa,
+sacabkaagu qaadaa?
+limaan sed weyee
+mid haddaad saluugtana
+saddexdaba bal iga hoo.
+
+Ka rog oo haddana saar.
+
+Sidig maqan ninkeedii
+talo waw sar go'antahay.
+Jid Siraad korkiisiyo
+suudaa la marayaa
+sanadaa la dhaxayaa
+sahay lagama maarmee
+ha la jiro sibraarada.
+
+Ka rog oo haddana saar.
+
+Saanteena guudkiyo
+suntu hilibka dhaaftoo
+sal waxay ku leedahay
+saableyda uurkiyo
+sambabada dhexdoodoo
+maal baa la sarayaa
+selel looma baahnee
+kii seexdayow toos.
+
+Ka rog oo haddana saar.
+
+soodhkiyo billaawaha
+sinta midig ha lagu xidho
+faraskana silsiladdiyo
 seetada ha laga furo,
-Ruuxii saboolow seefaha ha lala baxo,
-xil ku saari maayee seeraa la furayaa
-saca maatada u godol saryan baa la dabayaa
-saadaal ku noolow wiyil baa la sabayaa
-samirkana ha moogaan. xaajada sal fudud iyo
-Ruuxaan wax sidinoo sakatiga ha laga jiro,
-shirka soo salaamow sahwi yaanu kala ridin
-adigaa wax sugayee sahal yaan wax loo odhan
-sarar iyo leg iyo badhi dhulku waa sangadhayaa
-kee baan ku siiyaa, cagta saari maynee
-sacabkaagu gqaadaa? socodkeenu xeel iyo
-limaan sed weeyee ha ahaado laba suul,
-mid haddaad saluugtana sirna yaan la faallayn
-saddexdaba bal iga hoo. murtidana ha saafina.
-Ka rog 00 haddana saar. Ka rog 00 haddana saar.
-Sidig magan ninkeedii Maansadu ha socotoo
-talo waw sar go’antahay, sida daad mahiigaan
-Jid Siraad korkiisiyo dhulka haw sabbaysoo
-suudaa la marayaa kolba sabo ha gaadhoo
+seefaha ha lala baxo,
+seeraa la furayaa
+saryan baa la dabayaa
+wiyil baa la sabayaa
+xaajada sal fudud iyo
+sakatiga ha laga jiro,
+sahwi yaanu kala ridin
+sahal yaan wax loo odhan
+dhulku waa sanqadhayaa
+cagta saari maynee
+socodkeenu xeel iyo
+ha ahaado laba suul,
+sirna yaan la faallayn
+murtidana ha saafina.
+
+Ka rog oo haddana saar.
+
+Maansadu ha socotoo
+sida daad mahiigaan
+dhulka haw sabbaysoo
+kolba sabo ha gaadhoo
 
 culimada salaaxdaa
-senge hawgu joogtoo C AJ EB |
+senge hawgu joogtoo
 ninba subax ha maalee,
-ruuxii suldaarow . ee
-garo inad sabooltahay. Caj ebey Cajlibeey
+ruuxii suldaarow
+garo inad sabooltahay.
+
+Soddoh weeye xeedhadu
+ragna waa u simantahay
+ninka suunka taabtee
+ka sal gaadhi waayow
+garo inaad sabool tahay.
+Waa gabadh su'aal iyo
+hal-xidhaale sidatee
+ninka Abu sarmaantiyo
+saddex qayda boqorka leh
+kaga fura si-dalagtee
+male kaga sinaystow
+garo inaad sabooltahay.
+
+### CAJEB
+
+Cajebey Cajiibeey
 cawo iyo ayaaneey
 caqligaad xadaysaa
-Soddoh weeye xeedhadu caku barashadaadii
-ragna waa u simantahay iyo caabuqaagee
-ninka suunka taabtee sida faras cag fududoo
-ka sal gaadhi waayow cadda-horor yaqaannoo
-garo inaad sabool tahay. gulufkiyo colaadaha
-Waa gabadh su’aal iyo ninka lihi cad-goostaa,
-hal-xidhaale sidatee raggu kuu cugtamayaa
-ninka Abu sarmaantiyo anna caashaqaagaan
-saddex gayda bogorka leh hadba weel u culayaa,
-kaga fura si-dalagtee cimri-dherer hadhkaagaan
-male kaga sinaystow riyo kula caweeyaa.
-garo inaad sabooltahay.
+caku barashadaadii
+iyo caabuqaagee
+sida faras cag fududoo
+cadda-horor yaqaannoo
+gulufkiyo colaadaha
+ninka lihi cad-goostaa,
+raggu kuu cugtamayaa
+anna caashaqaagaan
+hadba weel u culayaa,
+cimri-dherer hadhkaagaan
+riyo kula caweeyaa.
+
 Dhulka oo cagaaroo
 cosobkii dul-saarraa
 isagaan car-jabin weli
 cabbanaan daraaddeed
-clidda hoose raantiyo
+ciidda hoose raantiyo
 kula ciiray fooddoon
 cagta meel la saaroo
-| la cuskado lahaynoo,
-, calcalyada xaareeddit
-| halka godan cuslaysiyo
-fiid-cawl horraantit
+la cuskado lahaynoo,
+calcalyada xaareeddii
+halka godan cuslaysiyo
+fiid-cawl horraantii
 cirka oo daruuruhu
 midab wada cillaaniyo
 ku dhigeen canjiidaha
-xilli ay cadceeddit
+xilli ay cadceeddii
 dhar cashmiira xidhan tahay
 sagal caasha saaraad
 la wadaagtey caanoo,
 haddaan caado kale jirin
 cidi kaama garateen.
+
 Geed cal iyo buur dheer
 carro-hodan ku yaalloo
 cokanoo irmaanoo
-
 dhirta kale ka caynoo
-cimilada agtiisiyo RAAD |
-rugtu qurux ku caan tahay. BEE
-Avan baab tusaala ah
-Dusha sare caleentii ku bireeyo heestee
-laamaha is-celisoo waxa iga ballaysina
-hoobaan casuus lihi Bismillaahi waa kow
-cartamayso dhinacyada, panne aah yidhi
-ubaxuna tin tyo cidhib Fi ; ul Sia he
-i Be eaey car? seal aa pena 0 cindi annie
+cimilada agtiisiyo
+rugtu qurux ku caan tahay.
+
+Dusha sare caleentii
+laamaha is-celisoo
+hoobaan casuus lihi
+cartamayso dhinacyada,
+ubaxuna tin iyo cidhib
+kaga dhigay cabbaadhyaha,
 shimbiraha ka ciyayaa
-intay heeso eee kaftankeenna baalliyo
-isku camal wareereen ba'ba a ri i) ined
-dabadeeto carashada waynoo Darootiey,
-markii laysku cayn go’ay lugta bidix ka jaamee.
-isu clidan doonteen,
-hal cabbaara goortay Barni iyo Saluugliyo
-isu calan walleeyeen Basradii Hargeysiyo
-cadho kala maqnaayeen Burco Saxarladeediyo
-cadcadiigsi geedkii Cabdiyow ma beenayn
-ciddiyaha ku qariyeen ballankii Suleekhee
-codka luuqda heestiyo sed bursiinyo doon baa
-carrabkoodu kala tegey, Beled-weyn i geysoo
-carcaraha is-daba maray, badhidaan leggeedit
-cudur jirey ku baaba’ay, is lahaa ku buirsoo
-Dhallin caana diiddoo waxaan buuxi leeyahay
-guryihii ka caagtiyo haantii barwaaqee
-cadraddiyo barbaartii bi’i waaye Qaysow
-sida goob ciyaareed hawshayda baahdiyo
-ugu soo carraabeen, baylahdayda kala quban
-: calaf waa halkiisee xilka aan u baydnahay
-hadallada cawayskaas, barashada xusuusta leh
-kucalmaday u badan tahay. ha ka dhigin bar kuma taal.
+intay heeso curiyeen
+isku camal wareereen
+dabadeeto carashada
+markii laysku cayn go'ay
+isu ciidan doonteen,
+hal cabbaara goortay
+isu calan walleyeen
+cadho kala maqnaayeen
+cadcadiigsi geedkii
+ciddiyaha ku qariyeen
+codka luuqda heestiyo
+carrabkoodu kala tegey,
+carcaraha is-daba maray,
+cudur jirey ku baaba'ay,
+Dhallin caana diiddoo
+guryihii ka caagtiyo
+cadraddiyo barbaartii
+sida goob ciyaareed
+ugu soo carraabeen,
+calaf waa halkiisee
+hadallada cawayskaas,
+kucalmaday u badan tahay.
+
+Carshigaa nasahan baad
+biyo wada cabteenoo
+haddaan lay cadaabayn
+Rabbi ii cadhoonayn
+dadku inu ku caabudo
+madowgiyo caddaankuba
+ku caleemo saaraan,
+sow kuma canaanteen.
+
+### BEERAAD
+
+Aan baab tusaala ah
+ku bireeyo heestee
+waxa iga ballaysina
+Bismillaahi waa kow
+Cabdiyow ba'lagu yidhi
+beertii jacaylkow
+haddii siinki buuq iyo
+badhax iyo cindiid dhalay
+kaftankeenna baalliyo
+ba'ba aan u rogannee
+waynoo baloolley,
+lugta bidix ka jaamee.
+
+Barni iyo Saluugliyo
+Basradii Hargeysiyo
+Burco Saxarladeediyo
+Cabdiyow ma beenayn
+ballankii Suleekhee
+sed bursiinyo doon baa
+Beled-weyn i geysoo
+badhidaan leggeedii
+is lahaa ku biirsoo
+waxaan buuxi leeyahay
+haantii barwaaqee
+bi'i waaye Qaysow
+hawshayda baahdiyo
+baylahdayda kala quban
+xilka aan u baydnahay
+barashada xusuusta leh
+ha ka dhigin bar kuma taal.
+
 Ana baadi hadaftoo
-C ; iska badalli roortiyo
-BSE, aan Pee hayga dhigin nin biya-dhacay,
-haddaan | pe sheekada bu’deediyo
-(Sa ee ound ‘i baaceeda sii raac
-dadku inu ku ee) hy gunta hoos u sii baadh
-madowgiyo caddaankuba i baxnaani saaxil
-ku caleemo saaraan, by
-sow kuma canaanteen, Ruuxaad ba’iistyo
-lintiisa baratee
+iska badalli roortiyo
+hayga dhigin nin biya-dhacay,
+sheekada bu'deediyo
+baaceeda sii raac
+gunta hoos u sii baadh
+i baxnaani saaxiib.
 
-bedenkiyo calooshiyo Iska booqi maayoo
-kuu baadha feedhaha bulxanka iyo gayladu
-boogtiisa Qaysow wax bilaasha maahee
-lama sii banneeyoo beesheenna weyn baan
-bacda lagama jeexee ku baxaan baxaayoo
-i banbaani saaxiib. hadba dhinac ka booqdaa
-hablaheenna biligiyo
-Beerlula warkeediyo ss eee his
-buundada Rorheeaty 2 timahaa ka badanoo
-baaxaa deggaygiy si tyagaan bad iyo webi
-kalgacaylka beermiyo uga baagayaayoo
-taliy aha i badhi-fi ie anna biligta laafyaha
-berigaas payee anacay baxsanaanta jaahaan
-bandhiggii nin joogow ku baraarugaayoo
-sneekada ka bogatoo hadba tii i baabtee
-we baahnid fe aallee boholyow i gelisaan
-adiguba barbaartiyo kalgacaylka Boodhari
-bulshadaad la socotoo ku bariidiyaayoo
-barbar baad ka saarrayd boogaha jacaylkaan
-baabuurka dhoofoo sityaa Badhkeedee
-batarkiy 0 clyaartaba waxa kuu bushaara ah
-ean ae Aub berritana Jamaamiyo
-abdiyow baroortuba ‘
-ka badh weeye meydkee Baar Dheere iga eeg.
+Ruuxaad ba'iisiyo
+iintiisa baratee
+bedenkiyo calooshiyo
+kuu baadha feedhaha
+boogtiisa Qaysow
+lama sii banneeyoo
+bacda lagama jeexee
+i banbaani saaxiib.
+
+Beerlula warkeediyo
+buundada korkeediyo
+baaxaa deggaygiyo
+kalgacaylka beermiyo
+taliyaha i badhi-furay
+berigaas wixii dhacay
+bandhiggii nin joogow
+sheekada ka bogatoo
+uma baahnid faallee
+adiguba barbaartiyo
+bulshadaad la socotoo
+barbar baad ka saarrayd
+baabuurka dhoofoo
+batarkiyo ciyaartaba
+adigaa ka boodee
+Cabdiyow baroortuba
+ka badh weeye meydkee
 beybeysigaagiyo
-beeraadka iga daa. Ido boqol kun gaadhoo
-barqanaaya doog baan
-i hadba baal u rogayaa
-aeena pume heceece bahalaha ka rebayaa
-taladii bir lagu jaro barkan maayo gacantoo
-hadday baydu furatoo baashaali maayee
-xadhkaheedu buubaan Cabdiyow bal ila soco.
-lama baraq nuglaadoo 7
-bishmahaaga Qaysow
-bage lama qaniinee Aan baab gunaanada
-waxaa loo badheedhaa ku bisleeyo heestee
-biyo dhiijinteedee waadigan ba’ iyo siin
-haddaad bayr ka leedahay labadaba bilkeedee
-biyo jira kashaadiyo anna baadi doonkiyo
-buro adiga kugu taal budulkaan ku joogaa
-boholiina lagu dhacay belo waa danbaysaa
-ma bir baynu xidhannaa. ha is boobin saaxiib.
-ES ee
+beeraadka iga daa.
 
-Re
-Qalwadii mas baa galay
-HAL LA QALAY qodax baase hoos taal
-fule quudhsigii diid
-Hal la qalay raqdeedaa 8eesi qoorta soo dhigey,
-lagu soo qamaamoo Faras qaayihiisii
-galalaasthii baa qurux buu ku doorsaday
-ninba qurub haleeloo qab qab dhaafay baa yimi
-laba waliba qaybteed qosol qoonsimaad noqoy
-qorraxday ku dubatoo gabyo waa halkeedii.
+Ragna biime weyee
+taladii bir lagu jaro
+hadday baydu furatoo
+xadhkaheedu buubaan
+lama baraq nuglaadoo
+bishmahaaga Qaysow
+baqe lama qaniinee
+waxaa loo badheedhaa
+biyo dhiijinteedee
+haddaad bayr ka leedahay
+biyo jira kashaadiyo
+buro adiga kugu taal
+boholiina lagu dhacay
+ma bir baynu xidhannaa.
+
+Iska booqi maayoo
+bulxanka iyo qayladu
+wax bilaasha maahee
+beesheenna weyn baan
+ku baxaan baxaayoo
+hadba dhinac ka booqdaa
+hablaheenna biligiyo
+bilic lagu majeertee
+loo soohay baarkaa
+timahaa ka badanoo
+iyagaan bad iyo webi
+uga baaqayaayoo
+anna biligta laafyaha
+baxsanaanta jaahaan
+ku baraarugaayoo
+hadba tii i baabtee
+boholyow i gelisaan
+kalgacaylka Boodhari
+ku bariidiyaayoo
+boogaha jacaylkaan
+siiyaa Badhkeedee
+waxa kuu bushaara ah
+berritana Jamaamiyo
+Baar Dheere iga eeg.
+
+Ido boqol kun gaadhoo
+barqanaaya doog baan
+hadba baal u rogayaa
+bahalaha ka rebayaa
+barkan maayo gacantoo
+baashaali maayee
+Cabdiyow bal ila soco.
+
+Aan baab gunaanada
+ku bisleeyo heestee
+waadigan ba'iyo siin
+labadaba bilkeedee
+anna baadi doonkiyo
+budulkaan ku joogaa
+belo waa danbaysaa
+ha is boobin saaxiib.
+
+### HAL LA QALAY
+
+Hal la qalay raqdeedaa
+lagu soo qamaamoo
+qalalaasihii baa
+ninba qurub haleeloo
+laba waliba qaybteed
+qorraxday ku dubatoo
 qoloftiyo laftiibaa
-lagu ligay qallaylkee; Weligey cad quudheed
-qosol wuxu ka Joogaa anna qaadan maayoo
-qubanaa dambeeyee qalanjadan faraa dheer
-weli qaba hamuuntee wax la qaybsan maayee
-buuraha gotada dheer bal inay qubuuruhu
-ka arkaaya qiiqee saddex-qayd ka maarmaan
-garka soo jafaayee. ama qoor-tol jeexaan
-labadaas mid quudhaan
-Qalwadii mas baa galay xil ka qaawan saaraan
-qodax baase hoos taal hadba qaylo-doon baan
-fule quudhsigii diid ka-horow qiyaamaha
-geesi goorta soo dhigey ku qulaamin maydkee
-faras qaayihiisii aan qoofallaadee
-qurux buu ku doorsaday garqarsiga ha iga furin.
-gab qab dhaafay baa yimi
-qosol qoonsimaad noqoy Qalwadii mas baa galay
-gabyo waa halkeedii. qodax baase hoos taal,
+lagu liqay qallaylkee;
+qosol wuxu ka joogaa
+qubanaa dambeeyee
+weli qaba hamuuntee
+buuraha qotada dheer
+ka arkaaya qiiqee
+qarka soo jafaayee.
+
+Qalwadii mas baa galay
+qodax baase hoos taal
 fule quudhsigii diid
-Qarandidu libaaxay geesi qoorta soo dhigey
-ku qadhaabataayoo faras qaayihiisii
-soo qabo tidhaahdaa qurux buu ku doorsaday
-qaankiyo biciidkoo qab qab dhaafay baa yimi
-gaybtana shan-laab bay qosol qoonsimaad nogoy
-qoondaysataayoo qabyo waa halkeedii.
-isagana gorshaha guud
-ganjidhkiyo xumaystay
+geesi qoorta soo dhigey.
+Faras qaayihiisii
+qurux buu ku doorsaday
+qab qab dhaafay baa yimi
+qosol qoonsimaad noqoy
+qabyo waa halkeedii.
+
+Qarandidu libaaxay
+ku qadhaabataayoo
+soo qabo tidhaahdaa
+qaankiyo biciidkoo
+qaybtana shan-laab bay
+qoondaysataayoo
+isagana qorshaha guud
+qanjidhkiyo xumaystay
 ha qawedin tidhaahdaa
 aarkuna ma quustoo
 ma qarsado xanuunkee
-hadba garan-jabkiisiyo
-quirada xosuustuu
-kolba dibin ganiinaa.
-EE“ ee oF
+hadba qaran-jabkiisiyo
+qiirada xosuustuu
+kolba dibin qaniinaa.
 
-N AHAAN KF AR KU HAY wakhti kuugu simayee
-WAD AA goormaad wadaadkiyo
-weliyada sidoodii
-Wane dhalashadaadaan ii waaninaysaa
-farxad waalan gaadhoo wacdi ii furaysaa
-weedhkiyo dabaylaha werdi ii rogeysaa.
-ama wertyahaagii
-goortaan waraystaa a dee
-werwer it dhammaadoo eger lyO Ka Waaweyn
-wahab layga qaadoo ie ee A oeen
-lugtu weerar mooyee eh Gy SEE i bat
-wahsigii illowdoo ul go agr Hee aamuhu
-wadar iga lib-haysaan thes Hag dnacantee
-is-lahaa ku wiirsoo wadnahaan far ku hayaa.
-wil curad sidiisaan
-wanan kuu bireeyoo Isla-weyn qabkeedaa
-waayeel duceeyaan wiyil aan jaraysnayn
-wacayoo u yeedhee ugu wadha magaarkoo
-walgashaadi maadaa lugta webi u geliyee,
-cunay waaxyaheedii? haddaan weel gun laga tolin
-waayaha adduunyada
-Weger iyo ka waaweyn Mons aal is Mp eB
-tani waa ka waasacan EE EO COILS
-hadday ceel Walwaaleed lagu odhan wax it sheeg
-ku go’aan wadaamuhu taladaadu witlooy
-dalab waayi maysoo
-waan waani dhacantee as ;
-wadnahaan far ku hayaa qofna waari maayee
-o* mudanaha walaalkaa
-haddii weerar lagu dilo
-Inkastaanu weydeyn isha lalama waabtee
-| waranlaha ilaashaa weerkiyo baroorta
-waadaasha xooluhu dadka lala wadaagaa.
-tyadaa waraabaha
-ji
-ret ee” We ger iyo ka waaweyn
+Qalwadii mas baa galay
+qodax baase hoos taal,
+fule quudhsigii diid
+geesi qoorta soo dhigey.
+Faras qaayihiisii
+qurux buu ku doorsaday
+qab qab dhaafay baa yimi
+qosol qoonsimaad noqoy
+qabyo waa halkeedii.
+
+Weligey cad quudheed
+anna qaadan maayoo
+qalanjadan faraa dheer
+wax la qaybsan maayee
+bal inay qubuuruhu
+saddex-qayd ka maarmaan
+ama qoor-tol jeexaan
+labadaas mid quudhaan
+xil ka qaawan saaraan
+hadba qaylo-doon baan
+ka-horow qiyaamaha
+ku qulaamin maydkee
+aan qoofallaadee
+qarqarsiga ha iga furin.
+
+Qalwadii mas baa galay
+qodax baase hoos taal,
+fule quudhsigii diid
+geesi qoorta soo dhigey
+faras qaayihiisii
+qurux buu ku doorsaday
+qab qab dhaafay baa yimi
+qosol qoonsimaad noqoy
+qabyo waa halkeedii.
+
+### WADNAHAAN FAR KU HAYAA
+
+Wahe dhalashadaadaan
+farxad waalan gaadhoo
+weedhkiyo dabaylaha
+ama weriyahaagii
+goortaan waraystaa
+werwer ii dhammaadoo
+wahab layga qaadoo
+lugtu weerar mooyee
+wahsigii illowdoo
+wadar iga lib-haysaan
+is-lahaa ku wiirsoo
+wiil curad sidiisaan
+wanan kuu bireeyoo
+waayeel duceeyaan
+wacayoo u yeedhee
+walqashaadi maadaa
+cunay waaxyaheedii?
+
+Weger iyo ka waaweyn
 tani waa ka waasacan
-waddo halag nin moog baa bea WahObAlaaa
-waabay ka leefee, hadday ceel Walwaa
-ku go’aan wadaamuhu
-a Bete Me igginahay Wane dhacantee.
-a a wadnahaan far ku hayaa.
+hadday ceel Walwaaleed
+ku go'aan wadaamuhu
+waanwaani dhacantee
+wadnahaan far ku hayaa.
 
-} Ls ts
+Inkastaanu weydeyn
+waranlaha ilaashaa
+waadaasha xooluhu
+iyadaa waraabaha
+wehelkeeda mooddoo
+woohowda diiddee,
+waddo halaq nin moog baa
+waabay ka leefee,
+wed hadday ka nooshahay
+waageed ha gaadhoo
+waxaraaha raacdaan
+wakhti kuugu simayee
+goormaad wadaadkiyo
+weliyada sidoodii
+ii waaninaysaa
+wacdi ii furaysaa
+werdi ii rogeysaa.
+
+Weger iyo ka waaweyn
+tani waa ka waasacan
+hadday ceel Walwaaleed
+ku go'aan wadaamuhu
+waanwaani dhacantee
+wadnahaan far ku hayaa.
+
+Isla-weyn qabkeedaa
+wiyil aan jaraysnayn
+ugu wadha maqaarkoo
+lugta webi u geliyee,
+haddaan weel gun laga tolin
+waayaha adduunyada
+xog-ogaal la weydiin
+ruuxii gu' kaa weyn
+lagu odhan wax ii sheeg
+taladaadu wiilooy
+dalab waayi maysoo
+qofna waari maayee
+mudanaha walaalkaa
+haddii weerar lagu dilo
+isha lalama waabtee
+weerkiyo baroorta
+dadka lala wadaagaa.
+
+Weger iyo ka waaweyn
+tani waa ka waasacan
+hadday ceel Walwaaleed
+ku go'aan wadaamuhu
+waanwaani dhacantee
+wadnahaan far ku hayaa.
+
+### QAYBTA LABAAD
+
+### DAALO
 
 Daaloo korkeedii
 figta iyo daruuruhu
 isku soo durkeenoo
 ceeryaamo daahii
-ku dallaallimaysoo
+ku dallallimaysoo
 dirir gaaxdey mirayoo
-toddobaad ku da’ayoo
+toddobaad ku da'ayoo
 danabkiyo hillaacii
 isu daba mareenoo
-onkodkuna dayaankii
+onkodkunu dayaankii
 dhulka dakharro yeeloo
 casar gaaban daadkiyo
 durdurradu kulmeenoo
 isku soo darmeenoo
 isla dulundulceeyeen
-Jarar moosa dumiyeen
+jarar moosa dumiyeen
 hadba daw samaysteen
 shinbiruhu mar duuleen
 marna soo degeenoo
@@ -1845,6 +3342,7 @@ lahashada dareenkaa
 ila sii durkaysee
 bal aan daaha aan rogey
 halal kale ku sii daro.
+
 Dal ahaanna waa gobol
 dullo iyo bannaanba leh
 badna way la deris tahay
@@ -1854,165 +3352,218 @@ waxaa loogu daray taas
 inta qurux u damac roon
 cirku doobta kama dhigo.
 
-Degmo weeye hodanoo Dad ahaanna waa qaran
+Degmo weeye hodanoo
+dooxooyin madhaxliyo
+deegaan ma guurtiyo
+ilo wada darrooriyo
+doog aan is dhalan rogin,
+dayib geed la magac baxay
+dahab hoosta yaallaa
+dalag looga dhigayoo
+cudur kama dilaacoo
+dulin kama abuurmoo
+dabar-gooye kama dhicin.
 
-dooxooyin madhaxliyo waa duul is wada dhalay
-
-deegaan ma guurtiyo galo iyo dir sooc ma leh
-
-ilo wada darrooriyo dab dhexdooda kama huro
-
-doog aan is dhalan rog He weligood ma diriraan
-
-dayib geed la magac baxay isma doca-doceeyaan
-
-dahab hoosta yaallaa dumar kama baroortaan
-
-dalag looga dhigayoo dooxatiyo wareentiyo
-
-cudur kama dilaacoo budhcad duusha kuma maqal
-
-dulin kama abuurmoo _ daandaansi ma oggola
-
-dabar-gooye kama dhicin. xumo uma dulgaataan
-nabaddana ma diidaan
-
-Waa degel gabow oo deeq kuma masuugaan
-
-gorrax diib is marisoo doodna waa yaqaanniin
-
-Jidhka aan damqayn baa diricyaa ka kac ay badan .
-
-loo soo deldelayoo damdamtiyo mashxaraddiyo
-
-dadku kuma gabooboo sacabkana ma daayaan
-
-himanial Darwiishkii danna kama fogaadaan.
-
+Waa degel qabow oo
+qorrax diib is marisoo
+jidhka aan damqayn baa
+loo soo deldelayoo
+dadku kuma gabooboo
+nimankii Darwiishkii
 kula jirey dagaalkoo
+weli doob la moodaa
+birta daabka haystoo
+gala duullimaadkoo
+iyagaa dorraatiyo
+taariikhda duugga ah
+dhul fog looga doontaa.
 
-weli doob la moodaa Nin dabayli wadatoo
-
-birta daabka haystoo waxaan ahay dalxiis iyo
-
-gala duullimaadkoo doolaalo keentoo
-
-iyagaa dorraatiyo degdeg baa i soo galay
-
-taartikhda duugga ah dibna ahr u kacayaa
-
-dhul fog looga doontaa. dunta gabaygu leeyahay
-kama xulan hal-doorkii
-
-Duunyadiisu waa geel hae aks ate posan
-
-daran iyo tigaad cuna na se ie 1alacsiga P
-
-ido deexda lagu dhago kolley door ni Se a
-
-ardo lagu dabbaal dego halkaas aan ku dagagaro.
-
+Duunyadiisu waa geel
+daran iyo tigaad cuna
+ido deexda lagu dhaqo
+ardo lagu dabbaal dego
 carro weeye dihinoo
-
 dirka magac ugaadheed
-
 lagu soo dareershoo
-
-: farow iyo dibtaag baa
-
+farow iyo dibtaag baa
 derrimaha ku fara badan
-
 cawlaan didaynoo
-
 cidi aanay dilinoo
-
-gofna aanu dabannoo
-
+qofna aanu dabannoo
 dibindaabyo aragoo
-
-dannigii ka ba ‘ay baa
-
+dannigii ka ba'ay baa
 dugsanaysa xoolaha.
 
-UB AXLEY malaa aabbahaa baa
-SHAN taliyoo arrimiyoo
-U gubey ma seexdoo gabadhyahay af-tahamada
-iintaada hoosaan isagaad ka wadataa.
-uur-baadhayaayoo
-toddobada ayaamood Timahaagan adhaxdiyo
-kolba ood ka rogayaa. ka arooray dhabarkee
-Meel uurku tebayoo garbahaaga ootaan
-ergo kuugu magantahay erey lagu tilnaamiyo
-indhahaagan haystaad hadal lagu ammaaniyo
-ku illowdey ruuxaan wax asteeya waayoo
-cidi kula arkayn iyo afartaada waaxood
-eegmadan jacalkiyo indhal baysu haysoo
-ilmadaadan qubatee luquntaadu inanyahay
-dhabannada ordaysiyo waa aaran geriyoo,
-dhirtanaad arradisee sanku waa abuurtii
-ubaxii ka madhisiyo fardo Adari joogiyo
-waxan kaa ambaday baan ashkirkii Nugaashoo,
-indhashooda waayee, indhahaagu ruuxii
-arrintaada gabadh yahay sal-fudayd ku eegay
-udubkeedu dheeraa ! ashqaraar ku ridayaan.
-Waxaad tahay qof uguboo Afkaan midabka luulka leh
-lumaanku buuxoo lk
-: mahadhada ilkaa furan
-sidan gabo Allaylehe TAN AAB ee
-‘ abadaba Allaylehe
-aqalkaad ku dhalatiyo SS Raat
-ninka eeday waa ani.
-gurigaad ku ababtaa
-| Alla lagu xusaayoo
-awliyadu ku kulantaa. Dadkanuu Ilaahay
-ka abuuray ciiddee
-Badi wuxuu arooraa goblantada adduunyadu |
-arday macallinkiisee ka idlaysay dheehee
-edebtiyo xishoodkana dhaxantiyo awaaruhu
-idil hooyadaabaa araggooda doorsheen,
-kugu tidhi adkeeyoo oday lama wadaagtide
-malaa aammusnaantana ma cadceed arooryoo
-tyadaad ka wadataa. sagal oogadeediyo
-agagaarka geesaha
-Sida ruux abwaaniyo kaga taxay aleelaad,
-waaya-arag da’weyn baad uur wada gasheenoo
-arartiyo tilmaamaha ma cir-jiidha oogtiyo
-kolba madax unkaysaa xiddigaha iftiimaad
-hadba dhinac abyeysaa, dhalad kula aroortaa.
+Dad ahaanna waa qaran
+waa duul is wada dhalay
+qalo iyo dir sooc ma leh
+dab dhexdooda kama huro
+weligood ma diriraan
+isma doca-dooceeyaan
+dumar kama baroortaan
+dooxatiyo wareentiyo
+budhcad duusha kuma maqal
+daandaansi ma oggola
+xumo uma dulqaataan
+nabaddana ma diidaan
+deeq kuma masuugaan
+doodna waa yaqaanniin
+diricyaa ka kacay badan
+damdamtiyo mashxaraddiyo
+sacabkana ma daayaan
+danna kama fogaadaan.
 
-ras
-Ma hablaa af-saarkiyo KAMAREEY MA N AB ADB AA 9
-indha saabka qaatiyo X ae °
-Amran xuural-cayntaad ayaabkii cir da’ayeey
-isir hilib wadaagtaan ? daruur shalka xayddaay
+Nin dabayli wadatoo
+waxaan ahay dalxiis iyo
+doolaalo keentoo
+degdeg baa i soo galay
+dibna waan u kacayaa
+dunta gabaygu leeyahay
+kama xulan hal-doorkii
+dulucdiina kama bogan
+balse daymo halacsiga
+kolley doorkan maanta ah
+halkaas aan ku dagagaro.
+
+### SHAN UBAXLEY
+
+Ugubey ma seexdoo
+iintaada hoosaan
+uur-baadhayaayoo
+toddobada ayaamood
+kolba ood ka rogayaa.
+Meel uurku tebayoo
+ergo kuugu maqantahay
+indhahaagan haystaad
+ku illowdey ruuxaan
+cidi kula arkayn iyo
+eegmadan jacalkiyo
+ilmadaadan qubatee
+dhabannada ordaysiyo
+dhirtanaad arradisee
+ubaxii ka madhisiyo
+waxan kaa ambaday baan
+indhashooda waayee,
+arrintaada gabadh yahay
+udubkeedu dheeraa !
+
+Waxaad tahay qof uguboo
+iimaanku buuxoo
+sidan qabo Allaylehe
+aqalkaad ku dhalatiyo
+gurigaad ku ababtaa
+Alla lagu xusaayoo
+awliyadu ku kulantaa.
+
+Badi wuxuu arooraa
+arday macallinkiisee
+edebtiyo xishoodkana
+idil hooyadaabaa
+kugu tidhi adkeeyoo
+malaa aammusnaantana
+iyadaad ka wadataa.
+
+Sida ruux abwaaniyo
+waaya-arag da'weyn baad
+arartiyo tilmaamaha
+kolba madax unkaysaa
+hadba dhinac abyeysaa,
+malaa aabbahaa baa
+taliyoo arrimiyoo
+gabadhyahay af-tahamada
+isagaad ka wadataa.
+
+Timahaagan adhaxdiyo
+ka arooray dhabarkee
+garbahaaga ootaan
+erey lagu tilmaamiyo
+hadal lagu ammaaniyo
+wax asteeya waayoo
+afartaada waaxood
+indhal baysu haysoo
+luquntaadu inanyahay
+waa aaran geriyoo,
+sanku waa abuurtii
+fardo Adari joogiyo
+ashkirkii Nugaashoo,
+indhahaagu ruuxii
+sal-fudayd ku eegay
+ashqaraar ku ridayaan.
+
+Afkaan midabka luulka leh
+mahadhada ilkaa furan
+labadaba Allaylehe
+ninka eeday waa ani.
+
+Dadkanuu Ilaahay
+ka abuuray ciiddee
+goblantada adduunyadu
+ka idlaysay dheehee
+dhaxantiyo awaaruhu
+araggooda doorsheen,
+oday lama wadaagtide
+ma cadceed arooryoo
+sagal oogadeediyo
+agagaarka geesaha
+kaga taxay aleelaad,
+uur wada gasheenoo
+ma cir-jiidha oogtiyo
+xiddigaha iftiimaad
+dhalad kula aroortaa.
+
+Ma hablaa af-saarkiyo
+indha saabka qaatiyo
+Amran xuural-cayntaad
+isir hilib wadaagtaan ?
+
+Ubaxley shan Ubaxley
+magacaagu waa ugub
+gacmahaagu eegmada
+waa laba uloodoo
+N. F. D. ku yaalloo
+unuunkaagu waa Xamar
+adhaxdaadu waa Herer
+addimmadu Hargeysiyo
+Obokh bay ku beermeen
+abtirsiimadaaduna
+Afrikoo dhan weeyaan.
+
+### XAMAREEY MA NABADBAA ?
+
+Xayaabkii cir da'ayeey
+daruur shalka xayddaay
 xulad geenyo ugubeey
 darmaan xoosh u dhalataay,
-Ubaxley shan Ubaxley xil-dhibaanka nabaddaay ©
-magacaagu waa ugub Xajkii Geeska Bariyeey,
-gacmahaagu eegmada cadceeddoo xab-bururtaay,
-waa laba uloodoo marna xabag-barsheeddii
-N. F. D. ku yaalloo nafta xiisa gelisaay,
-unuunkaagu waa Xamar :
-adhaxdaadu waa Herer Xudduntii dhulkaygaay
-addimmadu Hargeysiyo Xaruntii dadkaygaay—
-Obokh bay ku beermeen Xamreey ma nabad baa ?
-abtirstimadaaduna i
-Afrikoo dhan weeyaan. Xiddigtii bahdeediyo
+xil-dhibaanka nabaddaay
+Xajkii Geeska Bariyeey,
+cadceeddoo xab-bururtaay,
+marna xabag-barsheeddii
+nafta xiisa gelisaay.
+
+Xudduntii dhulkaygaay
+Xaruntii dadkaygaay
+Xamreey ma nabad baa ?
+
+Xiddigtii bahdeediyo
 xubnaheeda kala maqan
 u ahayd xusuustee
 sumaddooda xaynkiyo
 shanta gees ku xidhataay.
+
 Xudduntii dhulkaygaay
 Xaruntii dadkaygaay
-Xamareey ma nabad baa?
+Xamreey ma nabad baa?
+
 Laamaha xorriyaddiyo
 xayn-daabka calankee
-| xejinaaya dhalashada
+xejinaaya dhalashada
 xididkay ka beermaan
 xinjir laga waraabshaay.
+
 Xudduntii dhulkaygaay
 Xaruntii dadkaygaay
-Xamareey ma nabad baa ?
+Xamreey ma nabad baa ?
+
 Carra-Edeg xanteediyo
 xaska weli dhex-yaalliyo
 xaskulaha in laga guro
@@ -2021,82 +3572,151 @@ xagal-daac in laga jiro
 tii loo xil-saaraay.
 
 Xudduntii dhulkaygaay
-Xaruntii dadkaygaay, ehh aa
-Xamareey ma nabad baa ? theta vaabaain fe.
-nimankii xambaartee
-Isticmaarku xeel iyo dhirta xaalufka u rogey,
-xanaf iyo wax-yeelliyo dunidaan is-ximinnoo
-xanan iyo dhibaatiyo xasillooni loo yaal
-xadhko miidhan weeyoo dadku kala xishoodaan,
-sida geed xajiinluu nimankii xaduurkiyo
-Xxagxagtaa korkaagee xadaafiirta geliyee,
-xadantada gumeystaha inta ay xifaaliyo
-Xaram lagaga maydhaay. xumo iyo colaad iyo
-xlisadaa ku kiciyeen
-‘ xolad daba ku olosheen
-Kuduntit dhulkaygaay xadhkaheeda kala furay,
-Xarunrtii dadkaygaay xidid iyo tol wada yaal
-Xamareey ma nabad baa ? nimankii hub xoogliyo
-xakamaha ku kala raray
-Danta inay xaraashaan kala xaday walaalaha .
-dembi inay xambaartaan Marwadii xanjeerrayd
-ama sharafka xooraan nimankii xabbaadhee,
-isticmaar la xididaan xawawaray dhasheedii.
-ama xeer la yeeshaan Kuwa midabka ximiyee
-nimankii ka xila-furay, xaqlahana addoonsada
-naftu waxay u xilataa xistigiyo gumeystaha,
-dhegta xeerinteedee, birta loogu xiiriyo
-nolol aan xarrago wadan halka lagu xabaalaay.
-nimankii xanuunkiyo
-xabsiyada ka door-biday, Xuduntii dhulkaygaay
-gobannimo xaq weeyee Xaruntii dadkaygaay
-inta geesi loo xidhay Xamareey ma nabad baa ?
-ama xawda laga jaray,
-Saad ey lash ah Sida xuur wedkeedii
-fa le it Xantoobsaday xan ahaan ku maqashaan
-a 'agu xormeeyaay, amba xiisahaagii
-Xamarey la dhuubtoo
-Xuduntii dhulkaygaay xalay waxan baraarugey
-Xaruntii dadkaygaay lyadoo xiddayseey
-Xamareey ma nabad ba a? inta xaysku kuu da’ay
-; dhulku wada xareed iyo
-Shinnidii Xumbaaliyo xamash iyo ugbaad iyo
-sida xaydha-weyntij xilli yahay barwaaqoo
-nimankay Xawaashi yo dayaxaagu xaynkiyo
-ee ee St
+Xaruntii dadkaygaay,
+Xamareey ma nabad baa ?
 
-xuubkii dillaacshoo |
+Isticmaarku xeel iyo
+xanaf iyo wax-yeelliyo
+xanan iyo dhibaatiyo
+xadhko miidhan weeyoo
+sida geed xajiinluu
+xagxagtaa korkaagee
+xadantada gumeystaha
+Xaram lagaga maydhaay.
+
+Xudduntii dhulkaygaay
+Xaruntii dadkaygaay
+Xamareey ma nabad baa ?
+
+Danta inay xaraashaan
+dembi inay xambaartaan
+ama sharafka xooraan
+isticmaar la xididaan
+ama xeer la yeeshaan
+nimankii ka xila-furay,
+naftu waxay u xilataa
+dhegta xeerinteedee,
+nolol aan xarrago wadan
+nimankii xanuunkiyo
+xabsiyada ka door-biday,
+gobannimo xaq weyee
+inta geesi loo xidhay
+ama xawda laga jaray,
+geerida xalaasha ah
+nimankii xantoobsaday
+halka lagu xormeeyaay.
+
+Xudduntii dhulkaygaay
+Xaruntii dadkaygaay
+Xamareey ma nabad baa ?
+
+Shinnidii Xumbaaliyo
+sida xaydha-weyntii
+nimankay Xawaashiyo
+xaab-qaaddu keentee
+xagga sare ka soo degey,
+dhulka xaabadii tiil
+nimankii xambaartee
+dhirta xaalufka u rogey,
+dunidaan is-ximinnoo
+xasillooni loo yaal
+dadku kala xishoodaan,
+nimankii xaduurkiyo
+xadaafiirta geliyee,
+inta ay xifaaliyo
+xumo iyo colaad iyo
+xiisadaa ku kiciyeen
+xolad daba ku olosheen
+xadhkaheeda kala furay,
+xidid iyo tol wada yaal
+nimankii hub xoogliyo
+xakamaha ku kala raray
+kala xaday walaalaha .
+Marwadii xanjeerrayd
+nimankii xabbaadhee,
+xawawaray dhasheedii.
+Kuwa midabka ximiyee
+xaqlahana addoonsada
+xistigiyo gumeystaha,
+birta loogu xiiriyo
+halka lagu xabaalaay.
+
+Xudduntii dhulkaygaay
+Xaruntii dadkaygaay
+Xamareey ma nabad baa ?
+
+Sida xuur wedkeedii
+xan ahaan ku maqashaan
+amba xiisahaagii
+Xamarey la dhuubtoo
+xalay waxan baraarugey
+iyadoo xiddayseey
+inta xaysku kuu da'ay
+dhulku wada xareed iyo
+xamash iyo ugbaad iyo
+xilli yahay barwaaqoo
+dayaxaagu xaynkiyo
+xuubkii dillaacshoo
 inta uu xanjaadkiyo
-xagal qudha la soo baxay, HABLAHA GEESKA AFRIKA
-dusha sare xinnaystoo M my
-dhallinyaro xariiriyo ma CHUGH era
-hablo Xuural-caynii 6 blooli poe Sest t Ld
-fener sai sheenoo ma ga she maan gudhin
-xeebtaada yaabka leh Gnd BAPE AGIAN SH
-inta ay xaraaraha gabaygiina maan deyn
-xarad geeraarradaydii
-laba ee ; fea imminkaan gardaadshoo
-con : hi weli maan gunaanadin.
-lagu We xisaaboo Murti nimaan gunteediyo
-xantu hoos u socotoon baran gogol-dhiggeedoo
-Ca Cay iyo gonda degi aqoonnoo
-ui jacaylkee garab-daar lahayn baa
-shanta xaraf mid lagu daray gawlgawla Hadatlo
-xog-waraysanaayoon kolba dhinac garoocdee
-kolba xaada cududdiyo sida Webi Ganaanoo
-xaradhkiyo garaaraha cirka godollo maaloo
-il-badhkeed ku xadayee, Behe sail ei
+xagal qudha la soo baxay,
+dusha sare xinnaystoo
+dhallinyaro xariiriyo
+hablo Xuural-caynii
+isasoo xusheenoo
+xeebtaada yaabka leh
+inta ay xaraaraha
+laba laba u xaadheen
+xusullada dhigteenoo
+xeerkii kal gacalkiyo
+lagu jiro xisaaboo
+xantu hoos u socotoon
+aniguna Xayaad iyo
+xiddigtii jacaylkee
+shanta xaraf mid lagu daray
+xog-waraysanaayoon
+kolba xaada cududdiyo
+xaradhkiyo garaaraha
+il-badhkeed ku xadayee,
+
+Xudduntii dhulkaygaay
+Xaruntii dadkaygaay
+maxaad aniga oo xidhan
+lahashada xanuunka leh
+ii xusuusinaysaa?
+
+### HABLAHA GEESKA AFRIKA
+
+Ma geyoon ma gamashiyin
+ma gommodin ma gaaggixin
+ma gabloolin maan gudhin
+mana gabin halkaygii
+gabaygiina maan deyn
+geeraarradaydii
+imminkaan gardaadshoo
+weli maan gunaanadin.
+
+Murti nimaan gunteediyo
+baran gogol-dhiggeedoo
+gonda degi aqoonnoo
+garab-daar lahayn baa
+gawlgawla hadalkoo
+kolba dhinac garoocdee
+sida Webi Ganaanoo
+cirka godollo maaloo
+biyihii ku gaaxdiyo
 gebiyadi ku soo degey
-eipat dhulkaygaay ku darsaday gufaaciyo
-aruntii dadkaygaay : guulaamo diriroo
-maxaad aniga oo xidhan galli jabay habeenkii
-lahashada xanuunka leh i gacan es i rogey,
-li Xusuusinaysaa ? udhaciyo galoolki
-. gunta xididka maw jaray
+ku darsaday gufaaciyo
+guulaamo diriroo
+galli jabay habeenkii
+kolba gacan ma soo rogey,
+Qudhaciyo galoolkii
+gunta xididka maw jaray
 dhulka wada galaal iyo
 gabbalaha ma kaga tegey.
+
 Afartaa geddaydii
-dhaha laygu garan Jirey.
+dhaha laygu garan jirey.
+
 Gurmashada dagaalkiyo
 gulufkiyo colaadaha
 goobaha naf waagiyo
@@ -2106,557 +3726,1022 @@ haddaan dumarku goonyaha
 guubaabo kicinayn,
 sida galowga dhiilloon
 illaa geesi qayrkii,
-birta kuma gumaadeen ?
+birta kuma gumaadeen?
 
-Gu’ hagaagey oo da’ay |
-dhulka geedo jiifaan gadh-hayaa naftaadiyo
-gurya-samo barwaaqa ah gaadiidka reerkiyo
-mee geeddi lagu furo aureus eee Hae
-tallinyaro is gurataa arrin kula gorfaysee,
-gurdan-raaca fiidkit haddaan gaari kula jirin
-gole weyn ku kulantoo illaa noloshu guul ma leh.
-cagta erat satiety
-isu geysa@ jubkoo Go’i waa barbaareey
-aad luugdiyo Gobi waxay ku dhaqantaa
-gedda sacabka loo jaro garab waxay ka dhigataa
-hablahaa u gaaroo gallad waxay ku dheeftaa
-garashada codkoodaa, samo waxay ku gaadhaa
-gof gaboobey kicisoo gololada haweenkee,
-gee astearedsa hiddaheenna gaarka ah
-gama’ kaa ilaashee, hablihii gabowgiyo
-maaan gabadhi Bodo geerida ku sugi jirey,
-illaa gegi ciyaaree hablihii garayskiyo
-wax ma dhaanto geriyaad ? xidhan jirey guntiinada
-hablihii gu’ iyo dayr
-Haddaan guudka laga jirin 4 ih pete eg OLY ;
-gudihiisa xaabkivo Lesa
-nae dumar garka u xidhan, sida gorayga ciideed
-i
-aa guri dugsoon ma leh ? gelbin jirey tallaabada,
-| hablihii gun iyo baar
-Gaadaha habeenkii isha gacalo-eegtaa
-kelidaa galgalashiyo gama’ aanay ledi jirtn,
-ged-geddoonka dhalisoo hablii talada guunktyo
-adigiyo go’aagaa gunti jirey xishoodkee
-fata dhinac u guuroo hadalkoodu gaabnaa;
-arkintaad gabbood iyo hablihii gef hooyiyo
-gaashaan ka inetd garsan jirey guhaaddee
-ak Eug haldhaaley hadday Sart amg
-gacan la saa ama gaajo liitaar
-illaa gogoshu Cohen leh cidi aanay garan jirin,
+Gu' hagaagey oo da'ay
+dhulka geedo jiifaan
+gurya-samo barwaaqa ah
+haddii geeddi lagu furo
+dhallinyaro is gurataa
+gurdan-raaca fiidkii
+gole weyn ku kulantoo
+cagta garan-garteediyo
+isu geysa jiibkoo
+googooska luuqdiyo
+gedda sacabka loo jaro
+hablahaa u gaaroo
+garashada codkoodaa,
+qof gaboobey kicisoo
+gelbiskiyo mashxaraddaa
+gama' kaa ilaashee,
+haddaan gabadhi boodeyn
+illaa gegi ciyaareed
+wax ma dhaanto geriyaad ?
+
+Haddaan guudka laga jirin
+gudihiisa xaabkivo
+cayayaanka laga gurin
+marwo dumar garka u xidhan,
+illaa guri dugsoon ma leh ?
+
+Gaadaha habeenkii
+kelidaa galgalashiyo
+ged-geddoonka dhalisoo
+adigiyo go'aagaa
+hadba dhinac u guuroo
+barkintaad gabbood iyo
+gaashaan ka dhigataa,
+haddaan guud haldhaaley
+kolba gacan la saarayn,
+illaa gogoshu wehel ma leh .
+
+Kuma galo adduunyada
+ninna goonni-socodkoo
+marwo garasho dheer baa
+ninka raga u gudinoo
+iyadaa guddoonkiyo
+gadh-hayaa naftaadiyo
+gaadiidka reerkiyo
+gurgurshaaga noqotoo
+arrin kula gorfaysee,
+haddaan gaari kula jirin
+illaa noloshu guul ma leh .
+
+Go'i waa barbaareey
+Gobi waxay ku dhaqantaa
+garab waxay ka dhigataa
+gallad waxay ku dheeftaa
+samo waxay ku gaadhaa
+gololada haweenkee,
+hiddaheenna gaarka ah
+hablihii gabowgyo
+geerida ku sugi jirey,
+hablihii garayskiyo
+xidhan jirey guntiinada
+hablihii gu' iyo dayr
+sida baarqab golongolay
+dhexda xadhig ku goyn jirey,
+hablihii garaaraha
+gaatan-socodka laafyaha
+sida gorayga ciideed
+gelbin jirey tallaabada,
+hablihii gun iyo baar
+isha gacalo-eegtaa
+gama' aanay ledi jirin,
+hablii talada guunkiyo
+gunti jirey xishoodkee
+hadalkoodu gaabnaa;
+hablihii gef hooyiyo
+qarsan jirey guhaaddee
+hadday goddollo soomaan
+ama gaajo liitaan
+cidi aanay garan jirin,
 hablihii gammaan faras
 iyo geela ugubka ah
-Ah pease adduuny ada guur-doon ka bixin jirey,
-pale goonni-socodkoo hablihii Gargaariyo
-nee a ypeen baa Guleed ku curan jirey,
-a Uu gudinoo goldaloolo iyo ceeb
-tyadaa guddoonkiyo hablihii ka guban jirey,
-= i eee
+guur-doon ka bixin jirey,
+hablihii Gargaariyo
+Guleed ku curan jirey,
+goldaloolo iyo ceeb
+hablihii ka guban jirey,
 
-hablahaan gankoodiyo |
+hablahaan gankoodiyo
 hilbahooda gadan jirin,
-haddii aad gumeysaan TUKE B AAL C AD
+haddii aad gumeysaan
 guul guul ku laysaan,
-gelin qudha ku mooddaan Dhutku waa boggaygiyo
-Teed godshah an a fiir
-1adba tooda goosha ah
-ganacdeeda sabioaahy ku barbaaray weeyaan.
-dadku gabanno-xooriyo Dadku waa bahdaydii
-garacyaley yidhaahdaan, bulshadaan dugsanayiyo
-innagoo gumowniyo noloshayda beeshaan
-dh eevee. ku baxnaaninaayoo,
-CN ae ia Rabbaa ti sed buriyoo
+gelin qudha ku mooddaan
+gabbalkooda dumisaan
+hadba tooda goosha ah
+ganacdeeda jebisaan,
+dadku gabanno-xooriyo
+garacyaley yidhaahdaan,
+innagoo gumowniyo
+dhaqan guurey weyee.
+
+Gocashada xanuunka leh
+waxaan uga gol-leeyahay
+godob aabbe falay baa
+ubadkiisa gocondhiyo
+gumar shidan ku noqotoo
+gebi dheer ku dumisee
+ninka inan ma-geyda ah
+gurrac kaga danaystee
+gol-qaniin ku maalow,
+gefka aad falaysiyo
+waxaad gaaxsanaysiyo
+gashigaad cunaysaa
+ruuxay ka go'antahay
+gabadhaada weeyoo,
+xumahaad geleysiyo
+waxaad geysanaysaad,
+galab kale ka sheekayn.
+
+Gebagebada sheekada
+bal aan soo gunaanado
+guddoonsiyo jiiftada,
+hablo weerar geli kara
+hablo geesi dili kara
+gobanimona hanan kara
+hablo talada goyn kara
+garta madal ka niqi kara
+garashana iskaga mid ah
+quruxdana ka wada goba.
+
+### TUKE BAAL CAD
+
+Dhulku waa boggaygiyo
+beerkiyo wadnaha oo
+baradaan ku ababee
+ku barbaaray weeyaan.
+Dadku waa bahdaydii
+bulshadaan dugsanayiyo
+noloshayda beeshaan
+ku baxnaaninaayoo,
+Rabbaa ii sed buriyoo
 murtida iyo baanaha
-Gocashada xanuunka leh iima barin Ilaahay
-waxaan uga gol-leeyahay danta inan ku bi‘iyoo
-godob aabbe falay baa badhi furo hayaankoo
-ubadkiisa gocondhiyo himilada burburiyee,
-gumar shidan ku nogotoo kuma wado billaawaha
-gebi dheer ku dumisee lugta loo barkinayee
-ninka inan ma-geyda ah wax kalaa babinayoo
-ia eee Hoon pee ae la Bae baa
--qganiin ku maalow, oholaa qodaysiyo
-gefka aad falaysiyo booraanta hadimo.
-waxaad gaaxsanaysi
-pashivacd RienGaa 0 Burka lay filaayiyo
-ruuxay ka go’antahay balliyada agtayda ah
-gabadhaada weeyoo gelin kuma bariistoo
-xumahaad geleysiyo. baxsanaa habeenkit
-waxaad geysanaysaad, ama badiba maantii
-alab kal ; bogollaal kun jeer baan
-: eennaneekay ka baxaa dhulkeeennoo
+iima barin Ilaahay
+danta inan ku bi'iyoo
+badhi furo hayaankoo
+himilada burburiyee,
+kuma wado billaawaha
+lugta loo barkinayee
+wax kalaa babinayoo
+belo aan la garan baa
+bohoolaa qodaysiyo
+booraanta hadimo.
+
+Burka lay filaayiyo
+balliyada agtayda ah
+gelin kuma bariistoo
+baxsanaa habeenkii
+ama badiba maantii
+boqollaal kun jeer baan
+ka baxaa dhulkeeennoo
 sida biligta roobkiyo
-Gebagebada sheekada gaaraa-bidhaankaan
-al vo soo gunaanado hadba meel ka baaqaa.
-guddaoonsiyo jiiftada,
-hablo weerar geli kara Mar dabaylo buubiyo
-hablo geesi dili kara baqayaan ku joogaa.
-eaatuipnin hanan kara Mar ballaadhka ciiddiyo
-blo talada goyn ka waxan baac ku tiriyaa
-garta madal fe Aye ee dhulka baaxaddiisoo
-Sarashana iskaga mid ah mar badaa guntoodaan
-quruxdana ka wada goba baashaal ku marayaa
+gaaraa-bidhaankaan
+hadba meel ka baaqaa.
+
+Mar dabaylo buubiyo
+baqayaan ku joogaa.
+Mar ballaadhka ciiddiyo
+waxan baac ku tiriyaa
+dhulka baaxaddiisooo
+mar badaa guntoodaan
+baashaal ku marayaa
 bahalaha ku nool baan
 bun-salool u qubayaa.
-wae 135
 
-a
-sag gai dugaaggiyo Marna dawlad buuxdoo
-inta bogonta hoosiyo ete: Pe
-baabaco ku oroddiyo hea IglyO galbeedkaba
+Mar bahaa dugaaggiyo
+inta boqonta hoosiyo
+baabaco ku oroddiyo
+bog intii ku socotiyo
+waxaan beretansiiyaa
+baalleyda haadda.
 
-tii a buruud sarraysoo
-bog intii ku socotiyo balan Bo tate (niki
-waxaan beretansiiyaa boapraovadeva ie
-puaiieyaninaadaa, marna beri samaad iyo
-bilo kheyr ka dhigayaa,
-Marna beer jacayloo marna baaxad-sooriyo
-ku bislaata hees baan basan baas u rogayaa,
+Marna beer jacayloo
+ku bislaata hees baan
 hadallada baroorta ah
-biyo uga dhigaayoo Marna baahidaydiyo
-dad bukaanka caashaqa waxan baylah tirayaa
-baaxaa-deg Agog. bilicdii afkaygoo
-boholyow Ia jiifaan gabay baan badhaadhiyo
-boogaha u dhayayaa. ka hayaa barwaaqoo
-isagaa bar xoolaad
-Marna sheeko biirtiyo banka ligu foofoo
-Beder iyo Xunayn iyo nafta waxan ku baantaa
-Beer-Dhiga dagaalkii badhidiyo leggiisee
-birta laysku gooyiyo maxaa beydantaydiyo
-beri hore wax jirey baan gabadhayda baydiyo
-hadba baab akhriyaya. bogorkiyo dhaclaa xidhan
-bidix loogu rogayaa ? |
-Marna beenta feleggiyo tolow waxan bireeyaba
-baxnaanada adduunkiyo maxaa booli luuglyo
-berritiyo wax magan baan bakhti looga dhigayaa ?
+biyo uga dhigaayoo
+dad bukaanka caashaqa
+baaxaa-degaayoo
+boholyow la jiifaan
+boogaha u dhayayaa.
+
+Marna sheeko biirtiyo
+Beder iyo Xunayn iyo
+Beer-Dhiga dagaalkii
+birta laysku gooyiyo
+beri hore wax jirey baan
+hadba baab akhriyaya.
+
+Marna beenta feleggiyo
+baxnaanada adduunkiyo
+berritiyo wax maqan baan
 saadaal ka bixiyaa.
+
+Marna hawli badatee
+suuradaha buruudka leh
+mid ballaysin keedii
+waxa looga boodee
+Bisin looga waayaan
+arrinteeda baadhaa.
+
+Marna baahi-laawaha
+waxan buun u tumayaa
+yaajuujka buuraha
+baal dacar ku qodayoo
+bandhig laysu yimi baan
+jinka baar-qabkiisiyo
+bulbulleyda shaydaan
+billadaha ku taxayaa.
+
+Marna dawlad buuxdoo
+barigiyo galbeedkaba
+ka buruud sarraysoo
+ba'an baan u taliyaa
+boqortooyadaydaan
+marna beri samaad iyo
+bilo kheyr ka dhigayaa,
+marna baaxad-sooriyo
+basan baas u rogayaa.
+
+Marna baahidaydiyo
+waxan baylah tirayaa
+bilicdii afkaygoo
+gabay baan badhaadhiyo
+ka hayaa barwaaqoo
+isagaa bar xoolaad
+banka iigu foofoo
+nafta waxan ku baantaa
+badhidiyo leggiisee
+maxaa beydantaydiyo
+gabadhayda baydiyo
+boqorkiyo dhaclaa xidhan
+bidix loogu rogayaa ?
+tolow waxan bireeyaba
+maxaa booli tuugiyo
+bakhti looga dhigayaa ?
+
 Dadku beretan guuleed
-| Marna hawli badatee u biyeysey weelkoo
-| suuradaha buruudka leh baroor iyo ninkiisii
-mid ballaysin keedii ka baxsade habaaskee
-waxa looga boodee haddii boodhku igu dhaco
-Bisin looga waayaan baqalkay la gaabshee
-arrinteeda baadhaa nin bursaday halkiisee
+u biyeysey weelkoo
+baroor iyo ninkiisii
+ka baxsade habaaskee
+haddii boodhku igu dhaco
+baqalkay la gaabshee
+nin bursaday halkiisee
 intayada baraarkiyo
 burrusyada ku joogtaa
-wae ‘ ‘- is oe barbarraannu nogonnee
-yaajuujka buuraha TEENA M GHEE eS) a ;
-baal dacar ky godayoo tuke baal cad iga dhigay :
-bandhig laysu yimi ban
-Jinka baar-gabkiisiyo
-bulbulleyda Shaydaan
-billadaha ky taxayaa.
-ee ee ee
+barbarraannu noqonnee
+maxaa aniga baas iyo
+tuke baal cad iga dhigay ?
 
-HAL-ABUUR jidka toosan hubiyoo
-dhakhso ugu hayaamoo
-Hal-abuurku waa geed hela doogsinteediyo
-hufanoo udgoonoo gof habaaba socodkoo
-higil iyo caleen iyo ku hungooba weeyaan.
+### HAL-ABUUR
+
+Hal-abuurku waa geed
+hufanoo udgoonoo
+higil iyo caleen iyo
 hoobaani fuushoo
-ubaxuna kor iyo hoos Hal-abuurku waa deeq
-hilgadaha ku dhigayoo waa Haro Digeedoo
-hadh qabow ku darayoo is harraatiyaysoo
-shinbiruhu hiraabtii dadku rue Be adagoo
-ka haloosiyaanoo horu socod ku darayoo
-cidi aanay hurinoo ka hirqada xareeddiyo
-ishu haybta meel dheer fave pat ka qabinoo
-uga soo hilowdoo 1ayin gaadha waayoo
-higsi lagu yimaaddoo ka harraaddan weeyaan.
+ubaxuna kor iyo hoos
+hilqadaha ku dhigayoo
+hadh qabow ku darayoo
+shinbiruhu hiraabtii
+ka haloosiyaanoo
+cidi aanay hurinoo
+ishu haybta meel dheer
+uga soo hilowdoo
+higsi lagu yimaaddoo
 la habaarin weeyaan.
-Hal-abuurka guul aad
-Hal-abuurku waa diin nacabkaa ka hanatiyo
-bulsho hadalladeediyo rea an la hoyatoo
-haasaasaheediyo cu haloosiyaysaa
-hingashada dareenkiyo dabka loogu huriyaa.
-hibo weeye Eebbahay
-hanti aan la gadinoo Marna hoga tusaaliyo
-halladaad ku gelinoo maahmaah hawiranoo
-la hagoogto weeyaan. noloshuba ku hiratiyo
-| murti hodana weeyaan.
-Waxa lagu habeeyaa
-La a Be penaanyo Morne heen gun dheeroo
-UMILLYO Ujeeddoo tilanoo lingaxanoo
-waxa lagu hayaanshaa habaqlaha dhextaalliyo
-hagarli’i dadkaagoo hal-xidhaale weeyaan.
-waxaa loogu hiishaa
-lama hure dhulkaagoo Marna hoy bulsheedoo
-hagab-beelka noloshaa ku habboon caweysktyo
-horta lagu yagleelaa. halab lagu bariistoo
-laga helo naruuriyo
-Hal-abuurku waa roob haasaawe weeyaan.
-hogol weeye curatoo
-waa heego diriroo Marna hugunka uurkiyo
-ka hillaacday meeloo hadimada ku gaadhiyo
-dadku ruux hilaaddiyo hogashada gandoodkiyo
-hindisaha yaqaannoo hiyi kaca calooshiyo
 
-1) Se
-nafta hibashadeedaa .
-kugu huriya naaroo sida uu u haystiyo
-hal-abuurka nabar baa halka uu la doontoo
-hollo kugu yidhaahdoo gabadh weeye heensaha
-dacar kugu hulaaqdiyo hore loogu xidhayoo
-hiirtaanyo murugaa shaqalkiyo hagoogtiyo
-hadba lagu bakhtiiyaa. aie way te seit
-sida naas hablood buu
-- ; horaad iyo danbeed yahay.
+Hal-abuurku waa diin
+bulsho hadalladeediyo
+haasaasaheediyo
+hinqashada dareenkiyo
+hibo weeye Eebbahay
+hanti aan la gadinoo
+halladaad ku gelinoo
+la hagoogto weeyaan.
+
+Waxa lagu habeeyaa
+hiddahaad ku dhaqantiyo
+himiliyo ujeeddoo
+waxa lagu hayaanshaa
+hagarli'i dadkaagoo
+waxaa loogu hiishaa
+lama hure dhulkaagoo
+haqab-beelka noloshaa
+horta lagu yagleelaa.
+
+Hal-abuurku waa roob
+hogol weeye curatoo
+waa heego diriroo
+ka hillaacday meeloo
+dadku ruux hilaaddiyo
+hindisaha yaqaannoo
+jidka toosan hubiyoo
+dhakhso ugu hayaamoo
+hela doogsinteediyo
+qof habaaba socodkoo
+ku hungooba weeyaan.
+
+Hal-abuurku waa deeq
+waa Haro Digeedoo
+is harraatiyaysoo
+dadku ruux hal adagoo
+horu socod ku darayoo
+ka hirqada xareeddiyo
+hawo niman ka qabinoo
+hayin gaadha waayoo
+ka harraaddan weeyaan.
+
+Hal-abuurka guul aad
+nacabkaa ka hanatiyo
+libin aad la hoyatoo
+ku haloosiyaysaa
+dabka loogu huriyaa.
+
+Marna hoga tusaaliyo
+maahmaah hawiranoo
+noloshuba ku hiratiyo
+murti hodana weeyaan.
+
+Marna haan gun dheeroo
+hilanoo lingaxanoo
+habaqlaha dhextaalliyo
+hal-xidhaale weeyaan.
+
+Marna hoy bulsheedoo
+ku habboon caweyskiyo
+halab lagu bariistoo
+laga helo naruuriyo
+haasaawe weeyaan.
+
+Marna hugunka uurkiyo
+hadimada ku gaadhiyo
+hogashada gandoodkiyo
+hiyi kaca calooshiyo
+nafta hibashadeedaa
+kugu huriya naaroo
+hal-abuurka nabar baa
+hollo kugu yidhaahdoo
+dacar kugu hulaaqdiyo
+hiirtaanyo murugaa
+hadba lagu bakhtiiyaa.
+
 Marna hadashadaadiyo
 isha halacsigeediyo
-hengelaha jacaylkiyo nee niman baa
-waxaa loogu heesaa 1awraar u bixiyoo
-hablihiyo Paltaamlliee toddobaatan hebeloo
-mnrinaadihavooina hana-qaad is-xigey baa
-lagu hoodo sheegtaa. hasha maali Jirayoo
-haaneedka Raagaa
-Mie cenve) gaban jirey hadhuubkoo
-agit A Se, a “if ae Cr a cat hooduu
-ra} ragba kaga horreeyoo
-cave ihre: Mae Q hidda raac Qamaan bay
-hea Hy aamo badanoo habar wada jaqeenoo
-hin peer ge ta ha’da gabay Salaan baa
-Feni aa ka hadhinoo dhigi jirey higgaaddoo
-BQGEY SELWSEY AGN: hammi Faarax Nuur baan
-ledi jirin habeenoo
-Marna waa hummaaggii hitigsiga Gammuutaan
-gofka kula hadlaayoo hamrashada aqoonoo
-intuu soo hankaabsaday mahadhada kal gacalkiyo
-iska rogey hillaabtoo Hodan iyo xusuusaha
-kugu yidhi hankaygiyo Cilmi haadka duuluu
-habka maansadaydiyo fari jirey hayaydoo
-hiyigaygu waa kaas. Sayid M axamed hawlaha
-halgankiyo dagaalkuu
-Hal- u hor kacay Daraawiish
-eh ps ate Ca hurintiisa jiiftaa
-hirar kaia deh s u ahayd hal-haysoo
-waa hilib meri es ha noolaatadeennt
-isagoo hal ain oe hubka lagu dagaal galay
-dadku hara phe lj murti baa halbowliyo
-ka Bian tar ped u ahayd hoggaanoo
-gof kastaa hab noge. Soomaali hurudday
-u higgaadsada che hoobey ku kicisoo
-waxay ugu h Beep Xamar iyo Hargeysaba
-eeiMevcon'tahay dhagax iyo hangool iyo
-side 141
-ei “
+hengelaha jacaylkiyo
+waxaa loogu heesaa
+hablihiyo kal-gacalkoo
+marka aad hawootaa
+lagu hoodo sheegtaa.
 
-1) Toes
+Marna geenyo hororoo
+hardaf waal ku socotoo
+halis iyo wax yeelliyo
+hagar daamo badanoo
+heddu saarantahayoo
+nin bartaa ka hadhinoo
+ku hodeysa weeyaan.
+
+Marna waa hummaaggii
+qofka kula hadlaayoo
+intuu soo hankaabsaday
+iska rogey hillaabtoo
+kugu yidhi hankaygiyo
+habka maansadaydiyo
+hiyigaygu waa kaas.
+
+Hal-abuurku waa awr
+sita heeryadiisiyo
+hirar kala shisheeyoo
+waa hilib mergiyahoo
+isagoo hal keliyaa
+dadku harag shabeel iyo
+ka dhigaan hariiryoo
+qof kastaa hab gaaruu
+u higgaadsadaayoo
+waxay ugu habboon tahay
+sida uu u haystiyo
+halka uu la doontoo
+gabadh weeye heensaha
+hore loogu xidhayoo
+shaqalkiyo hagoogtiyo
+huga way ku dhalatoo
+sida naas hablood buu
+horaad iyo danbeed yahay.
+
+Hal-abuurka niman baa
+hawraar u bixiyoo
+toddobaatan hebeloo
+hana-qaad is-xigey baa
+hasha maali jirayoo
+haaneedka Raagaa
+qaban jirey hadhuubkoo
+Cali Dhuuxna hooduu
+ragba kaga horreeyoo
+hidda raac Qamaan bay
+habar wada jaqeenoo
+ha'da gabay Salaan baa
+dhigi jirey higgaaddoo
+hammi Faarax Nuur baan
+ledi jirin habeenoo
+hitiqsiga Gammuutaan
+hamrashada aqoonoo
+mahadhada kal gacalkiyo
+Hodan iyo xusuusaha
+Cilmi haadka duuluu
+fari jirey hanyaydoo
+Sayid Maxamed hawlaha
+halgankiyo dagaalkuu
+u hor kacay Daraawiish
+hurintiisa jiiftaa
+u ahayd hal-haysoo
+ha noolaatadeennii
+hubka lagu dagaal galay
+murti baa halbowliyo
+u ahayd hoggaanoo
+Soomaali hurudday
+hoobey ku kicisoo
+Xamar iyo Hargeysaba
+dhagax iyo hangool iyo
 heellaa xoraysoo
 Wallee hoobalkaan jirin
-libi sooma hoyateen. ARRAWEELO
+libi sooma hoyateen.
+
+Anna heesta luuqdiyo
+hawraarta maansada
+kuma xidho hunguriyoo
+kama taliyo hoodoo
+ummaddaydu haabkay
+ugu heellantahay baa
+hanti iigu filanoo
+hanqal-taagga xoolaha
+waxan uga han weynahay
+hambalyada salaantiyo
+hadal-haynta magacoo
+hindisaha wax sheegiyo
+hoga gelinta jiiftada
+ma hawaawi tiriyee
+halka aan furaayaan
+u horseed tagaayoo
+horta waan u sahanshaa.
+
+Marka aan hoggiisiyo
+feleggiisa hubiyee
+habaskiisu yeedhaan
+hudi hudi idhaahdaa.
+
+### ARRAWEELO
+
 Ooshu waa halkeedii
-Anna heesta luuqdiyo cirku waa engegan yahay
-hawraarta maansada naxariisi kama iman
-kuma xidho hunguriyoo dhulku waa arradan yahay
-kama taliyo hoodoo oogadiisu damac ma leh
-ummaddaydu haabkay waa abaar dad qalata ah
-peu (io Gee baa waa sabaan la adhax-jabay
-1anti iigu filanoo ma aloosna geedkii
-hangal-taagga xoolaha afti baana ai tiil
-waxan uga han weynahay dadna waa ogsoonaa
-hambalyada salaantiyo anna baanahaygii
-hadal-haynta magacoo ku adkaysan waayee
-hindisaha wax sheegiyo sow limahaygiyo
-hoee gelinta jiiftada alabkayga lama baran.
-ma hawaawi tirlyee
-I ae aan furaayaan Olol-reenka hibashada
-F orseed tagaayoo uugaanka baxayaa
-orta waan u sahanshaa. ma naftii asqowdaa
+cirku waa engegan yahay
+naxariisi kama iman
+dhulku waa arradan yahay
+oogadiisu damac ma leh
+waa abaar dad qalata ah
+waa sabaan la adhax-jabay
+ma aloosna geedkii
+afti baana sii tiil
+dadna waa ogsoonaa
+anna baanahaygii
+ku adkaysan waayee
+sow iimahaygiyo
+alabkayga lama baran.
+
+Olol-reenka hibashada
+uugaanka baxayaa
+ma naftii asqowdaa
 mar labaad arrumisoo
-Marka aan hoggiisiyo agabtii xidhxidhatoo
-feleggiisa hubiyee pillar arta yahay?
-| habaskiisu yee a awaalthiibaa
-hudi hudi eae asmadiyo xanuunktyo
+agabtii xidhxidhatoo
+awrkeedu raran yahay?
+Ma awaalihiibaa
+asmadiyo xanuunkiyo
 aynfaadku saarraa?
 Ma abaabulkii baa
 oohowda waallaa?
 Ma dabkaan afuufee
 aasee bakhtiiyaa
 ololkiisu baxayaa?
+
 Kalgacaylku aafiyo
 urugiyo dhib badanaa
 kasha nugul ka adakaa?
-Soo aaryey nabarku
+Soo aaryey nabarkii
 ma alwadey sidii geel
 edeg madhan ma deydeyey
 sida bahal ma oogsadey
-ma illaday kabtti jaan
+ma illaday kabtii jaan
 ma ku jiitey awdalan?
 ma arooryadii baa
+waabayda udugga leh
+idan laygu shidi jirey?
 
-waabayda udugga leh Lanogon ahkalnadae
-Hanae Sak ee Tenaya ibe erie
-Abbaartayda saakana nin ambaday ka soo qaad.
+Abbaartayda saakana
 ma adeeridii baa
-sidaan aar libaax ahay ;
-init Naftan oonku shidayee
-araggaygu didin jirey? sree wevdey olblkaa
-amankaaga dhalisee
-Arraweelo dumareey abhin iyo tusaaliyo
-arrimaha dhexdeenna ah ergo waaya hadashiyo
-asaraari maayee imisaan karaankay
-igu tidhi “ha ii iman”. la cuskaday aqoontay?
-Anna waan hubaayoo Ma waxaanan odhannoon
-inaan uurka kaa jaro ka illaawey baa jira?
-afar iyo shan goor baan
-axdi kuugu qaadoo Hadday diiddey amarkii
-misna oofin waayee ka irdhowdey taladii
-Cae COnmaan oggolaatay dala’siga
-tolow aqalka soo galay? eelka maanigaa dhigay ?
-Ma naftii ku eeddeed Indhahaagu kululaa
-obocdeeda wadhateed eebadaadu toganaa
-axankeeda karisee warmahaagu adakaa
-ishu kaaga fagantaan arammida ku haysiyo
-usha kaaga reebaan aanadaadu weynaa
-igdhayee sabaayee yaad ka aarsanaysaa
-: Uubaale geeyeen ma nin aabbahaa diley?
-meelaanay kaa arag
-ku ilaalinaayaa Nin astaamahaagiyo
-BO) lidhay ooddii? quruxdaada oog iyo
-Ma adaahidii baa ubax dharan ku sheegoo
-addinkaaga hoos taal? ammaantaada koobaa
-Aburkiyo xarraankiyo eed beeli waayee
-orka iyo mashxaraddiyo erey tuurleh ruuxii
-alalaaska baxayaa afka kaa yidhaahdiyo
-ma ujeeddadaasaa? utin nimaad ku leedahay
-Ma addoonsigeedaa waa maxay abaalkii?
-ajar kuugu suganyahay ?
-Sow ma tihid ilayskiyo
-Arxanlaay karkabaddiyo iidaanka noloshiyo
-araggaygu murugiyo iimaanka lahashada
-yaanu umal ku saagoo sidaan kaaga oolaa?
-anfariir ku geliyiyo
+sidaan aar libaax ahay
+araggaygu didin jirey?
 
-Baan Raye se abdo lagala quustoo
-Beis tics lava? maaha laga inaabsaday
-a igh he ae weli way irmaantahay
-- waa aroos toddoba baxay
-Xeerkii Islaamkiyo oori weeye qurux badan
-wixii Eebbahay faray waa ammaano dhaxal gala
-olloggayga godobtiyo aayadaa ka soo degey —
-aanfada ka doortoow Rabbi baa aqoolkiyo
-aabi loo badheedhiyo abyiddeeda labadaba
-ansax maaha digashadu ka afeeftay beri hore
-yaan inkaari kugu dhicin duminteeda ma oggola
-ashqaraarka kibirkiyo haddaad siibto udubbada
-yaanay tiddu kula tegin soo dhaafto Alamtara
-ha ku tuman aleelaha. miyaan eedda keligaa
-Ha afduubin xaajada cidi kuugu imanayn?
-isirkeeda doon doon Maadigaa awoodda leh
-ka ummuli tusaalaha taladiyo ummuuruhu
-alif macallin weydii ma sidaad u aragtaa?
-bal abuurta dunidiyo Ma llaahay baan jirin.
+Arraweelo dumareey
+arrimaha dhexdeenna ah
+asaraari maayee
+igu tidhi "ha ii iman".
+Anna waan hubaayoo
+inaan uurka kaa jaro
+afar iyo shan goor baan
+axdi kuugu qaadoo
+misna oofin waayee
+isma ogiye goormaan
+tolow aqalka soo galay?
+
+Ma naftii ku eeddeed
+obocdeeda wadhateed
+axankeeda karisee
+ishu kaaga fagantaan
+usha kaaga reebaan
+igdhayee sabaayee
+Uubaale geeyeen
+meelaanay kaa arag
+ku ilaalinaayaa
+soo jiidhay ooddii?
+Ma adaahidii baa
+addinkaaga hoos taal?
+Aburkiyo xarraankiyo
+orka iyo mashxaraddiyo
+alalaaska baxayaa
+ma ujeeddadaasaa?
+Ma addoonsigeedaa
+ajar kuugu suganyahay?
+
+Arxanlaay karkabaddiyo
+araggaygu murugiyo
+yaanu umal ku saaqoo
+anfariir ku geliyiyo
+kugu noqon af-kala qaad.
+Arrintayda gabadhyahay
+nin ambaday ka soo qaad.
+
+Naftan oonku shidayee
+deyn weydey ololkaa
+amankaaga dhalisee
+abhin iyo tusaaliyo
+ergo waaya hadashiyo
+imisaan karaankay
+la cuskaday aqoontay?
+Ma waxaanan odhannoon
+ka illaawey baa jira?
+
+Hadday diiddey amarkii
+ka irdhowdey taladii
+oggolaatay dala'siga
+eelka maanigaa dhigay ?
+
+Indhahaagu kululaa
+eebadaadu toganaa
+warmahaagu adakaa
+arammida ku haysiyo
+aanadaadu weynaa
+yaad ka aarsanaysaa
+ma nin aabbahaa diley?
+
+Nin astaamahaagiyo
+quruxdaada oog iyo
+ubax dharan ku sheegoo
+ammaantaada koobaa
+eed beeli waayee
+erey tuurleh ruuxii
+afka kaa yidhaahdiyo
+utin nimaad ku leedahay
+waa maxay abaalkii?
+
+Sow ma tihid ilayskiyo
+iidaanka noloshiyo
+iimaanka lahashada
+sidaan kaaga oolaa?
+
+Immisaan ku jiri baaq
+heestii ukulidiyo
+cabashiyo abla-ablayn?
+
+Xeerkii Islaamkiyo
+wixii Eebbahay faray
+olloggayga godobtiyo
+aanfada ka doortoow
+aabi loo badheedhiyo
+ansax maaha digashadu
+yaan inkaari kugu dhicin
+ashqaraarka kibirkiyo
+yaanay iiddu kula tegin
+ha ku tuman aleelaha.
+Ha afduubin xaajada
+isirkeeda doon doon
+ka ummuli tusaalaha
+alif macallin weydii
+bal abuurta dunidiyo
 shalay iyo awaasheed
-aashaa dib ugu re
-bal Rapes iiliaitoha Ulajeeddadaydii —
-bal malee wax iman kara Gia? Oaalunblenvie?
-herplevyo ayaamaha warka waan agmarayoo
-Wifaale Gaymood irbad baan ku qalayee,
-NEINeb agen shivekee uus-miirka dulucdiyo
-wixii aadmi soo maray amba-qaadka geeddiga
-$ waxaan guurti ku egmadey
-| se eae uur-baadh. hadalkana ku urursaday
-vets. pee yeas tadu irrid waliba kuu furan
-; BUSSEY haddaan iisho gabadhyahay
-fee waa oday marna waa ayaankaa
-eit i geome ie , marna waa itaalkaa
-nabar oof wareemun sheekadayda iib gee
-hilly ee aahdayda faallee
-BIEL hp et ah arladoo dhan gaadhsit
-Jado. unuunkaygu waa hibo
-kuma haysto aakhiro.
+aashaa dib ugu noqo
+bal oddoros hilaadaha
+bal malee wax iman kara
+berritiyo ayaamaha
+ifafaale daymood
+bal iskaa ka sheekee
+wixii aadmi soo maray
+taariikhda uur-baadh.
+Ugub maaha jamashadu
+ma ishaaran keligey
+kalgacaylku waa oday
+asalkiisu waa geed
+ab abkii lammaanaa
+nabar oof wareemuu
+la abloobo mooyee
+abidkii ma qaran jabo.
+
 Gabadhyahay adduunyada
 waxaa loo agaasimay
-aayatiinka dhagashada
+aayatiinka dhaqashada
 agan maaha gamashiday
 ma idlaan hankeedii
 gabno ibo kuryowdoo
+abdo lagala quustoo
+maaha laga inaabsaday
+weli way irmaantahay
+waa aroos toddoba baxay
+oori weeye qurux badan
+waa ammaano dhaxal gala
+aayadaa ka soo degey
+Rabbi baa aqoolkiyo
+abyiddeeda labadaba
+ka afeefray beri hore
+duminteeda ma oggola
+haddaad siibto udubbada
+soo dhaafto Alamtara
+miyaan eedda keligaa
+cidi kuugu imanayn?
+Maadigaa awoodda leh
+taladiyo ummuuruhu
+ma sidaad u aragtaa?
+Ma Ilaahay baan jirin.
 
-DEYN MAAYO HEESAHA Hiirtaanyo lagu dhacan
+Ulajeeddadaydii
+arar baan ku lumiyoo
+warka waan agmarayoo
+irbad baan ku qalayee,
+uus-miirka dulucdiyo
+amba-qaadka geeddiga
+waxaan guurti ku egmadey
+hadalkana ku urursaday
+irrid waliba kuu furan
+haddaan iisho gabadhayahy
+marna waa ayaankaa
+marna waa itaalkaa
+sheekadayda iib gee
+aahdayda faallee
+arladoo dhan gaadhsii
+unuunkaygu waa hibo
+kuma haysto aakhiro.
+
+### DEYN MAAYO HEESAHA
+
+Laabtu way hugmaysaa
+afku way hud-hudayaa
+hadal buu i leeyahay
+anna waan hor joogaa.
+
+Wax la hado shil baw roon
+Wax la helo lib baw mudan
+wax la huro naf baw culus
+Wax la hubo wed baa jira.
+
+Senge hoohadaa baxay
+habaqlaa ka daba tegey
+inkastay habaaskiyo
+ka dhergeen huq iyo ciil
+hafashada asqoobeen
+boqol jeer hungoobeen
+weli way handanayaan.
+
+Ma hillaabni laan-deyr
+ma hagoogni waabay
+hagar-daamo kuma jiro
+hurin diiddey nabaddiyo
+wadar ii heshiisoo
+huminaysa dhagar baa
+hubku iigu tumanyahay.
+
+Sacabkiyo haloosiga
+hogolaha ku soo degey
+haradiyo jidhaamaha
+waxan hooyi-waalaha
+ugu shubay hadhuubbada
+dadku inu hamuuntiyo
+kaga baxo harraadkee
+hilin kale in lala maro
+ama hawdka lala xulo
+haanraawe daba galo
+foolaadka kala hadho
+hororradu bakhtiistaan
+hiyigayga kuma jirin.
+
+Hiirtaanyo lagu dhacan
 haaraanku fara badey
-Laabtu way hugmaysaa higil ty re Me Cee
-afku way hud-hudayaa hurdadii la eh wae
-hadal buu i leeyahay faean wages sik ays gurey
-anna waan hor joogaa. REVEL HEBEL CONZGGL ee
+higil iyo faq dheeraa
+hurdadii la deyi waa
+habar wacasho lays gurey
+hebel hebel canbaaree
 hebel kale ka marag dhigey
 nin hayaanka beeshiyo
-Wax la hado shil baw roon danta guud ku hawshoon
-Wax la helo lib baw mudan hafarkiisa lagu dhagan
-wax la huro naf baw culus hilbo ceedhin lagu waab
-Wax la hubo wed baa jira. ninba harag u saynsaab
+danta guud ku hawshoon
+hafarkiisa lagu dhaqan
+hilbo ceedhin lagu waab
+ninba harag u saynsaab
 hataq madaxa loo geli
-Senge hoohadaa baxay hoosaaso lagu qaley
-habaqlaa ka daba tegey beladii la halabsaday
-inkastay habaaskiyo hugunkeedu dami-waa
-ka dhergeen hug iyo ciil nin hinaasay deyn-waa
-hafashada asqoobeen hibashada qumbacashada
-bogol jeer hungoobeen hengeshiina furi-waa.
-weli way handanayaan.
-Hor Allaa la tegayaa
-Ma hillaabni laan-deyr wax Ranbey Staibaen idhi
-ma hagoogni waabay garta hubiya baan idhi
-hagar-daamo kuma jiro runta lagama hiishee
-hurin diiddey nabaddiyo xaqa halacsadaan idhi,
-wadar lt heshiisoo hawraarsan laga waa
-huminaysa dhagar baa haye way ku adag tahay
-hubku iigu tumanyahay. wax hallaaba mooyee
-wax hagaaga ma oggola
-Sacabkiyo haloosiga qaska way horseedaan |
-hogolaha ku soo degey xanta waw hiloobaan
-haradiyo jidhaamaha guusha ay hufnaantiyo
-waxan hooyi-waalaha si haboon ku waayaan
-ugu shubay hadhuubbada xisti bay ku hooyaan
-dadku inu hamuuntiyo hunguraa wax lumiyee
-kaga baxo harraadkee hawadoodu kama foga
-hilin kale in lala maro haasaasa maalmeed
-ama hawdka lala xulo murtidoodu huubiyo
-haanraawe daba galo hal dhac bay u badantahay
-foolaadka kala hadho ma karaan higgaadiyo
-hororradu bakhtiistaan hal-xidhaale toolmoon
-hiyigayga kuma jirin, haamaha gun-dheerta ah
-hilaygiyo lingaxa sudhan
+hoosaaso lagu qaley
+beladii la halabsaday
+hugunkeedu dami-waa
+nin hinaasay deyn-waa
+hibashada qumbacashada
+hengeshiina furi-waa.
 
-ma helaan sarbeebtiyo Nin hadaafa lama odhan
-isha hoga-tusaalaha haybta nolosho kaa xidhan.
+Hor Allaa la tegayaa
+wax hanbaysta baan idhi
+garta hubiya baan idhi
+runta lagama hiishee
+xaqa halacsadaan idhi,
+hawraarsan laga waa
+haye way ku adag tahay
+wax hallaaba mooyee
+wax hagaaga ma oggola
+qaska way horseedaan
+xanta waw hiloobaan
+guusha ay hufnaantiyo
+si haboon ku waayaan
+xisti bay ku hooyaan
+hunguraa wax lumiyee
+hawadoodu kama foga
+haasaasa maalmced
+murtidoodu huubiyo
+hal dhac bay u badantahay
+ma karaan higgaadiyo
+hal-xidhaale toolmoon
+haamaha gun-dheerta ah
+hilaygiyo lingaxa sudhan
+ma helaan sarbeebtiyo
+isha hoga-tusaalaha
 sugaanta hodanka ah
 hindisaha aloolka leh
-ereyada hal-doorka ah Nin habsadayna kama tegin
-hab kalay u weriyaan himilada adduunyada.
+ereyada hal-doorka ah
+hab kalay u weriyaan
 hawraar nin tiriyoo
-hanaqaada ma oggola. Nin la hago xil kama dhicin.
-Ninka hooto-dhegaley Aniguna hed mooyee
-nabar hoos ka tuuroo inta hibada Eebbiyo
-dadban igu halgaadow hawraarta maansadu
-hangaraarac baan ahay i hareera yaalliin
-lugo habay hal iyo laba hal-abuurku ila jiro
-kuma hadho tummaatida hiyigaygu nool-yahay
-dabka aydin huriseen hammigaygu shidan-yahay
-hakin maayo socotada, hanku igu lammaan-yahay
-hoogaansigaygiyo waxa aan higsanayaa
-hebednimada guudkiyo dhul fog iiga hirayaan
-hayal-samida muugqiyo haasaawe furan-yahay
-haaheyda malabka leh qodob laga hadlaa jiro
-ha ku dagan sabaalaha deyn maayo heesaha.
-hayin aan la raranoo j ;
-lagu qaadin heeryoo Hollashada majiiraha
-la hoggaansan baan ahay nin hannaanka gabayada
-| hamrashada asaaggey hanan waayey naaskow
-hooyaday iguma dhalin hashu waa ammaanee
-fula-guulka harawsiga haaneedka sii daa.
+hanaqaada ma oggola.
+
+Ninka hooto-dhegaley
+nabar hoos ka tuuroo
+dadban igu halgaadow
+hangaraarac baan ahay
+lugo habay hal iyo laba
+kuma hadho tummaatida
+dabka aydin huriseen
+hakin maayo socotada,
+hoogaansigaygiyo
+hebednimada guudkiyo
+hayal-samida muuqiyo
+haaheyda malabka leh
+ha ku dagan sabaalaha
+hayin aan la raranoo
+lagu qaadin heeryoo
+la hoggaansan baan ahay
+hamrashada asaaggey
+hooyaday iguma dhalin
+fula-guulka harawsiga
 hanjabeadda kuma dido
-hatagaha si dalagta ah
-haadaanta kuma jabo Hogga aad daboosheen
-dabin haad ka roor dh igay halistaa maleegteen
-yaan hilaaddu kaa lumin. ae ke apt nae
+hataqaha si dalagta ah
+haadaanta kuma jabo
+dabin haad ka roor dhigay
+yaan hilaaddu kaa lumin.
+
+Halla waa ogeysiis
+inta hoogga dacarta ah
+ku halaan-halaysay
+hunbanida is gurataay
+ladhka soo hinqanayow.
+
+Nin hadaafa lama odhan
+haybta nolosho kaa xidhan.
+
+Nin habsadayna kama tegin
+himilada adduunyada.
+
+Nin la hago xil kama dhicin.
+
+Aniguna hed mooyee
+inta hibada Eebbiyo
+hawraarta maansadu
+i hareera yaalliin
+hal-abuurku ila jiro
+hiyigaygu nool-yahay
+hammigaygu shidan-yahay
+hanku igu lammaan-yahay
+waxa aan higsanayaa
+dhul fog iiga hirayaan
+haasaawe furan-yahay
+qodob laga hadlaa jiro
+deyn maayo heesaha.
+
+Hollashada majiiraha
+nin hannaanka gabayada
+hanan waayey naaskow
+hashu waa ammanee
+haaneedka sii daa.
+
+Hogga aad daboosheen
+halistaa maleegteen
+shilka aad habayseen
 habbisada falkiinniyo
 isla hela awaytida,
-Halla waa ogeysiis habaarkiinnu ima karo.
-inta hoogga dacarta ah
-ku halaan-halaysaay
-hunbanida is gurataay
-ladhka soo hinganayow,
+habaarkiinnu ima karo.
 
-JACAYL DHITG MALAGU Iyagoo dhangalankii
-Q O RAY dheel dheelli mooyee
-lad a ptt kaga jirin
-J acayl dhiig ma lagu qoray anneal pirate
-welt dhuux ma loo shubay dhitinaaya keligii ‘
-qofna saanta dhabarkiyo ka dib toban dharaarood
-ma u dheegey feedhaha carrabkiyo dhanxanaggii
-dhabannada cad laga jaray dhirindhiris ma ku heleen
-hadalkii ma lagu dhigay .
-xinjir aan is dhalan -rogin 4
-midabkeedu dhiin yahay cated say
-laga dhuray halbowlaha dabadeed dhdbea i
-weli dhiil ma lagu shubay hanadkii ku dheeraa
-laba mays dhansiiyeen Dhudi mays bariidsheen
-ied noes xoolaha dhubbad qaadka sheekada
-lag dhag maw wadaageen. gofba dhagarta caashaqa
-Weli laba is dhaarsaday a herein ae
-beryo dhacan nasiib iyo ma Bbire dhambaalki
-dhul ku kala cillaalaa warka maysu dhiibeen
-subax dharabku kowsadey : eee |
-dhedaduna cuddoon taha
-cidla aan dhir mooyee f Re ae ri:
-wax dhaqaaqayaa jirin Si Pres
-Wibea havea dhatdees wxultyo ladh soo kacay
+### JACAYL DHIIG MALAGU QORAY
+
+Jacayl dhiig ma lagu qoray
+weli dhuux ma loo shubay
+qofna saanta dhabarkiyo
+ma u dheegey feedhaha
+dhabannada cad laga jaray
+hadalkii ma lagu dhigay
+xinjir aan is dhalan-rogin
+midabkeedu dhiin yahay
+laga dhuray halbowlaha
+weli dhiil ma lagu shubay
+laba mays dhansiiyeen
+sida dhayda xoolaha
+dhag dhag maw wadaageen.
+
+Weli laba is dhaarsaday
+beryo dhacan nasiib iyo
+dhul ku kala cillaalaa
+subax dharabku kowsadey
+dhedaduna cuddoon tahay
+cidla aan dhir mooyee
+wax dhaqaaqayaa jirin
+jabaq maysku dhaadeen.
+
+Kulankii dhabta ahaa
+riyo dhiifi keentiyo
+dhalanteed ma moodeen
+sida ay dhadhabayaan
+dhawr jeer ma seleleen
+af dhabaan dhab jamashada
+ma ka dhoofay hadalkii
+bal dhawaaqna kay tahay
+dhihiddii ma waayeen
+ma ka dhabaqday xaajadu.
+
+Ilmo dhalatay xiisuhu
+sida dhibic mahiigaan
+ma ka qubatay dhaayaha
+ma ku qoyey dharkoodii
+naxariis ma dhidideen.
+
+Iyagoo dhanqalankii
+dheel dheelli mooyee
+dhegna aanay kaga jirin
+kolba erey dhex-roorkiyo
+dhumucdii ka maqantahay
+dhitinaaya keligii
+ka dib toban dharaarood
+carrabkiyo dhanxanaggii
+dhirindhiris ma ku heleen.
+
+laba guul u dhalatoo
+isu dhiganta weeyee
+dabadeed dhabeeshii
+hanadkii ku dheeraa
+Dhudi mays bariidsheen
+dhubbad qaadka sheekada
+qofba dhagarta caashaqqa
+wixii dhaaxo soo maray
+ma dhex galay kalkiisii
+ma akhriyey dhambaalkii
+warka maysu dhiibeen.
+
+Kalgacayl dhito ahaa
+dhamac iyo dab huriyeen
+dhuxuliyo ladh soo kacay
 hadba dhoon ma buuxsheen
-Ku Tae Hhiabien ahaa kolba dhacan ma jiideen
-riyo dhiifi keentiyo dhacdadiyo ujeeddada
-dhalanteed ma moodeen gore a cate
-sida ay dhadhabayaan a a a ae
-es eben iGeleiven inaan looga soo dhicin
-Gihabaandhan reas ma ku dhaabadeeyeen
-ma ka dhoofay hedalt sannad mays dhegeysteen.
-bal dhawaaqna kay tahay i
-dhihiddii ma Waeeat Ma dhammaaday hadalkii
-ma ka dha baa ibs ei atedis gelin mays ku dhaacdeen
+kolba dhacan ma jiideen
+dhacdadiyo ujeeddada
+qofba dhaadashada guud
+qofka kale dhankiisii
+inaan looga soo dhicin
+ma ku dhaabadeeyeen
+sannad mays dhegeysteen.
+
+Ma dhammaaday hadalkii
+gelin mays ku dhaacdeen
 dhaygag iyo dareen shidan
-Im o dhalatay xiisuhy gabbalkii ma ugu dhacay
-sida dhibic ma iiieaan ma dhaxeen habeenkaas
-ma ka quba tay dhaayaha sida dhaan ma guuleen
-ma ki “ goyey dharkoodii dhaxantiyo mugdiga jira
-naxariis ma dhidideen dhabatada xanuunka leh
-i ma u dhabar adaygeen.
-ee pe Ls ee
+gabbalkii ma ugu dhacay
+ma dhaxeen habeenkaas
+sida dhaan ma guuleen
+dhaxantiyo mugdiga jira
+dhabatada xanuunka leh
+ma u dhabar adaygeen.
 
-Ma dhalaalay waagii laba dhude isugu maran |
-dhag ma tidhi cadceeddii, ma is dhaafsadeenoo
-intay soo dhaqaaqeen dhaxal maysu Sityeen,
-iyagoon ka dheeraan dhuuni kawlka caashaqa
-dhagankiyo xishoodkii maysu sii dhadhamiyeen
-dhaymana u jeel qaba ereygii dhinaa hadal
-iyadoo dhexdoodii dhegta maysu saareen.
+Ma dhalaalay waagii
+dhag ma tidhi cadceeddii,
+intay soo dhaqaaqeen
+iyagoon ka dheeraan
+dhaqankiyo xishoodkii
+dhaymana u jeel qaba
+iyadoo dhexdoodii
 dhulka suxul bannaan yahay
-dhibta maysla taageen .
-Bas iets Dhafan dhaaf aboorkii
-wax intaa ka sit dhow ma dhufsaday cammuuddii
-ma ku dhiirran waayeen ma u qaatay dhoobada
-GRAVEL EY aay dhab-dhabkiyo kab-kabiddii
-dhallinyaro habkeedii labadaba ma dhalan rogey
-Pie caseg caveat dhismo kale ma soo baxay
-ae Me ibe ig ma ka dhigay wax yaabliyo
-J heels dudun dherer ku caanoo
-dhumuc iyo laxaad weyn.
-Dhabbaday is taageen
-oe ie napa Dhalan-dhoolka maantii
-Jon’ eae dadku dhacarta jiilaal
-kun habeen ma dhererraal!. ma hadhsaday dharaartii
-ma ka dheelmay galabtii
-Dhudhummada aboorkii iyadoon la dhaadayn
-dhulka hoose kaga baxay sheekada dhabteediyo
-dhilashada jidhkoodii dhabar-weyntan hooska leh
-ma dhanbalay sartii guud in dhexdeeda laba ruux
-ma dhammeeyey hilibkii runta kaga dhur sugayaan.
-xididdada ma dhaawacay
-mau dh
-lafta ae ie Haddaan laysu dhimanayn
-nafta laysu dhiibayn
-¥ ama dhaxal tis qaadiyo
-Dhiilluu ku geliyaa dhismo aqal la taagiyo
-ama waad dhalliishaa ubad iyo dhaqaaliyo
-Hagariiye wedkaagee dhagan reer la kala sugin
-bi a kal iyo laab dhunkashiyo ujeedaddu
-the soo dhoweeyeen tahay dhaayo guudkood
-1oollaha ma ka gosleen. waabay la dhabaqsado
-) dhereg iyo markaas qudha
-Ubax dheelka subaxdii ama sida dhurwaayada
-naxariis ku dhaashtoo hilbo gabadh dheg roonoo
-afka dhiin cas mariyoo higlo loogu dhuuntoo
-dhaddigiyo labkiisii dhakhso loogu kala baxo
+dhibta maysla taageen
+wax intaa ka sii dhow
+ma ku dhiirran waayeen
+dhayal laysu taabtiyo
+dhallinyaro habkeedii
+ma ka dhega adaygeen
+dhadhansiga miliilica
+isha mayska dhawreen.
 
-ninba waxa dhabbacashada |
-dabinkiisa ugu dhaca Q
-dhidar iyo xabaashii HEEGO MUU DHEER
-sharaf lagu dhabcaaliyo Is helloo gabadhii is heli mayno
-dhawrsooni laga tegey huminnoo taladii hunsami weydey
-dhalanteedka beenta ah halyeynimadayda kuma hadhin
-bulshadaa u dhaawacan! hayntayda yaraatay bay hagratay
-dan baa ka hor timi heshiiskii
-Hab jacayl u dhagan galo hoh iyo caku heegantaydii.
+Dhabbaday is taageen
+qofba dhaabaddiisii
+sara joog dhankiisii
+kun habeen ma dhererraa!.
+
+Dhudhummada aboorkii
+dhulka hoose kaga baxay
+dhilashada jidhkoodii
+ma dhanbalay sartii guud
+ma dhammeeyey hilibkii
+xididdada ma dhaawacay
+ma u dhaafay seedaha
+lafta hoose maw dhacay.
+
+Dhiilluu ku geliyaa
+ama waad dhalliishaa
+dhagartiyo wedkaagee
+dhimashada kal iyo laab
+ma ku soo dhoweeyeen
+dhoollaha ma ka qosleen.
+
+Ubax dheelka subaxdii
+naxariis ku dhaashtoo
+afka dhiin cas mariyoo
+dhaddigiyo labkiisii
+laba dhude isugu maran
+ma is dhaafsadeenoo
+dhaxal maysu siiyeen,
+dhuuni kawlka caashaga
+maysu sii dhadhamiyeen
+ereygii dhinaa hadal
+dhegta maysu saareen.
+
+Dhafan dhaaf aboorkii
+ma dhufsaday cammuuddii
+ma u qaatay dhoobada
+dhab-dhabkiyo kab-kabiddii
+labadaba ma dhalan rogey
+dhismo kale ma soo baxay
+ma ka dhigay wax yaabliyo
+dudun dherer ku caanoo
+dhumuc iyo laxaad weyn.
+
+Dhalan-dhoolka maantii
+dadku dhacarta jiilaal
+ma hadhsaday dharaartii
+ma ka dheelmay galabtii
+iyadoon la dhaadayn
+sheekada dhabteediyo
+dhabar-weyntan hooska leh
+in dhexdeeda laba ruux
+runta kaga dhur sugayaan.
+
+Haddaan laysu dhimanayn
+nafta laysu dhiibayn
+ama dhaxal tis qaadiyo
+dhismo aqal la taagiyo
+ubad iyo dhaqaaliyo
+dhaqan reer la kala sugin
+dhunkashiyo ujeedaddu
+tahay dhaayo guudkood
+waabay la dhabaqsado
+dhereg iyo markaas qudha
+ama sida dhurwaayada
+hilbo gabadh dheg roonoo
+higlo loogu dhuuntoo
+dhakhso loogu kala baxo
+ninba waxa dhabbacashada
+dabinkiisa ugu dhaca
+dhidar iyo xabaashii
+sharaf lagu dhabcaaliyo
+dhawrsooni laga tegey
+dhalanteedka beenta ah
+bulshadaa u dhaawacan!
+
+Hab jacayl u dhaqan galo
 ma holladay ka ugu dheer
-maamuusna ugu dhow Hilowga arradan bir baan ku hiloo
-mise weli wax baa dhiman. kashaydu hubaal ma heellana
+maamuusna ugu dhow
+mise weli wax baa dhiman.
+
+### HEEGO MUUQ DHEER
+
+Is helloo gabadhii is heli mayno
+huminnoo taladii hunsami weydey
+halyeynimadayda kuma hadhin
+hayntayda yaraatay bay hagratay
+dan baa ka hor timi heshiiskii
+hoh iyo caku heegantaydii.
+
+Hilowga arradan bir baan ku hiloo
+kashaydu hubaal ma heellana
 henggel baan ka sitaa haween dumar
 markaan ku hungoobey baan huray
 haankiyo wadnahaa biyaa habaya
@@ -2667,236 +4752,385 @@ hammiga kalgacaylku waa habaqle
 hed iyo waa dabayl hab soo tidhi
 hiyigii lingaxnaa ma huriyeen
 ma halabsaday geenyadii Hudi.
+
 Hindisaa wax kalaan halkawgu socdee
 hurintaan weheshaan ka hadhi waayey
 codkiyo hugunkaa i soo hagey
 hoosaasada mayla hiishadey
-haasaasaha muuqda hirigooda
+haasaawaha muuqda hirigooda
 caawana hambadaydu waa halis.
-Horyaalka da’day hadhuub la dhantaay
-: hiddiyo dhaqan baad hagoogantahoo
+
+Horyaalka da'day hadhuub la dhantaay
+hiddiyo dhaqan baad hagoogantahoo
 waxaad huwan tahay hugii sharafka
 sidaad u habaysay heensaha
-hadoodilka muuga higilkaaga
+hadoodilka muuqa higilkaaga
 haldhaaga sidiisa hooshaarka
 hilbaha kugu yaalla heemaalka
-hangalkaad la kacdiyo hubkaad sidato
-hab-jooga timaa hal-qooga leh
+hanqalkaad la kacdiyo hubkaad sidato
+hab-jooga timaa hal-qooqa leh
 hufnaanta xishoodka aad hogatey
 hawaarta ku saaran heeraarta
-hilqadaa bogorkiyo hariiryaha
+hilqadaa boqorkiyo hariiryaha
 habuurka,udgoonka, soo haadka,
+sidii hayin haamo culus sida
+hubsiino dhaqaaqa hanashada
+hormaynta hannaanka laafyaha
+hal qaadka tallaabadaad hollatay
+lugtaad hakisaan hoggaansamey !
 
-sidii hayin haamo culus sida Hawraar murtiyeedda hadalkayga
-hubstino dhaqaaqa hanashada waxaan hidiyaaba waa hees,
-hormaynta hannaanka laafyaha hortaada gadaal hareeraha
-hal qaadka tallaabadaad hollatay hibaan ku daleeyey hilinkaaga
-lugtaad hakisaan hoggaansamey ! habeenkaagu waa mid hooda leh
-ku hoyo nabad Heego-Muug-Dheer,
-Dhul habatacay ciidda 00 hodantay
+Dhul habatacay ciidda oo hodantay
 dhirtoo hamashowdey doog hadhsaday
 xareed hilo iyo harooyin degtey
 hantidoo dhashay deyladoo horratay
-haleello magasheeda heel ku furtay
+haleello maqasheeda heel ku furtay
 horweyno ku foofay meel hadow leh
-haloosiga baargab hoobala
+haloosiga baarqab hoobala
 higtiisa higgaadda dhiillada
 haadkii diday keenay hoosiis
-hibaagq ka dhalaalay Haadaamo
+hibaaq ka dhalaalay Haadaamo
 hareeri ka muuqday Heegaale
 hoobaan ka bislaatay Hawd sare
 dayaxoo himir iyo huruud marsadoo
-caweys ka hingaday hoggiisii
+caweys ka hinqaday hoggiisii
 horseed la socdiyo hoggaanno wata
-gorraxdoo halabtiyo hillaabta dhigtay
+qorraxdoo halabtiyo hillaabta dhigtay
 daruuro ka hooray hoosteeda
 fad iyo hogol loolli habar wacatay
 hillaac iyo heego soo curatay
-sidti hir fog baan ku soo hi gsadoo
+sidii hir fog baan ku soo higsadoo
 indhuhu ku harraade halcdaada .
-Hubsiinadu way hagaagsantahee
-hadhow tyo mooyi hawlo danbee
+
+Hubsiinadu way hagaagsantahiee
+hadhow iyo mooyi hawlo danbee
 hor jooggaagu heello igu dhali.
-Hugiyo dharky haybta waa ka badh
+
+Hugiyo dharku haybta waa ka badh
 hablihii kacay qaar hawaa lumisoo
 xilkii hooyo way ka heermeen
 hummaagay run moodayaan hodaya
-hebliyo hebla hiil ka Sugi maayee
+hebliyo hebla hiil ka sugi maayee
 hankaagu ka weyn hinaasaha
 waxaad haysataa jidkii hore
 sidaan hubo waad hal adag tahay
 hambalyaan kugu siiyey hirashada.
 
-INDHA B ADAN aafadaada miyaan
-aagna looga gudbayn?
+Hawraar murtiyeedda hadalkayga
+waxaan hidiyaaba waa hees,
+hortaada gadaal hareeraha
+hibaan ku daleeyey hilinkaaga
+habeenkaagu waa mid hooda leh
+ku hoyo nabad Heego-Muuq-Dheer.
+
+### INDHA BADAN
+
 God abeeso ninkii
-illinkeeda degow Ashkirow farasow
-taladaadu iyaa aayar baa la socdaa
-ma Allow sahal baa? orodkaagu labaa.
-Arraweelo markay Ban aroori kaxaa
-laba eefka lahayd mar ugbaadku simaa
-igadh geela haddii dhal aboodi halkuu
-nin aroorsan lahaa ogxantiisa dhigtaa
-amarkeedu hor yiil aadanuu mar jantaa
-odhan mayno kolley meel aboor degey baa
-awooddii rag dhintay mar iftiin ka baxaa
-Su agaasimatoo gole aammus badnaa
-aakhiruu ku maqnaa mar mar baa idhi taas
-ugaaskay dhaxashoo anda-qaad ku bataa.
+illinkeeda degow
+taladaadu iyaa
+ma Allow sahal baa?
+
+Arraweelo markay
+laba eefka lahayd
+igadh geela haddii
+nin aroorsan lahaa
+amarkeedu hor yiil
+odhan mayno kolley
+awooddii rag dhintay
+sii agaasimatoo
+aakhiruu ku maqnaa
+ugaaskay dhaxashoo
 arrimii dhacay qaar
 utintooda haddeer
-lama oogi karoo Ma aqaan ma aqaan
-abba looma hayoo ma'aqaanno darn
-sheekadaaba iskeed isagii han-hinnaa
-ma amaahan karree waxa loo egmadee
-halka aahdu ku taal in dhoweydba sidaas
-waa la sii axadhaa afartiisa ee ood
-godob oofa rugdaa agab baa la dhigtoo
-aabudhkeeda riddoo oommanaa fadhiyee
-aloolkay jaratoo ifafaalaha guud
-ibahay furatoo abshir baa dhalatee
-aslimayno dhalliil waxan awda hayaa ;
-idhankeedu durkee ma ishaara san baa:
-imminkaynu hub Ma abaabul shar baa:
-'ynu hubnaa
-waxa ee .. Onkod gaaxdey miyaa
-Bon jee ma cir soo olkamaa
-awgayow taladii ‘lilo socd
-ifka maw rogannaa. ma illiilo socdaa
-ma xer tuugi Allaa
-> Get ma hayaan ulan baa
-Naca jooji arbow ma dagaal uganoo
-eela weynta hambee laysu eeba gurtaa
-ayaxow ayaxow ma col awdalan baa
-ayaxow weligaa ma ibleys qaxayaa
-ayda waad dhilataa ma insaa ma jinnaa
-eelna waad ka tagtaa ma ardaa ma shinnaa
+lama oogi karoo
+abba looma hayoo
+sheekadaaba iskeed
+ma amaahan karree
+halka aahdu ku taal
+waa la sii axadhaa
+godob oofa ruqdaa
+aabudhkeeda riddoo
+aloolkay jaratoo
+ibahay furatoo
+aslimayno dhalliil
+idhankeedu durkee
+imminkaynu hubnaa
+waxa eegga jiree
+awgayow taladii
+ifka maw rogannaa.
 
-a gagio pues aabbe kaaga noqdaan
-ma adeeri dhashaa May Illaahay hortii
-Cee irbad kuugu huraan
-ma awaare kacaa Alif waa derejee
-mauifaaima agony: 9 agoon may ku geshaan
-ma asmaa ma xanuun; erey may ku faraan
-loo adeegsado meel
-Ubaxeey Ubaxeey® aayahaaga hor yiil
-indha yaab badanaa may ammaan ka dhigaan.!
+Naca jooji arbow
+eela weynta hambee
+ayaxow ayaxow
+ayaxow weligaa
+ayda waad dhilataa
+eelna waad ka tagtaa
+aafadaada miyaan
+aagna looga gudbayn?
+
+Ashkirow farasow
+aayar baa la socdaa
+orodkaagu labaa.
+
+Ban aroori kaxaa
+mar ugbaadku simaa
+dhal aboodi halkuu
+ogxantiisa dhigtaa
+aadanuu mar jantaa
+meel aboor degey baa
+mar iftiin ka baxaa
+gole aammus badnaa
+mar mar baa idhi taas
+anda-qaad ku bataa.
+
+Ma aqaan ma aqaan
+ma aqaanno darkii
+isagii han-hinnaa
+waxa loo egmadee
+in dhoweydba sidaas
+afartiisa rugood
+agab baa la dhigtoo
+oommanaa fadhiyee
+ifafaalaha guud
+abshir baa dhalatee
+waxan awda hayaa
+ma ishaara san baa!
+Ma abaabul shar baa!
+Onkod gaaxdey miyaa
+ma cir soo olkamaa
+ma illiilo socdaa
+ma xer tuugi Allaa
+ma hayaan ulan baa
+ma dagaal uganoo
+laysu eeba gurtaa
+ma col awdalan baa
+ma ibleys qaxayaa
+ma insaa ma jinnaa
+ma ardaa ma shinnaa
+ma aleelo qubtaa
+ma adeeri dhashaa
+ma arraa ma urraa
+ma awaare kacaa
+ma ufaa ma dabayl
+ma asmaa ma xanuun?
+
+Ubaxeey Ubaxeey
+indha yaab badanaa
 kugu eegmo batee
-Legh cae bi Abeer baanad ahayn
-nay agama ral oogadaan ku billayn
-poe Neel cal ay! awrtan qooqday haddeer
-siuissaajirey waa abaar baa kulanteen.
+maxay soo uriyeen
+May ayaamaha qaar
+kugu soo ururaan
+Immisaa jirey waa
 oontu kuu tirsanayd
 Immisaa jirey waa
-arradkaagu sinnaa Ummaddeennu jidkii
-Immisaa jirey waa kii Islaaminadii
-noloshaadu adkayd ahabtii faralkii
-Immisaa jirey waa asalkii dhaqankii
-ajarkaagu furraa isirkeedu lahaa
-Immisaa jirey waa way ka soo ambatoo
-abaalkaagu sugnaa aarankay dubatoo
-Immisaa jirey waa Ubaxeey hablihii
-ayaankaagu dednaa ololaa ku socdoo —
-Immisaa jirey waa Ubaxeey sannadkii
-adduunkaagu madhnaa bogollaal ugub baa
-Immisaa jirey waa axankooda gashoo
-ishu kaan han-fogeyd! ammintiiba kolley |
-inan baa dhimatoo |
-agal baa dumayoo
-Wax aqoolka haddeer ce baa jabayee.
-uskag baa kuu Jiree :
+arradkaagu sinnaa
+Immisaa jirey waa
+noloshaadu adkayd
+Immisaa jirey waa
+ajarkaagu furraa
+Immisaa jirey waa
+abaalkaagu sugnaa
+Immisaa jirey waa
+ayaankaagu dednaa
+Immisaa jirey waa
+adduunkaagu madhnaa
+Immisaa jirey waa
+ishu kaan han-fogeyd!
+
+Wax aqoolka haddeer
+uskag baa kuu jiree
 may ayaamaha qaar
-korka kaa asturaan Arartaydu malaa
-May ayaamaha qaar asaraar ma gashee
-wuxuun ku illiyaan Ubaxeey warar baa
-Uurku wuu kuu madhnaa agahaaga jiroo
-may waxuun Ubaxeey olloggaaga badh baad
-afka kuugu ridaan xog ogaal u tahoo
-Adoogaa dabadii adigaaba yaqaan
-may agoonnimadii gabdho oodda rogtee
-9 Ubax-waa Ubax Xaaji bal albaabkan garaac
-aaji Cumar Buraale ummul baa huruddee,
+korka kaa asturaan
+May ayaamaha qaar
+wuxuun ku illiyaan
+Uurku wuu kuu madhnaa
+may waxuun Ubaxeey
+afka kuugu ridaan
+Adoogaa dabadii
+may agoonnimadii
+aabbe kaaga noqdaan
+May Illaahay hortii
+irbad kuugu huraan
+Alif waa derejee
+aqoon may ku geshaan
+erey may ku faraan
+loo adeegsado meel
+aayahaaga hor yiil
+may ammaan ka dhigaan.!
+
+Abeer baanad ahayn
+oogadaan ku billayn
+awrtan qooqday haddeer
+abaar baa kulanteen.
+
+Ummaddeennu jidkii
+kii Islaaminadii
+ahabtii faralkii
+asalkii dhaqankii
+isirkeedu lahaa
+way ka soo ambatoo
+aarankay dubatoo
+Ubaxeey hablihii
+ololaa ku socdoo
+Ubaxeey sannadkii
+boqollaal ugub baa
+axankooda qashoo
+ammintiiba kolley
+inan baa dhimatoo
+aqal baa dumayoo
+udub baa jabayee.
+
+Arartaydu malaa
+asaraar ma gashee
+Ubaxeey warar baa
+agahaaga jiroo
+olloggaaga badh baad
+xog ogaal u tahoo
+adigaaba yaqaan
+gabdho oodda rogtee
+bal albaabkan garaac
+ummul baa huruddee,
 
 wax ku oogan xanuun
-Sl ai PE ee lee alam es |
-umal baa shidayoo waa
-ammuurit Minny bay lama ooyo dhurwaa
-la asqaysantahoo ishinkuu legdadee
-ilmahay dihataa gabadh lilatay hooy
-xalay eydu cuntoo ayaanteeda madow
-naxariista illayn alwadkeedu ninkuu
-anshax baa dhaliyee alalaas geliyaa
-haddii uurka habreed uur ku taallada wuu
-astaan gaara lahaa wuu ka iidsanyahoo
-hooyadii amranayd gt ie he
-arxan goysey 2e,
-xeer nee Le ool waxay ka sidaan
-ubadkii magantaa ergo waa ta dhahdee
-haadku eeganayaa. eedi hayga hadhee
-i waan afeefanayaa.
-Eerashoy bi i waa Ubaxeey bahalaa
-lil dhexdiisa haddaan ku ilaashanayoo
-obocdeedu qubnayn U Naxeay HA arPan
-oti Re Guin ku ugaadh sanayoo
-aabi baa luniye araraa kugu dhow
-arladeena shite orgobaa fadhiyoo
-NASA AT EAA? aarna waa gudayaa
-uaa iimo kaa deyayaa
-geenyo aamus taqaan
-Shan afraad shan afraad tuugba waa eryadaa
-birta kii ka aslaa mar baa ayrada geel
-oori deydeyayee oohow loogu digaa
-4 aroosow magacaa ? anfariirka dareen
-Ilka dhiigle maxaa adhigaaba didee
-lagu aaminayaa ahmin baa la gataa
-dhego awdmey miyay hilbahaaga Ardooy
-' odayayntu gashaa lama iibsan karee
-irdha qaado ragow aanadaada ha deyn
-naftaad aasi tagaan rag ul baa celisoo
-waad abuuri kartaa. ka adkayso qudhay
-ammaantaadu tahee.
-Rag miyaad Ubaxeey
-alabkiisa tagaan Waa arooryo horoo
-asaydaada mar buu orka kuu baxayaa
-ashqaraar huwiyaa amba qaadka salaad
-iy weeye loo addimoo
-Ce _
+aamanuun gubayoo
+umal baa shidayoo
+ammuurii dhacay bay
+la asqaysantahoo
+ilmahay dihataa
+xalay eydu cuntoo
+naxariista illayn
+anshaax baa dhaliyee
+haddii uurka habreed
+astaan gaara lahaa
+hooyadii amranayd
+arxan goysey markuu
+xeer illow ku dhacoo
+ubadkii magantaa
+haadku eeganayaa.
 
+Eerashoy bi'i waa
+iil dhexdiisa haddaan
+obocdeedu qubnayn
+sow ma soo olosheen
+aaway beer debecii
+aabi baa lumiyee
+arladeena miyaa
+naas irmaani jiraa ?
+
+Shan afraad shan afraad
+birta kii ka aslaa
+oori deydeyayee
+aroosow magacaa ?
+Ilka dhiigle maxaa
+lagu aaminayaa
+dhego awdmey miyay
+odayayntu gashaa
+irdha qaado ragow
+naftaad aasi taqaan
+waad abuuri kartaa.
+
+Rag miyaad Ubaxeey
+alabkiisa taqaan
+asaydaada mar buu
+ashqaraar huwiyaa
+al-alooska gobeed
+waa ka aar gudashoo
+lama ooyo dhurwaa
+ishinkuu legdadee
+gabadh iilatay hooy
+ayaanteeda madow
+alwadkeedu ninkuu
+alalaas geliyaa
+uur ku taallada wuu
+wuu ka iidsanyahoo
+iman maayo halkuu
+ka alaabo gurtee,
+ool waxay ka sidaan
+ergo waa ta dhahdee
+eedi hayga hadhee
+waan afeefanayaa.
+
+Ubaxeey bahalaa
+ku ilaashanayoo
+Ubaxeey hororraa
+ku ugaadh sanayoo
+araraa kugu dhow
+orgobaa fadhiyoo
+aarna waa gudayaa
+iimo kaa deyayaa
+geenyo aamus taqaan
+tuugba waa eryadaa
+mar baa ayrada geel
+oohow loogu digaa
+anfariirka dareen
+adhigaaba didee
+ahmin baa la gataa
+hilbahaaga Ardooy
+lama iibsan karee
+aanadaada ha deyn
+rag ul baa celisoo
+ka adkayso qudhay
+ammaantaadu tahee.
+
+Waa arooryo horoo
+orka kuu baxayaa
+amba qaadka salaad
+weeye loo addimoo
 hadal waa la abyaa
 waa la soo ururshaa
-arrintaada marwooy DURDUR
-wixii liga ekaa
-fe ee idhee Maansaba dir bay leedihiyo
-arbacuunkani waa daabac gooniyahe
-abhintayda danboo Ninba wuxuu ka Rist riled
-waa tlayska halkuu gaar u daaqsado’e
-addinkaagu halkuu Dadka uma gudboonee ragbay
-ku abbaaranyahoo duunyadiis tahaye
-waa es aes dadeed Deebaanka ruuxii hayaa ;
-amarkaan ku faroo lagaga daydaaye
-waa asaaska halkaan Kani waa dux tyo Done Wo
-ka awaala digoo malabka doocaane
-axdigaas culus baan Waa dood macaanoo nin raga
-adhaxdaada furee lagu daweeyaaye
-sheekadaada ogow Waa gabay da’weynoo sannado
-idlaadkeeda hadhow dabaqu saarraaye
-adduunkaa sugayee Waa doog Masaarriyo ku yaal
-af-dhabaandhab haddaad Doollo iyo hawde
-oofin weydo xilkaas Waa damal hadh weynoo midhaa
-way ahaan jirtey saas. daafta soo dhigaye
+arrintaada marwooy
+wixii iiga ekaa
+horaan kuugu idhee
+arbacuunkani waa
+abhintayda danboo
+waa ilayska halkuu
+addinkaagu halkuu
+ku abbaaranyahoo
+waa ammaano dadeed
+amarkaan ku faroo
+waa asaaska halkaan
+ka awaala digoo
+axdigaas culus baan
+adhaxdaada furee
+sheekadaada ogow
+idlaadkeeda hadhow
+adduunkaa sugayee
+af-dhabaandhab haddaad
+oofin weydo xilkaas
+way ahaan jirtey saas.
+
+### DURDUR
+
+Maansaba dir bay leedihiyo
+daabac gooniyahe
+Ninba wuxuu ka doontaa halkuu
+gaar u daaqsado'e
+Dadka uma gudboonee ragbay
+duunyadiis tahaye
+Deebaanka ruuxii hayaa
+lagaga daydaaye
+Kani waa dux iyo sooryo iyo
+malabka doocaane
+Waa dood macaanoo nin raga
+lagu daweeyaaye
+Waa gabay da'weynoo sannado
+dabaqu saarraaye
+Waa doog Masaarriyo ku yaal
+Doollo iyo hawde
+Waa damal hadh weynoo midhaa
+daafta soo dhigaye
 Waa ceel dad liqahoon fudayd
 loogu daadegine
 Waa danan Ganaanoo fatahay
 dirirka cawleede
-Waa dayr Shabeelloo dhulktyo
+Waa dayr Shabeelloo dhulkiyo
 doojey beeraha e
 Waa daad rogmadey oo hadhsaday
 dooxadii Herer e
-. Waa duhur Togdheeroo hugmoo
+Waa duhur Togdheeroo hugmoo
 kiciyey duufane
 Waa doonbir lagu oon-bixiyo
 daran Nugaaleede
-’ Waa Haro Digeedoo biyuhu
+Waa Haro Digeedoo biyuhu
 dhinac ka daateene
 Waa geed Dayibahoo ka baxay
 sabarka Daaloode
@@ -2905,377 +5139,655 @@ lagu durduurtaaye
 Waa deer-cad geeloo rintiyo
 dahabta qaalmoode
 Waa faras dakano raadisoo
-] duullimaad galaye
-ee ae
+duullimaad galaye
+Waa geesi ciil dirirayoo
+doog haruu qabaye
+Waa gabadh da'deed joogta oo
+guudka loo dabaye
+Waa daraya-muuskiyo dhaclaha
+Daado xidhataaye
+durdur weeye laga dhaansadaa
+daayin abidkiiye
+Waa gabay dihnaayoo wax badan
+ibo daboollaaye
+Waa gabay sagaal dabin galoon
+Eebbahay diline
+Waa gabay duqii aabbihii
+dayro ka ahaaye
+Waa gabay dorraatiyo ogaa
+dakharradeediiye
+Waa gabay durbaankii la tumay
+diif la soo kacaye
+Waa gabay ku diirsaday markuu
+waagu daalacaye
+Waa gabay dagaar iyo ka yimid
+diillintii Guraye
+Waa gabay dushaa sare jiroo
+caawa soo degaye.
 
-Waa geesi ciil dirirayoo Dugsi iyo markii ay heleen
-doog haruu qabaye dab u iftiimaya
-Waa gabadh da’deed joogta oo Ugaadhiyo markii ay dabteen
-guudka loo dabaye deeradiyo cawsha
-Waa daraya-muuskiyo dhaclaha Duunyada markii ay dhaqdeen
-Daado xidhataaye bahalihi duurka
-durdur weeye laga dhaansadaa Beeraha markii ay degeen
-daayin abidkiiye orodki may deyne
-Waa gabay dihnaayoo wax badan Damac baa hoggaanka u qabtoo
-ibo daboollaaye door labaad raraye
-Waa gabay sagaal dabin galoon Daariyo markii ay dhisteen
-Eebbahay diline agallo daah weynle
-Waa gabay duqii aabbihii Markab aan degeyn iyo markii
-dayro ka ahaaye doonyo lagu dhoofay
-Waa gabay dorraatiyo ogaa Sabareyn dabbaashiyo markii
-dakharradeediiye qalab la sii daayey
-Waa gabay durbaankii la tumay Nin waliba markuu daadsadee
-diif la soo kacaye kibir la daanshooday
-Waa gabay ku diirsaday markuu Yaa niman dalxiis ugu keceen
-waagu daalacaye meel dusheenna ahe
-Waa gabay dagaar iyo ka yimid Sawaariikh dillaantiyo rag baa
-diillintii Guraye guudka loo diraye
-Waa gabay dushaa sare jiroo Duhur keliya bay sii socdeen
-caawa soo degaye. daalla may arage
-Afartaa daleeyaye waxaan Dayaxay habeenkoo badh tegey
-dib ugu soo laabtay degel fadhiisteene
-Toban iga dardaarana hadduu Maantana dhul sii durugsan baa
-hadal wax daaweyne, dirir ka muuqdaaye
-Ninka caawa loo dadab dhigow Dabagaabahaa lagu socdaa
-maqal dabuubtayda, awrka doobta lehe
-Diktoorkaan u maahmaahayow Daalaa-dhac adigoo ahoo |
-hadalku yuu duulin. cudur ka soo doogey |
+Afartaa daleeyaye waxaan
+dib ugu soo laabtay
+Toban iga dardaarana hadduu
+hadal wax daaweyne,
+Ninka caawa loo dadab dhigow
+maqal dabuubtayda,
+Diktoorkaan u maahmaahayow
+hadalku yuu duulin.
+
+Beri baa dadkuba qaawanaa
+dibad ku noolaaye
+Oy daaqayeen cawska iyo
+darista geedaaye
+Dareemada mar bay ugu koreen
+duudka buuraha e
+Dalanbaabi iyo guuldarriyo
+doogga cuniddiisa
+Dan baa gelisey inay raadiyaan
+nolol ka door roone
+Dugsi iyo markii ay heleen
+dab u iftiimaya
+Ugaadhiyo markii ay dabteen
+deeradiyo cawsha
+Duunyada markii ay dhaqdeen
+bahalihi duurka
+Beeraha markii ay degeen
+orodki may deyne
+Damac baa hoggaanka u qabtoo
+door labaad raraye
+Daariyo markii ay dhisteen
+aqallo daah weynle
+Markab aan degeyn iyo markii
+doonyo lagu dhoofay
+Sabareyn dabbaashiyo markii
+qalab la sii daayey
+Nin waliba markuu daadsadee
+kibir la daanshooday
+Yaa niman dalxiis ugu keceen
+meel dusheenna ahe
+Sawaariikh dillaantiyo rag baa
+guudka loo diraye
+Duhur keliya bay sii socdeen
+daalla may arage
+Dayaxay habeenkoo badh tegey
+degel fadhiisteene
+Maantana dhul sii durugsan baa
+dirir ka muuqdaaye
+Dabagaabahaa lagu socdaa
+awrka doobta lehe
+Daalaa-dhac adigoo ahoo
+cudur ka soo doogey
 Nin tunkiisa daawaday hadduu
 kuu dardaar weriyo
-Ber vaa dadkuba qaawanaa Libta looma daayee ushaa
-dibad ku noolaaye lagu dillaacshaaye
-Oy daagayeen cawska iyo Innagiyo nin dahab sheegtayoo
-darista geedaaye qubaya Doollaarka
-Dareemada mar bay ugu koreen In dagaalku labadeenna yahay
-duudka buuraha e ’ dib u xusuusnaada.
-Dalanbaabi iyo guuldarriyo
-doogga cuniddiisa Afartaa daleeyaye waxaan
-Dan baa gelisey inay raadiyaan dibugusoolaabtay,
-nolol ka door roone Toban iga digniinaan ninkii
+Libta looma daayee ushaa
+lagu dillaacshaaye
+Innagiyo nin dahab sheegtayoo
+qubaya Doollaarka
+In dagaalku labadeenna yahay
+dib u xusuusnaada.
 
-dagan ogaysiinne, Caleemaha ninkii daadiyow
-Ninka caawa loo dadab dhigow dan iyo xeeshaada,
-maqal dabuubtayda, Ma ogtahay nin daastow inaad
-Diktoorkaan u maahmaahayow dib ugu aayeyso.
-hadalku yuu duulin.
 Afartaa daleeyaye waxaan
-Dibnaheedda waxa dhaafayee dib ugu soo laabtay,
-gelaya daankeeda Toban uu dalkii sheegtayuu
-Yey doqoni eexaysataa daw u leeyahaye,
-dux u taqaannaaye Ninka caawa loo dadab dhigow
-Ma ogtahay ninkii doora baa magqal dabuubtayda,
-hadalku deeqaaye Diktoorkaan u maahmaahayow
-Ma ogtahay sursuur daahan baa hadalku yuu duulin.
+dib ugu soo laabtay,
+Toban iga digniinaan ninkii
+dagan ogaysiinne,
+Ninka caawa loo dadab dhigow
+maqal dabuubtayda,
+Diktoorkaan u maahmaahayow
+hadalku yuu duulin.
+
+Dibnaheedda waxa dhaafayee
+gelaya daankeeda
+Yey doqoni eexaysataa
+dux u taqaannaaye
+Ma ogtahay ninkii doora baa
+hadalku deeqaaye
+Ma ogtahay sursuur daahan baa
 dabinku yaallaaye
-Ma ogtahay dalluun baa ka qodan Wuxu yidhi badh baa dibad ku maqan
-doox hortaada ahe degelladaydiiye
-Ma ogtahay xadhkaa daadsan aan Cadaawuhu haddaan dooh la odhan
-lana dareemaynne dib uma laabmaane
-Ma ogtahay inaad door heshaan Shisheeyuhu dux buu iga heloo
-lagula doonayne laygu soo durugye
-Ma ogtahay rag kula doodayoo Dahab iyo batrool aan dhalaa
-kuu dan laa jira e daaha loo furaye
-Ma ogtahay shisheeyuhu nin dagan Derrimaha madheedhka leh halkuu
-waa kuwii dila e daaqi jirey geelu
-Ma ogtahay digtoonaan la’aan Doogaygu meeshuu ku yiil
-dacar inaad leeftay? waa la duudsiyaye
+Ma ogtahay dalluun baa ka qodan
+doox hortaada ahe
+Ma ogtahay xadhkaa daadsan aan
+lana dareemaynne
+Ma ogtahay inaad door heshaan
+lagula doonayne
+Ma ogtahay rag kula doodayoo
+kuu dan laa jira e
+Ma ogtahay shisheeyuhu nin dagan
+waa kuwii dila e
+Ma ogtahay digtoonaan la'aan
+dacar inaad leeftay?
+
+Diga-rogadka maanta ah gacmuu
+ways dugsanayaane
+Dawgaad banaysaa ka kale
+deylo soo marine
+Degelkaad furtaa baa ka kale
+deyr u soo jariye
+Dabka aad shiddaa baa ka kale
+saari dogob weyne
+Wadaantaad dar keentaa ka kale
+laaska soo dariye
+Dagaalkaad gashaa baa ka kale
+duub u soo xidhanne
+Derejada laguu dhiibey iyo
+guusha kugu deyran
+Ma ogtahay dallaallimada waa
+kugu deyenaaye
+
+Caleemaha ninkii daadiyow
+dan iyo xeeshaada,
+Ma ogtahay nin daastow inaad
+dib ugu aayeyso.
+
+Afartaa daleeyaye waxaan
+dib ugu soo laabtay,
+Toban uu dalkii sheegtayuu
+daw u leeyahaye,
+Ninka caawa loo dadab dhigow
+maqal dabuubtayda,
+Diktoorkaan u maahmaahayow
+hadalku yuu duulin.
+
+Wuxu yidhi badh baa dibad ku maqan
+degelladaydiiye
+Cadaawuhu haddaan dooh la odhan
+dib uma laabmaane
+Shisheeyuhu dux buu iga heloo
+laygu soo durugye
+Dahab iyo batrool aan dhalaa
+daaha loo furaye
+Derrimaha madheedhka leh halkuu
+daaqi jirey geelu
+Doogaygu meeshuu ku yiil
+waa la duudsiyaye
 Nacabkay wuxuu weli degaa
-Diga-rogadka maanta ah gacmuu Doollo iyo hawde
-ways dugsanayaane N.F.D!° ninkii doonayow
-Dawgaad banaysaa ka kale daabcad loo tumaye
-deylo soo marine Obokh!! dawyadii laga xidhyoo
-Degelkaad furtaa baa ka kale deyrka lagu gooye
-deyr u soo jariye Sidii geesigii!? looga diley _
-Dabka aad shiddaa baa ka kale waa dumaal weliye
-| saari dogob weyne Hadal laguma daale waxaan
-Wadaantaad dar keentaa ka kale idin dareensiiyey
-laaska soo dariye Ban daleela, degel qaawan 1yo
-Dagaalkaad gashaa baa ka kale oodo kala daadsan
-duub u soo xidhanne Guri aan duggaal iyo gabbood
-Derejada laguu dhiibey iyo daahna lagu reebin
-§ uusha kug u deyrar I 10 NED. Gobol loo nsan yahay dhul soomaliyeed oo maqan oo ku jira gacanta Kenya. 2
-Ma ogtahay dallaallimada is 7 ee i a anne ka a ak thc waxay ugu jirtaa dhulka Jabuuti
-kugu deyeynaaye 12 Geesigi-halkan waxa looga jeedaa Maxamud Xarbi.
-
-Guri aan dulsaar iyo lahayn Daandaansi joogto ah rag baa
-dadabta loo xeero loogu daw galaye
-Oo aan darrooraha cirkiyo Dibindaabyo niman baa ku lumay
-daadka celinaynin debec la’aaneede
-Guri uu shisheeyuhu degoo Dacwaddooda niman baa dhegaa
-daaqi ka idlaystay laga dabooshaaye
-Guri looga sii daray markuu Dayaxaba rag baan arag siday
-dawladnimo qaatay dab uga baydheene
-Guri daallin iyo weerar tyo Degelkooda niman baanu helin
-§
-dulin abaareeyey dirirka hooraaye
-Guri ay dabayluhu galaan Duunyaba rag baan lagu ogeyn
-amase duufaanku xoolo daaq taga e
+Doollo iyo hawde
+N.F.D. ninkii doonayow
+daabcad loo tumaye
+Obokh dawyadii laga xidhyoo
+deyrka lagu gooye
+Sidii geesigii looga diley
+waa dumaal weliye
+Hadal laguma daale waxaan
+idin dareensiiyey
+Ban daleela, degel qaawan iyo
+oodo kala daadsan
+Guri aan duggaal iyo gabbood
+daahna lagu reebin
+Guri aan dulsaar iyo lahayn
+dadabta loo xeero
+Oo aan darrooraha cirkiyo
+daadka celinaynin
+Guri uu shisheeyuhu degoo
+daaqi ka idlaystay
+Guri looga sii daray markuu
+dawladnimo qaatay
+Guri daallin iyo weerar iyo
+dulin abaareeyey
+Guri ay dabayluhu galaan
+amase duufaanku
 Maska duula haaway derderan
-dagan ma dhaafaanka ?
-Dawac iyo dhurwaa iyo shabeel D amibarheee tae
-daacuflaha aarka ; ;
-Guri aan dad-qaad iyo orgobe Niman baa re aah es
-peuseeudenay nin Niman baa sidii awr dib jirey
-Guri duugmay oo aasmayuu hahalp dnoxeene
-daacay udubkiisu . /
-Guri debed bannaan iyo dhul dheer NynaM2as ids Be ae
+dagan ma dhaafaanka
+Dawac iyo dhurwaa iyo shabeel
+daacuflaha aarka
+Guri aan dad-qaad iyo orgobe
+bahalku deynaynin
+Guri duugmay oo aasmayuu
+daacay udubkiisu
+Guri debed bannaan iyo dhul dheer
 lagaga soo duuley
-Guri hoosta doofaar gotoo G ty ta ea Hee
-diinku ku caweeyey f
-Guri Eebbahay daba qabtiyo Uobednad beret dus as gaadye
-doorka iyo xooggu d
-Adna aad Diktoorkiisa tahay qobgr door ite
-waxa daweynaaya r |
-Idinkaa Diblooma u sitee Dotineic mab Act
-dan uga faallooda. Iyo toban dadweynaha ka jira ;
-aye Wax cadawga soo duula
-‘Stes ie ae aie - pear Iyo toban billaawaha wax dila
-i“ ‘ada haysta
-LO at dadweynuhu i yidhi Iyo toban Aste Wee
-uqayda gaadhsiiye, ,
-. ina dul-meeraaya
-al pie es a qHIZOW Iyo toban sinnaan doonayoo
-, xeerka daba jooga
-Diktoorkaan u maahmaahayow Iyo toban sa i erty de
-hadalku yuu dhuulin. midigta deeqsiiya
-Rag baa weli dushaa laga rartaa Toban dudaya, toban uurka daba
-sida dameeraaye toban kaloo doorsan
+Guri hoosta doofaar qotoo
+diinku ku caweeyey
+Guri Eebbahay daba qabtiyo
+doorka iyo xooggu
+Adna aad Diktoorkiisa tahay
+waxa daweynaaya
+Idinkaa Diblooma u sitee
+dan uga faallooda.
 
-Toban didaya, toban duuf-cunoo Intaasoo daryeel wada heshoo
-nacab la daaweysta gaajo dabar goysa
-Toban dabata, toban duur-xuloo Intaasoon dagnaan loogu iman
-garab ku daagaaya ama digtoonaata
-Dushaa toban ka wada fiicanoo Intaasoo is daba taaganoon
-duunka milil jiifo cadow la doodaynin
-!yo toban da'dii soo kacdaba Intaasoo dagaal wada gashoo
-dubata beerkooda , dab iyo baaruud leh
-Dadgal iyo abees iyo orgobe Taasaa la wada doonayaa
-diir wax xaganaysa dan uga faallooda.
-wiigban Genet ch Ds ies Ray Afartaa daleeyaye waxaan
-Dib d Filaol j Oe Y dib ugu soo laabtay nde) Oa
-BetESOCO ‘7 Wh fuuga A Toban uu Darwiishkii!? i yidhi
-Toban daall a is a ae Z dugayda gaadhsiiye,
-o0an daa ee if KS ay ye Ninka caawa loo dadab dhigow
-Rah te toban kaloo duuban magqal dabuubtayda,
-BEDE aie: ean sae Diktoorkaan u maah maahayow
-uumo wada hayso } li
-, : hote 1adalku yuu duulin.
-Mid dakaansan, mid dayeysan iyo ‘
-toban deddoonaaya Ahi ishkii Tal
-; an Wuxuu yidhi Darwiishkti Taleex
-Toban saat dugukuuray oy barasho waa doore
-uq tyo waayeel leh ” buley raggii
-: Dagaalkaan abaabuley ragg
-Toban sa Bac ee dawero 6 duubka wada qaatay
-oban daleel joogta i imankii la baxay
-; : Daraawiishta nimanki ,
-Toban daasadaa ya sitoo waxan u sii daayey
-xagal ka daacaysa res
-ee Daliilkii Ilaah iyo waxaan
-Toban eats ate Hs Us diinta ugu dhaarshey |
-toban dabayl raacday ly aan
-. , - Xeer laba dibleeyiyo waxe
-Toban xoolo daba joogta daawo ugu yeelay
-I __ 00 doogsin cararaysa Waxaan daabcad iyo soodh af badan
-Cee aSOOIIS par oa Wea) ugu durduuraayey
-ul Lyo dlirkeeda baxo waxaan
-Haddii duullan loo baxo
-Intaasoo g cathe Sie abatoo ula dardaarmaayey
-egelka soo oodda Kolk ree raxaan
-olka ay dareeraan w
-Intaasoo dar. a igvedie dheer '  duco u taaraayey
-ij axaan duhur Ilaahay bary
-Intaasoo dar ae 8uud jirtoo jiriyey deeqdiisa
-aawo wada qaata Waxaan Daayimow idhi habeen
-Vaxaan Daayimow 1a
-Intaasoo fadhiga deysa 00 dogonta 00 jiifta
+Afartaa daleeyaye waxaan
+dib ugu soo laabtay,
+Toban uu dadweynuhu i yidhi
+duqayda gaadhsiiye,
+Ninka caawa loo dadab dhigow
+maqal dabuubtayda,
+Diktoorkaan u maahmaahayow
+hadalku yuu dhuulin.
+
+Rag baa weli dushaa laga rartaa
+sida dameeraaye
+Daandaansi joogto ah rag baa
+loogu daw galaye
+Dibindaabyo niman baa ku lumay
+debec la'aaneede
+Dacwaddooda niman baa dhegaa
+laga dabooshaaye
+Dayaxaba rag baan arag siday
+dab uga baydheene
+Degelkooda niman baanu helin
+dirirka hooraaye
+Duunyaba rag baan lagu ogeyn
+xoolo daaq taga e
+
+Dambarkeeda niman baa ka qaday
+dihinta Maandeeqe
+Niman baa dalluun lagu ridoo
+daaha loo rogaye
+Niman baa sidii awr dib jirey
+bahalo dooxeene
+Niman baa halkii lagu deldeley
+daawasho u yaalle
+Gumaystuhu dirkaa kula dhashay
+laba-dibleeyeene
+Labadaadi daan iyo afkii
+daadku kala qaadye
+Toban doora, toban daacadoo
+wada dedaaleysa
+Iyo toban danaa guud jiroo
+dayrshey noloshooda
+Iyo toban dadweynaha ka jira
+cadawga soo duula
+Iyo toban billaawaha wax dila
+daabka wada haysta
+Iyo toban diyaarado watoo
+ina dul-meeraaya
+Iyo toban sinnaan doonayoo
+xeerka daba jooga
+Iyo toban sabool daadahshoo
+midigta deeqsiiya
+Toban dudaya, toban uurka daba
+toban kaloo doorsan
+Toban didaya, toban duuf-cunoo
+nacab la daaweysta
+Toban dabata, toban duur-xuloo
+garab ku daaqaaya
+Dushaa toban ka wada fiicanoo
+duunka milil jiifo
+Iyo toban da'dii soo kacdaba
+dubata beerkooda .
+Dadqal iyo abees iyo orgobe
+diir wax xaganaysa
+Iyo toban dibnaha leefayoo
+damacu heeryeystey
+Dib u socod dillaal tuuga iyo
+daallin iyo gaade
+Toban daallan, toban daahan iyo
+toban kaloo duuban
+Diif iyo xanuun toban qaboo
+duumo wada hayso
+Mid dakaansan, mid dayeysan iyo
+toban deddoonaaya
+Toban socodka dugukuurayoo
+duq iyo waayeel leh
+Toban dalab leh, toban loo dawero
+toban daleel joogta
+Toban daasadaa wada sitoo
+xagal ka daacaysa
+Toban daadsan, dibadaa mid jira
+toban dabayl raacday
+Toban xoolo daba joogta
+oo doogsin cararaysa
+Intaasoo is wada doonatoo
+ul iyo diirkeeda
+Intaasoo gudmaha daabatoo
+degelka soo oodda
+Intaasoo darkiyo ceelka dheer
+dawlis wada jiidda
+Intaasoo danaa guud jirtoo
+daawo wada qaata
+Intaasoo fadhiga deysa oo
 wada dedaaleysa
 Intaasoo ladnaan wada degtoo
 daacadda ogaata
-13 Darwiishkii-Waa Sayid Maxamed Cabdalla Xasan
-ee —
+Intaasoo daryeel wada heshoo
+gaajo dabar goysa
+Intaasoon dagnaan loogu iman
+ama digtoonaata
+Intaasoo is daba taaganoon
+cadow la doodaynin
+Intaasoo dagaal wada gashoo
+dab iyo baaruud leh
+Taasaa la wada doonayaa
+dan uga faallooda.
 
-Darfooley la ti dhigay waxaan
-; Dagaallamaye daad xoog leh iyo
-gees isaga duubay F daafi bay Hide :
-Halkii laygu duugiyo anoo
-Dug madow waxaan keli ahaan jiifa duni hoose
-umal la dooyaystay Ayuun baa daboolkii sanqadho
-Dibnahayga waxaan ciil saq-dhexe iga dul qaadeene
-foolasha u daayey Calankoo deldelan baa habeen
-Dawankaygu qaylada wuxuu daaha lay furaye
-gelinna deyn waayey Danwadaag heshiis iyo is raac
-Dood iyo heshiis iyo waxaan darammal yeedhaaya
-nabad u diidaayey Laba deristayoo guul heshoo
-Waxaan duubi weynow sengaha dawladnimo qaatay
-ugu dullaalaayey Dadkiiyoo xornimo iidayaa
-Dirkii Xtin finiin iyo waxaan daawo lay yidhiye
-seef isula doontay Dawaad iyo waraagq baan ka helay
-Dabkaan shiday, waxaan gaal cad diley meel docdayda ahe
-dabatadaan laayey Hambalyada intaan deexday baan
-Dabayl ii cad goysiyo waxaan taarar soo diraye
-kiciyey duufaanno Dibnahoo qoslaayaan gam’on
-Danab iyo hillaac iyo waxaan seexday dabadeede
-weedh is daha Joojey Gabbal dumey habeenkoo dam yidhi
-Dillaalkiyo gumaystaha waxaan. aan dayaxu joogin
-gooyey dabarkooda Dab bakhtiyey kul iyo dayro-dhaaf
-Dulmadoobe iyo Cayn waxaan diqim wax laynaysa
-dhiigga ugu daadshey Dibindaabyo xeer dabar go'oo
-Nolol dalab leh 00 jaban waxaan doorashiyo beena
-geeri uga doortay, Dumar iyo caruur ooyayoo
-| Gobanimo daryeel baan lahaa dugeydu yeedheyso
-. dawladnimo taa ge Xaq daguugmey, daa ‘imo la dhacay
-Doorkiyo barbaartaan lahaa dunida 00 qiiqday
-dawliska u dhiibe Gobannimo daryeel iyo xil iyo
-Deegaanta Hawd baan lahaa daacadnimo weydey
-Goray ha daajeene Dan hallawday, guri daad watiyo
-Maatada ha deeqdaan lahaa dawladnimo qaawan
-sidigta Doolaabe Calankoo ushii diidayoo
-Dadkii dhaxal la’aa baan Malling daabku celin waayey
-doogga haw hadho e Fin dillaacay, doog soo kacdoo
-Shanta kala dab raacdaan Than arami soo daacdey
-degel ha ooteene Ayuun baa dareenkii labaad
-Dakharada bogsii baan lahaa daaha lay furaye
-doogta kugu taalle Intaasoo darxumo oo dhacdaa
-Ha yeeshee sidaan damacsanaa daawo lay yidhiye
+Afartaa daleeyaye waxaan
+dib ugu soo laabtay
+Toban uu Darwiishkii i yidhi
+duqayda gaadhsiiye,
+Ninka caawa loo dadab dhigow
+maqal dabuubtayda,
+Diktoorkaan u maah maahayow
+hadalku yuu duulin.
+
+Wuxuu yidhi Darwiishkii Taleex
+barasho waa doore
+"Dagaalkaan abaabuley raggii
+duubka wada qaatay
+Daraawiishta nimankii la baxay
+waxan u sii daayey
+Daliilkii Ilaah iyo waxaan
+diinta ugu dhaarshey
+Xeer laba dibleeyiyo waxaan
+daawo ugu yeelay
+Waxaan daabcad iyo soodh af badan
+ugu durduuraayey
+Haddii duullan loo baxo waxaan
+ula dardaarmaayey
+Kolka ay dareeraan waxaan
+duco u taaraayey
+Waxaan duhur Ilaahay baryee
+jiriyey deeqdiisa
+Waxaan Daayimow idhi habeen
+doqonta oo jiifta
+Darfooley la ii dhigay waxaan
+gees isaga duubay
+Dug madow waxaan keli ahaan
+umal la dooyaystay
+Dibnahayga waxaan ciil saq-dhexe
+foolasha u daayey
+Dawankaygu qaylada wuxuu
+gelinna deyn waayey
+Dood iyo heshiis iyo waxaan
+nabad u diidaayey
+Waxaan duubi weynow sengaha
+ugu dullaalaayey
+Dirkii Xiin finiin iyo waxaan
+seef isula doontay
+Dabkaan shiday, waxaan gaal cad diley
+dabatadaan laayey
+Dabayl ii cad goysiyo waxaan
+kiciyey duufaanno
+Danab iyo hillaac iyo waxaan
+weedh is daba joojoy
+Dillaalkiyo gumaystaha waxaan
+gooyey dabarkooda
+Dulmadoobe iyo Cayn waxaan
+dhiigga ugu daadshey
+Nolol dalab leh oo jaban waxaan
+geeri uga doortay,
+Gobanimo daryeel baan lahaa
+dawladnimo taage
+Doorkiyo barbaartaan lahaa
+dawliska u dhiibe
+Deegaanta Hawd baan lahaa
+Goray ha daajeene
+Maatada ha deeqdaan lahaa
+sidigta Doolaabe
+Dadkii dhaxal la'aa baan lahaa
+doogga haw hadho e
+Shanta kala dab raacdaan lahaa
+degel ha ooteene
+Dakharada bogsii baan lahaa
+doogta kugu taalle
+Ha yeeshee sidaan damacsanaa
 Daayin odhan waaye
 
-Dibindaabyo, uurxumo waxaan Dooddaan u jeel-qabey kolkaan |
-dugul madoobaado madaxda deegqsiiyey |
-Ilmadaydu waxay yaab da’doon Yaan idhi dan baan leeyahoon |
-cil isaga duugo duubtay gogoshiiye :
-Garab daar maruun baa carshiga Degdeg baan xabaashii ku tegey |
-layga soo degaye daal la’aan socode
-Maruun baa xabaalii dednaa Dacallada intaan feyty baan
-wada dayaameene hoos u daadegaye |
+Dagaallamaye daad xoog leh iyo
+daafi bay ridaye,
+Halkii laygu duugiyo anoo
+jiifa duni hoose
+Ayuun baa daboolkii sanqadho
+iga dul qaadeene
+Calankoo deldelan baa habeen
+daaha lay furaye
+Danwadaag heshiis iyo is raac
+darammal yeedhaaya
+Laba deristayoo guul heshoo
+dawladnimo qaatay
+Dadkiiyoo xornimo iidayaa
+daawo lay yidhiye
+Dawaad iyo waraaq baan ka helay
+meel docdayda ahe
+Hambalyada intaan deexday baan
+taarar soo diraye
+Dibnahoo qoslaayaan gam'on
+seexday dabadeede
+Gabbal dumey habeenkoo dam yidhi
+aan dayaxu joogin
+Dab bakhtiyey kul iyo dayro-dhaaf
+diqim wax laynaysa
+Dibindaabyo xeer dabar go'oo
+doorashiyo beena
+Dumar iyo caruur ooyayoo
+dugeydu yeedheyso
+Xaq daguugmey, daa'imo la dhacay
+dunida oo qiiqday
+Gobannimo daryeel iyo xil iyo
+daacadnimo weydey
+Dan hallawday, guri daad watiyo
+dawladnimo qaawan
+Calankoo ushii diidayoo
+daabku celin waayey
+Fin dillaacay, doog soo kacdoo
+arami soo daacdey
+Ayuun baa dareenkii labaad
+daaha lay furaye
+Intaasoo darxumo oo dhacdaa
+daawo lay yidhiye
+
+Dibindaabyo, uurxumo waxaan
+dugul madoobaado
+Ilmadaydu waxay yaab da'doon
+ciil isaga duugo
+Garab daar maruun baa carshiga
+layga soo degaye
+Maruun baa xabaalii dednaa
+wada dayaameene
 Dhaaxaan deddiyo taah kacoon
-soo dingtigsadaye Inkastoon dalluun awdan iyo
-Dorraad tawradii dhalatay baa joogo duni hoose
-daaha lay furaye Albaab ii daloolaan carrada
-Allaylehe durbaankii la tumay diirad ku hayaaye
-| waan ku diirsadaye Degmadiinna waxa ii fadhiya
-Godkaygaa digniin iyo farriin duulan la aqoonne
-laygu soo diraye In dardaarankaygii fulaan
-Anigoo darmaan fuushan baan helay daliilkiiye
-soo dabbaal degaye Caawana mid daw iyo jidoo
-Waagoo dillaacaan arkoy doora iga hooya.
-duushay dhaxantiiye Inay dunidu hawl tahay sidii
-Dayax soo iftiimaan arkoo Daayinkuba sheegay
-‘ nuuray duunidiiye In dedaalku dhaxal waara yahay
-, Dantii 00 la helay baan arkoo duugna laga dheefo
-loo dab shidayaaye Inuu samuhu door dhalo hadday
-Deegaan is gaadhaan arkiyo daacadnimo raacdo
-xoolohoo dihine Oy dhagasho ruux doona tahay
-Dadkiiyo badhaadhaan arkoo dib u xusuusnaada.
+soo dingiigsadaye
+Dorraad tawradii dhalatay baa
+daaha lay furaye
+Allaylehe durbaankii la tumay
+waan ku diirsadaye
+Godkaygaa digniin iyo farriin
+laygu soo diraye
+Anigoo darmaan fuushan baan
+soo dabbaal degaye
+Waagoo dillaacaan arkoy
+duushay dhaxantiiye
+Dayax soo iftiimaan arkoo
+nuuray duunidiiye
+Dantii oo la helay baan arkoo
+loo dab shidayaaye
+Deegaan is gaadhaan arkiyo
+xoolohoo dihine
+Dadkiiyo badhaadhaan arkoo
 reebay dacaskiiye
-Dulmigoo carraabaan arkoy Cirka oo daruuraha marshoo
-pies daacaddii timide darara mooyaane
-Dikri iyo Quraan baan magliyo Inaan roob da’aa laago rogin
-diin la caabudaye dib u xusuusnaada.
-: Dacar iyo rag dhuxul daacay baa Haddaan meesha doog iyo tayale
-daawo lay yidhiye duunyo lagu raacin
-Door-roonayaashiyo r aggan Inaan doobi loo culan hantida
-anigu doonaayey dib u xusuusnaada.
-Duga Janan Siyaad baan arkiyo Ruuxaan danttisiyo aqoon
-i dawladii sare’e waxa daryeelaaya
-Dihin curatay 00 igadh ah bay Inuu deeqda Eebbahay ka qaday
-Big: lt danbariyeene dib u xusuusnaada.
-olkii aan dardugey een dhergaan Daayeer jarmaadiyo qadhaab
-dooxay hadalkiiye gelin hadduu daayo
+Dulmigoo carraabaan arkoy
+daacaddii timide
+Dikri iyo Quraan baan maqliyo
+diin la caabudaye
+Dacar iyo rag dhuxul daacay baa
+daawo lay yidhiye
+Door-roonayaashiyo raggan
+anigu doonaayey
+Duqa Janan Siyaad baan arkiyo
+dawladii sare'e
+Dihin curatay oo igadh ah bay
+ii danbariyeene
+Kolkii aan dardugey een dhergaan
+dooxay hadalkiiye
 
-Inaan ruuxna soor uga durkayn )
-dib u xusuusnaada. D |
-Hadday dunidu beri dheef lahayd cele gauss te
-ae dux iyo haaneedsi Dhul dab Feet MAGS
-Dufankii in laga laastay iyo ul dabayshu toban sti dhaxdoo
-dalaggi hoos yiilley D durugsan weeyaane
-Oy maanta dabagoosi tahay aanshood waxaa lagu tagaa
-dib u xusuusnaada”. alaGhel bogol dir faa ie
-uulo mooyee si kale
-looma ood dego’ |
-u soo laabtay, deeddanki
-| Waa toban dastoor tawriyoo Daruuraha in la “dh ese:
-deel ku wada yaalle, te 4 e haga
-Ninka caawa loo dadab dhigow Ma dekaame awr PTO,
-magal dabuubtayda, lagu dul j
-Diktoorka gu dul joogaaye
-Ei, aa ‘ maahmaahayow Doox baa la marayaa, badweyn
-| yuu duutlin. dulin ka buuxaaye
-1 ey §. | Inkastaad dabbaashiyo taqaan
-i iyo eediiea socdee a aiaip isk xuliddiisa
-: i meella degi waaye ood dabin ka bood tahay nimaan
-| Gaadiidka ee sidee ae Wavald cidi dareemaynin
-| ~— rarada loo duubay axa daadka lagu dhaafayaa
-Dabageliska baydiyo ratiga . daacaddoo qudhahe
-f Beelitand caynka lagu duugey Ninkastaa dawaar xiimayuu
-a dareeriyo hantida dacalka haystaaye
-ae deyrka laga leexshey Doonnidu ninkii ay riddow
-aa Sheckag i laga xidhee dan iyo xeeshaada.
-Daabki adalka loo diidey
-tyo gudmaha laysu tumay
-| Fd waranka loo deyley Afartaa daleeyaye waxaan
-wada la wada qaatay iyo dib ugu soo laabtay,
-asain hawsha lagu daastey Toban ay Digriidiinnu tidhi
-a loo dhaqaagiyo fadhiga sii diktorrada 'e,
-ee dabarka loo gooye Ninka caawa loo dadab dhigow
-| TRIO ermaanads kulmee ‘ Ll dabuubtayda,
-aysla wad iktoorkaan u maahmaahayow
-: Ma daalaha Roeeroate ee hadalku yuu duulin. ‘
-Dabka shid cuurka daba taagan
-is 1dan, dayaxa soo bixi Waxay tidhi dalka
-- diiaeaiins iyo y tidhi dalkaan wada aqaan
-guurey i‘ ; wii daamoode
-| eyn nimaan ku leeyahay hadduu
-" _ dawi marin waayo
-180 Waxay tidhi xaqii iga durkaan
-. doonan karayaaye
+Dooddaan u jeel-qabey kolkaan
+madaxda deeqsiiyey
+Yaan idhi dan baan leeyahoon
+duubtay gogoshiiye
+Degdeg baan xabaashii ku tegey
+daal la'aan socode
+Dacallada intaan feyty baan
+hoos u daadegaye
 
-Waxay tidhi gammaan doobir leh Intaasoo He foe ee - ogi
-oon daalin baan ahaye Oon Deel ka wada sheet baan
-Waxay tidhi I eye ae daacad kuu idhiye
-penny anada ha diidina rag waa
-Waxay tidhi ie Ts ed i lala dardaarmaaye.
+Inkastoon dalluun awdan iyo
+joogo duni hoose
+Albaab ii daloolaan carrada
+diirad ku hayaaye
+Degmadiinna waxa ii fadhiya
+duulan la aqoonne
+In dardaarankaygii fulaan
+helay daliilkiiye
+Caawana mid daw iyo jidoo
+doora iga hooya.
+Inay dunidu hawl tahay sidii
+Daayinkuba sheegay
+In dedaalku dhaxal waara yahay
+duugna laga dheefo
+Inuu sumuhu door dhalo hadday
+daacadnimo raacdo
+Oy dhaqasho ruux doona tahay
+dib u xusuusnaada.
+
+Cirka oo daruuraha marshoo
+darara mooyaane
+Inaan roob da'aa laago rogin
+dib u xusuusnaada.
+
+Haddaan meesha doog iyo tayale
+duunyo lagu raacin
+Inaan doobi loo culan hantida
+dib u xusuusnaada.
+
+Ruuxaan dantiisiyo aqoon
+waxa daryeelaaya
+Inuu deeqda Eebbahay ka qaday
+dib u xusuusnaada.
+
+Daayeer jarmaadiyo qadhaab
+gelin hadduu daayo
+Inaan ruuxna soor uga durkayn
+dib u xusuusnaada.
+Hadday dunidu beri dheef lahayd
+dux iyo haaneedsi
+Dufankii in laga laastay iyo
+dalaggi hoos yiilley
+Oy maanta dabagoosi tahay
+dib u xusuusnaada".
+
+Afartaa daleeyaye waxaan
+dib ugu soo laabtay,
+Waa toban dastoor tawriyoo
+deel ku wada yaalle,
+Ninka caawa loo dadab dhigow
+maqal dabuubtayda,
+Diktoorkaan u maahmaahayow
+hadalku yuu duulin.
+
+Dardarta iyo geeddiga socdee
+meella degi waayey
+Gaadiidka dadabtii sidee
+rarada loo duubay
+Dabageliska baydiyo ratiga
+caynka lagu duugey
+Beelaha dareeriyo hantida
+deyrka laga leexshey
+Dibnaa sheekadii laga xidhee
+hadalka loo diidey
+Daabkiyo gudmaha laysu tumay
+waranka loo deyley
+Daawada la wada qaatay iyo
+hawsha lagu daastey
+Danta loo dhaqaaqiyo fadhiga
+dabarka loo gooyey
+Doorkiyo abwaanada kulmee
+laysla wada doontay
+Ma daalaha hoggaanka u hayiyo
+cuurka daba taagan
+Dabka shidan, dayaxa soo bixtiyo
+dirirka loo guurey
+
+Deegaantu meeshay ku taal
+doqoni waa mooge
+Dhul dabayshu toban sii dhaxdoo
+durugsan weeyaane
+Daanshood waxaa lagu tagaa
+boqol diraacoode
+In la duulo mooyee si kale
+looma ood dego'e
+Digdigtiyo hayaankiyo guclaha
+deeddankiyo heesta
+Daruuraha in laga dhaansadaa
+laysku deyayaaye
+Ma dekaame awr daabbadaa
+lagu dul joogaaye
+Doox baa la marayaa, badweyn
+dulin ka buuxaaye
+Inkastaad dabbaashiyo taqaan
+duurka xuliddiisa
+ood dabin ka bood tahay nimaan
+cidi dareemaynin
+Waxa daadka lagu dhaafayaa
+daacaddoo qudhahe
+Ninkastaa dawaar xiimayuu
+dacalka haystaaye
+Doonnidu ninkii ay riddow
+dan iyo xeeshaada.
+
+Afartaa daleeyaye waxaan
+dib ugu soo laabtay,
+Toban ay Digriidiinnu tidhi
+sii diktorrada'e,
+Ninka caawa loo dadab dhigow
+maqal dabuubtayda,
+Diktoorkaan u maahmaahayow
+hadalku yuu duulin.
+
+Waxay tidhi dalkaan wada aqaan
+labada daamoode
+Deyn nimaan ku leeyahay hadduu
+daw i marin waayo
+Waxay tidhi xaqii iga durkaan
+doonan karayaaye
+Waxay tidhi gammaan doobir leh
+oon daalin baan ahaye
+Waxay tidhi halkii didib ah baan
+dibi ku jeexaaye
+Waxay tidhi dixdiyo buurahaan
+dalag ka beeraaye
 Waxay tidhi durduurtiyo khamriga
 waan ka daahnahaye
-Waxay tidhi Darmaan curatay baa |
+Waxay tidhi Darmaan curatay baa
 lay dambariyaaye
 waxay tidhi surwaal duluc-lehoo
 daadsan ma aqaanne
-Waxay tidhi go’ duugaan xidhaa
+Waxay tidhi go' duugaan xidhaa
 dacal hagoogtaaye
+
 Madaxayga deeb uma oggoli
 waxaan daweyneyne
-! Darro iyo malaas baan timaa
-; ugu dedaalaaye
-i Duunyadu haddii ay gudhoo
-iy doogga la idlaysto
-Hi Waxay tidhi diraacaha dhacaa
-FF ima durreeyaane
-4 Waxay tidhi dibtaag naaxday baan
-v daban aqaannaaye
-f Waxay tidhi galleydaan dubtaa
+Darro iyo malaas baan timaa
+ugu dedaalaaye
+Duunyadu haddii ay gudhoo
+doogga la idlaysto
+Waxay tidhi diraacaha dhacaa
+ima durreeyaane
+Waxay tidhi dibtaag naaxday baan
+daban aqaannaaye
+Waxay tidhi galleydaan dubtaa
 duraha jiilaale
-| Digir iyo hadhuudh lay karshaa
-| wayga degayaane
-| Dantu waxay i siisaan gutaa
+Digir iyo hadhuudh lay karshaa
+wayga degayaane
+Dantu waxay i siisaan gutaa
 Daayin mahadshaaye
 Waxay tidhi digaaggiyo ma cuno
-j hilibka doofaare
-| Darib iyo mud baan kaga baxaa
-' __ diifta gaajada’e
-; Waxay tidhi haddaan guur damcoo
-. dumarka xi iseeyo
+hilibka doofaare
+Darib iyo mud baan kaga baxaa
+diifta gaajada'e
+Waxay tidhi haddaan guur damcoo
+dumarka xiiseeyo
 Dabagaab shisheeya ah ma geyo
-_,, , mana deeqaane
-i Waxay tidhi hablaa diibka-laa |
-i aniga ii doonnan, |
-——
+imana deeqaane
+Waxay tidhi hablaa diibka-laa
+aniga ii doonnan.
 
-QAYBTA
-| SADDEXAAD
+Intaasoo hal oo dood ah iyo
+faallo daba joogta
+Oon Deel ka wada sheegay baan
+daacad kuu idhiye
+Waanada ha diidina rag waa
+lala dardaarmaaye.
 
-ang |
-Taki fale ma magqasheen
+### QAYBTA SADDEXAAD
+
+### TAAWILO
+
+Takri fale ma maqasheen
 afkii toori dhooblaha
 markuu gacan togaalaha
 ku madhsaday tigaaddii
@@ -3286,1214 +5798,2252 @@ gujadiyo tantoomada
 kaga tuujey mililkee
 sida qalin tahliileed
 tutuwaha cantuugee
-yidhi ”toojo wiilkaa
+yidhi "toojo wiilkaa
 tooggadiisa kaa waa
 isna tuurin kuu qorey
-‘i hadba tiisa kugu maal
+hadba tiisa kugu maal
 taana waa naqaannaa
-if toobbadayna yeelkaa”.
-" Isagoo tigtiganoo
-H , tawan oo werwerayaa
-‘ ‘ teelifoon ku soo dhacay
+toobbadayna yeelkaa".
+
+Isagoo tigtiganoo
+tawan oo werwerayaa
+teelifoon ku soo dhacay
 wahan tooxan loo dhiib
 teneg iyo qabqaba maqal
-| taammilooyinkii dhawr
+taammilooyinkii dhawr
 ka taweli astaamaha
-wuxuu yidhi ”tartiib hoos
-| igu timi cadceeddaan
+wuxuu yidhi "tartiib hoos
+igu timi cadceeddaan
 toban guuradeedii
 iyo weliba taartaar
 u tumaayey saantoo
 waanigan tin iyo cidhib
 tifta dhididka hooree
-Allaylehe tus baa jira ”!
-| ”Wuxuu taa ku sii daray
+Allaylehe tus baa jira "!
+
+"Wuxuu taa ku sii daray
 weedhaydi tooxnayd
-4 warankaygi toosnaa |
-tubihii gorshaysnaa
-. u tallaabi waayoo
-q 186 tabahaygi maalmahan
-—— "
+warankaygi toosnaa
+tubihii qorshaysnaa
+u tallaabi waayoo
+tabahaygi maalmahan
+togog soo rogmadey baa
+dib u soo tufaayee
+maxaa toobiyii helay"?
 
-- i
-togog soo rogmadey baa Tawstii bacaadkaa |
-dib u soo tufaayee teedkii hoggaankiyo |
-maxaa toobiyil helay” ? taxanaha wareeggiyo
-tolommada burburisoo
-”Wuxuu taa ku sii daray tayo socod ka dhimatee
-tarmi weydey beentaan biro wada taftir go’ay
-taabba geli is idhiyoo wuxuu soo tukubiyaba
-tiradaydu ee bay sot a taaggl ee yimid
-ka takoorantahayoo toolmoonayaashit
-marka aan toddoba jeer tuugna aanu xadi jirin
-toban toban u geeyaba inuu daafta kaga tago |
-taf kalaa furmaysoo ayay sheekadii timi. |
+"Wuxuu taa ku sii daray
+tarmi weydey beentaan
+taabba geli is idhiyoo
+tiradaydu meel bay
+ka takoorantahayoo
+marka aan toddoba jeer
+toban toban u geeyaba
+taf kalaa furmaysoo
 wadar aanan tebin baa
-tahan aanan filanayn Waxay ugu tiraabeen
-iska kay tusaysee ‘ dhaaxaanu tiirkiyo
-bal tabaaladaa daya”! tiska culus Samaalow
-{ kaa tiirinaynee
-” Woecuu taa ku sii daray hanna tuurin jaallow”.
-i he aan tiq idhi baa Wuxu yidhi ”maxaan tari
-igu turunturrootoo fn ;
-waxay taagan tahay meel ama idinku taakulin
-. taladeedu dhimatee WadGy UtUTGLOO 4
-H tolow yaa farreeya ah”! ina kala taxaabtee”.
-Bs - ”Wuxuu taa ku sii daray
-a 4 Wuxuu taa ku sii daray waxaa toogta feleggiyo
-( eer is laga oe toommantiyo guhaankiyo
-| anna eainte vik ‘nie tusbaxaygu igu yidhi
-| Mnvnas tatan i i ys xiddiggaagu tuuxee
-isa baer pave ie) toommo oodan buu galay
-| galbashada ku tiigaal
-kula dhacan taraarkii
-| Gaarriyow tareenkii waad is tukhun tukhaysee
-| lagu tacab khasaaree ama taarka kala goo
-| taabka riixi waayee ama tab iyo xeeshaa
-famartiisu guuxiyo ka tallaabso oodaha”.
+tahan aanan filanayn
+iska kay tusaysee
+bal tabaaladaa daya"!
+
+"Wuxuu taa ku sii daray
+tahar aan liq idhi baa
+igu turunturrootoo
+waxay taagan tahay meel
+taladeedu dhimatee
+tolow yaa farreeya ah"!
+
+"Wuxuu taa ku sii daray
+wakhtigii tin laga goo
+wax tashiilo igu yidhi
+anna taawintaydii
+idhi hay tafaafulin
+isagayga toosnaa"!
+
+Gaarriyow tareenkii
+lagu tacab khasaaree
+taabka riixi waayee
+tamartiisu guuxiyo
 tallan qudha ku koobnayd
-ia mar horuu tol-weynii ”Taxanaha awaalkiyo
-; Suradiisa tuurraa toyashada ayaamaha
-| tarab tarab u daadshee taawilooyinkaygit
-hacha shaashlayaashay runta tiga tudhi jirey
-, ite i a tadcaarteen toddobaad ma gaadhay
-: gti garangari”. tafta iigu laabeen”.
-i
-—— rs
+mar horuu tol-weynii
+guradiisa tuurraa
+tarab tarab u daadshee
+tun-ku-shaashlayaashay
+hasha wada tadcaarteen
+ninba toogti garangari".
 
-” Wuxuu taa ku sti daray | Wuxu yidhi ” tibaaxdiyo Hi
-haddii yoolka lays tubo toyashadu gar weeyee
-nafi taada weeyee hadday tuludi caadkeed
-anba waxaan hor taagnahay takar dhabasho badan tahay
-taariikh i neceboo nin turxaan ka filayaa
-gayrkayba taashkiyo ka tabaabulshaystee
-billadaha u tiriyee miyaan laba tagoogood |
-haddii aad aniee? garashada u taba baray ”?
+Tawstii bacaadkaa
+teedkii hoggaankiyo
+taxanaha wareeggiyo
+tolommada burburisoo
+tayo socod ka dhimatee
+biro wada tafiir go'ay
+wuxuu soo tukubiyaba
+markuu taaggi hoos yimid
+toolmoonayaashii
+tuugna aanu xadi jirin
+inuu daafta kaga tago
+ayay sheekadii timi.
+
+Waxay ugu tiraabeen
+"dhaaxaanu tiirkiyo
+tiska culus Samaalow
+kaa tiirinaynee
+hanna tuurin jaallow".
+
+Wuxu yidhi "maxaan tari
+ama idinku taakulin
+iyadaygu turatoo
+ina kala taxaabtee".
+
+"Wuxuu taa ku sii daray
+waxaa toogta feleggiyo
+toommantiyo guhaankiyo
+tusbaxaygu igu yidhi
+xiddiggaagu tuuxee
+toommo oodan buu galay
+galbashada ku tiigaal
+kula dhacan taraarkii
+waad is tukhun tukhaysee
+ama taarka kala goo
+ama tab iyo xeeshaa
+ka tallaabso oodaha".
+
+"Taxanaha awaalkiyo
+toyashada ayaamaha
+taawilooyinkaygii
+runta iiga tudhi jirey
+toddobaad ma gaadhay
+tafta iigu laabeen".
+
+"Wuxuu taa ku sii daray
+haddii yoolka lays tubo
+nafi taada weeyee
+anba waxaan hor taagnahay
+taariikh i neceboo
+qayrkayba taashkiyo
+billadaha u tiriyee
+haddii aad tasawdeen
 anba tegey sidiinnee
-maxaa igu tuhmaysaan !? Bogorkii tilmaannaa |
-Bal he ene ; mar pues et |
-taagtayda milicsada . tooc tooci keligti
-rie f hadba dhinac u tooree
-se tib es tyo Tabca saar qalfoofkii.
-aan cuskanayaa
-. kuma taagni lugahee Markuu tiiradii koray
-haygu tiirsan Laangadhe”. ayaa taayir boodoo
-. tafan toofe waa kaas
-Dhan kalay ka taabteen. dib u soo taraaree
-iy Alla taak dhiga !.
-Ninkii taarta Libaan | het ww nares
-uma tooggo qumiyee Isagoo tarwadhayoo
-i; ix gelin dhegoolee tarshaduhu sitaan buu
-i laafyaha ; tan-tannida ka soo degey
-aga jildka taran tari. tacsidii dad baa yimi
-Y ie liq tiiqsi digashada
-Wax la yidhi ”Tin caarow ae ’ ah
-looxa waad ku taallaye turge meydka weli nool.
-pantie kaa tiray s Wax la yidhi ” gol taahiyo
-4 yaa umagac dhaban ” ? tiic tiica murugada
-Wuxu yidhi ”sir baa taxan Hate pl Mie
-‘ionilaeds tliraanyo beeree
-| arkay ka mudan tahay ka cantuug tif iyo daran”
-taban-taabshaheeduna gene:
-H nin tar sheegta ma oggola | gay
-waxse teeyo lagu dhaqay | COs Gs e
-halaan awrba I a u taamin shaalkit
-Wink hil MA g a Ue | taabka aad ku haysee
-. yaa falan”. | siduu kaaga tegey sheeg ?
-Wax la yidhi ”Tinnj; Tub hayowna aashaa
-tu Allaba is mee | ha is taawin keligaa
-xaggee taadu sudhan Pahtay, waannu kaa tab haynaa |
-warka nooga tibix sii ”? bulshadaa tixraaciyo
-taladiyo gudoonka leh.
-F gt)
-J
+maxaa igu tuhmaysaan !?
+Bal tafeenahaygiyo
+taagtayda milicsada".
 
-—"
-Wuxu yidhi "tawaawacay .
-turubkana sukaan degey |
-wax kaloon tammediyoon |
-tobanlaha ku waabshaa Sidii ae
-taabkayga kuma hadhin idii maansha too yidhi
-tuur tuurka geba gebo Allahayow mariigiyo —
-toddobaale igu dhiga aanu maanku naga tegin
-lixle dhiirran igu tuma”. miyirow na kaaimee
+"Aniguba tib culus iyo
+tukubaan cuskanayaa
+kuma taagni lugahee
+haygu tiirsan Laangadhe".
+
+Dhan kalay ka taabteen.
+
+Ninkii taarta Libaan
+uma tooggo qumiyee
+ma tix gelin dhegoolee
+talan-taalli laafyaha
+caga jiidka taran tari.
+
+Wax la yidhi "Tin caarow
+looxa waad ku taallaye
+haddii Alifki kaa tiray
+Ta'da yaa u magac dhaban "?
+
+Wuxu yidhi "sir baa taxan
+tartarkay ka mudan tahay
+taban-taabshaheeduna
+nin tar sheegta ma oggola
+waxse teeyo lagu dhaqay
+halaan awrba loo tu'in
+ninkii tuudiyaa falan".
+
+Wax la yidhi "Tinniixow
+tu Allaba ku biirsoo
+xaggee taadu sudhan tahay
+warka nooga tibix sii "?
+
+Wuxu yidhi "tibaaxdiyo
+toyashadu gar weeyee
+hadday tuludi caadkeed
+takar dhabasho badan tahay
+nin turxaan ka filayaa
+ka tabaabulshaystee
+miyaan laba tagoogood
+garashada u taba baray "?
+
+Boqorkii tilmaannaa
+mar labaad tareenkii
+tooc tooci keligii
+hadba dhinac u tooree
+Tabca saar qalfoofkii.
+
+Markuu tiiradii koray
+ayaa taayir boodoo
+tafan toofe waa kaas
+dib u soo taraaree
+Alla taako yaw dhiga !.
+
+Isagoo tarwadhayoo
+tarshaduhu sitaan buu
+tan-tannida ka soo degey
+tacsidii dad baa yimi
+tiiq tiiqsi digashada
+turqe meydka weli nool.
+
+Wax la yidhi "gol taahiyo
+tiic tiica murugada
+adigaa tallaashoo
+tiiraanyo beeree
+ka cantuug tif iyo daran".
+
+Adigays taftaafree
+ha ku taamin shaalkii
+taabka aad ku haysee
+siduu kaaga tegey sheeg ?
+Tub hayowna aashaa
+ha is taawin keligaa
+waannu kaa tab haynaa
+bulshadaa tixraaciyo
+taladiyo gudoonka leh.
+
+Wuxu yidhi "tawaawacay
+turubkana sukaan degey
+wax kaloon tammediyoon
+tobanlaha ku waabshaa
+taabkayga kuma hadhin
+tuur tuurka geba gebo
+toddobaale igu dhiga
+lixle dhiirran igu tuma".
+
+Boqorkii tilmaannaa
+taagtiisa kibiryoo
+qayrkii ku tanaxwee
+tagganaan ku raacdee
+inay tiisa noqotee
+tartankaa ku dheeraa.
+
+Wuxuu tiigsanaayiyo
+tuuntuunsigiisii
+taabba qaadi waayoo
+tafa xaydadkiisii
+iyo toodhadiisii
+labadaba tukaa cunay.
+
+Duni toocsi mooyee
+ninna taab ku qaban waa
+qofba wuxu ka taransaday
+teel teel ku noqotoo
+inkastuu ku talax tago
+wuxu tabanayaa badan
+tagtadiisa xiise
+tiisa joogta haaraan
+kaga daran timaaddadu
+tixdu waa abbaartaas.
+
+### KALAMAAN
+
+Sidii maansha loo yidhi
+Allahayow mariiqiyo
+aanu maanku naga tegin
+miyirow na kaalmee
 dhaxan baa melmelatee
 dabka aan malkadiyee
-Bogorkii tilmaannaa madagtiyo usha i Sil.
-taagtiisa kibiryoo
-qayrkii ku tanaxwee Vedliklitoleta:
-: jdhishiyo Hargeysaay
-muudaa ku gaadiyo |
-| tartankaa ku dheeraa. maalooti q is aya 4
-| muska kaaga soo dhacay,
-| Wuxuu tligsanaayiyo kol haddii mar iyo laba
-tuuntuunsigtisit makri tyo xaqaagii
-taabba qaadi waayoo khasab lagu maroorsaday,
-tafa xaydadkiisii kol hadduu mar iyo laba
-tyo toodhadiisii kula tegey mahiigaan
-labadaba tukaa cunay. kol haddii mar iyo laba
+madagtiyo usha i sii.
+
+Muqdhishiyo Hargeysaay
+kol haddii mar iyo laba
+muudaa ku gaadiyo
+maalooti qaxayaa
+muska kaaga soo dhacay,
+kol haddii mar iyo laba
+makri iyo xaqaagii
+khasab lagu maroorsaday,
+kol haddii mar iyo laba
+kula tegey mahiigaan
+kol haddii mar iyo laba
 maxlal lagugu qaybsaday,
-Dee kol haddii mar iyo laba
-ninna taab ku Gah waa AS aie vlseere
-qofba wuxu ka taransada Soe RTT Ig oe
-teel teel ku nogot 4 mooyi mooyi lagu yidhi,
-| eae ai i kol haddii mar iyo laba
-es oni aapl eed muurmuurris dala’siya
-| Deiter as adan muhmal lagugu soo wadey,
-“ate nome hee bis kol haddii mar iyo laba
-kaga daran timaaddadu Hea te Oke oe
-Au Atnepens kol haddii mar iyo laba
-adbbaartaas. bir ma-geydadaadii
-sf tyo mudanahaagii
+kol haddii mar iyo laba
+moqorraysi lagu baday,
+kol haddii mar iyo laba
+mooyi mooyi lagu yidhi,
+kol haddii mar iyo laba
+muurmuurris dala'siya
+muhmal lagugu soo wadey,
+kol haddii mar iyo laba
+mashqac lagugu deydeyey,
+kol haddii mar iyo laba
+bir ma-geydadaadii
+iyo mudanahaagii
 lagu diley kas iyo maag,
 kol haddii mar iyo laba
 cudud lagugu meersaday,
-ai kol haddii mar iyo laba
-i haanraawe kugu mamay
-. sida malabka doocaan
-miish-miishad kugu ligay,
-| libta kaa murkucatiyo
-W
-
-a
-SS
+kol haddii mar iyo laba
+haanraawe kugu mamay
+sida malabka doocaan
+miish-miishad kugu liqay,
+libta kaa murkucatiyo
 gobanimada kaa maqan
-maal baad ku furatoo malahaygu waa been, | |
-meyd baad ku bixisoo sidaan moodayaan jirin. |
+maal baad ku furatoo
+meyd baad ku bixisoo
 midnimaad ku dhalisee,
-kol haddaanad moogeyn Muqdishiyo Hargeysaay
-masalooyinkaas dhacay cirka meelo ka onkodey
-muddaduna ka badan tahay milligsiga hillaaciyo
-in sidii ma-yeedhaan ‘ hangarkiyo mardaaddiga
-isha miirta laga dhigo, meexaana carashada
-maxaa weliba kuu hadhay! majaraha ha dherersado
-: maanshaynta gobollada
-Alla magane sheekadu maadhiinka saaxay Ff
-si kastaba u murugtoo miyi sumuca haw xidho
-ha ku fido magaalada
-muggeed dhaaftay xaajadu. Jalka subax ha wada maro
-Haddii layska dhega maro i i gt io aaa |
-| runta kugu mudduciga ah be a ee Pe ie
-| murugag ku dhaxashoo waabayda lagu mudey
-saqda dhexe ku HEALOO mirta hawgu kuur galo
-bi sharaf iyo marwaad dhimey. habartii masayrrey
-Noloshaan milga lahayn halka macandideediyo
-horaa looga maarmee maxasteedu yaalliin
-M uqdish iyo Hargeysaay ha jabsado misciriraha
-muruqiyo laxaadkaan ha dhufsado mareegaha
-kala maarmi jirinow, magashana ha kala tago
-taartikhdu waa marag iyadana ha maragsado.
+kol haddaanad moogeyn
+masalooyinkaas dhacay
+muddaduna ka badan tahay
+in sidii ma-yeedhaan
+isha miirta laga dhigo,
+maxaa weliba kuu hadhay!
+
+Alla magane sheekadu
+si kastaba u murugtoo
+muggeed dhaaftay xaajadu.
+Haddii layska dhega maro
+runta kugu mudduciga ah
+murugaa ku dhaxashoo
+saqda dhexe ku miratoo
+sharaf iyo marwaad dhimey.
+Noloshaan milga lahayn
+horaa looga maarmee
+Muqdishiyo Hargeysaay
+muruqiyo laxaadkaan
+kala maarmi jirinow,
+taariikhdu waa marag
 waxay maanta joogtaa
-eee OUP Muqdishiyo Hargeysaay
-r ama waa lan ee mukhawigu ha kaashado
-| labadaas eee ee maaweeladiisii
-1a kala miyo. wuxuu maalintaa falo
+yaa maali jirayeey,
+ama waa la muuqdaa
+ama waa la maqan yahay,
+labadaasna kala miyo.
+
+Haddaan lays maqlayaashiin
+midho hore u caan baxay
+qorigiyo masaartana
+madfac loogu jilib dhigin
+maahmaahna lagu darin
+maya mayana lagu odhan
+ninka cunay magtaadii
+maandeeq la soo dhicin,
+anuun baa mataanaha
+mooyaha u tumayee
+madiixayga luuqdiyo
+masafada gadooddiyo
+malahaygu waa been,
+sidaan moodayaan jirin.
+
+Muqdishiyo Hargeysaay
+cirka meelo ka onkodey
+milliqsiga hillaaciyo
+hanqarkiyo mardaaddiga
+meexaana carashada
+majaraha ha dherersado
+maanshaynta gobollada
+maadhiinka gaaxdiyo
+miyi sumuca haw xidho
+ha ku fido magaalada
+dalka subax ha wada maro
+ha ka maydho daafkiyo
+meegaarka qaybtiyo
+waabayda lagu mudey
+mirta hawgu kuur galo
+habartii masayrrey
+halka macandideediyo
+maxasteedu yaalliin
+ha jabsado misciriraha
+ha dhufsado mareegaha
+maqashana ha kala tago
+iyadana ha maraqsado.
+
+Muqdishiyo Hargeysaay
+mukhawigu ha kaashado
+maaweeladiisii
+wuxuu maalintaa falo
 dadka hawga marag dhigo
-Haddaan lays maqmagashiin kolba dhagar ha mehersado
-midho hore u caan baxay ha ka dhigo marriinkana
-qorigiyo masaartana mucsur iyo waxba la’aan,
-af madfac loogu jilib dhigin ha ka dhigo minxiiskana
-; maahmaahna lagu darin murugiyo jar soo dumey;
-. maya mayana lagu odhan ha ka dhigo mashxaraddana
-. ninka cunay magtaadii muusannawga ooryaha
-iH maandeeg la soo dhicin, martidana hadhkiistyo
-; anuun baa mataanaha ha ka dhigo malluugaha
-mooyaha u tumayee muunaynta xididkana
-madiixayga luuqdiyo ha ka dhigo macsiyo dhiig.
-| masafada gadooddiyo
+kolba dhagar ha mehersado
+ha ka dhigo marriinkana
+mucsur iyo waxba la'aan,
+ha ka dhigo minxiiskana
+murugiyo jar soo dumey;
+ha ka dhigo mashxaraddana
+muusannawga ooryaha
+martidana hadhkiisiyo
+ha ka dhigo malluugaha
+muunaynta xididkana
+ha ka dhigo macsiyo dhiig.
 
-—— ,
-| re
-Mahwi laysu soo baxay k 1
-madal iyo shir lays wacay macaluusha kuu taa
-marta hayska wada furo WXGA Ee
-hayska dhigo mudh iyo gacan sida aynu Hse
-eesnha maraadka aH kala maan u kala-nahay.
-hakimarwnavaaboo Xadhkahaad maleegtiyo
+Mahwi laysu soo baxay
+madal iyo shir lays wacay
+marta hayska wada furo
+hayska dhigo mudh iyo gacan
+heesaha maraadka ah
+ha ku marin habaaboo
 masanuunka beenta ah
-sidaan kuugu meel deyey
-musaraarka selelka ah waxay muujinaysaa
-murugada shallayga ah sida aynu Moogow
-hawadiisa meydka ah kala maan u kala-nahay.
+musaraarka selelka ah
+murugada shallayga ah
+hawadiisa meydka ah
 meermeerka quusta ah
-falka meehannawga ah Waxa aan mag iyo qaan
-hanka mala awaalka ah gashi magac leh 00 jira
-ha ku maararrooboo iyo xoolo kugu maqan
-| runta muran ha geliyee isu soo minguurshiyo
-makallaha u saynsaab sida aad u madhan tahay
-sakalaha u maydhaan waxay muujinaysa |
-| mindiyaha u soofee sida aynu Moogow
-Nis maddanaha dabkaw geli kala maan u kala-nahay.
+falka meehannawga ah
+hanka mala awaalka ah
+ha ku maararrooboo
+runta muran ha geliyee
+makallaha u saynsaab
+sakalaha u maydhaan
+mindiyaha u soofee
+maddanaha dabkaw geli
 nabarkana u miisaan
-madhaxii u yiilliyo Waxan anigu maagiyo
-dhiilashii milaallaa waxaad mooye qooqaar
-ha maggaabiyee sii, ku malaysanasaa
-dabadeeto meeshaas waxay muujinaysaa
-inay maalintii tahay sida aynu Moogow
-madmadowgu kaga jirey kala maan u kala-nahay.
+madhaxii u yiilliyo
+dhiilashii milaallaa
+ha maggaabiyee sii,
+dabadeeto meeshaas
+inay maalintii tahay
+madmadowgu kaga jirey
 adna macallinkeediyo
-tahay mudanaheedii Laabtayda milantiyo
-| hadal miiggan ugu sheeg. magligaan afaystiyo
-guntigaan maleegtiyo
-Wallee maadi waa meel ( naydalkaan Jar aysiye
-qabsoo waana meel dhow sida Moora auug oy. ]
-cagtan maagi weydee yee kaa ga furan-ta 1ay
-malafsiga ku dhacantee WOKE TEAS
-ui manka tiigsanaysiyo we os en hay
-sida mool u godan-yahay ala maan u kala nahay.
-SER bs Wakhti baa muddaysnaa
-i kala maan u kala-naha musku waa sangadhayaa
-i y. masna waa ka urayaa
-miciyaanay ku ogtahay
-7 | Madaddaala beenlow meel dheerna kama Jiro
-' muhashada ku haysiyo mundulkuna kor iyo hoos
-| macal saad u baratiyo mugdi oodan weeyaan,
-’
+tahay mudanaheedii
+hadal miiggan ugu sheeg.
 
-ry )
-ity.
-habartuna mandheer iyo WMarkadinino oordan
-marjo weeye naafa ah, Ik AP |
-muslin-yohow islaantii HUNG 00: MUCSUT ANGE
-malmal-li’ida haysiyo gobannimo marriimaan
-: dhirtu wada magool iyo
-wedka hoos marmarayaa Hee Wo HONSGarGan
-mashagiyo dhib badanaa! LOGe uy ‘di
+Wallee maadi waa meel
+qabsoo waana meel dhow
+cagtan maagi weydee
+malafsiga ku dhacantee
+manka tiigsanaysiyo
+sida mool u qodan-yahay
+waxay muujinaysaa
+sida aynu Moogow
+kala maan u kala-nahay.
+
+Madaddaala beenlow
+muhashada ku haysiyo
+macal saad u baratiyo
+macaluusha kuu taal
+waxay muujinaysaa
+sida aynu Moogow
+kala maan u kala-nahay.
+
+Xadhkahaad maleegtiyo
+sidaan kuugu meel deyey
+waxay muujinaysaa
+sida aynu Moogow
+kala maan u kala-nahay.
+
+Waxa aan mag iyo qaan
+gashi magac leh oo jira
+iyo xoolo kugu maqan
+isu soo minguurshiyo
+sida aad u madhan tahay
+waxay muujinaysaa
+sida aynu Moogow
+kala maan u kala-nahay.
+
+Waxan anigu maagiyo
+waxaad mooye qooqaar
+ku malaysanasaa
+waxay muujinaysaa
+sida aynu Moogow
+kala maan u kala-nahay.
+
+Laabtayda milantiyo
+magligaan afaystiyo
+guntigaan maleegtiyo
+maydalkaan jaraystiyo
+sida Moora duugow
+martu kaaga furan-tahay
+waxay muujinaysaa
+sida aynu Moogow
+kala maan u kala-nahay.
+
+Wakhti baa muddaysnaa
+musku waa sanqadhayaa
+masna waa ka urayaa
+miciyaanay ku ogtahay
+meel dheerna kama jiro
+mundulkuna kor iyo hoos
+mugdi oodan weeyaan,
+habartuna mandheer iyo
+marjo weyee naafa ah,
+muslin-yohow islaantii
+malmal-li'ida haysiyo
+wedka hoos marmarayaa
+mashaqiyo dhib badanaa!
+
+Gabay waa mullaaxoo
+mergi weyee leexdoo
+adigoo midhcaanyiyo
+maygaag u jeedaa
+moxor loogu dhuuntaa
+micnahaan gurracayaa
+xaalku waa maqaar saar
+midho dahab haddaad tahay
+maar baan shillallayaa
+marso aanad geyin baa
+hal-qabsigu i mariyee
+Gaarriyow miliilica
+marba daad rogmanayaa
+igu soo mir kacayee
+in yar Maxamed ii noqo.
+
+"Maxaan kugu idhaahdaa" ?
+Ma wax aanad odhanoo
+hore ugu masuugtood
+ila maagtay baa jira?"
+
+"Mayee taas la soo dhaaf
+hadday maanso dacar tahay
+suugaantu milil iyo
+tahay maal qarsoon iyo
+nabar adiga kugu mudan
+hadal madhey Suldaanow
+lagu yidhi muggaagii,
+midse aanan falinoo
+marar hore i seegtoon
+kula maagay baa jira."
+
+"Ku maqlaye bal soo daa
+waxa igaga kaa maqan."
+
+"Marka diriro hooraan
+dhulka oo mucsur ahaa
+gobannimo marriimaan
+dhirtu wada magool iyo
+ubax iyo man saaraan
 miiraale gaaxdiyo
 mayay godol la sara-kacay
-Gabay waa mullaaxoo ru Sblian ku miisaan ‘
-mergi weeye leexdoo Alla magane sawtii
-adigoo midh OMB ae kuwa magqasha raacaa
-maygaag u jeedaa muxubbada riyaaqada
-ee loogu dhuuntaa yididdiilo milicsiga
-micnahaan gurracayaa muunsoodka faraxa ah
-xaalku waa maqaar saar maadays ku odhan jirey,
-midho dahab haddaad tahay aannu madida foosha ah
-maar baan shillalayaa morohyada u culanee |
-marso aanad geyin baa ka bax minanka jiilaal:” |
-| hal-qabsigu i mariyee
-: Gaarriyow miliilica Hic
-marba daad rogmanayaa Xaalku waa maldahan yahay
-igu soo mir kacayee mugdi baa igaga jira
-in yar Maxamed ii nogo. mana garan ujeeddada.
-"Maxaan kugu idhaahdaa” ? ” Haddii mawdku kedis yahay
-Ma wax aanad odhanoo naftu way ka maagtaa
-hore ugu masuugtood godka lagu muquunshoo
-ila maagtay baa jira?” maaray ka dhigataa
+rugta dhibic ku miisaan
+Alla magane sawtii
+kuwa maqasha raacaa
+muxubbada riyaaqada
+yididdiilo milicsiga
+muunsoodka faraxa ah
+maadays ku odhan jirey,
+aannu madida foosha ah
+morohyada u culanee
+ka bax minanka jiilaal:"
+
+"Xaalku waa maldahan yahay
+mugdi baa igaga jira
+mana garan ujeeddada."
+
+"Haddii mawdku kedis yahay
+naftu way ka maagtaa
+godka lagu muquunshoo
+maaray ka dhigataa
 inay maahda caal waa
-| ”Mayee taas la soo dhaaf meermeerka badisoo
-hadday maanso dacar tahay marmarsiinyo keentee,
-suugaantu milil iyo hugunkaad maqlaysiyo
-tahay maal garsoon iyo maroodiga cartamayaa
-nabar adiga kugu mudan maatadaad dhufaantiyo
-‘ hadal madhey Suldaanow waa midiidinkaagu,
-. lagu yidhi muggaagii, muuqa kuu warramayaa
-midse aanan falinoo ninkaad mooddey weeyaan.
-! marar hore i seegtoon
-| kula maagay baa jira.” Sida aad milshi la’aan
+meermeerka badisoo
+marmarsiinyo keentee,
+hugunkaad maqlaysiyo
+maroodiga cartamayaa
+maatadaad dhufaantiyo
+waa midiidinkaagii,
+muuqa kuu warramayaa
+ninkaad mooddey weeyaan.
+
+"Sida aad milshi la'aan
 mudha iigu soo tidhi
-Ku magqlaye bal soo daa muran bay i gelisee
-waxa igaga kaa magan.” meesha aynu joognaa ;
-ty marka hore xaggay tahay?
+muran bay i geliiee
+meesha aynu joognaa
+marka hore xaggay tahay?"
 
-”Meeshu meeshi weeyaan |
-meegaarki weynaa "Tani waa ma dhaafaan
-cliidankii majiirraa ma-huraanki weeyaan
-kugu meersanaayeen meel baanay kuu tiil
-Madaxtooyadaadii waana lagama maarmaan
-iyo mooradii baas:” madaxiyo minjaha geli
-waa meerto duniduye
-”Hadday meeshu meeshii miiddiiba shubatee
-tahay aan ka magan galay miidaddawso huubada
-inta midab shar leeyahay muudmuudso gocashada
-mudantaan u hagar baxay murdi weelka godob yahay
-xaggee baa la soo maray?” mahadhooyin reebtee
-yaanay maadi kaa hadhin!”
-» °
-Mawjadaa ka soo lalay
-lyo maayad x eyn.” »
-yo maayad xoog weyn. U danbayna meydkow
-Tonia i oeiila madi tegaya waw door |
-xaajadu mutuxanaa inuu meeris duugliyo
-mirta yaa isku ogaa?” duluc madhaxle reebee
-ae hal-muceed yadaadii
-”Mirta waxa isku ogaa Rabbi kugu mannaystiyo
-xilligivo mudducigii nee Maier b
-muddadiisu laallayd:” Gt XUSIUS THLE LY Oe
-¢ miisaan leh ti sheeg
-Maxaa kuu daraa sheeg?” maxaan kaa guntaa hadal:
-Anaad ti macsuun tahay,” ey waxan ku Mee
-uslinkiyo waraabaha
-j » , madmadowga tuhunkiyo
-. pee) iy oie wakhtigan jira mashaqada dhex taallaa
-RS MLS SOCOM AL inay tahay is maan-dhaaf.”
+"Meeshu meeshi weeyaan
+meegaarki weynaa
+ciidankii majiirraa
+kugu meersanaayeen
+Madax-tooyadaadii
+iyo mooradii baas:"
+
+"Hadday meeshu meeshii
+tahay aan ka magan galay
+inta midab shar leeyahay
+mudantaan u hagar baxay
+xaggee baa la soo maray?"
+
+"Mawjadaa ka soo lalay
+iyo maayad xoog weyn."
+
+"Gartu waa maroortaa
+xaajadu mutuxanaa
+mirta yaa isku ogaa?"
+
+"Mirta waxa isku ogaa
+xilligiyo mudducigii
+muddadiisu laallayd:"
+
+"Maxaa kuu daraa sheeg?"
+
+"Anaad ii macsuun tahay."
+
+"Marti-qaad wakhtigan jira
+waa lagu mergganayaa
 waxba hay macaaneyn
-meleggiyo heddeydee Fr
-muraadkaaga ii sheeg:” Muudaaga xooluhu
+meleggiye heddeydee
+muraadkaaga ii sheeg:"
+
+"Maraan kuu sidaa hoo."
+
+"Taasi waa muddaahano
+iyo lama maleeyaan
+waa musuusuqaagii
+iyo geed is marintii
+miyaan anigu Jaallow
+maryo kaaga baahnahay?"
+
+"Tani waa ma dhaafaan
+ma-huraanki weeyaan
+meel baanay kuu tiil
+waana lagama maarmaan
+madaxiyo minjaha geli
+waa meerto duniduye
+miiddiiba shubatee
+miidaddawso huubada
+muudmuudso gocashada
+murdi weelka godob yahay
+mahadhooyin reebtee
+yaanay maadi kaa hadhin!"
+
+"U danbayna meydkow
+madi tegaya waw door
+inuu meeris duugliyo
+duluc madhaxle reebee
+hal-muceed yadaadii
+Rabbi kugu mannaystiyo
+maah maahahaagii
+bal xusuus mid iyo laba
+miisaan leh ii sheeg
+maxaan kaa guntaa hadal?"
+
+"Maqal waxan ku haystaa
+Muslinkiyo waraabaha
+madmadowga tuhunkiyo
+mashaquda dhex taallaa
+inay tahay is maan-dhaaf."
+
+"Muudaaga xooluhu
 marka ay la kulantee
-» muuqiisa aragtay
-n kuu sidaa hoo. lugaheeda maashaa.
-» .
-Taasi waa 45 pa
-muddaahano Tsna wuxuu majiiraha
-i lyo lama maleeyaan
-4 Ww ‘i uga daba maleegtaa
-aa musuusuqaagii
-. : Se celi maganta baadida,
-LyO geed is marintii Oe ean
-Shania ae is maqiiqiddiisiyo
-1 naan A ata aallow P mintidkiyo dedaalkaa
-| "yo Kaaga baahnahay? hadba murug u siibtaa
-‘i dee muxuu sameeyaa
+muuqiisa aragtay
+lugaheeda maashaa."
 
-oa
-ilkahaa u midigoo |
-micidaa ugacanee.” BARA BARAALE
-rea Tyadoon bartiro jirin F
-ATIBHNG aay neo wax la yidhi lixlaha biig
-Dees i Pye. ” haddii Baashe lagu dilo
-Biers pence: marka qaybta laga baxo
-boolaynta laga dhigo
-”Muddadii xilka lahayd shaxda booli-tuugiyo
-haddii maamulkaygii sharci boob ah lagu wado
-malaa kadeed iyo afar turub nin barashada |
-mixnad tyo shil laga dhigay ka bogtaa ku gacan gala |
-maankayga garashada baandheeya weligii
-| maaraynta hawluhu wax ku beela qaabkaas
-siday ligu muugdeen waxa adag Ee ana
-waxba inanan maandhaw isagaana badin kara.
+"Isna wuxuu majiiraha
+uga daba maleegtaa
+celi maganta baadida,
+is maqiiqiddiisiyo
+mintidkiyo dedaalkaa
+hadba muruq u siibtaa
+dee muxuu sameeyaa
+ilkahaa u midigoo
+micidaa u gacanee."
+
+"Aniguna mudducigow
+waxaan meel la joogaa
+muran li'i dhurwaagaas."
+
+"Muddadii xilka lahayd
+haddii maamulkaygii
+malaa kadeed iyo
+mixnad iyo shil laga dhigay
+maankayga garashada
+maaraynta hawluhu
+siday iigu muuqdeen
+waxba inanan maandhaw
 ku masuugin baan furay
-| inta maganna gaadhsii. ” SO hy bilicdii
-| ban martoo la garan waa
-o la maydhaan
-Gudbey Maxamed Xaashow eae ban halla Ae
-mahadsanidna lagu yidhi i. A ae ohe oy eed
-maamuusna kugu ladhay "y
-masalooyin xidhan baan .
-meelayn u deyayoo uurrantu muuniyo
-mayalkaan xejinayee barkhad kaydsan maahee
-hadda kuguma maakumin barar taws ah We aie
-4 ninka aad la magac tahay. bugtadiyo xanuunkuna “4
-haddaan baadhay waa cull.
-pao cudead iyo Bahalow Shabeelow
-i, 5 Leg hooy bara baraalow
-rs ae me Pe oe waaryaa nin buureed
-Wak PER scorn yo bulshu waxay ku leedahay,
-min Wi: off A 9 beri waxan ogsoonaa
-if mabd. pode ee We adigoon ka soo bixin
-} mi hi ae gue oe casha boholaheedoo
-ia ; ey 4 peaalyo dhirta baaxad-weynta ah
-a4 mudan adduunyada baarkeeda seexdee
-HY marinada hal-doorka ah )
-4 ; . maqlay inad bannaanntyo
-) siiaiuma midowdaan, timi badhaha hawdkoo
-| | bulbullow libaaxit
-i boqgortooyadiisit
-duhur ugu badheedhoo
+inta maqanna gaadhsii."
 
-burjigii ka furatoo balse waxa la yaab dhalay ti
-bili qaadi weydee, barta aad ku galatiyo .
-beelahan agtaadaan baradaada caydha ah
-kaa soo bariidshoo ragi kama bidhaantee |
-budulkay la soo galay ma laftaad burburisaa.
+Gudbey Maxamed Xaashow
+mahadsanidna lagu yidhi
+maamuusna kugu ladhay
+masalooyin xidhan baan
+meelayn u deyayoo
+mayalkaan xejinayee
+hadda kuguma maakumin
+ninka aad la magac tahay.
+
+Miyir iyo xilqaad iyo
+malko iyo hufnaan iyo
+milgo iyo xishood iyo
+madal iyo gar-soor iyo
+maskax iyo aqoon iyo
+mintid iyo dedaal iyo
+mabda' iyo falaad iyo
+murti iyo tusaaliyo
+inta mudan adduunyada
+marinada hal-doorka ah
+sina uma midowdaan.
+
+### BARA BARAALE
+
+Iyadoon bartiro jirin
+wax la yidhi lixlaha biig
+haddii Baashe lagu dilo
+marka qaybta laga baxo
+boolaynta laga dhigo
+shaxda booli-tuugiyo
+sharci boob ah lagu wado
+afar turub nin barashada
+ka bogtaa ku gacan gala
+baandheeya weligii
+wax ku beela qaabkaas
+waxa adag ka bowsadey
+isagaana badin kara.
+
+Shaashowdey bilicdii
+ban martoo la garan waa
+badhxantoo la maydhaan
+waxa lagu ballaysimay
+indho buuryo-goyseed.
+
+Buurrantu muuniyo
+barkhad kaydsan maahee
+barar taws ah weeyaan,
+bugtadiyo xanuunkuna
+haddaan baadhay waa ciil.
+
+Bahalow Shabeelow
+hooy bara baraalow
+waaryaa nin buureed
+bulshu waxay ku leedahay,
+beri waxan ogsoonaa
+adigoon ka soo bixin
+casha boholaheedoo
+dhirta baaxad-weynta ah
+baarkeeda seexdee
+maqlay inad bannaanniyo
+timi badhaha hawdkoo
+bulbullow libaaxii
+boqortooyadiisii
+duhur ugu badheedhoo
+burjigii ka furatoo
+bili qaadi weydee,
+beelahan agtaadaan
+kaa soo bariidshoo
+budulkay la soo galay
 barkintaad ku jiiftee
 waxba baadi xoolaad
-beryahaas ma kulanteen? ; Z yet pais
-waaryaa nin buureed
-Bahalow Shabeelow bulsho waxay ku leedahay,
-hoy bara baraalow badda iyo nafleydii |
-waaryaa nin buureed balliyada ku noolayd
-bulsho waxay ku leedahay, bogan waaye jiifkoo
-Beri waxan ogsoonaa wadnahaa babbanayoo
-adigoon baruurtiyo beerka legdamayee
-cunin bulad Ammaankoo xaggay bayr ka yeesheen
-riyahaaga baadhee biyahana ma joogtaa ?
-bishan iyo bisheedii
-pode! yo tag baa magan Bahalow shabeelow
-wanankii Ba Ceeblee hoy bara baraalow
-badhi iyo leg goormaa waaryaa nin bureed
-boholyowgu kuu galay? bulsho waxay ku leedahay,
-Balse waxa la yaab dhalay maxaa haadda buubtiyo
-nin barwaago haystoo bagayaha daruuraha
-ka engegan badhaadhee balwadiisu noqoteen
-bishmahaagu Caarrow'4 wax la baratamaa jirin
-maxay kuu basaaseen ama booddo lagu qaban
-ma buskaad is-marisaa? baqdintaada awgeed
-| bogga uga qadhqadhayaan
-Bahalow Shabeelow miyaad baalal leedahay ?
+beryahaas ma kulanteen?
+
+Bahalow Shabeelow
 hoy bara baraalow
-waaryaa nin buureed | Bahalow shabeelow
-bulsho waxay ku leedahay, hoy bara baraalow
-| dadka baylahdiisiyo waaryaa nin bureed
-i baloolleyda tebiska ah bulsho waxay ku leedahay,
-koromada berdaa-le’eg Bari iyo Galbeedow
-iyo dibida beyga leh haddaad baahdey aashaa
-‘ barbarriiji weligaa galwo bogox ku leedahay
-i farab tarab u bogon goo bidixdana ku furan tahay
-h isku biirso liqanyada midigtana badhkaa yaal
-isku baano yeelkaa; nin bogol ku tala-galay
-‘ 14 Caarrow: Waxa loo jeedaa Maxamed Siyaal Barre. dhankee kaaga b aydhaa ?
+waaryaa nin buureed
+bulsho waxay ku leedahay,
+Beri waxan ogsoonaa
+adigoon baruurtiyo
+cunin bulad Ammaankoo
+riyahaaga baadhee
+bishan iyo bisheedii
+boqol iyo lag baa maqan
+wanankii Ba Ceeblee
+badhi iyo leg goormaa
+boholyowgu kuu galay?
+Balse waxa la yaab dhalay
+nin barwaaqo haystoo
+ka engegan badhaadhee
+bishmahaagu Caarrow
+maxay kuu basaaseen
+ma buskaad is-marisaa?
 
-Dhinaceed u badan tahay ? De
-Barbarkee ka maqan tahay ? Waxa laga bislaystiyo |
-badarkeedu dhimashiyo
-Bismillaahi yaahuu- baga iyo ku digashiyo
-yaahuu ma busaarad dhegalaa ?
-Degelyohow bar-kuma -taal
-bulsho waxay ku leedahay Bahalow shebeelow
-Bisiq iyo xangey iyo hoy bara baraalow
-Banji iyo dharkayn iyo waaryaa nin buureed
-Bilcilkaaga hawliyo bulsho waxay ku leedahay,
-dhirta boocda mooyee beryahaagan ka horow
-tolow baad la daagiyo bahda habar-dugaag yahay
-miyaan cawsna kaa bixin ? marka ay biciidkiyo |
-| koran buuran loogtaan,
-| inta boodhku qartyaa
-| Degelyahow bar-kuma-taal waxba yay A etl
-bulsho waxay ku leedahay helin bawdo hiliblee
-beertaadu hoog iyo kolay biixii ruugaan
-; pace ine ae tyo mania ERAN agi
-y win iyo sluhu is-boobaan
-badso iyo oHtiraath iyo a afi ka buux samay
-burso iyo khiyaaniyo wax ka bililiqgaystaan
-il ae anges Me angi jirin
-a godoDtlyo raqda baatlaneedlyo
-bogon goynta nabaddiyo badka kama magqnaan jirin
-a Meal eye san tat Budalleneel P
-1a asaydiyo u bakhtiday ag-taadit .
-| cabsi iyo ma oe baa ? a
-' BT ee) Burrusow Dameerow
-tyaheedu dhiig iyo biyo-ceel ma keenow
-xinjir bururinteediyo hadba dhaan ku biirow
-ma baroorta dumarkaa ? beelaha aroorka ah
-iska daba boqoolow
-Balka iyo sabuulkuna bulsho waxay ku leedahay
-. ma banbaane ololiyo geela baadi soocdiyo
-| waran tyo billaawiyo bisha iyo hare edkiyo
-; baaruudda huguntiyo sumaddiyo birqaabka leh
-Wl birta lagu idlaa se boodaanta wada xidhan
-q meeyey baarqabkiisit
-B baqal looma tu’tyee
-i Hone hee oe iyo yaa baacso kugu yidhi ?
-i ma soofaa ?
-iI
+Bahalow Shabeelow
+hoy bara baraalow
+waaryaa nin buureed
+bulsho waxay ku leedahay,
+dadka baylahdiisiyo
+baloolleyda tebiska ah
+koromada berdaa-le'eg
+iyo dibida beyga leh
+barbarriiji weligaa
+tarab tarab u boqon goo
+isku biirso liqanyada
+isku baano yeelkaa;
+balse waxa la yaab dhalay
+barta aad ku qalatiyo
+baradaada caydha ah
+raqi kama bidhaantee
+ma laftaad burburisaa.
 
-Bahalow shabeelow teat
-hoy bara baraalow | bulsho be he leedahay, |
-waaryaa nin bureed aafaadka buubaa |
-bulsho waxay ku leedahay, intuu buulal soo gubey
-bilahaaga jiilaal ama burunji xaabsaday
-in berdaan-is-celisiyo ama buun ku tumay reer
-a aioe ‘pibuay astalegD
-wax Kalaa ku biiree ama
-adoo baaqday dhawr jeer Bacalluul,is-weydii.
-ka eee shinkaagii Adaaiberisamaadiiye
-misna bixitinkaagiyo a
+Bahalow Shabeelow
+hoy bara baraalow
+waaryaa nin buureed
+bulsho waxay ku leedahay,
+badda iyo nafleydii
+balliyada ku noolayd
+bogan waaye jiifkoo
+wadnahaa babbanayoo
+beerka legdamayee
+xaggay bayr ka yeesheen,
+biyahana ma joogtaa?
 
-B pa eee inaaaant Fe ae €
-ala baab fogaadoo ie
-adigiyo bax.
-
-| onane eee eu dad bayaafka kuma lumin?
-haddaad ti bushaareyn Haddaad baaji leedahay
-fie a bataaad ea basan baaska ku hor yimi
-
-; Me gee GH AGh trey barbarkaaga mooyee
-
-igu badawsanaysoo baro uu ku laabtoo
-ballankaagu weli yahay pate “yf
-ta rah ae MEIER) galladuu burburiyiyo
-tee ac i Wie “ ku og-yahay wax baaqsaday
-URUU DUKeedoo miyay beeshu leedahay?
-barashaa ku filan quus.
-Baryo-nacasle maalmahan
-aaca waay ;
-Bani Aadmi ca sep subax nool beddelashada
-baahida ma dheregtada shil barbaaray noqgotoo
-iyo boogta keli talis malaa waad u baahnayd
-bir afaysan mooyee inaad sii badbaaddee
-wax bogsiiya lama arag. belo laba qaddaan jirin!
 Bahalow shabeelow
-Dadku inu baraarugey hooy bara baraalow
-i birmadkana isku og-yahay waaryaa nin buureed
-. baqdintiina laga Koray bulsho waxay ku leedahay,
-r bullashada Hargeysiyo haddaad geesi ba’an tahay
-i baaqaad ka garataa. bara-dheer asaaggit
-boolaystay keligii
-3 Bahal buro iyo dakano qaba
-4 joer ec aa godobtiisu badan tahay
-waaryaa nin me oy marka buuro daataan
-| uureed badda mawjaddeediyo
+hoy bara baraalow
+waaryaa nin buureed
+bulsho waxay ku leedahay,
+maxaa haadda buubtiyo
+baqayaha daruuraha
+balwadiisu noqoteen
+wax la baratamaa jirin
+ama booddo lagu qaban
+baqdintaada awgeed
+bogga uga qadhqadhayaan
+miyaad baalal leedahay?
 
-| vs
-duufaan is-beegsaday i)
-is-baxaalli jiidhaan AALA .
-umal biiray sara-kaco D CAN
-lama baraq-nuglaadee Mada’ furin ogaalka
-Shae ee a xaska dabada maan gelin
-LAG hs Ge ay derejada ilhaamkiyo
-Ha ka boodin doontee WBaaii dal A
-cosy A tibadii dalaysnay.
-horta yeedht bigittada. uma dhiibin duuduub
-weli dalawadaydii
-Haddaad baaci leedahay doobigeedi may dhimin
-wiyil furatay baydaha dib u dhigasho mooyee
-biimayntu xoogaad wax is doorshey may dhicin. |
-ban-dhigayso maahee Afartaa xan durugtiyo
-meel looga baydhiyo danni jira wax sheegii.
+Bahalow shabeelow
+hoy bara baraalow
+waaryaa nin buureed
+bulsho waxay ku leedahay,
+Bari iyo Galbeedow
+haddaad baahdey aashaa
+qalwo bogox ku leedahay
+bidixdana ku furan tahay
+midigtana badhkaa yaal
+nin boqol ku tala-galay
+dhankee kaaga baydhaa?
+
+Dhinaceed u badan tahay ?
+Barbarkee ka maqan tahay ?
+
+Bismillaahi yaahuu-
+
+Degelyohow bar-kuma -taal
+bulsho waxay ku leedahay
+Bisiq iyo xangey iyo
+Banji iyo dharkayn iyo
+Bilcilkaaga hawliyo
+dhirta boocda mooyee
+tolow baad la daaqiyo
+miyaan cawsna kaa bixin ?
+
+Degelyohow bar-kuma-taal
+bulsho waxay ku leedahay
+beertaadu hoog iyo
+bacad iyo habaas iyo
+bacow iyo qaniin iyo
+badso iyo shirqool iyo
+burso iyo khiyaaniyo
+beeraadka samihiyo
+u buseelka godobtiyo
+boqon goynta nabaddiyo
+booraanta jarankiyo
+boholaha asaydiyyo
+cabsi iyo ma been baa ?
+
+Biyaheedu dhiig iyo
+xinjir bururinteediyo
+ma baroorta dumarkaa ?
+
+Balka iyo sabuulkuna
+ma banbaane ololiyo
+waran iyo billaawiyo
+baaruudda huguntiyo
+birta lagu idlaadaa ?
+
+Baaq baaqu daab iyo
+bishil iyo ma soofaa ?
+
+Waxa laga bislaystiyo
+badarkeedu dhimashiyo
+baga iyo ku digashiyo
+ma busaarad dhegalaa ?
+
+Bahalow shebeelow
+hoy bara baraalow
+waaryaa nin buureed
+bulsho waxay ku leedahay,
+beryahaagan ka horow
+bahda habar-dugaag yahay
+marka ay biciidkiyo
+coran buuran loogtaan,
+inta boodhku qariyaa
+waxba yay badhkoodiyo
+helin bawdo hilib lee
+kolay biixii ruugaan
+marka biidhi-qaatiyo
+qawluhu is-boobaan
+mid afkii ka buux samay
+wax ka bililiqaystaan
+badanaa ma qadi jirin
+raqda baallaheediyo
+badka kama maqnaan jirin
+saw tan Buulalleydii
+ku bakhtiday ag-taadii .
+
+Burrusow Dameerow
+biyo-ceel ma keenow
+hadba dhaan ku biirow
+beelaha aroorka ah
+iska daba boqoolow
+bulsho waxay ku leedahay
+geela baadi soocdiyo
+bisha iyo hareedkiyo
+sumaddiyo birqaabka leh
+boodaanta wada xidhan
+meeyey baarqaabkiisii
+baqal looma tu'iyee
+yaa baacso kugu yidhi ?
+
+Bahalow shabeelow
+hoy bara baraalow
+waaryaa nin buureed
+bulsho waxay ku leedahay,
+bilahaaga jiilaal
+in berdaan-is-celisiyo
+boqol iyo labiyo laba
+wax kalaa ku biiree
+adoo baaqday dhawr jeer
+ka bursaday shinkaagii
+misna bixitinkaagiyo
+is ballaadhintaadani
+kala baab fogaadoo
+iyagaa is buriyoo
+adigiyo baxnaanadu
+igu bayda furatee
+haddaad ii bushaareyn
+ama baanahaagii
+bacarida ahaan jirey
+igu badawsanaysoo
+ballankaagu weli yahay
+berritiyo is araggeen
+horaan kuu bilkeedoo
+barashaa ku filan quus.
+
+Siday buugag sheegeen
+intii baaca waayaha
+Bani Aadmi soo jirey
+baahida ma dheregtada
+iyo boogta keli talis
+bir afaysan mooyee
+wax bogsiiya lama arag.
+
+Dadku inu baraarugey
+birmadkana isku og-yahay
+baqdintiina laga koray
+bullashada Hargeysiyo
+baaqaad ka garataa.
+
+Bahalow shabeelow
+hooy bara baraalow
+waaryaa nin buureed
+bulsho waxay ku leedahay,
+aafaadka buubaa
+intuu buulal soo gubey
+ama burunji xaabsaday
+ama buun ku tumay reer
+baashaal iskaga jira
+ama baday asaaggaa
+Bacalluul,is-weydii.
+
+Adaa beri-samaadkiyo
+berrinsadey ladnaantee
+ilaa barashadaadii
+ba'u sow ma taagneyn?
+Adigoo bedqaba sow
+dad bayaafka kuma lumin?
+
+Haddaad baaji leedahay
+basan baaska ku hor yimi
+barbarkaaga mooyee
+baro uu ku laabtoo
+galladuu burburiyiyo
+ku og-yahay wax baaqsaday
+miyay beeshu leedahay?
+
+Baryo-nacasle maalmahan
+bunka waxad u dubataa
+wed inaad ka baridoo
+subax nool beddelashada
+shil barbaaray noqotoo
+malaa waad u baahnayd
+inaad sii badbaaddee
+belo laba qaddaan jirin!
+
+Bahalow shabeelow
+hooy bara baraalow
+waaryaa nin buureed
+bulsho waxay ku leedahay,
+haddaad geesi ba'an tahay
+bara-dheer asaaggii
+boolaystay keligii
+buro iyo dakano qaba
+godobtiisu badan tahay
+marka buuro daataan
+badda mawjaddeediyo
+duufaan is-beegsaday
+is-baxaalli jiidhaan
+umal biiray sara-kaco
+lama baraq-nuglaadee
+burddayohow cabbanidaa
+burjigiyo kulkii mee?
+Ha ka boodin doontee
+horta yeedhi bigillada.
+
+Haddaad baaci leedahay
+wiyil furatay baydaha
+biimayntu xoogaad
+ban-dhigayso maahee
+meel looga baydhiyo
 waxan jirin bannaan furan.
+
+Dab ku kacay shin buuxsamey
+isna lama bakhtiin karo,
+indho bururay talo ma leh,
+bixisana ka hadal ma leh,
+nin is-bidayba soo liic,
+inkastay buruudkii
+Baaweeye yeeshaan
+boqorrana hungo u daa.
+
+Weligaaba bood bood
+Bullo iyo Wilwilo tumo
+bulxankana is-moodsii
+inad tahay badraan nool
+dhinacayga Baabbow
+beri hore jiraad tahay.
+
+Haddaan been la sheegayn
+runta lagu bakhaylayn
+burburkaaga kama nixin
+bud-dhiggaaga ruuxii
+wax-ku-beelay yeelkiis,
+bulshadiyo dadweynaha
+is-bogaadin mooyee
+kuma lihid baroor-diiq
+biya raro nin jeedow.
+
+### DAALACAN
+
+Ma da' furin ogaalkay
+xaska dabada maan gelin
+derejada ilhaamkiyo
+hibadii dalaysnayd
+uma dhiibin duuduub
+weli dalawadaydii
+doobigeedi may dhimin
+dib u dhigasho mooyee
+wax is doorshey may dhicin.
+Afartaa xan durugtiyo
+danni jira wax sheegii.
+
 Rag hadduu dagaal galo
-Dab ku kacay shin buuxsamey danta guud xilkeediyo
-isna lama bakhtiin karo, u dareero fuullaan
-) indho bururay talo ma leh, ashkir deeddan badiyaan
-bixisana ka hadal ma leh, xakamaha la doontaa
-nin is-bidayba soo liic, duullaanka kama hadho.
-inkastay buruudkii Gaarriyow duggaalkiyo
-Baaweeye* yeeshaan shaxda damalka taallee
-bogorrana hungo u daa. daawashiyo ciyaarba leh
+danta guud xilkeediyo
+u dareero fuullaan
+ashkir deeddan badiyaan
+xakamaha la doontaa
+duullaanka kama hadho.
+Gaarriyow duggaalkiyo
+shaxda damalka taallee
+daawashiyo ciyaarba leh
 sir ma qabe ku diirsaday
 aniguna hog baan degey.
-Weltgaaba bood bood gb waa di gteedee
-Bullo* iyo Wilwilo*tumo / eallab
-bulxankana is-moodsii Deelleydu waa laba.
-inad tahay badraan nool
-dhinacayga Baabbow Afartaasi waa duud
-beri hore jiraad tahay. arrin wadata diirkeed
+digba waa digteedee
+Deelleydu waa laba.
+
+Afartaasi waa duud
+arrin wadata diirkeed
 dulmar gabaygu leeyahay.
-Haddaan been la sheegayn
-1 runta lagu bakhaylayn Marka dooddu kulushahay
-| burburkaaga kama nixin daldaloollo muuqdaan
-bud-dhiggaaga ruuxii doogaha qabiilkiyo
-, wax-ku-beelay yeelkiis, dacar iyo ladh soo kaco
-bulshadiyo dadweynaha nabarradu dillaacaan
-is-bogaadin mooyee dadku kala qaloodaan
-kuma lihid baroor-diiq marka dhidar ku daaddego
-i biya raro nin jeedow. booraan dahsoono
-i hilbo laga diqoodoo
 
-damac beelay yaalliin . ti |
-dabadeedna uuskiyo anigaa dabkow sida
-duufkiyo xumaystii daljirkeedi baan ahay.
+Marka dooddu kulushahay
+daldaloollo muuqdaan
+doogaha qabiilkiyo
+dacar iyo ladh soo kaco
+nabarradu dillaacaan
+dadku kala qaloodaan
+marka dhidar ku daaddego
+booraan dahsoono
+hilbo laga diqoodoo
+damac beelay yaalliin
+dabadeedna uuskiyo
+duufkiyo xumaystii
 dibadda ula soo baxo
-dadku shaamareeraan Ninka xagal ka daac iyo
-neecaw delleganoo gol daloolo iga hela
-doorsoontay uriyaan isagiyo digtoonkit
-waxan ahay dareenkii anigiyo dagnaantay
-nogon jirey daruurtee taariikhdu duuggeed
-sida roobka di’i jirey diiwaanka qarankiyo
-dalka wada dhammaypn jirey. wixii deyn cad ti qoran
+dadku shaamareeraan
+neecaw delleganoo
+doorsoontay uriyaan
+waxan ahay dareenkii
+noqon jirey daruurtee
+sida roobka di'i jirey
+dalka wada dhammeyn jirey.
 
-dirirtiyo rogaalkay.
-In dhaweyto daaf iyo |
-cudur daansho socodoo Dahabka iyo maadhkiyo
-duulduulay baa jirey lacag aan dur wadannoo
-daacuunse maahee laba daabac sidatiyo
-asal tiro ma doorshuhu dalagga iyo beeraha
-dureygey abuureen dacallada Shabeelliyo
-
-ma ogtahay nin doorkiyo webiyada dugsanayee
-
-inta neceb dirsoocee dambarsada labeentee
-derejeysa garankiyo diriradu habaaskiyo
-durdurrada aqoontiyo dusha sare ka maydhaan
-galinkiyo dawaaddiyo daaraha casuustiyo
-Deelleyda curatiyo kolba midab la doortiyo
-innagaa ka daba tegi diibka lagu marriimee
-durbaankay tuntumayaan shanta Daatsan yaalliin
-dawankaynu sidannaa hanti aan dal dheer iyo
-sida danab u baabi’in. laga keenin dibadaha
-Dugsadaha gabiilkiyo karti iyo dedaal iyo
-dib ka naaxa shaac baxay dardar lagula soo bixin
-digo-rogashadeennii duullaana loo gelin
-iyo dawladnimadii duco waalid soo hoyn
-dib inay u celiyaan carshigana ka soo degin
-qorshahayga kuma darin. deeqdaas la yaabka leh
-if Nin kastaa ha duudsiyo ninka weel darsanayee
-ama dala’si haw xado digashada saboolkiyo
-ama duurka haw xulo ku darsaday badheedhaha
-q ama dabino haw xidho miyaan eedi daba ool ?
-| ama duhur ha weeraro Godobtiisu dedanaa.
+In dhaweyto daaf iyo
+cudur daansho socodoo
+duulduulay baa jirey
+daacuunse maahee
+asal tiro ma doorshuhu
+dureygey abuureen
+ma ogtahay nin doorkiyo
+inta neceb dirsoocee
+derejeysa qarankiyo
+durdurrada aqoontiyo
+qalinkiyo dawaaddiyo
+Deelleyda curatiyo
+innagaa ka daba tegi
+durbaankay tuntumayaan
+dawankaynu sidannaa
+sida danab u baabi'in.
+Dugsadaha qabiilkiyo
+dib ka naaxa shaac baxay
+digo-rogashadeennii
+iyo dawladnimadii
+dib inay u celiyaan
+qorshahayga kuma darin.
+Nin kastaa ha duudsiyo
+ama dala'si haw xado
+ama duurka haw xulo
+ama dabino haw xidho
+ama duhur ha weeraro
 ama damac ha dhaafsado
-gobannimadu waa degel Bulshadeennu waa duul
-| ie ax lyo iftiin nool daacad iyo xishood badan
-: um mayso weligeed dun xariira weeyaan
+gobannimadu waa degel
+dayax iyo iftiin nool
+dumi mayso weligeed
+anigaa dabkow sida
+daljirkeedi baan ahay.
 
-— _-
-qofna uma darraadaan tae
-dar Allay ku dhagantaa doorkan maanta soo baxay |
-dareen waw dhegweyn tahay waxa yaal daldalayaan |
-ogow dogonse maahee. danyartiyo saboolkuna
-ninka maamul dalabliyo diingaraaro jiifaan
-dabbaal joogto hoosiyo dadku kala sarreeyaan
-dibindaabyo ugu magan in gabiilku dabar go’o
-degdeg uma tilmaamaan ama dumo ha eegina.
-nabar kulama duulaan Cilmi diiddan baa jira.
+Ninka xagal ka daac iyo
+gol daloolo iga hela
+isagiyo digtoonkii
+anigiyo dagnaantay
+taariikhdu duuggeed
+diiwaanka qarankiyo
+wixii deyn cad ii qoran
+dirirtiyo rogaalkay.
+
+Dahabka iyo maadhkiyo
+lacag aan dur wadannoo
+laba daabac sidatiyo
+dalagga iyo beeraha
+dacallada Shabeelliyo
+webiyada dugsanayee
+dambarsada labeentee
+diriradu habaaskiyo
+dusha sare ka maydhaan
+daaraha casuustiyo
+kolba midab la doortiyo
+diibka lagu marriimee
+shanta Daatsan yaalliin
+hanti aan dal dheer iyo
+laga keenin dibadaha
+karti iyo dedaal iyo
+dardar lagula soo bixin
+duullaana loo gelin
+duco waalid soo hoyn
+carshigana ka soo degin
+deeqdaas la yaabka leh
+ninka weel darsanayee
+digashada saboolkiyo
+ku darsaday badheedhaha
+miyaan eedi daba ool?
+Godobtiisu dedanaa.
+
+Bulshadeennu waa duul
+daacad iyo xishood badan
+dun xariira weeyaanqofna uma darraadaan
+
+dar Allay ku dhaqantaa
+dareen waw dhegweyn tahay
+ogow doqonse maahee.
+ninka maamul dalabliyo
+dabbaal joogto hoosiyo
+dibindaabyo ugu magan
+degdeg uma tilmaamaan
+nabar kulama duulaan
 dib bay ugu muddeysaa
-HE UISUSHMGWIKaVa. Deegaanta noloshiyo
-darantiyo samaantana
-Afartaa dun quruxliyo ninkii doonayow taas |
-diillimaha biciidkiyo daw loo maraa jira. |
-dildillaha farshaxankiyo
-sida delebka maw dhigay Ummadyahay daryeelkaa
-mid kalaase ie dihin isku duubnidaadiyo
-weli dooddu ii furan. madax daacad nogotiyo
-adigiyo dedaalkaa
-Maansadan dabayshiyo dawadaadu waa taas
-duufaan sidiisii dhan hadday ka debecdana
-dalandool u socotee gabbalkaa dam weeyaan
-dalladdii qabiilkiyo ma dardaaran baa hadhay ?
-xidhan waranki deylaa Deexashada tusaalaha
-laga furay daboolkee ama talada deeqda ah
-lagu gado dukaannada miyaad dood ka leedahay ?
-miyaan xeer dabbaaliyo
-sharci laba dibleeyiyo Geenyadaydi Daalacan
-| dar u qaybsan loo hayn ? dabar saari maayee
-Tolow daaya yaa yidhi ? dibso aan idhaahdoo
-Duumadan xanuunka leh dagagaro ayaamee
-kuwa luuqda daba dhigay sumalkii darbane mee ?
-dembi miyaanu qabanayn ? Dalandaaliska naylaha
-doonnanteenna bogorka leh
-Pe Dulucdiyo uj Deelleyda baaqa ah
-ee” dices darka laaska beesh iyo
-| duxda hadalku waa hee:- duunyadu isugu timid
-i Inta gaajo doob tah ay ; dalbashada wadaantiyo
-. derbi tahay laxaad weyn adaa doojinteediyo
-dufan jecesha ururtiyo haya dawliskeedoo —
-7 dabatadu sed roon taha ' dunqulaalka xanankiyo
-i dibna leefta tarantee y dogobta iyo ruuddiyo
-| waxaad tahay bir daaqgeen
+dulmigiisu waw kayd.
 
-ardadiisa dooddiyo (|
-deeqsiiya hadalkee |
-sangahaagi Doolaal pHAHAR
-mar lab
-majara re ki We Dhamme Maxamed Xaashow
-sheekadu ha durugtee Ina Xaashi Dhamacow
-dawi Maxamed Xaashow. ae ebine
-ninka ila dhadhamiyow
-Aniguna ku dayashada jiilaalku dheeraa
-haddaan dayro kaa dhigo dhulka xaabki ka idlaa
-anaa daawadii furay, dhalma deys cirkii noqoy
-waynoo dantaas guud dabka dherigi saarraa
-deelka xeel la’aaneed dhagxantii bislayn waa
-carrab dalab la’aaneed. inkastoo dhir xoogliyo |
-| dhamac yaab leh lagu shiday
-| ma dhadhaab nuglaadoo
-sida dhaylo suulkiyo
-lagu goosto dhooshoo
-hilib laga dhishaa jira.
+Afartaa dun quruxliyo
+diillimaha biciidkiyo
+dildillaha farshaxankiyo
+sida delebka maw dhigay
+mid kalaase ii dihin
+
+weli dooddu i furan.
+
+Maansadan dabayshiyo
+duufaan sidiisii
+dalandool u socotee
+dalladdii qabiilkiyo
+xidhan waranki deylaa
+laga furay daboolkee
+lagu gado dukaannada
+miyaan xeer dabbaaliyo
+sharci laba dibleeyiyo
+dar u qaybsan loo hayn ?
+Tolow daaya yaa yidhi ?
+Duumadan xanuunka lek
+kuwa luuqda daba dhigay
+dembi miyaanu qabanayn ?
+
+Dulucdiyo ujeeddada
+runta aan u daadego
+duxda hadalku waa hee-
+Inta gaajo doob tahay
+derbi tahay laxaad weyn
+dufan jecesha ururtiyo
+dabatadu sed roon tahay
+dibna leefta tarantee
+
+doorkan maanta soo baxay
+waxa yaal daldalayaan
+danyartiyo saboolkuna
+diingaraaro jiifaan
+
+dadku kala sarreeyaan
+
+in qabiilku dabar go'o
+ama dumo ha eegina.
+Cilmi diiddan baa jira.
+
+Deegaanta noloshiyo
+
+Deeqaanta noloshiyo
+darantiyo samaantana
+ninkii doonayow taas
+daw loo maraa jira.
+
+Ummadyahay daryeelkaa
+isku duubnidaadiyo
+
+madax daacad noqotiyo
+adigiyo dedaalkaa
+dawadaadu waa taas
+
+dhan hadday ka debecdana
+gabbalkaa dam weeyaan
+ma dardaaran baa hadhay ?
+Deexashada tusaalaha
+ama talada deeqda ah
+miyaad dood ka leedahay ?
+
+Geenyadaydi Daalacan
+dabar saari maayee
+
+dibso aan idhaahdoo
+dagagaro ayaamee
+sumalkii darbane mee ?
+Dalandaaliska naylaha
+doonnanteenna bogorka leh
+Deelleyda baaga ah
+darka laaska beeshiyo
+duunyadu isugu timid
+dalbashada wadaantiyo
+adaa doojinteediyo
+
+haya dawliskeedoo
+dunqulaalka xanankiyo
+dogobta iyo ruuddiyo
+waxaad tahay bir daaqgeen
+
+ardadiisa dooddiyo
+deeqsiiya hadalkee
+sangahaagi Doolaal
+mar labaad ha dananee
+majaraha u sii daa
+sheekadu ha durugtee
+dawi Maxamed Xaashow.
+
+Aniguna ku dayashada
+haddaan dayro kaa dhigo
+anaa daawadii furay,
+waynoo dantaas guud
+deelka xeel la'aaneed
+carrab dalab la'aaneed.
+
+### DHAHAR
+
 Dhamme Maxamed Xaashow
 Ina Xaashi Dhamacow
-Dhahar waa ninkiisit
+dhaadmada dareenkiyo
+dacdada iyo waayaha
+
+ninka ila dhadhamiyow
+
+jiilaalku dheeraa
+
+dhulka xaabki ka idlaa
+dhalma deys cirkii noqoy
+dabka dherigi saarraa
+dhagxantii bislayn waa
+inkastoo dhir xoogliyo
+dhamac yaab leh lagu shiday
+ma dhadhaab nuglaadoo
+sida dhaylo suulkiyo
+
+lagu goosto dhooshoo
+
+hilib laga dhishaa jira.
+
+Dhamme Maxamed Xaashow
+Ina Xaashi Dhamacow
+Dhahar waa ninkiisii
 garashadu dhibtiisiyo
 dhaawaciisa weeyaan
 dhalanteedka beentiyo
 dhaymihiisu waa faan
+
 shilka dhacay ma moogee
-. isagiyo dhangalantada
-| dhacantaa u kala rogan.
-Wuxu yidhi ’dhibaa jira
+isagiyo dhanqalantada
+dhacantaa u kala rogan.
+
+Wuxu yidhi “dhibaa jira
 dadku baahi dhigatoo
-lafahooda dhuuxdiyo
-st dhugatay la jiifaan
+lafahooda dhuuxdivo
+dhugatay la jiifaan
+
 arrin aan dhegeystoo
 i dhacaysa maahee,
-a waxa aad dhafoorkiyo
-a dhabannada la haysaan
-magqashay ka dhegalee,
-{ hadday tahay dhaqaaliyo
-. hadday tahay dhismaa guud
+
+waxa aad dhafoorkiyo
+dhabannada la haysaan
+maqashay ka dhegalee,
+hadday tahay dhaqaaliyo
+hadday tahay dhismaa guud
 ka dardaarmay dhawr jeer,
 
-hadal kuma dhabcaalayn | toban saniyo dheeraad |
-dharaartiyo habeenkii | lagu dhurayey ctilkoo
-dhawaaqaygu ma hakado | lugtu jeeni dhaaftee
-waxaa weliba ti dheer | dhaadashadu ma sugantahay
-dhanbaalkiyo wareegtadu | dhumuc iyo ma xoog baa?
+hadal kuma dhabcaalayn
+dharaartiyo habeenkii
+dhawaagaygu ma hakado
+waxaa weliba ii dheer
+dhanbaalkiyo wareegtadu
 weligood is-may dhimin.
-Dhillowyahankan geedkii
-Anaa guusha dhaliyee lagu beeray dhiiggiyo
-dadka wada dhergaan idhi dheecaanka wadhatada
-waxa hadha dhigtaan idhi dhexda tolow iskaga maray
-dhadig iyo lab waan simay dhirta maw abtiriyaa
-dhux-dhux iyo faq hoosiyo sida dhalashadeediyo
-dhagar qabe ha joogee dhaqankeedu kala yahay? |
-weli ruux dhammaysoo Mise wuxuu ka dhigan yahay
-i dhalliila maan arag. habartii mar dhooftee
-Dhugashada kormeerkiyo doonnidu la dhacantee
-dhaabaddiyo fagaaraha badda dheelligeediyo
-dadku sacab is-dhaafiyo dhaxantiyo dabaylaha
-dhag-dhag iyo mashxarad bay dhawawalan ka qaaddee
-' igu soo dhoweeyaan. iyadooy dhaqaaliyo
-Dhan kastaba magaalada nafba kala dhaqaaqeen
-inta ay sar dheer iyo ka dib dhawr ayaamood
-dhabbo iyo jid leedahay salka dhigatay ciiddee
-waxa dheeh farshaxan iyo dhulow kaama kaco tidhi.
-sawir wada dhalaaliyo
-DaxaueWcneanyaan Dhamme Maxamed Xaashow
-dhaayihiinnu ha arkaan. Tra aa chi Dhamacow
-cashaday dhaharatee
-Dhug u yeesha maansada geelu dhimo hadhuubkee
-dhubbad-qaadka heesaha dhaqayiyo galoof yahay
-abwaan dhaartay suu yidhi rag ka dhoofa baa jira.
-“miyaa ruux i dhaamoo
-lay dhaafsho haysaan ? Dhamac iyo hannaan tyo
-z :; saddex dhaqan wadaagtoo
-; Dhallinyariyo waayeel isu dheelli-tirantaa
-| dhabba aan u hadallee dhuuni lagu bislaystaa
-haddaan dhigo xilkaan sido Gaarriyow dhardhaarrada
-M yaa u dhiibanaysaan” ? kol haddii mid laga dhigo
-| rag dhuyaala baa jira.
-ft Dhamme Maxamed Xaashow
-! Ina Xaashi Dhamacow Maalintay dhanaan tahay
-, kolley buuxsan dhiilkii rag dhirbaaxo quudheed
 
-- ws
-inta ay ku dhaashtaan | Kol hadduu poet
-xiddigaha is-dhalan roga | Diogita maga nan OOe
-u dhufaanan baa jira. | ee y dhaqan-galkiisii
-sheekadu Dheg Dheer iyo
-Inta qaran dhisktisiyo dhoor-daalis nogotee
-dhidibkiisu taagnaa Gaarriyow dhammaadkiyo
-dheeraad nin dooniyo halka ay ka dhowdahay
-nin ku dhega xaqiisoo dhakhso mawgu gudubnaa.
-dhacsanaayey baa Jirey.
-Bulbullahan dhabbacashada
-Dhederbiga colaaddiyo ku madhsaday dhallaankii, |
-rag hadduu dhabiiltamo lafta dhabarka ka habsadey |
-fule dhimashadiisaa waayuhu dhirbaaxeen
-dhawr jeer noqnogotee dhaadhaada taahiyo
-wax la yidhi dharaartaas dhuun-yeedhis mooyee
-ninka dhiirran geeridu “aa tile wiamandiita
-Bae ay iaanalatee beri buu dhinbiil iyo
-hasha dhaxal-wareegtiyo dhuxul daba ka kululaa
-dheeha furashadeedana weli lagaga dhawrsado
-keligeen dhunkaashiyo xaajadu ha dhabaqdee
-higta caara dhuubtiyo dhabba maw abbaarnaa
-dhugtan kuma go’aynee dadka dhiillo culus iyo
-haddti laysu jilib dhigo dhakafaar ma gelinaa
-kumanyaal dhigeenoo wedka maw dhadhaminaa
-waxba dhawrsanaynoo dhagar maw badheedhnaa ?
+Anaa guusha dhaliyee
+dadka wada dhergaan idhi
+waxa hadha dhigtaan idhi
+dhadig iyo lab waan simay
+dhux-dhux iyo fag hoosiyo
+dhagar gabe ha joogee
+weli ruux dhammaysoo
+
+i dhallitla maan arag.
+Dhugashada kormeerkiyo
+dhaabaddiyo fagaaraha
+dadku sacab is-dhaafiyo
+
+dhag-dhag iyo mashxarad bay
+
+igu soo dhoweeyaan.
+Dhan kastaba magaalada
+inta ay sar dheer iyo
+dhabbo iyo jid leedahay
+waxa dheeh farshaxan iyo
+sawir wada dhalaaliyo
+waxa iigu dhigan faan
+dhaayihiinnu ha arkaan.
+
+Dhug u yeesha maansada
+dhubbad-gaadka heesaha
+abwaan dhaartay suu yidhi
+miyaa ruux i dhaamoo
+lay dhaafsho haysaan ?”
+
+“Dhallinyariyo waayeel
+dhabba aan u hadallee
+haddaan dhigo xilkaan sido
+Yaa u dhiibanaysaan” ?
+
+Dhamme Maxamed Xaashow
+Ina Xaashi Dhamacow
+kolley buuxsan dhiilkii
+
+toban saniyo dheeraad
+
+lagu dhurayey ciilkoo
+
+lugtu jeeni dhaaftee
+dhaadashadu ma sugantahay
+dhumuc iyo ma xoog baa?
+
+Dhillowyahankan geedkii
+lagu beeray dhiiggiyo
+dheecaanka wadhatada
+dhexda tolow iskaga maray
+dhirta maw abtiriyaa
+
+sida dhalashadeediyo
+dhaqankeedu kala yahay?
+Mise wuxuu ka dhigan yahay
+habartii mar dhooftee
+doonnidu la dhacantee
+badda dheelligeediyo
+dhaxantiyo dabaylaha
+dhawawalan ka gaaddee
+iyadooy dhaqaaliyo
+
+nafba kala dhaqaaqeen
+
+ka dib dhawr ayaamood
+salka dhigatay ciiddee
+dhulow kaama kaco tidhi.
+
+Dhamme Maxamed Xaashow
+Ina Xaashi Dhamacow
+cashaday dhaharatee
+
+geelu dhimo hadhuubkee
+dhagayiyo galoof yahay
+
+rag ka dhoofa baa jira.
+
+Dhamac iyo hannaan iyo
+saddex dhaqan wadaagtoo
+isu dheelli-tirantaa
+
+dhuuni lagu bislaystaa
+Gaarriyow dhardhaarrada
+kol haddii mid laga dhigo
+rag dhuyaala baa jira.
+
+Maalintay dhanaan tahay
+rag dhirbaaxo guudheed
+
+inta ay ku dhaashtaan
+xiddigaha is-dhalan roga
+u dhufaanan baa jira.
+
+Inta qaran dhiskiisiyo
+dhidibkiisu taagnaa
+dheeraad nin dooniyo
+nin ku dhega xaqiisoo
+dhacsanaayey baa jirey.
+
+Dhederbiga colaaddiyo
+rag hadduu dhabiiltamo
+fule dhimashadiisaa
+dhawr jeer noqnoqotee
+wax la yidhi dharaartaas
+ninka dhiirran geeridu
+isagay la dhalatee
+
+hasha dhaxal-wareegtiyo
+dheeha furashadeedana
+keligeen dhunkaashiyo
+higta caara dhuubtiyo
+dhugtan kuma go'aynee
+haddii laysu jilib dhigo
+kumanyaal dhigeenoo
+waxba dhawrsanaynoo
 sida awrka dhaameel
-| dhoomuhu gubeenoo
+dhoomuhu gubeenoo
 dhibta kula wadaagoo
-| isu dhaarsan baa jira.
+isu dhaarsan baa jira.
+
 Dhamme Maxamed Xaashow
 ina Xaashi Dhamacow
 dhidarkuba xabaalaha
 kuma dhaadhaceenoo
-‘ kuma dhiirradeen ruux
+kuma dhiirradeen ruux
 celinkara dhawaaqee
-. kolkuu meydka dhiilliyo
-| dhaqdhaqaaq ka wayuu
-7. hore ugu dhowaadaa
-ff dhinacyadiyo feedhaha
-, muruqyada ka dheegtaa.
-i eee
+kolkuu meydka dhiilliyo
+dhaqdhaqaaq ka wayuu
+hore ugu dhowaadaa
+dhinacyadiyo feedhaha
+murugyada ka dheegtaa.
 
-6 aed i es
-| Bulshooy adigaa milga leh
-SHO ninkii boojimo ku yidhi
-BUL shalaad barataannu nidhi
-| luulida haw furfurin
-Talooy go’an baydahaa b COA
-xujooy taran bedenbedkaa bariidana kaama geyo.
-hawooy balaggaa furfuran _—
-sengow dhimey badalligaa Ninkii ballankaaga qaaday
-biddow camalkaa ku sheeg. ka baaqday xilkaad u dhiibtey
-ka baydhay ujeeddadaada
-ku boobay adoo sabool ah
-; Res banotidl: be ku wiirsadey baabba’aaga
-lirkaagiy SARAID
-ae Be taray huwadey bulbushii libaaxa
-Elie oh buruudkiyo shaashka qaatay
-align ore Dice iste. u boodey cirkaas dusheenna
-bilkeedey laboontidiisa
-Caroog kulul baa balwadey buurtuu koray waarin mayso
-babtiisti baa la naxay heddiisana baajin mayso
-dad baa isu soo bulladay kub iyo bawduu ka jabay.
-dhankee babbisadu jirtaa :
-mene ae sist we Shantaas umal fool bashiishtay
-balbalo u daboolan tahay’?. berdaanka xusuusta ii dheh.
-Bulshaale wed buu sidaa ae ; Se
-ee buu maaggan yahay bogeyga adaa huwadey :
-ey sa ns oer wadnaha adigaa barkaday
-gu kala negaa bishmaha adigaa furfura.
+Kol hadduu dhawaaqii
+dhicisoobey gabaygii
+dheg-ka-maqal ha joogee
+lumay dhaqan-galkiisii
+sheekadu Dheg Dheer iyo
+dhoor-daalis noqotee
+Gaarriyow dhammaadkiyo
+halka ay ka dhowdahay
+dhakhso mawgu gudubnaa.
+
+Bulbullahan dhabbacashada
+ku madhsaday dhallaankii,
+lafta dhabarka ka habsadey
+waayuhu dhirbaaxeen
+dhaadhaada taahiyo
+dhuun-yeedhis mooyee
+
+sida kale u tamar dhigay
+beri buu dhinbiil iyo
+
+dhuxul daba ka kululaa
+
+weli lagaga dhawrsado
+xaajadu ha dhabaqdee
+dhabba maw abbaarnaa
+dadka dhiillo culus iyo
+dhakafaar ma gelinaa
+wedka maw dhadhaminaa
+dhagar maw badheedhnaa ?
+
+### BULSHO
+
+Talooy go'an baydahaa
+xujooy taran bedenbedkaa
+
+hawooy balaggaa furfuran
+sengow dhimey badalligaa
+biddow camalkaa ku sheeg.
+
+Badeey adigana muggaa
+hirkaagiyo baaxaddii
+buraashad miyaan ku dhuray
+ballaadhkiyo mawjaddii
+bilaale miyaan dardaray
+shantaa hore bidix lisee.
+
+Caroog kulul baa balwadey
+babtiisii baa la naxay
+
+dad baa isu soo bulladay
+dhankee babbisadu jirtaa
+baguhu yuu saaran yahay
+ninkee boholaha Xargega
+balbalo u daboolan tahay ?.
+
+Bulshaale wed buu sidaa
+Bahdoon buu maaggan yahay
+ul boocuu ugu tukubey
+berdaa lagu kala negaa
 dhexdoodii buu ka baxay
 dhammaa beybeysigii
-ban weyn baa layska helay Baxaalliga hawlahaaga |
-fallaadhuhu gun iyo baar bidhaansiga waayahaagaa
-bartii shiishkay hayaan bisaylkaba tigu wacan.
+
+ban weyn baa layska helay
+fallaadhuhu gun iyo baar
+bartii shiishkay hayaan
 biciidkuna wuu arkaa
-xaggeese la beegsadaa Markii lagu bililiqaysto
-badbaado miyay dhacdaa?. markii baaqaagu yeedho
-ayaan boholyow gabyaa
-Belaayadu yaab lahaa dareenku baraarugaa.
+xaggeese la beegsadaa
+badbaado miyay dhacdaa?.
+
+Belaayadu yaab lahaa
+
 wax bay buunbuunisaa
-nin jeeday bararisaa Bulshooy adigay bokhraday
-shantaana ballaysinkii dheh. adaa bili igu shakalay
+
+nin jeeday bararisaa
+shantaana ballaysinkii dheh.
+
+Bulshooy adigaa milga leh
+ninkii boojimo ku yidhi
+shalaad barataannu nidhi
+bayluulida haw furfurin
+bariidana kaama geyo.
+
+Ninkii ballankaaga qaaday
+ka baa qday xilkaad u dhiibtey
+ka baydhay ujeeddadaada
+ku boobay adoo sabool ah
+ku wiirsadey baabba'aaga
+adoo bogan waayey taada
+ninkii u buseelay raaxo
+huwadey bulbushii libaaxa
+buruudkiyo shaashka qaatay
+u boodey cirkaas dusheenna
+bilkeedey laboontidiisa
+buurtuu koray waarin mayso
+heddiisana baajin mayso
+kub iyo bawduu ka jabay.
+
+Shantaas umal fool bashiishtay
+berdaanka xusuusta ii dheh.
+
+Bulshooy adigay bokhraday
+beerkayga adaa gogladey
+bogeyga adaa huwadey
+wadnaha adigaa barkaday
+bishmaha adigaa furfura.
+
+Baxaalliga hawlahaaga
+bidhaansiga waayahaagaa
+bisaylkaba iigu wacan.
+
+Markii lagu bililigaysto
+markii baagaagu yeedho
+ayaan boholyow gabyaa
+dareenku baraarugaa.
+
+Bulshooy adigay bokhraday
+adaa bili igu shakalay
 buruudka adaygu xidhay
 
-haddaan ahay wiil bir kulul haddaan is bahaysigaaga Hi
-burjiga adigaa iska leh. is-biirsiga wada-jirkaaga |
-budh iyo xoog lagu furfurin
-Badheedhka adaa i faray bartaada haddaan la dhicin
-dagaalka adaa i baday bukaanka haddaan la nicin
-belaayo haddaanay dhicin haddaan bogso lagu daweyn
-dantaada haddaan la bi’in miyaynu is-baran lahayn.
+haddaan ahay wiil bir kulul
+burjiga adigaa iska leh.
+
+Badheedhka adaa i faray
+dagaalka adaa i baday
+belaayo haddaanay dhicin
+dantaada haddaan la bi'in
 haddaan baradaadu guban
-| garsoorka haddaan la burin Barbaarta haddaan la layn |
-aqoontu baraar shishiyin billaawuhu dhiig mantagin
-kacaannimo lagu beddelin ninkii ku bud dhigi lahaa
-miyaynu is baran lahayn. haddaan bagayuhu ku lalin
+garsoorka haddaan la burin
+agoontu baraar shishiyin
+kacaannimo lagu beddelin
+miyaynu is baran lahayn.
+
+Haddaan wanka badhida weyn
+baraarkana loo qalqalin
+
+ninkii cunay booligaaga
+haddaan buro loogu darin
+saboolka haddaan la badin
+haddaan boqol ruux la korin
+dhulkii beeraha lahaa
+haddaan basan baas ka dhicin
+bal iyo xaab laga idlayn
+
+dadkii gabey beri-samaadka
+haddaan badhax loo shushubin
+barwaagadu tuugsi noqon
+haddaan badar loo kaltamay
+biyaha sixin looga dhigin
+basaasta ninkii huwadey
+badhaadhnay haddaanu odhan
+naftiisana been ku furan
+miyaynu is baran lahayn.
+
+Haddaan waa kuu beryaa
+bayuur iyo umal ku tarin
+haddaan berritiyo sed magan
+bushaara lagaaga dhigin
+baxnaanadu kugu adkaan
+haddaan sida baar caddaa
+baloolliyo badowyaley
+
+naftaadu ku ciil belbelin
+qabiilka haddaan la bilin
+haddaan boodhka laga tuntumin
+
+haddaan is bahaysigaaga
+is-biirsiga wada-jirkaaga
+budh iyo xoog lagu furfurin
+bartaada haddaan la dhicin
+bukaanka haddaan la nicin
+haddaan bogso lagu daweyn
+miyaynu is-baran lahayn.
+
+Barbaarta haddaan la layn
+billaawuhu dhiig mantagin
+ninkii ku bud dhigi lahaa
+haddaan baqayuhu ku lalin
 halyeyga badbaadadaada
-Seer aN ated MeN haddaan bahaluhu ku shirin
-Siac ubey Boaieacen yogeaan oe ma geydadaada
-' rasaas loo beretansiin
-| ; baroorta gofku lahaa
-haddaan bogol ruux la korin haddaanu u rogan bil-khayr
-dhulkii beeraha lahaa belaayo xijaab ka dhigan
-haddaan basan baas ka dhicin wixii hadhay baylahdaada ;
-| i et a Ala haddaan buntukh Coe ee
-p : xanuun lagu baraq nuglayn
-SR ales fi nin bayr a ape i gelin
-haddaan badar loo kaltamay aaa
-biyaha sixin looga dhigin ..
-basaasta ninkii huwadey Basaas EN A a ee ee
-badhaadhnay haddaanu odhan haddaan dhu u baal nog
-naftiisana been ku furan I see : preteen
-; Fe . : Banaadir indhuu ka nixin
-i miyaynu ts baran lahayn. bariiso haddaan la qixin
-1 | boqoolku is-daba taxnaan
-ia waa He beryaa ris ea Tc ae
-uur iyo umal ku tarin adroolka haddaan la yu
-haddaan berritiyo sed magqan hablii bogorkiyo dhaclaa
-bushaara lagaaga dhigin baftada lagu wada yiqiin
-baxnaanadu kugu adkaan Baxreyn laga soo qabqaban
-haddaan sida baar caddaa haddaan bogorrada Carbeed
-baloolliyo badowyaley Amiirrada baalka xidhan
-AnD een mien 1 REAM,
-ui miyaynu is baran
-haddaan boodhka laga tuntumin wm
 
-tal Bari ina qalayn | O (|
-addaan Bogox ina fantayn | | Hi
-beelaa agaheenna a : | QUDUR |
-aig lah re hi i a Culayskii iyo xanuunkii shacbiga soomaaliyeed kaga yimi nidaamka 1H
-dowga ah, ayaa waxaa lagama maarmaan nogotay in la helo xal i |
-adduunyadu baadideenna cadows ‘a lagu furdaamiyo xanuunkaas 0 xal lyo |
-bannaannada kaga xeroon farsamooyin 28 : |
-boogteenniyo dhaawaceenna Wakhtigaas M. aansadan Quduro S00 baxday, bishii Oktoobar 1980kii,
-haddaan baga layna odhan ayaa inka mid ah shacbiga 00 xaqiigo ka carar ahi waxay xalkii masiibada |
-miyaynu is baran lahayn. dalka iyo dadkaba ku habsatey lagaga bixi lahaa ka raadisey dhul khalad |
-ah, Waajibaadkii uu gofka nooli lahaa ayaa waxay ugu yeedheen ama ku
-| halleeyeen cid aan waxba ka qaban karin, sida qgabuuraha, Sheekh Hebel |
-| Weli Hebel, foox iyo riyo.
-| Cabdi Aadan Qaysow
-golfi soconayaan ahay
-garo iyo laxaad iyo
-| goton waa halkoodee
-ul gallalan umaan dhalan
-qurux kama madhnaan jirin
-hana qaad filkaygtyo
-ka da’weyni qayrkay.
+haddaan bahaluhu ku shirin
+haddaan bir ma geydadaada
+rasaas loo beretansiin
+waraabuhu baan ka dhigan
+baroorta qofkii lahaa
+haddaanu u rogan bil-khayr
+belaayo xijaab ka dhigan
+wixii hadhay baylahdaada
+haddaan buntukh loogu talin
+xanuun lagu baraq nuglayn
+nin bayr lihi salow ku gelin
+miyaynu is baran lahayn.
+
+Basaas iyo oon dartii
+haddaan dhulku baali noqon
+haddaan sida bagagidii
+Banaadir indhuu ka nixin
+bariiso haddaan la qixin
+bogoolku is-daba taxnaan
+bugaan bugtu gelin Xijaas
+badroolka haddaan la yu'an
+hablii bogorkiyo dhaclaa
+baftada lagu wada yiqiin
+Baxreyn laga soo qabqaban
+haddaan boqorrada Carbeed
+Amiirrada baalka xidhan
+kun jeer baryo loola tegin
+miyaynu is baran lahayn.
+
+Haddaan Bari ina qalayn
+haddaan Bogox ina fantayn
+beelaa agaheenna yaal
+haddaynaan buro ku noqon
+tukii baallaha caddaa
+adduunyadu baadideenna
+bannaannada kaga xeroon
+boogteenniyo dhaawaceenna
+haddaan baga layna odhan
+miyaynu is baran lahayn.
+
+### QUDURO
+
+Culayskii iyo xanuunkii xanuunkii shacbiga soomaaliyeed kaga yimi nidaamka
+
+cadowga ah, ayaa waxaa lagama maarmaan nogotay in la helo xal yo
+farsamooyin lagu furdaamyo xanuunkaas.
+
+Wakhtigaas M aansadan Quduro soo baxday, bishii Oktoobar 1980kii,
+
+ayaa in ka midah shacbiga oo xaqiiqo ka carar ahi waxay xalkii masiibada
+dalka iyo dadkaba ku habsatey lggaga bixi lahaa ka raadisey dhul khalad
+ah. Waajibaadkii uu gofka nooli lahaa ayaa waxay ugu yeedheen ama ku
+halleeyeen cid aan waxba ka qaban karin, sida qabuuraha, Sheekh Hebel,
+
+Weli Hebel, foox iyo riyo.
+
+Cabdi Aadan Qaysow
+
+qolfi soconayaan ahay
+qaro iyo laxaad iy0
+
+qoton waa halkoodee
+
+ul qallalan umaan dhalan
+qurux kama madhnaan jiin
+hana qaad filkaygiyo
+
+ka da'weyni qayrkay.
+
 Hilbahayga qoonmiyo
-gayaxnaanta jaahtyo
-sida gaansadii godan
-| jooggan soo gandoodsadey
+qayaxnaanta jaahiyo
+
+sida qaansadii godan
+Jjooggan soo qandoodsadey
 qutubsiga tallaabada
-galgalloocan igu dhacay
+qalqalloocan igu dhacay
 ma lahayn qallaafee
-u qoontayda hoosiyo |
-. waxa qaabkan iga dhigay
-gisadaas ma haysaa?
+qoontayda hoosiyo
+
+waxa qaabkan iga dhigay
+qisadaas ma haysaa?
+
 Maxaa iga qabyo ah hawl
-wax ka gabashadeeduna
-gayrkay ku xidhan tahay.
+wax ka qabashadeeduna
+qayrkay ku xidhan tahay.
+
 Maxaa qalinku sheekiyo
-; qubanaha dharaartiyo
-0 kolba qodob la yaabliyo
-re ) mahadhooyin qorayaa!
-a
+qubanaha dharaartiyo
 
-Maxaa feedho qaaxiyo qoorta hoos u wada roga .
-qulub kala kexeeyeen | goontooda badiyee. |
+kolba qodob la yaabliyo
+mahadhooyin qorayaa!
+
+Maxaa feedho qaaxiyo
+qulub kala kexeeyeen
 qoomammadu damqaysaa.
-Iyagoo qiyaamlyo
-Maxaa ciin la qooshiyo bad qaloonbiyaysiyo
-waabay gadhaadhoo ku dhex jira tog qawlay
-dacar lagu qasaasiley qoyanaanta diidaan.
-iyo quudhsi dabayaal
-afar aan is qabannoo Iyagoo qaldhebayoo
-ninna hore u qaayibin gatannoo arradanoo
-cabsi loogu qumayaa. gabaddano qadhqadhayoo
-nolol qaawan joogay
-Qamuunyada dibnaha iyo burka qaraf ka dhawraan.
-qacda labada fool iyo
-maxay qaawinta ilkuhu Qawdhan waa nin keliyee
-ganja barar isku hayaan. haddaan qaybta loo burin
-wiyil goodh ah laga dhigin
-Maxaa qiiro hoosiyo garan kuma hoggaansheen
-ilmo qubatay gocashadu qaadhaan gumaystiyo
-ha i qarin ku leedahay galle lagu hun goobiyo
-isaguna qabaal iyo galam jalam hadoodilan. |
-qaba dheer ku shubayaa.
-ma lafaa qandoodiyo
-Maxaa ruux qaldhebayoo saadaal gallalanoo
-gormadii rugtiisiyo lagu qiil banaystiyo
-qudha laga toleeyoo riyo gabaxtankeediyo
-} misna quusan waayoo gaadaa dhiggeediyo
-j nafta quudhi waayoo gashar iyo salool baan
-qarandida sideedii galalaasahaan gabay.
-qodanaaya booraan li qumiya leeyahay.
-godka meel garkiisa ah
-qoobley ordaysiyo Ma quruumo ciiddiyo
-fardo qaxay ku jiidheen. Pretineds aboorkiyo
-inta dulin gqadhaabtiyo
-Maxaa seefo qawliyo qablantadu ku kulantee
-gudmo lagu gadhaabtaa canka lagu qadhiidhiyo
-damal adag gar qooreen, qabri laga ducaystay
-gabyaday ku xidhan tahay.
-Dadku dhagar gaboobaa
-qaantoodu fududaa Ma gorshaa badheedhkiyo
-qarqarsigu ku adakaa quxub lagu hirgeliyee
-ninka qoofashee yidhi qori tuurka Saadooy
 
-—
-lagu kala sed qaatay Qudha loo kal tiriyaa |
-qadder dhacay u haystaan? qusur kama fogaatee
-Ina Qayte yeelkit
-iis ha qudhqudhiyo caanaha
-Jidku garar xidhiidhiyo gadda-riixna haw dhamo |
-qodax tyo dhib badanaa haddaan qaamudkay gelin
-garnigaynu joogniyo anigiyo rag ila qaba
-garda-jeexa yays baray? goomaasha murugada
-Dadka yaa qareenkiyo godkan bixiyey laamuhu
-eee ee aANiv danba wuu u qolof dhici.
-tolow qalada yaa baray? a
-Qarannimada waa tii Qaybdiid haddti uu
-qoor-gooyo laqan iyo gado wadari leedahay
-qaryad weer cad xidhatiyo qoondaystay keligit
-lagu helay gisaastee Gaarriyow nin gadanaa
-hadmaa qaabkan loo rogey? giimeeya noloshoo
-bulsho qudha la saanyadey weligii qaddertyee,
-qaydar iyo galool iyo gaska iyo colaaddiyo
-gansax miidhan laga dhigay? kama naxo qulquladaha,
-qarfihiyo Ne des
-andigiyo mareegtaa Ta CO g ET a hee
-eae Rreireny ; naskaxday a Ga
-tyadoo qaskaagiyo qe eae ee at n
-raggii aad qalgalatee bulsho Gada
-qawlaha u loogtee bal ay dam aes
-tidhi qaybi dacawada qabqabaha u tumayaa.
-qoyan tahay raqdoodii Nin gab ii dhi gaayaan
-qummanii degaankiyo anna qool u xidhayaa
-gadhadheytidiisii goortaydu waa tib
-| qumanyada dabkeediyo wax ka qaaya-weynoo
-lagu shiilay gaxankee u galmaan u hurayaa.
+Maxaa ciin la qooshiyo
+waabay qadhaadhoo
+dacar lagu qasaasiley
+Lyo quudhsi dabayaal
+afar aan is qabannoo
+ninna hore u qaayibin
+cabsi loogu qumayaa.
+
+Qamuunyada dibnaha iyo
+qacda labada fool iyo
+maxay qaawinta ikuhu
+qanja barar isku hayaan.
+
+Maxaa qiiro hoosiyo
+ilmo qubatay gocashadu
+ha i qarin ku leedahay
+isaguna qabaal iyo
+qaba dheer ku shubayaa.
+
+Maxaa ruux qaldhebayoo
+qormadii rugtiisiyo
+qudha laga toleeyoo
+misna quusan waayoo
+nafta quudhi waayoo
+qarandida sideedii
+godanaaya booraan
+godka meel qarkiisa ah
+qoobley ordaysiyo
+
+fardo qaxay ku fiidheen.
+
+Maxaa seefo qawliyo
+gudmo lagu qadhaabtaa
+damal adag qarqooreen.
+
+Dadku dhagar gaboobaa
+qaantoodu fududaa
+qarqarsigu ku adakaa
+ninka qoofashee yidhi
+
+qoorta hoos u wada roga
+qoontooda badiyee.
+
+lyagoo qi_vawniyo.
+
+bad qaloonbiyaysiyo
+ku dhex jira tog qawlay
+qoyanaanta diidaan.
+
+lyagoo qaldhebayoo
+qatannoo arradanoo
+gabaddano qadhqadhayoo
+nolol qaawan joogay
+burka qaraf ka dhawraan.
+
+Qawdhan waa nin keliyee
+haddaan qaybta loo burin
+wiyil quodh ah laga dhigin
+garan kuma hoggaansheen
+qaadhaan gumaystiyo
+qalle lagu hungoobiyo
+qalam jalam hadoodilan.
+
+ma lafaa qandoodiyo
+saadaal qallalanoo
+lagu qiil banaystiyo
+riyo qaba.\'tankccdi_vo
+qaadaa dhiggeediyo
+qashar iyo salool baan
+qalalaasahaan gabay.
+ii qumiya leeyahay.
+
+Ma quruumo Ciiddi_}'O
+qawlallada aboorkz}_'o
+inta dulin qadhaabtiyo
+qablantadu ku kulantee
+canka lagu qadhiidhiyo
+qabri laga ducaystay
+qabyaday ku xidhan tahay.
+
+Ma qorshaa badh{)edhkiyo
+quxub lagu hirgeliyee
+qori tuurka Saadooy
+
+lagu kala sed qaatay
+qadder dhacay u haystaan?
+
+Jidku qarar xidhiidhiyo
+qodax iyo dhib badanaa
+qarnigaynu joogniyo
+qarda-jeexa yays baray?
+Dadka yaa qareenkiyo
+
+qolo qolo u kala raray
+qoqobbada dhex yaalliyo
+tolow qalada yaa baray?
+Qarannimada waa tiii
+qoor-gooyo laqan iyo
+qaryad weer cad xidhatiyo
+lagu helay qisaastee
+hadmaa qaabkan loo rogey?
+bulsho qudha la saanyadey
+qaydar iyo galool iyo
+qansax miidhan laga dhigay?
+
+Qandigiyo mareegtaay
+qalwadiyo sursuurtaay
+iyadoo qaskaagiyo
+
+raggiii aad qalqalatee
+qawlaha u loogtee
+
+tidhi qaybi dacawada
+qoyan tahay ragdoodii
+qummanii degaankiyo
+qadhadheytidiisii
+qumanyada dabkeediyo
+lagu shiilay qaxankee
 qunbeyaasha lagu shubay
 adigoo qudhqudhiyoo
-| ku qubeystey dhiiggii
-| tyadoo qalfoofkiyo
-| hadhadoodu quban tahay
+
+ku qubeystey dhiiggii
+iyadoo qalfoofkiyo
+hadhadoodu quban tahay
 haddaad soo quturan tahay
-| ama weli gor kuu hadhay
-. qoysku waa hadhiinoo
-) gabku maaha beentaa.
+ama weli qor kuu hadhay
+qoysku waa hadhiinoo
+qabku maaha beentaa.
 
-—_—
-—
-G ALAAL Wuxu yidhi ” guddoonsadey )
-saymaha go’doonka ah |
-G5 Peat bacon gocashaase igu maqan .
-gaaddadaada dhiiggiyo moat
-xinjiraha galshaystee Waxan idhi ”ka soo gudub
-gaasheeyey laabtiyo gooraanka taahoo
-gocomada da’aayiyo ka gadaal sarbeebtaas
-waa maxay gal-dhiidhigu warka aan Galaalow
-yaa fallaadha kugu ganay? googoos ka dhigannoo
-is la sii gorfaynoo
-Wan Macaca hibhy sii gaasa bixinnee,
-gegidiyo bee guul guulka kugu dhacay
-dhaxanta iyo gawraha haddaad mooddey gaadmiyo
-gabayooxa dhacayaa kamma’ uu wed geystiyo
-luda keligaa? !
-nes haaway is guratiyo
-eae nacab iyo ginits yo
-ae a gabboodkiyo hadhadii gumestiyo
-ie Sareea ui jiid intii gaalku reebaa
-hn pe i toyashada shilka wada gorfaysoo
-sabes (oes eek nabarrada ku gaadhiyo
-na wax weyddii”. gawl gawlka xagashada
-waa laguu guddoonshee,
-Waxan idhi ” gubtahanyada haddaad gees! leedahay
-maxaad uga gol leedahay” ? maxaa laygu gaasiray?
-Garta anigu maan niqin
-Wuxu yidhi mi taladana wax kama goyn
-wixii ia i pene gabay godobtana wax kuma lihi”’.
-GTR GG gabaabsiyey |
-gudan waayey taydii ”Anaa goobta joogoo |
-pes gumaradaydiyo waxa dhacay guntaayee
-Ae di habar dugaag baa kuma gabin bahdaadt
-| 10la Seesigoodiyo bulshadaadu kuma goyn’”.
-| tira guulihiisoo
+Qudha loo kal tiriyaa
+qusur kama fogaatee
+
+Ina Qayte yeelkii
+
+ha qudhqudhiyo caanaha
+qadda-riixna haw dhamo
+haddaan qaamudkay gelin
+anigiyo rag ila qaba
+qoomaasha murugada
+qodkan bixiyey laamuhu
+danba wuu u qolof dhici.
+
+Qaybdiid haddii uu
+qado wadari leedahay
+qoondaystay keligit
+Gaarriyow nin qadanaa
+qiimeeya noloshoo
+weligii qadderiyee,
+qaska iyo colaaddiyo
+kama naxo qulquladaha,
+qarfihiyo abaaraha
+rati qooqan baan ahay,
+maskaxdayda qayliyo
+qiiq baa ka baxayoo
+bulsho qawqab diiddaan
+bal inay qamaamaan
+qabqabaha u tumayaa.
+Nin qab ii dhigaayaan
+anna qool u xidhayaa
+qoortaydu waa iib
+wax ka qaaya-weynoo
+u qalmaan u hurayaa.
+
+### GALAAL
+
+Googgaa libaaxow
+gaaddadaada dhiiggiyo
+Xinjiraha galshaystee
+gaasheeyey laabtiyo
+gocomada da'aayiyo
+
+waa maxay gal-dhiidhigu
+yaa fallaadha kugu ganay?
+
+Waa maxay gabiibtiyo
+gegidiyo dabayshiyo
+dhaxanta iyo gawraha
+gabayooxa dhacayaa
+geriyaadkan maadaa
+gawdiida keligaa?
+
+Wuxu yidhi “gabboodkiyo
+hadh galbeedka ii jiid
+
+soo gaabi toyashada
+hadalkana i gees mari
+goobtana wax weyddii”.
+
+Waxan idhi “gubtahanyada
+maxaad uga gol leedahay” ?
+
+Wuxu yidhi "miyaan gabay
+wixvii ila gudboonaa
+maanigaa gabaabsiyey
+gz{dan waayey taydii
+
+mise gumaradaydiyo
+
+giddi habar dugaag baa
+libta geesigoodiyo
+
+tira guulihiisoo
+
 gantaday u siibaan
-geedkay hadhsanayaan” ? Beeler ie idi
-Waxan idhi ” dadku wada gadoodee
-L miyaad gar la gilgiley fallaagada”.
-waxa goobtan kugu fey Dp STs je 5
+geedkay hadhsanayaan” ?
 
-“Waxa Deeqa” lagu galay naxashkaad Galaalow .
-ama gaadhey awgaa gudihiisa jiiftiyo
-ma ogtahay Galaalow” ? kafantii ku gobo tidhi”.
-Gabadhaada SOW ” Hibashada guhaaddiyo |
-gooheeda yeedhiyo gedgeddoonka ciilkiyo
-guubaabadeedii 53 goroddaad lulaysaa
-galowgii ku sara kacay”! kugu gooni maahee
+Waxan idhi “miyaad garan
+waxa goobtan kugu furay”?
+
+Wuxu yidhi ” guddoonsadey
+saymaha go'doonka ah
+
+J ”)
+gocashaase igu madgan -
+
+Waxan idhi ”ka soo gudub
+gooraanka taahoo
+ka gadaal sarbeebtaas
+warka aan Galaalow
+googoos ka dhigannoo
+is la sii gorfaynoo
+sii gaasa bixinnee,
+guul guulka kugu dhacay
+haddaad mooddey gaadmiyo
+kamma' uu wed geysliy0
+wax ku yimi garaag' [Vi
+gaban iyo falaadki
+haaway is guraliyo
+nacab iyo ginus LO
+hadhadii gumestuy0
+intii gaalku reebaa
+shilka wada gorfaysoo
+nabarrada ku gaadhiyo
+gawl gawlka xa gashada
+waa laguu guddoonshee,
+haddaad geesi leedahay
+maxaa laygu gaasiray?
+Garta anigu maan nidin
+taladana wax kama goyn |
+godobtana wax kuma lihi”.
+
+“Anaa goobla Joogoo
+waxa dhacay guntaayeéë
+kuma gabin bahdaadi
+
+bulshadaadu kuma goyn”.
+
+“Geeridaadi sawtli
+gobollada dalkoo idil
+dadku wada gadoodee",
+la gilgiley fallaa-gada".
+
+`Waxa Deeqa?” lagu galay naxashkaad Galaalow
+ama gaadhey awgaa ' gudihiisa jiiftiyo
+ma ogtahay Galaalow”? kafantii ku gobo tidhi”.
+
+“Gabadhaada sawtii
+gooheeda yeedhiyo
+guubaabadeedii
+galowgii ku sara kacay"!
+
+" Hibashada guhaaddiyo
+gedgeddoonka ciilkiyo
+goroddaad lulaysaa
+kugu gooni maahee
 waxa kula gudboon taas
-"Gabadhaadu sawtii gobannimada ciirtiyo
-garba-saarta xoortee garannimada guurtiyo
+
+“Gabadhaadu sawui gobannimada ciirtiyo
+garba-saarta xoortee qarannimada guurtiyo
 ganbadii ka carartee himilada gablooshiyo
-marta sare u guratee danta gebi dhacaysiyo
-saqda-dhexe gadoodiga runta galan galcawdoo
-gacan dhiigla-yaashii geba geba is dhaafiyo
+marla sare u guratee danta gebi dhacaysiyo
+sagda-dhexe gadoodiga runta galan galcawdoo
+gacan dhiigla-yaashit geba geba is dhaafiyo
 ku garaacday agallada. guri laga baroortiyo
+
 naf gunaanad weydiyo
-Sawtii la gawdhshee guurti cayn wareegtiyo
-seefaha gardiidka ah gebi ruga sidaadiyo
-galka lagala soo baxay”’. immisaa gulcubo dhacay
-3 geeskeennu Muusow
-” i immisuu gurracan iyo
-Gabadhaadu sawtii gudcur a hawaariyo
-gumucyada rasaasta ah gabbal dumey u taagnaa”?
+Sawii la gawdhshee guurt cayn wareegtiyo
+seefaha gardiidka ah gebi ruqa sidaadiyo
+galka lagala soo baxay”. immisaa gulcubo dhacay
+
+geeskeennu Muusow
+immisuu gurracan ly0
+gudcur soo hawaariyo
+gabbal dumey u taagnaa ” ?
+
+“Gabadhaadu sawtii
+
+gumucyada rasaasta ah
+
 warankiyo gamuunkii
-; hadh cad lagugu soo ganay
+
+hadh cad lagugu soo ganay -
+
 u daruurtay gaashaan”. "Haddaad geesi leedahay
-maa la ti abaal gudo
-‘ ‘i horta yaa Galaalow
-Gaba aw J '
-nae pea sah _ geesoole geel baray” ?
+maa la ii abaal gudo
+
+“Gabadhaada sawtii horta )’laa Gal[ (I;alou‘)” :
+iyadoon Galaalow geesooië geet baray :
+
 u gargaariddaadiyo
-. gurmadkaaga mooyee ”Goormaad ogsooneyd
-Sef kaleeto loo hayn dawac gooddi joogiyo
+
+gurmadkaaga mooyee “Goormaad ogsooneyd
+gef kaleeto loo hayn dawac gooddi joogiyo
 garka lagu muquunshee wan baruuri goobtoo
-| xilka laga guddoontee gacalnimo ku wada nool” ?
-cidla’ lagu galaaftee
-eH Scopiay keligeed”. ”Goormaad ogsoonayd
-’ endigiyo dhukaankiyo
-if : Gabadhaada Sawtti ane cudurkiyo
-. . ilmadii ka gabax tidhi gawracato raacdoo ;
-TITIES Hig Deaga liehg geel bukooday lagu dhayo”?
 
-”Goormaad ogsoonayd Godk J 1
-faras gedaha duullaan biota erg at |
-gurmashada ku caan baxay git Man is As - |
-iyo geeddigii dheer pe ee MeL (tele
-t ama badi guhaadshaa
-bagal aan geyoonoo i i) .
+xilka laga guddoontee gacalnimo ku wada nool"?
 
-uluf qudha ku wada jira”? hadda guru Ketyaa
-§ gaafaha ku laastaa .
+cidla' lagu galaaftee
 
-"Goormaad ogsoonayd & 4 se fe eedhaa
-goonbaarta dumarkoo BIO COR OE
-Baariia haweenka ah gungumaha ku sooraa
-garab siisa Muusow” ? giiryaala-yaashoo |
+lagu goobtay keligeed”. “Goormaad ogsoonayd
 
+j gendigiyo dhukaankiyo
+j Gabt_l.dhaada , guudaanka cudurkiyo
+ilmadii ka gabax tidhi gawracato raacdoo
+
+geel bukooday lagu dhayo”?
+
+15 Deeqa-Waa Deeqa Colujoog
+
+— m ” -“EEEEN
+
+“Goormaad ogsoonayd
+faras gedaha duullaan
+gurmashada ku caan baxay
+iyo geeddigii dheer
+bagal aan geyoonoo
+guluf gudha ku wada jira ” ?
+
+"Goormaad ogsoonayd
+goonbaarta dumarkoo
+gaarida haweenka ah
+garab siisa Muusow ” ?
+
+“Goormaad ogsoonayd
+giiryaale fulaygoo
+weheshada nin geesiya ” ?
+
+“Ma ogtahay Galaalow
+waxa lagugu gaasiray
+goldaloolo maahee
+
+waa geyfanaantiyo
+gudashada xilkaagoo
+guumeys masayrtoo
+gumaruyo dharkaynkiyo
+garaska iyo boocdiyo
+gocondhada wax saydhiyo
+gommoshaaga jeceloo
+dhebigiyo galoolkiyo
+gobka iyo madheedhkiyo
+inta geed san neceboo
+dhirta gaara ximisaa
+kugu soo galgalatee
+ha ka guban tummaatida
+hana gocan abwaankow
+“ha u dudin Galaalow
+dhidar meydka daba gura”.
+
+“Galab gudha nin noolaa
+galabiiina Muusow
+
+gashi iyo dadkiisii
+
+sacmo qaawan kala tegey
+wuxu galabsadaa yaal
+murugada gadhoodhka ah
+ninkii gaaxsadaa shuban”.
+
+Godku wuxu canaantaa
+ama gogol ku ciilaa
+g0'a gudha ka diirtaa
+ama badi guhaadshaa
+hadba giir u kiciyaa
+gaafaha ku laastaa
+geesaha ku feedhaa
+gibilkooda loogaa
+gungumaha ku soo raacaa
+giiryaala-yaashoo
 goblan baa xijaabtee
-”Goormaad ogsoonayd miyuu geesi hoydaa Wy
-giiryaale fulayeoo — garashadu wed leedahay? i
-weheshada nin geesiya”? i | |
-3 Damalyohow gardhaystee | I
-Ma ogtahay Galaalow laamaha gandoodiyo Hilt
-waxa lagugu gaasiray hoobaanta ganacda leh i
-goldaloolo yiaaiiee guudkiisa saaree HH
-Lin Aeshna aoe |
-XUK arangarinta laafyaha it
-guumeys masayrtoo Paheaei: casuusta ah .
-gumartiyo dharkaynkiyo gaankiisa hoosiyo
-garaska iyo boocdiyo inta gaararkiisiyo
-gocondhada wax saydhiyo gartallawga buuxshee
-el el Jeceloo dhulka wada guduudow
-dhebigiyo galoolkiyo gedo iyo fac labadaba
-gobka iyo madheedhkiyo ummad kala gu’weynoo
-inta geed san neceboo galab noolba joogtaa, }
-dhirta gaara ximisaa midhahaaga guratoo
-' kugu soo galgalatee nin gardaadshey maamuus Wilt)
-| ha ka guban tummaatida ummaddiisa guul iyo ial ) i
-fie Sg poanO ioe wear kaga ye Wilh
-1a u dudin Galaalow gebigeed adduunyada
-ib dhidar meydka daba gura”. afarteeda geesood HH
-si kasta u galaa baxay Wily
-“Galab qudha nin noolaa geyigoo dhan joogoo i]
-galabtiina Muusow guryahoo dhan yaallaa |
-gashi iyo dadkiisii miyuu geeri leeyahay Wy |
-| §acmo qaawan kala tegey hilbihiisa goodkiyo th
-7) wuxu galabsadaa yaal dulin gaajo haysiyo 5 . ] |
-murugada gadhoodhka ah miyay ciiddu geydaa: i
-| ninkii gaaxsadaa shuban”. ||
-ee OSS ts EE OO eee
+miyuu geesi hoydaa
+garashadu wed leedahay?
 
-Ha la gabo xilkaagee waxad kaga gam aysaa Hi
-horta yaa Galaalow runtu waa Galaalow, |
-magacaaga gadi kara murti garangarteediyo tt)
-guulahaaga qarin kara goobaha tixraaca leh |
-kutubtaada gubi kara? haddii maanso loo guro
-guddigeeda khaaska ah |
-ola jooga maantaas
-Goodaaddo la hantiyo eligna guddoonsha ah.
+Damaiyohow gardhaystee
+laamaha gandoodiyo
+hoobaanta ganacda leh
+guudkiisa saaree
+dabadeed gilgilashada
+garangarinta laafyaha
+galaxyada casuusta ah
+gaankiisa hoosiyo
+
+inta gaararkiisiyo
+gartallawga buuxshee
+dhulka wada guduudow
+gedo iyo fac labadaba
+ummad kala gu'weynoo
+galab noolba joogtaa,
+midhahaaga guratoo
+
+nin gardaadshey maamuus
+ummaddiisa guul iyo
+gallad waarta kaga tegey
+gebigeed adduunyada
+afarteeda geesood
+
+si kasta u galaa baxay
+gevigoo dhan joogoo
+guryahoo dhan yaallaa
+miyuu geeri leeyahay
+hilbihiisa goodkiyo
+
+dulin gaajo haysiyo
+miyay ciiddu geydaa?
+
+E)
+
+Ha la gabo xilkaagee
+horta yaa Galaalow
+magacaaga gadi kara
+guulahaaga garin kara
+kutubtaada gubi kara?
+
+Goodaaddo la hantiyo
 inta gaabinaysee
-| dadka gaws danbeedkiyo Suugaanta guunka ah |
-gabbashada ku laysiyo \ af gobaadsi geediyo
-fule lagu gabraartaa gaal gaalka jiiftada
-golxobbada ha ramiyeen godka hoga tusaalaha
-| y a hayaad tahay.
-inta golon gol Muusow ee eat z
-is Zamaarinaysaa Hawraar gahaydhiyo
-filanwaa ha geysteen maahmaah go’xidhatiyo
-gamasyada shirqoolka ah ololada sarbeebta ah
-; ha la soo gurguurteen alka ay ku gorortiyo
-as ee one godankiyo ishaad tahay.
-rawisaha galoofta ah, : ‘i
-Taariikhdu waa guun ee ie i pnt
-gorrax aan gaboobayn, cS
-ma gedmaan ayaamuhu jirridiyo guntaad tahay.
-Ee ae aide gee Gaadiidka dhaqankiyo |
-gondahaaga hoosuu gurgurshaasg heesana
-> Ord garka lagu daleeyiyo
-ku gataati ciiree pres }
-aaway Galaalow gibishiyo figtaad tahay.
-al gacantii ku ridi layd
-gudintii ku jari la ? Goobaha af tahammada
-ij guga doogsintiisityo
-deudaa hillaaciyo
-Ummad goba hankeediyo Sane caratiyo
-See eee galal buuxsamaad tahay.
-adh baa ku weheshee
-1 stom rae roon yengy Gudcurkiyo habeenkit
-| Suuguule kugu ciyey: saadaasha guudkiyo
-7 godadkiyo xiddigiskana
-is Nin kastaa ha gooddiyo dayaxoo galshaystiyo
-| | gocorradu ha doobyeen, gabbalaha cirkaad tahay
-;, godadliyo hinaasaha
 
-ine gebada sheekada i |
-1ambalyada Galaalow . yyy
-waxan kugu gelbinayaa | FIDO |
-marti soorka gacalkiyo Nin fagaare Jaan-dheer |
-ficil heesay baa yidhi, |
-geenyadii abaalkiyo ”inkastaad fartid tahay
-mahad aan gaboobayn. haddaan cidiba kuu furin |
-| fiicnaantu keligaa
-Guntigaagu waa sharaf maxay kuugu filantahay”. |
-goonyahaagu waa nuur ' ;
-gogoshadu waa nabad Hadalkaan farshaxannimo
-alka geesigiisiyo ead
-galladana adaa mudan. ama Le ' loo ye os
+dadka gaws danbeedkiyo
+gabbashada ku laysiyo
+fule lagu gabraartaa
+golxobbada ha ramiyeen
+ninka raga ha qaadeen.
+Reer guura raaciyo
+
+inta golon gol Muusow
+i$ gamaarinaysaa
+filanwaa ha geysteen
+gamasyada shirgoolka ah
+ha la soo gurguurteen
+nin gurrani ha kula dhaco
+af gammuurta liicdiyo
+rawisaha galoofta ah,
+Taariikhdu waa guun
+gorrax aan gaboobayn,
+ma gedmaan ayaamuhu
+giiryaale weligii
+
+ha gilgilo salkaagee
+gondahaaga hoosuu
+
+ku gataati ciiree
+
+aaway Galaalow
+
+gacantii ku ridi layd
+gudintii ku jari layd?
+
+Ummad goba hankeediyo
+gunnadii dadkaagiyo
+gaadh baa ku weheshee
+miyuu kaa gol roon yahay
+Suuguule kugu ciyey?
+
+Nin kastaa ha gooddiyo
+gocorrađu ha doobyeen,
+godadliyo hinaasaha
+
+waxad kaga gam'aysaa
+runtu waa Galaalow,
+murti garangarteediyo
+goobaha tixraaca leh
+haddii maanso loo guro
+guddigeeda khaaska ah
+gola jooga maantaas
+adigaa guddoonsha ah.
+
+Suugaanta guunka ah
+af gobaadsi geediyo
+gaal gaalka jiiftada
+godka hoga tusaalaha
+ninka gawda baanaha
+gaawaha hayaad tahay.
+
+Hawraar gahaydhiyo
+maahmaah go'xidhatiyo
+gololada sarbeebta ah
+halka ay ku gorortiyo
+godankiyo ishaad tahay.
+
+Geeraar ka-hadalkii
+gabay iyo ab-tirintii
+jirridiyo guntaad tahay.
+
+Gaadiidka dhaqankiyo
+gurgurshaaga heesaha
+garka lagu daleeyiyo
+
+gibishiyo figtaad tahay.
+
+Goobaha af tahammada
+guga doogsintiisiyo
+gudgudaa hillaaciyo
+guulaamo caratiyo
+galal buuxsamaad tahay.
+
+Gudcurkiyo habeenkii
+saadaasha guudkiyo
+godadkiyo xiddigiskana
+dayaxoo galshaystiyo
+gabbalaha cirkaad tahay.
+
+Geba gebada sheekada
+hambalyada Galaalow
+waxan kugu gelbinayaa
+marti soorka gacalkiyo
+
+geenyadii abaalkiyo
+mahad aan gaboobayn.
+
+Guntigaagu waa sharaf
+goonyahaagu waa nuur
+gogoshadu waa nabad
+guushana dadkayska leh
+dalka geesigiisiyo
+galladana adaa mudan.
+
+### FIDO
+
+Nin fagaare Jaan-dheer
+
+ficil heesay baa yidhi,
+
+”inkastaad fariid tahay
+
+haddaan cidiba kuu furin
+fiicnaantu keligaa
+
+maxay kuugu filantahay”.
+
+"Hadalkaan farshaxannimo
+ama fiiro loo odhan,
+caanahaan fal qurux badan
+ama fiigsi loo dhamin”,
 wuxu yidhi nin faaqidey,
-” feedhahay wax yeelaan”.
-| Faaraxow’® halyeygii
-; Falastiin dabka u sidey
+
+“feedhahay wax yeelaan”.
+
+Faaraxow16 halyeygii
+Falastiin dabka u sidey
 goobihii fas-loolkee
 foolba foolka ka hor-yimi
 ficilkuu ka geystiyo
@@ -4502,761 +8052,1440 @@ haddii noole faaqido
 faahfaahin lagu daro
 xaya calal falaax dhaha
 Fatax iyo Idaajaa
-fa’du goran warkuna furan.
-uf Haddaannaan fadgalalliyo
+
+fa'du goran warkuna furan.
+
+Haddaannaan fadqalalliyo
 fiilooyin qoolayn
-ama qolo ku foognayn
+
+ama golo ku foognayn
 ama dhiig faraa gelin
 waannaan fadhiyi karin.
-Faaraxow gumeystit
-. waanwaanta faygiyo
-HS faraceeda gooyee
-t i fiiddiyo kurkii jaray
-| xididkeeda faadh faadh
-16 Faarax waa Faarax Axmed Cali Gammuute
 
-rr -
-laga feydyey maradii dogonninovigu falo it}
-belo fuursan loo yeedh q |
-iva ik a fitiligtii mar horaan ka faashaday. |
+Faaraxow gumeystii
+waanwaanta faygiyo
+faraceeda gooyee
+fiiddiyo kurkii jaray
+xididkeeda faadh faadh
+
+laga feydyey maradii
+
+belo fuursan loo yeedh
+ityaduna fitiligtii
+
 fannah orodka soo tidhi
-fartu damaqday boogtii Cabsiyeey fur lagu geli
-ku fadhidey qunbacashada Riiganow’? falkaa yeel
-Riigan sii faddaadee baaruudda firidhiyo
-fidmo qoriga loo dhiib. fidhadiyo dabaylaha
-Naabaal ka fara-badan
-. ; idh-fidh go’a hubka u diran,
-eau icons au. bie Then fadh soo lali
-SeCEED AD OXGIREMO fallaadh baan cirka u dira
-1a ugu fideyn Jirey y
-een ae aaa fool bay la maqan-tahay
-aqash'’ waxay yidhaahdeen in walowbarila filo
-inta Farow sakalantahay ae adeeRa APA
-Falastiin henggelantahay it k ra Wee
-dadka lihi fongoranyahay 8 ie os Fantae
-belo wayska fududdahay GEES ae
-iumminkaabay fidhatee
-yaa fandhaal ba weli daray. Xaajadu falaad iyo
-umal feedha jiifoo
-Kol hadday fogaatoo furka ridey xanuunkiyo
-faddarowdey nabaddii farsamay ku socotaa,
-annaguna nin fara-baxay hubka ficil ma lagu guray
-fasax baannu siinnee fooxana ma lagu ridey.
+fartu damaqday boogtii
+
+ku fadhidey qunbacashada
+Riigan si faddaadee
+fidmo qoriga loo dhiib.
+
+Falastiin raggeedii
+
+geerida hab faxalnimo
+
+nafta ugu fideyn jirey
+Faqash17 waxay yidhaahdeen
+inta Farow sakalantahay
+Falastiin henggelantahay
+dadka lihi fongoranyahay
+belo wayska fududdahay
+imminkaabay fidhatee
+
+yaa fandhaal ba weli daray.
+
+Kol hadday fogaatoo
+faddarowdey nabaddii
+annaguna nin fara-baxay
+fasax baannu siinnee
 Faataxaannu leenahay,
-ninka cudud ku faaniyo Fud-fudaydka Geeshkii
-) foolaad ha soo baxo dhigi jirey fajicisada |
-Fido waa naqaannaa. farta mawgu yeedheen,
+ninka cudud ku faaniyo
+foolaad ha soo baxo
+Fido waa naqaannaa.
+
+Haddaa Faantom keentaan
+bado soo faruurtaan
+ciidan faylsan soo guro,
+awel baanan fiicnaan
+
+iyo qabin fayoobaan.
+
+Ninka igu fekerayaa
+inuu fooror igu helo
+fadhi quusa igu dilo
+
+doqonnino igu falo
+mar horaan ka faashaday.
+
+Cabsiyeyy fur lagu geli
+Riiganow falkaa yeel
+baaruudda firidhiyo
+fidhadiyo dabaylaha
+Naabaal ka fara-badan
+fidh-fidh go'a hubka u diran,
+sida fadhan fadh soo lali
+fallaadh baan cirka u diray
+fool bay la maqan-tahay
+nin walowba ila filo.
+
+Haye dee Faqdiirow
+sharka aynu fuullee
+
+awrka soo faruur-xidha,
+
+Xaajadu falaad iyo
+
+umal feedha jiifoo
+
+furka ridey xanuunkiyo
+farsamay ku socotaa,
+hubka ficil ma lagu guray
+fooxana ma lagu ridey.
+
+Fud-fudaydka Geeshkii
+dhigi jirey fajicisada
+farta mawgu yeedheen,
 markii foodda lays-daray
-r Haddaa Faantom keentaan fagaxdiyo durduradiyo
-i bado soo faruurtaan fahda orodka booddada
-Beegan'® foosas soo tubo fadal-boobka carashada
-. clidan faylsan soo guro, Geeshkii cir-fanashada
-awel baanan fiicnaan figta sare lahaan jirey
-iyo qabin fayoobaan. fakadii ma laga degey
+fagaxdiyo durduradiyo
+fahda orodka booddada
+fadal-boobka carashada
+Geeshkii cir-fanashada
+figta sare lahaan jirey
+fakadii ma laga degey
 fahma-guur ma lagu ridey
-. Ninka igu fekerayaa Het aaa oA yun
-tT pigs Were igu helo falfaloosta Naatoo
-4 fadhi quusa igu dilo
-7. 17 Fagash, halkan waxaa loo jeedaa Ronald Reagan ina :
-ok 18 Beegan-waa Manaaxim Beegan ; ieee Rona Wilson hea Madaxweyne hore, Dalkaas Maraykanka (1980-1988).
-¥ ore a ee an
+filan-waa ma ka hor yimi,
+fatata'a rasaastiyo
+falfaloosta Naatoo
 
-=r —
-bir finiin-ka-j OCBED runta filansho-waaga ah |
-fitir faatir gubatiyo food saaro loo waa
-ma ka dhigay fataatiir. godob feedhanaysiyo
-Finjil iyo Fajaajuur
-Galaw fooridiisiyo faraqay is-haystaan.
-fiintu maysu yeedheen.
-Geeshkii fasaadkiyo Faanow waxba ha tarin
-furashada haweenkiyo fooxaalligii mee!
-feenashada dhallaankiyo togea San fa nih iyo
-dhiigga fuugsigtistyo webiyada fatahayaa
-fantasaha ku caan baxay fooraha cartamayaa
-fadh fe adhiy ots waalkit fadadka is-galaa baxay
-Wyofeejignaantii ma fidaa ‘igiibaa
-dhulka loogu fidin jirey lagu qoray fallaaggee
-ma fasakhay nin diiddani, Faaraxow gumeystuhu
-Suariayo faikooatt beri hore faquuqee
-nee li ieee fal faddaraa gar diidiyo
-u ka daran ma lagu falay, a pecen
-Ma fan-jeedshey Bone h fe far-ku-tiris ku sheegeen.
+17 Faqash, halkan waxaa loo Jeedaa Ronald Reagan
+
+a N
+19 Deeqa-Waa Deeqa Colujoog
+
+bir finiin-ka-joogaa,
+fitir faatir gubatiyo
+ma ka dhigay fataatiir.
+
+Galaw fooridiisiyo
+
+fintu maysu yeedheen.
+Geeshkii fasaadkiyo
+furashada haweenkiyo
+feenashada dhallaankiyo
+dhiigga fuugsigiisiyo
+fantasaha ku caan baxay
+fadh fadhiyo is-waalkii
+iyo feejignaantii
+
+dhulka loogu fidin jirey
+ma fasakhay nin diiddani,
+sixirkiyo falkoodii
+falowgay yiqiinneen
+
+tu ka daran ma lagu falay,
+Ma fan-jeedshey Geeshkii
 fule lagu cabsiin jirey,
-dhabankii fayoobaa Wedku faata-faataha
-shan farood ma lagu dhigay, faad faatintiisi
+dhabankii fayoobaa
+
+shan farood ma lagu dhigay,
+
+Caga-jiidka findhaha
+dib u faana-gurashada
+goobihi fantaysnaa
+ma ka faadhumaysteen.
+
+Faqash yo walaalkii
+Figigii gumeystaha
+
+ma u diray farriimaha
+falangaynta sheekada
+faga maysku taabteen
+feleggiyo xiddigihii
+
+fiiro mawgu laabteen,
+xaajada faruur-xidhan
+ma furdaamin waayeen.
+
+Xaajada fal-nacaska ah
+faalkeedu bixi waa
+
+fixiweydey beentii
+
+runta filansho-waaga ah
+food saaro loo waa
+godob feedhanaysiyo
+Finjil iyo Fajaajuur
+faraqay is-haystaan.
+
+Faanow waxba ha tarin
+fooxaalligii mee!
+
+togga soo faruurmiyo
+webiyada fatahayaa
+fooraha cartamayaa
+fadadka is-galaa baxay
+ma fidaa 'igiibaa
+
+lagu goray fallaaggee
+Faaraxow gumeystuhu
+beri hore faguugee
+faddaraa gar diidiyo
+far-ku-tiris ku sheegeen.
+
+Wedku faata-faataha
+faad faatintiisii
+
 hadduu meel ku foognaa
-Caga-jiidka fiindhaha guryo sixin fatahayuu
-dibu tr ku ekeeyey foofkit A
-goobihii fantaysnaa Sage aie d
-| alastiin ku koobnay
-ma ka faadhumaysteen. wakhtigaa fogeeyoo
+guryo sixin fatahayuu
+
+ku ekeeyey foofkii
+fakabkiyo baroortii
+Falastiin ku koobnayd
+wakhtigaa fogeeyoo
 Faaraxow Talaabbiib
-Beegan talo ma faaqidey firka-naxa habeenkii
-| Fagash iyo walaalkii iyo labada fiid-cawl
-Figigti gumeystaha fooladdeedu waa weer
-| ma u diray farriimaha meydku waa is-feedh yaal
-| falanqaynta sheekada Gaarriyow la fara badey.
-faqa maysku taabteen
-feleggiyo xiddigihii bs er:
-fiiro mawgu laabteen, Riigan faygarkiisit
-xaajada faruur-xidhan falkintiyo shirgoolkii
-ma furdaamin waayeen. falalkii iska hor yim
-iq hee ceeb ku Heels
-; ool-xumooyinkiisit
-| ee fal-nacaska ah ma la vidhi ku fool-dhaqo?
-xi ee bixi waa Bogorrada faxaaxsadey
-iweydey beentii faankii duleediyo
-ae a
+firka-naxa habeenkii
 
-rr A
-ma dhigeen is-fagallixis ? faranteeda cidi marin
-Fahad iyo bahdiisii xilihii ma lagu furay
-Falastiin cidlada dhigay foodho yaa car soo gala! Hit
-weji-dadab ma fiigeen? |
-Il-fashagqa ma dhuunteen? Jiritaanka falasdiin i
-ose ig ats es | inaan xoog furfuri karin
-shaalkii ma laga furay: Faantoomna ridi karin
-Fiitoona tiri karin
-Ma fadeexaddii baa geesigii u feydnaa
-laga feydey maradii? ma ku goray far waaweyn.
-Ma fadeexaddii baa Ma wareegey feleggii
-tyadoon fur saarrayn In la tago oe
-fooruhu ku dhacayaa ‘s fursan-waa ma laga dhigay!
-Ma fadeexaddii baa Runtu maysku filan tahay
-fiddiggeeda haaddiyo farta dhiigga lala galay
-cayayaanku fagayaa ! shaxda laysku fay go’ay
-Xaajadu farraarriyo turubkii faska ahaa
-: futo qaawan badanaa! Falastiin ma haysaa,
-Gaarriyow fajicisada
-Fakashada gumeystuhu ninkii foodda dheeraa
-Falastiin xilkeediyo fatar kiil ma lagu yidhi!
-nabaddii fayoobayd Guul baa la filayee
-waa kii ka faaqdee fooraddii ma lala tegey
-arrintuu fogeeyee gobannimo ma faral baa.
+iyo labada fiid-cawl
+fooladdeedu waa weer
+meydku waa is-feedh yaal
+Gaarriyow la fara badey.
+
+Riigan faygarkiisii
+falkintiyo shirgoolkii
+falalkii iska hor yimi
+
+wuxu ceeb ku foognaa
+fool-xumooyinKiisii
+
+ma la yidhi ku fool-dhaqo?
+Bogorrada faxaaxsadey
+faankii duleediyo
+
+ma dhigeen is-fagallixis?
+Fahad iyo bahdiisii
+Falastiin cidlada dhigay
+weji-dadab ma fiigeen?
+Il-fashaq ma dhuunteen?
+Duubkii fatooshtiyo
+shaalkii ma laga furay?
+
+Ma fadeexaddii baa
+laga feydey maradii?
+
+Ma fadeexaddii baa
+iyadoon fur saarrayn
+fooruhu ku dhacayaa?
+Ma fadeexaddii baa
+fiddiggeeda haaddiyo
+cayayaanku fagayaa!
+Xaajadu farraarriyo
+futo qaawan badanaa!
+
+Fakashada gumeystuhu
+Falastiin xilkeediyo
+nabaddii fayoobayd
+
+waa kii ka faaqdee
+arrintuu fogeeyee
 sakalaha Fardama sudhay
-gartu fuli ma leedaha - i
-aaruud ma lagu furay. foosba foos ma ku hubsaday
-me thes, acfac maysu dhiibeen
-" Isticmaarku fiix iyo Ae xiga ma lagu simay
-. fin caloosha kaga yaal Cartan faylka maw baxay
-ma is. yidhi ka far axalo Fadal maw xidh-xidhan yahay
-nabar. kii ma su fiday Faaruug ma korayaa
-sida furug tin tyo cidhib Fido uur ma leedahay
-ma ku faafay xididdada! Faagqid maw calool galay
-q __ Ma fadhiistay dhuuntiyo Faayo maw mataan tahay
-hk meel aan farsamo gelin. Falastiin ma geed baa
+gartu fuli ma leedahay
+dhegihii furaysnaa
+baaruud ma lagu furay.
+
+Isticmaarku fiix iyo
+
+fin caloosha kaga yaal
+ma is.yidhi ka faraxalo
+nabarkii ma sii fiday
+sida furug tin iyo cidhib
+ma ku faafay xididdada!
+Ma fadhiistay dhuuntiyo
+meel aan farsamo gelin.
+
+Fara-saarka Bayruud
+Xinjir faartay mooyee
+inaan faanaheediyo
+
+faranteeda cidi marin
+xilihii ma lagu furay
+foodho yaa car soo gala!
+
+Jiritaanka falasdiin
+
+inaan xoog furfuri karin
+Faantoomna ridi karin
+Fiitoona tiri karin
+geesigii u feydnaa
+
+ma ku goray far waaweyn.
+
+Ma wareegey feleggii
+
+In la tago fagaaraha
+fursan-waa ma laga dhigay!
+Runtu maysku filan tahay
+farta dhiigga lala galay
+shaxda laysku fay go'ay
+turubkii faska ahaa
+Falastiin ma haysaa,
+Gaarriyow fajicisada
+ninkii foodda dheeraa
+fatar kiil ma lagu yidhi!
+Guul baa la filayee
+fooraddii ma lala tegey
+gobannimo ma faral baa.
+
+Falastiin raggeedii
+figladiyo wadaamaha
+foosba foos ma ku hubsaday
+facfac maysu dhiibeen
+
+filka xiga ma lagu simay
+Cartan faylka maw baxay
+Fadal maw xidh-xidhan yahay
+Faaruug ma korayaa
+
+Fido uur ma leedahay
+Faaqid maw calool galay
+Faayo maw mataan tahay
+Falastiin ma geed baa
 halka faash ku laba-dhaco
-Fara-saarka Bayruud laamuhu ka foofaan.
-if xinjir faartay mooyee
-naan faanaheediyo
+laamuhu ka foofaan.
 
-> <i
-Falastiin ma beer baa ii
-waqal fool eryaayoo LIMO
-laga guro fariidkoo pALLAAL |
-fufka dhala halyeeyada Qaranow daryeelkaa |
-hadba foodda laga jaro!. Wee u Figen
-| dulmiyow tilmaantaa
-Fooraha Lubnaan maray CHES. ka ih
-ma ku fiday adduunyada ? Shage ee ii ih e,
-fara wada ilaysiyo ummad yahay u digiddaa
-ma ku ganay fallaadhaha — ahavow dakanadne
-wakhti fagadh ma soo yidhi! o Bie nooy u dirirkaa
-firxadkii is-waayiyo Liss °.
-filgantii ma urursaday! sts pe eee
-Falastiin salkeediyo es nee ees aii
-fidda-baxa Amriikiyo nips eatee
-Fiyat Naam dusheediyo Addo yauCodee
-Fogom iyo Rashiidow a in Y§ aoa ee
-togga Foolgo iyo Cadan ATA tel iad’),
-ilaa fayga Keeb Tawn Gig es g Me Ae
-: durid iyo canbaar tyo
-geen Sua a. inta daranba lay mari.
-Fegendaha gilgilashada Marar lay dardaar wert
-falax falaxda laydha ah birta age lay geli
-fudad kale ma burureen Nenbaeidovva liso sli
-farxaddii ma tooseen! deel-gaafna ii raac
-Feeraarta Bari-dhexe degelkiyo rugtaydii
-falladhkii madoobaa ; dii |
-s faynuus ma sudhan-yahay ie abe Sa baxay.
-. filashadu ma badantahay. age
-n r Ku darsoo ha yeeshee
-a Falba waa falkiisee degi waa ladhkaygit
-anna faaja faajada dumi waa hankaygit
-EE og OS ei dhiman waa ca esaee
-fooga buuraleydiyo dami waa ilayskit
-fanaxyada Nugaaleed damqan weydey saantit
-5 dhulka mudug ka foorora deebaaqdu ima karin
-‘ peur gee? dawadiina lay waa.
-7 | aannoole iyo Xamar
-y faras mawgu joogaa. Dufan iyo sabaaliyo
-i] dux waxaan ku gelinayn
-- dogon baa u xilatoo
-: nacas baa ku dararoo
-j . a sae
+Falastiin ma beer baa
+wagal fool eryaayoo
+laga guro fariidkoo
+fufka dhala halyeeyada
+hadba foodda laga jaro!.
 
-weligii ku deexdee Dibnahaaga haysoo YT
-durdurrada xajiinta ah da’ fur oo ha qiiroon 4 |
-ku dabbaalo lay yidhi galinkiyo dawaaddiyo it
-dadnimaanse ka xigsadey. Dulfiqaar dhig lay yidhi, |
-Deelley baanse ka xigsadey. |
+Fooraha Lubnaan maray
+ma ku fiday adduunyada?
+fara wada ilaysiyo
+
+ma ku ganay fallaadhaha
+wakht fagadh ma soo yidhi!
+firxadkii is-swaayiyo
+fdgantii ma urursaday!
+Falastiin salkeediyo
+fidda-baxa Amriikiyo
+Fiyat Naam dusheediyo
+Fogom iyo Rashiidow
+togga Foolgo iyo Cadan
+ilaa fayga Keeb Tawn
+fadku maysu muugdaa.
+
+Fegendaha gilgilashada
+falax falaxda laydha ah
+fudud kale ma burureen
+farxaddii ma tooseen!
+Feeraarta Bari-dhexe
+falladhkii madoobaa
+faynuus ma sudhan-yahay
+filashadu ma badantahay.
+
+Falba waa falkiisee
+anna faaja faajada
+furashada Hargeysiyo
+fooqa buuraleydiyo
+fanaxyada Nugaaleed
+dhulka mudug ka foorora
+Faxfax-dhuun agtiisiyo
+Faannoole iyo Xamar
+faras mawgu joogaa.
+
+### DALLAALLIMO
+
+Qaranow daryeelkaa
+xorriyooy u doodkaa
+dulmiyow tilmaantaa
+duudsiyow ka murankaa
+xagow daafacaaddaa
+danyareey u hadalkaa
+ummad yahay u digiddaa
+gabayow dakanadaa
+midnimooy u dirirkaa,
+xadhig miiggan lay diir
+dabar adagna lay sooh
+keeno laygu daadihi
+deli laygu seetee
+
+duddo laygu oodee
+darbo iyo guhaad iyo
+digashiyo colaad iyo
+durid iyo canbaar iyo
+inta daranba lay mari.
+
+Marar lay dardaar weri
+birta daabka lay geli
+
+ha la dilona lay yidhi
+deel-qaafna ii raac
+degelkiyo rugtaydii
+
+iyo dahabadaydii
+iyagana ka dibad baxay.
+
+Ku darsoo ha yeeshee
+degi waa ladhkaygii
+dumi waa hankaygii
+dhiman waa dareenkii
+dami waa ilayskii
+damqan weydey saantii
+deebaagdu ima karin
+dawadiina lay waa.
+
+Dufan iyo sabaaliyo
+dux waxaan ku gelinayn
+dogon baa u xilatoo
+nacas baa ku dararoo
+
+weligii ku deexdee
+durdurrada xajiinta ah
+ku dabbaalo lay yidhi
+dadnimaanse ka xigsadey.
+
 Nafta haw darraannoo
-ha is-taagin daaftee Ka deg faraska lay yidhi
-| dusha soo kor lay yidhi dibso oo lugaa keen |
-duug hadhaanse ka xigsadey. dulli qgaayib lay yidhi,
-§ §Sade)
-dirir baanse ka xigsadey.
+ha is-taagin daaftee
+dusha soo kor lay yidhi
+
+duug hadhaanse ka xigsadey.
+
 Dabatada is-guratiyo
-dooxatada is-wacatiyo Tolo derejo lay yidhi
-xerta aaran dubatada deni nogona lay yidhi
-daawo yeeshaa lay yidhi, waxaad adigu doontiyo
-danyar baanse ka xigsadey. dantaa sheego lay yidhi,
-§ Sade’
-dayraanse ka xigsadey.
+dooxatada is-wacatiyo
+xerta aaran dubatada
+daawo yeeshaa lay yidhi,
+danyar baanse ka xigsadey.
+
 Dabka aad shidaysiyo
-dabra-weerarkaagiyo Afartaas rugta u daa
-. debci hawsha lay yidhi dadbay oo ka jeedladay.
-diidey baanse ka xigsadey. Ma dahaa ma daayaa?
-Shirwacowma dooxaa?
-Duunyo laygu muunee Gee Hee SEES
-: waxay dihatey buurtit
-damac layla soo qaad eee f
-digta iyo hamteedii
-duufna lay xalaale . ..
-p ) gabgabtiyo dayaankit
-runtu door ma keentee .
-: i an iyo ducashadeedii,
-been ku daakir lay yidhi, dunidoo dhan la hingaday?
-daacad baanse ka xigsadey. |
-: ane Duhur baa la joogaa
-Demesh iyo xariir iyo Ue
-aqal daahyo dheeroo pr i 4 BE, tahay
-bilic lagu daleeyiyo ugey baa isugu tum
-| degdeg buu shirku ahaa
+dabra-weerarkaagiyo
+debci hawsha lay yidhi
+diidey baanse ka xigsadey.
+
+Duunyo laygu muunee
+damac layla soo gaad
+duufna lay xalaale
+
+runtu door ma keentee
+been ku daakir lay yidhi,
+daacad baanse ka xigsadey.
+
+Demesh iyo xariir iyo
+agal daahyo dheeroo
+bilic lagu daleeyiyo
+
 dugsi laygu maamuus
-debed baanse ka xigsadey. annaldaawashaananay
-Sara iyo weriye daah xidhan
+debed baanse ka xigsadey.
+
+Inta fudud dabayshiyo
+duufaan ha qaadee
+
+ka danayso la yidhi
+
+doobi buuxu lay dhiib
+daadi baanse ka xigsadey.
+
+Dibnahaaga haysoo
+
+da'fur oo ha giiroon
+qalinkiyo dawaaddiyo
+Dulfiqaar dhig lay yidhi,
+Deelley baanse ka xigsadey.
+
+Ka deg faraska lay yidhi
+dibso oo lugaa keen
+dulli qaayib lay yidhi,
+dirir baanse ka xigsadey.
+
+Tolo derejo lay yidhi
+deni noqona lay yidhi
+waxaad adigu doontiyo
+dantaa sheego lay yidhi,
+dayraanse ka xigsadey.
+
+Afartaas rugta u daa
+dadbay oo ka jeedladay.
+Ma dahaa ma daayaa?
+Shirwacowma dooxaa?
+dar Alle ma sheegaa
+
+waxay dihatey buurti
+digta iyo hamteedii
+gabgabtiyo dayaankii
+
+iyo ducashadeedii,
+
+dunidoo dhan la hingaday?
+
+Duhur baa la joogaa
+damal bay malkadu tahay
+duqey baa isugu timi
+degdeg buu shirku ahaa
+anna daawashaan ahay
+iyo weriye daah xidhan
 daljir aan la filanayn
-Inta fudud dabayshiyo belo aan la bons
-eee ha (eae Gaal ie caroog sida
-nayso la yidhi agu diirsan oo yimi
-doobi buuxu lay dhiib Raaateans sl age iyo
-daadi baanse ka xigsadey. hab derderan ku soo galay.
+belo aan la doonayn
+dawan iyo caroog sida
+lagu diirsan oo yimi
+madalkana si dalag iyo
+hab derderan ku soo galay.
 
-Daymo halacsigeediyo . habaqlii dayeysnaa Hy
-arar iyo ducaa dhacay | ninba duluglihiisii i
-dabadeed warkaas guud meel baas u dalandali
-darka loo gur yeelkii dadabtana ku weegaar.
-shaxda laysla daydayey ' Garan waayey doogtiyo
-| intaan looba daadegin halka xaalku deridiyo
-dulucdiyo ujeeddada isha daban ka leeyahay
-dul-ka-xaadsigii guud doon doonayoo helay
-durba laysku maan dhaaf, waxa laysku dilayaa
-duul-duulyey hadalkii in xumaa la doorshiyo
-sheekada dib loo celi xil - dar-yeeliddiisiyo |
-dad-u-hiilin maahee
-Dooryaanle loo guur geenyada dakaanka ah
-ninba dooda baanaha anna aan dul-buuxshoo
-sida maanta doorka ah dala’sado kolkaygoo
-dacallada ka dhaaf-dhaaf daadka aan ku dhaafee
-utin duuga hibashada iiga soo deg weeyaan.
+Daymo halacsigeediyo
+arar iyo ducaa dhacay
+dabadeed warkaas guud
+darka loo gur yeelkii
+
+shaxda laysla daydayey
+intaan looba daadegin
+dulucdiyo ujeeddada
+dul-ka-xaadsigii guud
+durba laysku maan dhaaf,
+duul-duulyey hadalkii
+sheekada dib loo celi
+
+Dooryaanle loo guur
+ninba dooda baanaha
+sida maanta doorka ah
+dacallada ka dhaaf-dhaaf
+utin duuga hibashada
 dura soo cusboonee
-deyn laysku soo oog, Te en
-ninba dakhar ka et Waxan idhi, ’dallaallimo,
-digo hore la faadh faadh dibjir baa ku sugayee
-xaajada dorraatiyo danyar baa ku korisoo
-Daahyaale loo riix. iyadaa ku diratee _
-Idinkaa na daba guray kulka , haamadaygiyo
-idinkaa wax dumin jirey yaan darroortu kaga iman
-idinkaa na dagi jirey docda lagugu qaybsaday
-| idinkaa dellegan iyo ha ka leexan dawgit
-: dibirooti nagu wada ballankii ha sii deyn
-diig-diigad carasharah dab ha soo hunqaacdee }
-danan iyo rakaad-celin dabarkiyo xadhkaha goo
-onkod iyo dinnaahyeyn danab dhacay sidiisit bs
-wahad lays durduursii dhulka dakharro gaadhsii
-\ garta laysku daadduun. buuruhu ha daateen
-. ha ka daahin beeshit
-Door-roonayaashii waxa jirana deeqsit . |
+deyn laysku soo oog,
+ninba dakhar ka maahmaah
+digo hore la faadh faadh
+xaajada dorraatiyo
+Daahyaale loo riix.
+Idinkaa na daba guray
+idinkaa wax dumin jirey
+idinkaa na dagi jirey
+idinkaa dellegan iyo
+dibirooti nagu wada
+diig-diigad carasharah
+danan iyo rakaad-celin
+onkod iyo dinnaahyeyn
+wahad lays durduursii
+garta laysku daadduun.
+
+Door-roonayaashii
+
 dabin madhan ku loollame
-runta laysku deyi waa Waxay tidhi ”dedaalkay”,
-daacaad loo ged-bixi waa "isku diidi maynee
-) ninna damac ka wadi waa diihaalka lahashada
-daalaa-dhac hadalkii dug madow habeenkit
-carrab dalab leh mooyee marka aar Dabooliyo*
-mayal toosan loo diid orgob doolay kedisada
+runta laysku deyi waa
+daacaad loo ged-bixi waa
+ninna damac ka wadi waa
+daalaa-dhac hadalkii
+carrab dalab leh mooyee
+mayal toosan loo diid
 
-deyrka reerka gaadmada | Dadku maaha kii hee Hy
-dardartiyo war-ma qabtada salfudaydka dalagta ah |
-halka dagan kasoo dhaco, dabinnada u geli jirey. ih
+habaglii dayeysnaa
+ninba duluglihiisii
+meel baas u dalandali
+dadabtana ku weegaar.
+
+Garan waayey doogtiyo
+halka xaalku deridiyo
+isha daban ka leeyahay
+doon doonayoo helay
+waxa laysku dilayaa
+
+in xumaa la doorshiyo
+xil - dar-yeeliddiisiyo
+dad-u-hiilin maahee
+geenyada dakaanka ah
+anna aan dul-buuxshoo
+dala'sado kolkaygoo
+daadka aan ku dhaafee
+iiga soo deg weeyaan.
+
+Waxan idhi, "dallaallimo,”
+dibjir baa ku sugayee
+danyar baa ku korisoo
+iyadaa ku diratee
+
+kulka, haamadaygiyo
+yaan darroortu kaga iman
+docda lagugu qaybsaday
+ha ka leexan dawgii
+ballankii ha sii deyn
+
+dab ha soo hunqaacdee
+dabarkiyo xadhkaha goo
+danab dhacay sidiisii
+dhulka dakharro gaadhsii
+buuruhu ha daateen
+
+ha ka daahin beeshii
+waxa jirana deegsit”.
+
+Waxay tidhi "dedaalkay”,
+“isku diidi maynee
+diihaalka lahashada
+
+dug madow habeenkii
+marka aar Dabooliyo*
+orgob doolay kedisada
+
+deyrka reerka gaadmada
+dardartiyo war-ma qabtada
+halka dagan kasoo dhaco,
 dadka kii ku toosiyo
-cagta mariyo duunyada Dadku Maahe Mines i
-bs kale e rea) ¢ | isagoon denbi lahayn
-usha inay ka eegtaan Spr nA
-hadba xeelo dihin iyo digoxaadh la marin jirey.
-tab kaloo dil dila rogan .
-ugu soo duggaalaan Dadku maaha kii hee
-waa dabeecad soo tiil”’. sida duunyo weer helay
-dil-dillaan ku go’i jirey.
-H daadeg baan idhi. |
-ae ated Dadku maaha kii hee
-he . ‘kay door sameeyaan
-Waxay tidhi ”"haddaan dedo” pe ee
-<adleeneor nin dif iyo gabbalkoodu dumi jirey.
-Behe i BEE? li Dadku maaha kii hee
-beehnne pet Wado damdamtiyo mashxaraddiyo
-diriciyo tusbaxa dheer | ku burburay durbaannada.
-iyo xeesha daba taal
-dummaddayda weeyaan”. Dadku maaha kii hee
-maqli jirey daryeelkee
-Waxan idhi,” kasii durug”, CS ae
-Waxay tidhi "ha ii dudo” ”
-Weil dadab hai Dadku maaha kii hee |
-Ves one Saad laga dhigay dac-wadhantiyo
-kuwa mililka duunkiyo danbaskii qaboobaa.
-duumada garsanayee
-¢ cadho-umal daraaddeed Dadku maaha kii hee
-dibnahooda cunayaa dabar lagu ilaashiyo
-waabay ha daaceen dooh lagu xasilin jirey.
-inaan doogahoodiyo
-damqo boogahoodaan Dadku maaha kii hee
-ugu dhaartay diintee P dib waxay u eedaan
-| damacow dhegaa furo”. marka hore ku dagan Jjirey.
-; Dadku maaha kii hee Dadku maaha kii hee
-dawliilka beentaah _ gudin lagu dulbaaxsado
-duubka loogu xidhan jirey. daabka looga dhigan jirey.
-ie — nae
 
-rr
-it
-Dadku maaha kii hee | waa maxay daloonbigu Hi
-carrabkoodu daaleen codka lays dalbanayee ||
-ducadoodu kici jirin. | duur-xul laysku leeyahay? Wi
-Demman wayska huruddaa ib
-a docda bari ka laba gura .
-i adhe i I ai d miyaan waagu daalicin?
-larka ceelka horashada
-| dalawada irmaanta ah |
-| afar-deeqda madida ah Duulka laysku haystaa
+cagta mariyo duunyada
+kuwa kale duleedkiyo
+dusha inay ka eegtaan
+hadba xeelo dihin iyo
+
+tab kaloo dil dila rogan
+ugu soo duggaalaan
+
+waa dabeecad soo til”.
+
+Hoos u daadeg baan idhi.
+
+Waxay tidhi "haddaan dedo”
+saddex goor nin diif iyo
+dayac iyo lur gaadho
+
+dalgo bahal ku jira weli
+dibin daabyo lagu wado
+diriciyo tusbaxa dheer
+
+yo xeesha daba taal
+dummaddayda weeyaan”.
+
+Waxan idhi,” kasi durug”,
+
+Waxay tidhi “ha ii dudo”
+“weji dadab ha iga naxo
+afka haygu daasheen
+kuwa mililka duunkiyo
+duumada qarsanayee
+cadho-umal daraaddeed
+dibnahooda cunayaa
+waabay ha daaceen
+inaan doogahoodiyo
+damgo boogahoodaan
+ugu dhaartay diintee
+damacow dhegaa furo”.
+
+Dadku maaha kii hee
+dawliilka beenta ah
+
+duubka loogu xidhan jirey.
+
+Dadku maaha kii hee
+salfudaydka dalagta ah
+dabinnada u geli jirey.
+
+Dadku maaha kii hee
+isagoon denbi lahayn
+digoxaad la marin jirey.
+
+Dadku maaha kii hee
+sida duunyo weer helay
+dil-dillaan ku go'i jirey.
+
+Dadku maaha kii hee
+markay door sameeyaan
+gabbalkoodu dumi jirey.
+
+Dadku maaha kii hee
+damdamtiyo mashxaraddiyo
+ku burburay durbaannada.
+
+Dadku maaha kii hee
+maqli jirey daryeelkee
+arki jirey darxumadee
+saadaal ku degi jirey.
+
+Dadku maaha kii hee
+laga dhigay dac-wadhantiyo
+danbaskii gaboobaa.
+
+Dadku maaha kii hee
+dabar lagu ilaashiyo
+dooh lagu xasilin jirey.
+
+Dadku maaha kii hee
+dib waxay u eedaan
+marka hore ku dagan jirey.
+
+Dadku maaha kii hee
+gudin lagu dulbaaxsado
+daabka looga dhigan jirey.
+
+Dadku maaha kii hee
+carrabkoodu daaleen
+ducadoodu kici jirin.
+
+Dadku maaha kii hee
+darka ceelka horashada
+dalawada irmaanta ah
+afar-deeqda madida ah
 dib intay u waabshaan
-diran jirey candhoolaha. illaa duunyo maahee |
-doob kaloo hawoodtyo
-«g nin kaloo u dadab-gala
-D adku maaha kii hee ku dumaala saynsaab
-ne Gat ni had lyo jeer ka ilbaxe duruustaas.
-uuduub ku liqi jirey.
-Waxay taas ka doorteen
-dadku maaha kit hee ; ama talo ku daasteen |
-sida geel ku diday kibir inay dayrtan maanta ah
-durdurada ku jabi jirey. inta timaha loo dabay
-ama daraya-muus xidhan
-dadku maaha kii hee dalka gugan hablaa kacay
-laba goor dan seegee ta u ladan ka doortaan
-shalay iyo dorraad jirey. cashaday dareemaan
-daacaddeeda waayaan
-YATE hor iihice dalqaddeeda sityaan.
+diran jirey candhoolaha.
+
+Dadku maaha kii hee
+
+midho daray had iyo jeer
+
+duuduub ku liqi jirey.
+
+dadku maaha kii hee
+sida geel ku diday kibir
+durdurada ku jabi jirey.
+
+dadku maaha kii hee
+laba goor dan seegee
+shalay iyo dorraad Jirey.
+
+Dadku maaha kii hee
 intay daaf ka guuraan
-daacuun u raran jirey. Nin daruur ku dhoofiyo
+daacuun u raran jirey.
+
+dadku maaha kii hee
+diga-rogashadoodiyo
+dalan-doolka geeddiga
+dalka oo cadceeddiyo
+dayaxiiba joogaan
+xiddigaha dagaar iyo
+dunqulaal ku gudi jirey.
+
+Doogtu maaha tii hee
+dibno lagu afuufiyo
+maryo lagu dabooliyo
+hadal lagu daweyn jirey.
+
+waa maxay daloonbigu
+codka lays dalbanayee
+duur-xul laysku leeyahay?
+Demman wayska huruddaa
+docda bari ka laba gura
+miyaan waagu daalicin?
+
+Duulka laysku haystaa
+
+illaa duunyo maahee
+doob kaloo hawoodiyo
+nin kaloo u dadab-gala
+ku dumaala saynsaab
+ka ilbaxe duruustaas.
+
+Waxay taas ka doorteen
+ama talo ku daasteen
+
+inay dayrtan maanta ah
+inta timaha loo dabay
+ama daraya-muus xidhan
+dalka gugan hablaa kacay
+ta u ladan ka doortaan
+cashaday dareemaan
+daacaddeeda waayaan
+dalgaddeeda siiyaan.
+
+Nin daruur ku dhoofiyo
 nin dabayli qaaddiyo
-= nin ku duula haaddiyo |
-A ae nin diyaarad raaciyo
-Aldlaccaboiten ea * nin dabbaabad fuuliyo
-' HnlkaOD ond ceed Hie nin darmaan ku boodiyo
-i dayaxiiba joogaan inta dooddiyaysaay
-aa daarta loo tartamayaa
-xiddigaha dagaar iyo iE anivo TRARHIND
-dunqulaal ku gudi jirey. GOTH WO Ug a
-dirir lagu hayaamtyo
+nin ku duula haaddiyo
+nin diyaarad raaciyo
+nin dabbaabad fuuliyo
+nin darmaan ku boodiyo
+inta dooddiyaysaay
+daarta loo tartamayaa
+daran iyo tigaad iyo
+dirir lagu hayaamiyo
 dalag loo kaltamayoo
-Doogtu maaha tii hee laga furay daboolkoo
-dibno lagu afuufiyo dadka loogu baaqiyo
-maryo lagu dabooliyo durdurrada Firdawsiyo
-? hadal lagu daweyn jirey. Janno dagatay maahee
+laga furay daboolkoo
+dadka loogu baaqiiyo
+durdurrada Firdawsiyo
+Janno dagatay maahee
 ninna waaba lagu diley
 
-ninna waw deldelan yahay da’dan waxan ka baqayaa |
-nin u duuban tiisow inuu daba-ka ruub iyo
-waxba hayska daba ridin dabar-gooye fooshee .
-deegaanta laacdee doobir ti dheh Yaasiin?9,
+ninna waw deldelan yahay
+nin u duuban tiisow
+waxba hayska daba ridin
+deegaanta laacdee
+
 ma ogtahay dalluumaha
 iyo deyrka hoos yaal
-ha degdegine aashaa Inta Dahab nimaan geyin
-sheekada dib ugu nogo. u daddaabba xidhan tahay
 
-gudcurkuna damtaa yahay
-deyn maayo hadalkee
-Hadday debecdo qaansadu iga qabo Dallaallimo
-duullaanku kala jabo iyadana ka dabagee
-xagal-daac ku kala lumo dir intay wadaageen
-dannigiyo is-waagiyo diiwaanka ii geli.
-dawlis keli nin toocsaday
+ha degdegine aashaa
+sheekada dib ugu nogo.
+
+Hadday debecdo qaansadu
+duullaanku kala jabo
+xagal-daac ku kala lumo
+dannigivo is-waagliyo
+dawlis keli nin tooosaday
 door keeni maysee
+
 waxay daahinaysaa
-dabku inu ku sii baxo
+
+dabku inu ku sii bavo
 degelkii shufta ahaa.
+
 Waxa iga dardaarana
 haddaan laysu soo dumin
 cududaha la kala diray
-gaarriyow dad-qalatada
+gaarriyow dad-galatada
 isku duubni lagu ridin
-dunta bogorka shaashka leh
+duntd boqorka shaashka leh
 lagu simin dadweynaha
 inaan daw bannaanayn
 ninka diiddan taasow
 weligaaba doon doon
 derejada carbuunta ah.
+
 Ka daryoo saceennii
-- dibi baabu dhali jirey
-f doorarkii horeetee
+dibi baabu dhali jirey
+doorarkii horeetee
 daalaa-dhaciisiyo
 dacayda iyo caashiyo
 daamankaan u jeedaa
 dacar iyo dhunkaal bay
 la dunuunucaysaa,
-! 20 Yassin: Waa Vassiin Axmed Xaaji Nuur
 
-or ——
-W AXYI marna walax dagaal tahay |
-warmo tyo hub leedahay |
-wejigeedu laba yaha
-Weriyaha socdaalkaan a ie aaa A MEP, |
+da'dan waxan ka bagayaa
+inuu daba-ka ruub iyo
+dabar-gooye fooshee
+doobir ii dheh Yaasiin20.
+
+Inta Dahab nimaan geyin
+u daddaabba xidhan tahay
+gudcurkuna damtaa yahay
+deyn maayo hadalkee
+
+iga qabo Dallaallimo
+iyadana ka dabagee
+
+dir intay wadaaqgeen
+diiwaanka ii geli.
+
+### WAXYI
+
+Weriyaha socdaalkaan
 ka hayaa war subaglee
-weeye weeye ti dhaha.
-Wanankii mid baa jaban Walle iyo Billaan maray
-mid kalay wad-wadataa iyo wacad Ilaahay
-la walwaal Siyaadoo wershadaa saboolkiyo
-shan wasiir la socotaa wadhatada la qaybsaday
-laga wacay xabaashoo wiilay dhashaan ahay
-wefdi baa baxaayoo weeraarta hoosiyo
-Waaleed u kacayee waaheel rug sare furan
-ku dhakhsada waraagaha marka laysu kala waco
-wararkiyo farriimaha. ninka labada waaxood
-; danyar weheshadaan ahay,
-Reohow Wail waayo waayadeed dee
-SING on ad sow geel ma wadi jirin
-malaa SaanG waayurl weris caano kama dhamin
-er ees CRAOR REE walacsiga nin hodaniyo
-SUuBy oe ed ad ead sow wiirsit kuma korin
-) wakhtigaaga buuxsame) sow aabbe weydiyo
-Reedy ecleeshnayiro wax ma hayste ima dhalin
-weyneyso xeedhada Ina Walanwal maan thi
-waanidaada dib'u dhigo Hurre?! lama walaal ihi.
+weeye weeye ii dhaha.
+Wanankii mid baa jaban
+mid kalay wad-wadataa
+la walwaal Siyaadoo
+shan wasiir la socotaa
+laga wacay xabaashoo
+wefdi baa baxaayoo
+Waaleed u kacayee
+
+ku dhakhsada waraaqaha
+wararkiyo farriimaha.
+
+Dogobyohow walhanayaa
+malaa saaka waayuhu
+ma sitaan wanaaggii
+shalay iyo wacnaantii
+wakhtigaaga buuxsamey
+haddii weel ceshaa jiro
+weyneyso xeedhada
+wadhidaada dib u dhigo
 dawliskii Walwaaleed
 inaan waarna kuu hadhin
-bal dadkoo dhan weydii Derejooy wid lagu yidhi
-wir haddaad sal adag tahay wid widaanwid lagu yidhi
-iska waabi geerida : walahaana kugu raran
-wedka adiga kuu goran hantiyeyna kuma waco
-ku wareeji gayrkaa. woohowna kuma dhaho
-Inaad waarto goormaa weligeyna kuma Sugo
-waxyi kuugu soo degey wed haddaanad celinayn
-haye dee wadaadkow nin ku sheegtay waarayn
-xil wareejintii hoo maxaan kuu warsanayaa?
+bal dadkoo dhan weydii
+
+wir haddaad sal adag tahay
+
+iska waabi geerida
+wedka adiga kuu qoran
+ku wareeji gayrkaa.
+Inaad waarto goormaa
+waxyi kuugu soo degey
+haye dee wadaadkow
+xil wareejintii hoo
+
 iga gabo waliinjada
-anba waalli heensaday Waxaad aniga ii huri
-. wadwadkeeda geeddee kuwa kugu werdiyayee
-adna sii walaandee. sida weli ku caabuda
-| ku wanaaji qayrkay
-| In Wilwilo ciyaar tahay
-is waraari badan tahay ek i
-wiglo iyo hab leedahay 21 Hurre, Waxa halka looga jeedaa Hurre Ibraahim Warsame ,oo ah Hadraawi wa-laalkii.
-— Oe
+anba waalli heensaday
+wadwadkeeda geeddee
+adna sii walaandee.
 
-is wanneehintaadiyo Waayahay Diktoonkows ih
-wadha hayla soo gelin hadday weedhu muuniyo Heb
-weysada ha iga jebin. walanqiyo dux leedahay |
-anba sow walaalow Oe
-Alla weger haddana weger wadar kale hip wernt |
-weger iyo ka waaweyn sow wawega jiiftada
-Wega Ne ka andar: dadka waayahoodiyo
-ma wadiigo lulatiyo wejigooda kama goro.
-willataan mar marayaa |
-mise waalallowtiyo Anigoo werwerayoo
-waaq laan ku dhabar jabay talo iga wansiixdoo
-ma wartaan jidka ahayn waan waani lulatoo
-ma lugtaa wakala jedan wiswis leexadiisii
-ma warkaan tilmaanayn igu weehanaysoon
-ma dhegtaan wax shubanayn wadha reer galbeedkiyo
-waar hooydu badatee weysaaga Naatoo”4
-Xaajadu wajaqanaa la walaac asqooboo
-ma waraabihii baa welwel jiifi waayoon
-Wadhan iyo ka ciyey Togan. sida wiira wiirada
-warwareeg ku lumayoo
-Walbahaarka gocashada hadba way ku kacayaa
-iyadoo wash iga tidhi warac meel ka ciidmaa
-waxa dhacay Cabbaasow”? vices Hs ee i ee
-ila wabax taraareen wanad layano
-| duni iyo wacaasheed walwal soo afyeeshaa
-iyo werinta dhiilladu waaceeni dhalataa.
+In Wilwilo ciyaar tahay
+is waraari badan tahay
+wiglo iyo hab leedahay
+
+marna walax dagaal tahay
+warmo iyo hub leedahay
+wejigeedu laba yahay
+waayeelba noo sheeg.
+
+Walle iyo Billaan maray
+yo wacad Ilaahay
+wershadaa saboolkiyo
+wadhatada la qaybsaday
+wiilay dhashaan ahay
+weeraarta hoosiyo
+waaheel rug sare furan
+marka laysu kala waco
+ninka labada waaxood
+danyar weheshadaan ahay,
+waayo waayadeed dee
+sow geel ma wadi jirin
+weris caano kama dhamin
+walacsiga nin hodaniyo
+Sow wiirsi kuma korin
+sow aabbe weydiyo
+
+wax ma hayste ima dhalin
+Ina Walanwal maan ihi
+
+Derejooy wid lagu yidhi
+wid widaanwid lagu yidhi
+walahaana kugu raran
+hantiyeyna kuma waco
+woohowna kuma dhaho
+weligeyna kuma sugo
+wed haddaanad celinayn
+nin ku sheegtay waarayn
+maxaan kuu warsanayaa?
+
+Waxaad aniga ii huri
+kuwa kugu werdiyayee
+Ssida weli ku caabuda
+ku wanaaji qayrkay
+
+E k gi E ' s , oalaalki
+
+is wanneehintaadiyo
+wadha hayla soo gelin
+weysada ha iga jebin.
+
+Alla weger haddana weger
+weger iyo ka waaweyn
+weger iyo ka waasacan,
+ma wadiigo lulatiyo
+willataan mar marayaa
+mise waalallowtiyo
+
+waag laan ku dhabar jabay
+ma wartaan Jidka ahayn
+ma lugtaa wakala jedan
+ma warkaan tilmaanayn
+ma dhegtaan wax $hubanayn
+waar hooydu badatee
+xaajadu wajaganaa
+
+ma waraabihit baa
+
+Wadhan iyo ka ciyey Togan.
+
+Walbahaarka gocashada
+iyadoo wash iga tidhi
+waxa dhacay Cabbaasow22
+ila wabax taraareen
+duni iyo wacaasheed
+
+iyo werinta dhiilladu
 wadnahayga shidayaan
-ku wahsadey su‘aashaas Anigoo wadeecada
-weydiinna kula maqan wantataca gumeystaha
-garashiyo war-celinteed wakinaaya socodkoo
-ayaa waaya waayaha wiiwiida dumarkiyo
-webiyada aqoontiyo weehaadka maatada
-wacdaraha adduunyada la wareer sahsahayaa
-wixii laysla soo maray dhulka waax madoobeyd
-taariikhda werisiyo inta waa ku sara kaco
-waayaale hagar baxay gorrax Gaandi*®> weheshaa
-wacyigayga koriyaan wac ku soo tidhaahdaa
-waddo ii jideeyaan. bulsho weerka xoortaa
-anigana wajliniyo
-23 Diktoorkow-waxaa loo jeedaa Dr. Maxamed Saalax Xasan.
-Ado abies Whee Ll 24 Naatoo, waxa halkan looga jeedaa Gaashaan-buurta NATO (xulufada ciidammeed ee Dawladaha Reer
-PY 22 Cabbaas, Wuxu halgabsigan ugu jiraa mujaahid Axmed Cabbaas Axmed Geloecdka) = Mahatma Gaandigii horseedka ka ahaa gobanima doonkii dalkaas Hindiya.
-q
-af
-Eel ee
+ku wahsadey su'aashaas
+weydiinna kula magan
+garashiyo war-celinteed
+ayaa waaya waayaha
+webiyada aqoontiyo
+wacdaraha adduunyada
+wixii laysla soo maray
+taariikhda werisiyo
+waayaale hagar baxay
+wacyigayga koriyaan
+waddo ii jideeyaan.
 
-waqal igu gadoodaa Hadba wadar la dhacayoo .
-wahabkii i saarraa inta ay wisiisidey
-waanwaani dhaxashaa. warmaheeda gurataan .
-ina wadiya leeyahay.
+Waayahay Diktoorkow23
+hadday weedhu muuniyo
+walanqiyo dux leedahay
+anba sow walaalow
+wadar kale ma kaashado
+sow wawga jiiftada
+dadka waayahoodiyo
+wejigooda kama goro.
+
+Anigoo werwerayoo
+talo iga wansiixdoo
+waan waani lulatoo
+wiswis leexadiisii
+
+igu weehanaysoon
+wadha reer galbeedkiyo
+weysaaga Naatoo”*
+
+la walaac asqooboo
+welwel jiifi waayoon
+sida wiira wiirada
+warwareeg ku lumayoo
+hadba way ku kacayaa
+warac meel ka ciidmaa
+wax la yaable geystaa
+wahad laydho keenaa
+walwal soo afyeeshaa
+waaceeni dhalataa.
+
+Anigoo wadeecada
+wantataca gumeystaha
+wakinaaya socodkoo
+wiiwiida dumarkiyo
+weehaadka maatada
+
+la wareer sahsahayaa
+dhulka waax madoobeyd
+inta waa ku sara kaco
+
+qorrax Gaandi25 weheshaa
+
+wac ku soo tidhaahdaa
+bulsho weerka xoortaa
+anigana wajiiniyo
+
+eed ee Dawladaha Reer
+
+EE E E
+
+wagal igu gadoodaa
+wahabkii i saarraa
+waanwaani dhaxashaa.
+
 Dunidoo wajaqantoo
-cagta lagu walaaqgoo Hadba wiilal baxayoo
-inta weerayaal iyo wacad-qabe bahdiisii
-bahal iyo wareentiyo Wallihii ku baajoo
-kun waraabe boobeen waddadii ka leexdiyo
-shan walleys u taliyeen nin wabiina doontoo
-dad wanaag ku ledey xalay wisin maqan ku duuliyo
-inta weerar lagu furay waqle jiibka saaraan
-lagu galay war ma-qabtada wararkooda sugayaa.
+cagta lagu walaaqoo
+inta weerayaal iyo
+bahal iyo wareentiyo
+kun waraabe boobeen
+shan walleys u taliyeen
+dad wanaag ku ledey xalay
+inta weerar lagu furay
+lagu galay war ma-qabtada
 shil ku waabariistoo
-Diino Walamsade la tuuri yo
-anna wadhida dhiillada wadal lagu gadoodtyo
-murugada wahwahayaa ile meyd ta wacay baan
-Wavraonieclita (bbsca digashada waddacayaa.
+wadhantooda haaddii
+ku wishiirriyaysoon
+anna wadhida dhiillada
+murugada wahwahayaa
+Weyrax meel ka toosaa
 senge waalan fuulaa
-| isticmaar la wiiqaa Hadba wacal la toogtiyo
-wabar lagula ciiraa dadqal cayn wareegoo
-waydiisa taahaa inta wegeradkii go’ay
-anigana wajaaf iyo waabay kabbaday baan,
-warmo layga siibaa. warqaddiisa jarayaa.
-Hadba laba is weydoo Hadba waagq la ridey baan
-| kala weecanaysoo weylaalistiisii
-nacab kala wareejoo wilgaduu fadhiyi jirey
-weji dadab is dhaaftiyo wasakhdii ka dhaqayaa.
+isticmaar la wiigaa
+wabar lagula ciiraa
+waydiisa taahaa
+anigana wajaaf iyo
+warmo layga siibaa.
+
+Hadba laba is weydoo
+kala weecanaysoo
+
+nacab kala wareejoo
+
+weji dadab is dhaaftiyo
 sac warraaga jiilaal
-Meine, yas Hadba damal wacnaayoo
-waanwaan dhex dhigayaa et Oana ye
+weyshiisa diidoo
+weydaartey xeradaan
+waanwaan dhex dhigayaa.
+
+Hadba duul wahsanayoo
+inta waayir lagu xidhay
+wadhaf lala hor joogoo
+wanshax meel la jiifaa
+wacdigaygu sooraa.
+
+Hadba wadar la dhacayoo
+inta ay wisiisidey
+warmaheeda gurataan
+ina wadiya leeyahay.
+
+Hadba wiilal baxayoo
+wacad-gabe bahdiisii
+Wallihii ku baajoo
+waddadii ka leexdiyo
+nin wabiina doontoo
+wisin maqan ku duuliyo
+wagle jiibka saaraan
+wararkooda sugayaa.
+
+Walamsade la tuuriyo
+wadal lagu gadoodiyo
+hadba meyd la wacay baan
+digashada waddacayaa.
+
+Hadba wacal la toogtiyo
+dadgal cayn wareegoo
+inta wegeradkii go'ay
+waabay kabbaday baan,
+warqaddiisa jarayaa.
+
+Hadba waag la ridey baan
+weylaalistiisii
+
+wilgaduu fadhiyi jirey
+wasakhdii ka dhagayaa.
+
+Hadba damal wacnaayoo
+webigii Ganaaniyo
+
 salka gacanka Waaheen
 waraqyada ku fidiyoo
-Hadba duul wah sanayoo inta wahan ka daba yimi
-inta waayir lagu xidhay wiriqyada u bixiyoo
-wadhaf lala hor joogoo wakhti soo qandoodshoo
-wanshax meel la jiifaa walcan go’a lalmanayoo
-wacdigaygu sooraa. wegdihiisa laabtaan
+inta wahan ka daba yimi
+wiriqyada u bixiyo0
+wakhti soo qandoodshoo
+walcan go'a lalmanayoo
+wegdihiisa laabtaan
 ubaxii ku waabnaa
 
-_ ve
-maqal weyd la togantiyo walwallanyta geenyada mii
-waxaraha u tumayaa. wangaraarka jiiftada
+maqal weyd la togantiyo
+waxaraha u tumayaa.
 
-waxa looga jeedaa
-Hadba Shaah la waayiyo ama loo wacwacayaa
-bogor weer cad goostoo wacdaruhu u dhacayaan
-inta wiish la sara tegey lugta waarrinaysiyo
-waaq waagq ka ridey baan isha waabanaysaa
-taajkiisa warasiyo ha ku waano qaateen
-hanti shacab wadaagiyo wegenkiyo colaadaha
-waqaf guud ka dhigayaa. nin dulmani ha weheshado.
-Hadba Janan wanjalanoo Waddammada adduunyada
-dhulka laga wandaafshoo afarteeda waaxood
-cirka looga webiyoo dhibta iyo wax yeellada
-cidla dhex walhanayoo inta ila wadaagtaay
-wedku deydeyaayaan aan heeso weriyee
-waxa lumay ku darayaa. kici weerarkaagii ?
-i waraabsha geedkii
-saarraa.
-Hadba feleg wareegiyo CON) Ot is
-yididiilo walacliyo
+Hadba Shaah la waayiyo
+bogor weer cad goostoo
+inta wiish la sara tegey
+waaq waaq ka ridey baan
+taajkiisa warasiyo
+
+hanti shacab wadaagiyo
+waqaf guud ka dhigayaa.
+
+Hadba Janan wanjalanoo
+dhulka laga wandaafshoo
+cirka looga webiyoo
+
+cidla dhex walhanayoo
+wedku deydeyaayaan
+waxa lumay ku darayaa.
+
+Hadba feleg wareegiyo
+yidiilo walacliyo
 saadaal wil furatiyo
 waaleeyo curataan
 weelkeeda culayaa.
-Wiyil dabarka goysiyo
+
+Wiyil dabarka goysivo
 hadba umal wallacay baan
 werdigooda rogayaa.
+
 Libin fool waliishiyo
 hadba maalin weyn baan
 wanankeeda loogaa.
+
 Xinjir wararacdeediyo
 hadba guul washiranoo
 war wareen ku dhalataan
 walgasheeda tiriyaa.
+
 Onkodkiyo wannaaniga
 iyo dhibicda weedhka leh
 walanwalinta maansada
-Sa
-—
 
-i a [i rr
-| Gadaashay ninkii odhanayow i
-G ALAN = G AL gacanta ii haadi, iD
-Geibis dhacay, dadweynahan gabradey Afartaasi waa gogol-dhig iyo .
-gaafka igu meersan maanso gedaheede,
-Qurux ganac leh, gole dheehan iyo Godkaan degey, warkaas guud haddan
-bilicdan gaashaysey kor uga sii guuro,
+walwallanyta geenyada
+wangaraarka jiiftada
+
+waxa looga jeedaa
+
+ama loo wacwacayaa
+wacdaruhu u dhacayaan
+lugta waarrinaysiyo
+
+isha waabanaysaa
+
+ha ku waano gaateen
+wegenkiyo colaadaha
+
+nin dulmani ha weheshado.
+
+Waddammada adduunyada
+afarteeda waaxood
+
+dhibta iyo wax yeellada
+inta ila wadaagtaay
+
+aan heeso weriyee
+
+kici weerarkaagii
+i waraabsha geedkii
+waxyigaygu saarraa.
+
+gacanta ii haadi. \
+
+### GALAN - GAL
+
+Gelbis dhacay, dadweynahan gabradey
+gaafka igu meersan
+Qurux ganac leh, gole dheehan iyo
+bilicdan gaashaysey
 Gargarraanta nuurkiyo shacniga
-la isku googooyey xaajada gondaha laaban iyo |
-shir gobeedka, guurtida fadhida godanka hooseeya,
-garangar waaheelan Gunta iyo salkeediyo haddan
-Marti?® gacala, mudan laysu guray saro gunaadkeeda,
-gulufka heensaysan Gawdiyo ujeeddada ladhkiyo
-Gololada mashxaradaysa iyo caawa iyo goobtan.
-sacabka guubaabo Nimanyohow gantaalaha subkee
-Gallada iyo rayraynta iyo gamaska dhiigeeyey
-gooha dami waayey Nimanyohow galkiyo seefta yidhi
-lyadoo gorfayntiyo la taxay gees u kala leexda
-doodda gudaheenna Nimanyohow sidii awr gurgura
-Guddi werisayaa iyo nin kale caynku gubi waayey
-| gooni hadalyaaba Nimanyohow garbaha buuxsadee
-| Qofba kaalin goorteed ah buu raray gardaadkooda
-gaar u leeyahaye Nimanyohow gadoodiga bartiyo
-Anna tayda ii go’an haddaan galow la-soo-jeedka
-galo abbaarteeda Nimanyohow habeenkii gudee
-Ma gunaanadaayee haddaan guura bahalleeyey
-Jaro garraarkeeda Nimanyohow gadiidkii socdee
-j Gayaxaa haddii aan ka furo meel hadh-geli-waayey
-madida ii gaaxsan Nimanyohow sariir lagu gam’iyo
-Godol-qaad hadday labada low . gogol ka dheeraaday .
-dib u yar gaalgaasho Nimanyohow guryaha diidey iyo
-Gaawaha hadday buuxissoo gaari lala seexdo |
-weliba gaash daato Nimanyhow gasiinkii ka tegey |
-Ganuunkeeda xoorka leh haddaan gaws wax lagu qaato”
-madalka gaadhsiiyo Gudcur dama’, cirkoo gibil xidhoo
-Anigiyo garaadkay haddan dhibic is gaadhsiiyey, _
-idin guddoosiiyo Nimanyohow gudgude soo curtiyo
-Geestayda wuu iga dhan yahay " gooxu kari waayey
-galangalkaygiiye Gabaddanada nimanyow dugsadey
+la isku googoo yey
+shir gobeedka, guurtida fadhida
+garangar waaheelan
+Marti26 gacala, mudan laysu guray
+gulufka heensaysan
+Gololada mashxaradaysa iyo
+sacabka guubaabo
+Gallada iyo rayraynta iyo
+gooha dami waayey
+Iyadoo gorfayntiyo la taxay
+doodda gudaheenna
+Guddi werisayaa iyo nin kale
+gooni hadalyaaba
+Qofba kaalin goorteed ah buu
+gaar u leeyahaye
+Anna tayda ii go'an haddaan
+galo abbaarteeda
+Ma gunaanadaayee haddaan
+jaro garraarkeeda
+Gayaxaa haddii aan ka furo
+madida ii gaaxsan
+Godol-qaad hadday labada low
+dib u yar gaalgaasho
+Gaawaha hadday buuxissoo
+weliba gaash daato
+Ganuunkeeda xoorka leh haddaan
+madalka gaadhsiiyo
+Anigiyo garaadkay haddan
+idin guddoosiiyo
+Geestayda wuu iga dhan yahay
+galangalkaygiiye
+
+Gadaashay ninkii odhanayow
+gacanta ii haadi.
+Afartaasi waa gogol-dhig iyo
+maanso gedaheede,
+Godkaan degey, warkaas guud haddan
+kor uga sii guuro,
+xaajada gondaha laaban iyo
+godanka hooseeya,
+Gunta iyo salkeediyo haddan
+saro gunaadkeeda,
+Gawdiyo ujeeddada ladhkiyo
+caawa iyo goobtan.
+Nimanyohow gantaalaha subkee
+gamaska dhiigeeyey
+Nimanyohow galkiyo seefta yidhi
+gees u kala leexda
+Nimanyohow sidii awr gurgura
+caynku gubi waayey
+Nimanyohow gorbaha buuxsadee
+raray gardaadkooda
+Nimanyohow gadoodiga bartiyo
+galow la-soo-jeedka
+Nimanyohow habeenkii gudee
+guura bahalleeyey
+Nimanyohow gadiidkii socdee
+meel hadh-geli-waayey
+Nimanyohow sariir lagu gam'iyo
+gogol ka dheeraaday
+Nimanyohow guryaha diidey iyo
+gaari lala seexdo
+Nimanyohow gasiinkii ka tegey
+gaws wax lagu qaato
+Gudcur dama', cirkoo gibil xidhoo
+dhibic is gaadhsiiyey,
+Nimanyohow gudgude soo curtiyo
+gooxu kari waayey
+Gabaddanada nimanyow dugsadey
 gooro laga hoydey
 Nimanyohow gabboodkiyo fadhiga
-26 Marti waxa halkan looga jeedaa wafdigii jabhadda xoraynta F. iyat Naam ka soocdey ee xafladdii gel inna hayn -waayey
-martigaad-kooda gabaygan Hadraawi ka lirtyey,
+gelinna hayn-waayey
 
-Gudguduudka waagiyo saq-dhexe gaagaabnidiinniyo malaa {| | .
-| maalin kala guurtey gibil basaaskiinna hh . |
-Mugdi gaba’, cadceed gaasa-baxa Is gamaarintiinnii miyuu |
-waaga galacdiisa gorodda soo dhiibtey. aid
-Nimanyohow gumaystaha ku jaray lyagays gunaanada intay
-gaadmo iyo weerar qool is geliyaane
-Miinada gumaadkiyo xeryaha Garanuugta laacii hodda
-gaadhka lagu meershey goodir tiigsadaye
-Nimanyohow sidii aarka guda Gashigii maqnaa buu is yidhi
-guudka kaga boodey gooshkan soo celiye
-Nimanyohow guddoonsadey inaan Baariis dabkii lagu gubaa
-godobtu duugoobin Waashindoon galaye
-Nimanyohow ma guurtada xuska leh Geyigiina oo idil ilaa
-geliyey diiwaanka. gooddi iyo gooddi
-Haddaydaan adduunyada gilgilini Gargoor baa la moodaa timaa
-xil ima guuleene clidda guud qubane
-, Laabtayda kama soo go’een Galaydhyays waraabiina xoor
-tix iyo geeraare gorofki caydheede
-F Gocashada dareenkiyo murtida rag baruurtu goobtiyo leg iyo
-| amase guurowga goolal baw qalane
-: i Waxaad geysateen buu ku yimi Gudur iyo baruur iyo mud iyo
-gabayga joogaaye goonji buu cunaye
-Taariikhda guunka ah haddaan Intaa gawracdeen iyo intii |
-gelin wax weydiiyey goobo lagu laayey
-Allaylehe Galbeed waa ku jabay Gorgor iyo intii baylahnimo
-goballadiinnaase haad ku gabasleeyey
-| Indoo-jayna geerowga goran Garbaduub intaa ugu xidheen
-f guuldarriyo hooge gararka liilaysan
-Biyaanfuu?’ gulcubihii dhaciyo Way galabsadeen ciilka ay
-galalki dhiigoobey golongol tiiceene
-Faransiiska wiishkii la go’ay goldalooladay jecelythiin
-| saw la garan maayo! ciday galaaftaane
-Gelin qudha ma daayaan ninkay
-Maantana geddii baa dhacdiyo gaatir ku arkaane
-: tli gefkii hore’e Gacma hoorsi kaagama tagaan
-gal dad-liga ul baa lagu dayaa kumana guuraane d
-lagu gun raacaaye Geesaabay yeeshaan haddan
-Garka xadhiga loo daadshey iyo waranku guirray, As: d
-gedefka loo saaray Dhegahay gufaystaan haddan
+### Gudguduudka waagiyo saq-dhexe
+### maalin kala guurtey
+
+Mugdi gaba', cadceed gaasa-baxa
+waaga galacdiisa
+Nimanyohow gumaystaha ku jaray
+gaadmo iyo weerar
+Miinada gumaadkiyo xeryaha
+gaadhka lagu meershey
+Nimanyohow sidii aarka guda
+guudka kaga boodey
+Nimanyohow guddoonsadey inaan
+godobtu duugoobin
+Nimanyohow ma guurtada xuska leh
+geliyey diiwaanka.
+Haddaydaan adduunyada gilgilini
+xil ima guuleene
+Laabtayda kama soo go'een
+tix iyo geeraare
+Gocashada dareenkiyo murtida
+amase guurowga
+Waxaad geysateen buu ku yimi
+gabayga joogaaye
+Taariikhda guunka ah haddaan
+gelin wax weydiiyey
+Allaylehe Galbeed waa ku jabay
+goballadiinnaase
+Indoo-jayna geerowga qoran
+guuldarriyo hooge
+galalki dhiigoobey
+Faransiiska wiishkii la go'ay
+saw la garan maayo!
+
+Maantana geddii baa dhacdiyo
+tii gefkii hore'e
+
+gal dad-liqa ul baa lagu dayaa
+lagu gun raacaaye
+
+Garka xadhiga loo daadshey iyo
+gedefka loo saaray
+
+gaagaabnidiinniyo malaa
+gibil basaaskiinna
+
+Is gamaarintinnii miyuu
+gorodda soo dhiibtey.
+iyagays gunaanada intay
+gool is geliyaane
+Garanuugta laacii hodda
+goodir tiigsadaye
+Gashigii maqnaa buu is yidhi
+gooshkan soo celiye
+Baariis dabkii lagu gubaa
+Waashindoon galaye
+Geyigiina oo idil ilaa
+gooddi iyo gooddi
+Gargoor baa la moodaa timaa
+ciidda guud qubane
+Galaydhyays waraabiina xoor
+gorofki caydheede
+rag baruurtu goobtiyo leg iyo
+goolal baw galane
+Gudur iyo baruur iyo mud iyo
+goonji buu cunaye
+Intaa gawracdeen iyo intii
+goobo lagu laayey
+Gorgor iyo intii baylahnimo
+haad ku gabasleeyey
+Garbaduub intaa ugu xidheen
+gararka liilaysan
+Way galabsadeen ciilka ay
+golongol tiiceene
+goldalooladay jecelyihiin
+ciday galaaftaane
+Gelin gudha ma daayaan ninkay
+gaatir ku arkaane
+Gacma hoorsi kaagama tagaan
+kumana guuraane
+Geesaabay yeeshaan haddan
+waranku giirrayne
+Dhegahay gufaystaan haddan
 geesiyaal heline
-ie epee: Waa Dien Bien Fu, goobtii lagu jebiyey ciidammadii gumeysiga Faransiiska 1954 00 ku taal Garta ay dhe geystaan ba waa
-eis pal Nad gumuc rasaaseede
+Garta ay dhegeystaanba waa
+gumuc rasaaseede
 
-| Gujaduu ku maalaa ninkii Dabbaabbaadka goobyaalayee . | |
-geda yaqaannaaye gurada loo buuxshey 4
-Gudin iyo warmuu kaga furtaa Garangarinta naabaalka iyo ie
-gaadhi shaaximane gabaxda riigaanka |
-Gurracnaanta, iyo maagga iyo Gaaraa-bidhaankiyo dabkiyo 4
-laba gardaymoodka gugaca yeedhaaya i
-Gafuur taagga, iyo tookha iyo Galayaxa is dhaafiyo higtiyo .
-higilka gawdiidka guuxa iyo reenka 1
-Gabgabtiyo is waalkiyo saskiyo Gudban iyo waxay tuurayeen
-gooddigiyo faanka goosatada reebban
-Galoof ololka way leeyihiin Waxay gaaxsadeen iyo waxay
-qab iyo guul guule godol ku keeneenba
-Dagaal laysu soo galay haddii Godannada kamboodiya tan iyo
-geylanku is dhaafo Laa’us gudaheeda
-Galaayuus qaboonada horay Fiyatnaam galkeediyo intii
-| gaban-rucleeyaane godanka saygoona
-Hadhow bay sidii guuyo nugul Indoo-jayna gees iyo ka gees
-gebi-dhacleeyaane guudka iyo hoosta
-Marka runi runteed geydo way Hub wixii galaa baxay haddaan
-gamashi-dhiiqaane meella lagu gaadhin
-. Gagsi ma leh haddii loo cuskado Ninkiinnii gurguurtiyo intii
-: tab iyo gaalleefe naafo gabargaashey
-- Haddii laysku sti gtijo way Ninkii gurun-gurcoodkuu dhaliyo
-galangal-coobaane gacaladiis waayey
-Gadaal bay u laabtaan haddii Nin goblamay, nimaan gaban u hadhin |
-good ku soo baxo’e gaar nin kelidiisa
-Weligoodba guul kalama tegin Gallad qubatay, xooliyo dad iyo
-j meel garaad jiro’ garangar duugowdey
-Gubniyada la soo daadshey ee Gocashiyo xanuun ma leh wixit
-gaatan caranaaya guud ahaan lumaye,
-Gurmad raaba-raabiyo col iyo Gobannimada waa loo dhintaa
-guuto lyo guuto goor ltyo ayaane
-Wixti gaasas soo degey wixii Ummad gadata mooyee nin kale
-geesh is daba joogey waa ka garanuuge
-Ee tirada ay gaadhayaan Ma gabloosho beertii xab iyo
-ruuxnda garan waayey dhiig ku gororaaye
-Laf galluuban mooyee haddaan Damalkii la gooyaba mid baa
-| goosan laga haynin soo gadaal baxa’e
-Maraakiibta goonyaha baddiyo Guri laga baroortaba aroos
-gaafka hoganaysa gaafan baa xiga’e. —
-Diyaaradaha gawdaa hayiyo Haddaan loo garraaddayninoo
-galacda baaruudda waayo lagu guulin
-ii
-i
+Gujaduu ku maalaa ninkii
+geda yaqaannaaye
+Gudin ijyo warmuu kaga furtaa
+gaadhi shaaximane
+Gurracnaanta, ijyo maagga iyo
+laba gardaymoodka
+Gafuur taagga, iyo tookha yo
+higilka gawdiidka
+Gabgabtiyo is waalkiyo saskiyo
+gooddigiyo faanka
+Galoof ololka way leeyihiin
+qab iyo guul guule
+Dagaal laysu soo galay haddii
+geylanku is dhaafo
+Galaayuus gaboonada horay
+gaban-rucleeyaane
+Hadhow bay sidii guuyo nugul
+gebi-dhacleeyaane
+Marka runi runteed geydo way
+gamashi-dhiiqaane
+Gagsi ma leh haddii loo cuskado
+tab iyo gaalleefe
+Haddii laysku sii giijo way
+galangal-coobaane
+Gadaal bay u laabtaan haddii
+good ku soo baxo'e
+Weligoodba guul kalama tegin
+meel garaad jiro'e
+Gubniyada la soo daadshey ee
+gaatan caranaaya
+Gurmad raaba-raabiyo col iyo
+guuto iyo guuto
+Wixii gaasas soo degey wixii
+geesh is daba joogey
+Ee tirada ay gaadhayaan
+ruuxna garan waayey
+Laf galluuban mooyee haddaan
+goosan laga haynin
+Maraakiibta goonyaha baddiyo
+gaafka hoganaysa
+Diyaaradaha gawdaa hayiyo
+galacda baaruudda
 
-Way gaagaxdaa talada aad Gumaystaha intii diiddan baad ue
-gola ka fuushaaye gacal wadaagtaane th
-Garab-qaadka faylkiyo dhismaha Gammaan baynu wada saarannahay 1]
-oodda gurideeda gu’iyo jiilaale
-Gudintiyo hangoolkiyo habkiyo Nolosha iyo geerida dirkaba |
-gees u wada jeedka waw gudboonnahaye, |
-Gadh-wadeenka, xeer-beegtidiyo dhul guduudan, geediyo ugbaad .
-gaanka wadartiinna, ubax ku guud yaalla .
-Gabadhiyo marwada heeganta ah Xareed galac leh, galal buuxa iyo
-ee ganbada xooray webiyo guureeya
-Gashaantida maryaha feydatee Ido gorod madow iyo fardiyo
-geyfan diriraysa lo’iyo geel foofa
-Gaashaan-dhiggiiyo gorshaha Aar gooha, gool iyo shabeel
-ama go’aankiinna harimcad guuxaaya
-Guddoonkiinna hoosiyo ilaa Goobyaalka deerada mankiyo
-. gun iyo baarkiinna gurata maajeenta
-Goldaloolo kama muuqatiyo Geri jeenyo dheer iyo biciid
-gobor la sheegaaye goray haldhaa qooqay
-Xaajadu gun bay leedahiyo Wiyil gees leh, farow gaadda weyn
-xeedho sii godane goodirkiyo cawsha
-> | Farriin laysu geeyiyo ka culus Maroodiga Ganaanee mirtee
-I guubis iyo baaqe gacanka laalaadsha
-q Bulshadii gadoodaa mid bay Shinbiraha galool iyo maraa
-dhiillo gelisaaye buul ka wada goostay |
-Markay gibisha xoortaa mid kale Umma goba, gabraartana u daran
-dabarka goysaaye gebi ahaanteeda
-Gobolkii xoroobaa mid buu Oo waxaad gashaan iyo ogsoon
-gamma’ka toos-shaaye guurtinnimadiinna —
-: Jidkaasaa go’doonkii lumaa Gacmo furan, salaan gaara iyo
-geeddi mariyaaye gogol idiin taalla
-Gabbashada intii diiddan ee Tyo guusha oo dhow haddaan
-geylan diriraysa goorna laga seexan
-Galladiinnu inay nuur u tahay Galabtaas ninkii jooga tyo
-geliya maankiina. guri yagleelkeeda.
+Dabbaabbaadka goobyaalayee
+gurada loo buuxshey
+Garangarinta naabaalka iyo
+gabaxda riigaanka
+Gaaraa-bidhaankiyo dabkiyo
+gugaca yeedhaaya
+Galayaxa is dhaafiyo higtiyo
+guuxa iyo reenka
+Gudban iyo waxay tuurayeen
+goosatada reebban
+Waxay gaaxsadeen iyo waxay
+godol ku keeneenba
+Godannada kamboodiya tan iyo
+Laa'us gudaheeda
+Fiyatnaam galkeediyo intii
+godanka saygoona
+Indoo-jayna gees iyo ka gees
+guudka iyo hoosta
+Hub wixii galaa baxay haddaan
+meella lagu gaadhin
+Ninkiinnii gurguurtiyo intii
+naafo gabargaashey
+Ninkii gurun-gurcoodkuu dhaliyo
+gacaladiis waayey
+Nin goblamay, nimaan gaban u hadhin
+gaar nin kelidiisa
+Gallad qubatay, xooliyo dad iyo
+garangar duugowdey
+Gocashiyo xanuun ma leh wixii
+guud ahaan lumaye,
+Gobannimada waa loo dhintaa
+goor iyo ayaane
+Ummad gadata mooyee nin kale
+waa ka garanuuge
+Ma gabloosho beertii xab iyo
+dhiig ku gororaaye
+Damalkii la gooyaba mid baa
+soo gadaal baxa'e
+Guri laga baroortaba aroos
+gaafan baa xiga'e.
+Haddaan loo garraaddayninoo
+waayo lagu guulin
+
+Way gaagaxdaa talada aad
+gola ka fuushaaye
+Garab-qaadka faylkiyo dhismaha
+oodda gurideeda
+Gudintiyo hangoolkiyo habkiyo
+gees u wada jeedka
+Gadh-wadeenka, xeer-beegtidiyo
+gaanka wadartiinna,
+Gabadhiyo marwada heeganta ah
+ee ganbada xooray
+Gashaantida maryaha feydatee
+geyfan diriraysa
+Gaashaan-dhiggiiyo qorshaha
+ama go'aankiinna
+Guddoonkiinna hoosiyo ilaa
+gun iyo baarkiinna
+Goldaloolo kama muuqatiyo
+gobor la sheegaaye
+Xaajadu gun bay leedahiyo
+xeedho sii godane
+Farriin laysu geeyiyo ka culus
+guubis iyo baaqe
+Bulshadii gadoodaa mid bay
+dhiillo gelisaaye
+Markay gibisha xoortaa mid kale
+dabarka goysaaye
+Gobolkii xoroobaa mid buu
+gamma'ka toos-shaaye
+Jidkaasaa go'doonkii lumaa
+geeddi mariyaaye
+Gabbashada intii diiddan ee
+geylan diriraysa
+Galladiinnu inay nuur u tahay
+geliya maankiina.
+
 Waxba arartu yey ila gudbine
-4 waxan ku soo gooyey
+waxan ku soo gooyey
 Gaar kuma tihiin hawsha iyo
 goonidiin qudhahe
 Garnaqsiga badheedhkiyo runtiyo
@@ -5264,256 +9493,509 @@ godolka maahmaahda
 Golaa baanistiisiyo intii
 geed innagu raacda
 
-|. nytt
-th
-D Y A I EY hal-abuurku duunkiyo ii]
-AA I { dhul damqaday ka faalloo Bh
-inb hadiis di .
-Ka dib markii silsiladdii caanka ahayd ee Deelley oodaha jabsatay, il, eaten e oe ae
-nidaamkii dalka ka talin jirey wuxuu si toos ah iyo si dadban labadaba sii durugtay sheekadu
-isugu deyey inuu silsiladdaas wedka iyo waabeeyada ku nogotay u helo talo dumarkiina* soo biir. it
-iyo xeel uu ku joojiyo ama farsamooyin uu ku kala daadiyo.
-Markuu sina ugu guulaysan waayey ku talo-galkiisii ee ku hungoobay ‘a tt iy
-gorshayaashii ka-hor-tagga Deelley ayuu 8dii Maarso 1980 Xuskii Ururka iyo doobigii keen
-Haweenka, Golaha Murtida iyo Madaddaalada ka hanjabay Jananku, Ragna de opcode SO
-kuna dhaartay in ragga Deelley hormoodka ka ah ee tiriya ama maamulaya baar-qab doobyayaa wado
-la layn doono, qaar kalena la xidhxidhi doono. bandhigii ku soo daa.
-Heestan Daahyaley 00 soo baxday 1 1kii bishii 3aad, 1980, waxay ka
-Jawaabeysey go’aankaa dogonka ah waxayna nidaamkaa u Sheegaysaa in i te seg ihe aie
-go’aanka shacbiga Soomaaliyeed beeninayo go’aankiisaas. billay duunyadiis tahay,
-*, Waxse iga dardaarana
-, Daalacan warkeedii ninka daaqsanaayow
-r tyo faraski Doolaal dafac laa gosheediyo
-iB dalan-doolka maansada dixda hayska joogtee
-if dar -dartiyo wacdarihit yaanay nagu dannaaniyin
-sida danab u laba dhacay ama geela naga didin.
-dadku maqalyey shaalle. Nirgo daaddah baradaa |
+Gumaystaha intii diiddan baad
+gacal wadaagtaane
+Gammaan baynu wada saarannahay
+gu'iyo jiilaale
+Nolosha iyo geerida dirkaba
+waw gudboonnahaye,
+dhul guduudan, geediyo ugbaad
+ubax ku guud yaalla
+Xareed galac leh, galal buuxa iyo
+webiyo guureeya
+Ido gorod madow iyo fardiyo
+lo'iyo geel foofa
+Aar gooha, gool iyo shabeel
+harimcad guuxaaya
+Goobyaalka deerada mankiyo
+gurata maajeenta
+Geri jeenyo dheer iyo biciid
+goray haldhaa qooqay
+Wiyil gees leh, farow gaadda weyn
+goodirkiyo cawsha
+Maroodiga Ganaanee mirtee
+gacanka laalaadsha
+Shinbiraha galool iyo maraa
+buul ka wada goostay
+Umma goba, gabraartana u daran
+gebi ahaanteeda
+Oo waxaad gashaan iyo ogsoon
+guurtinnimadiinna
+Gacmo furan, salaan gaara iyo
+gogol idiin taalla
+Iyo guusha oo dhow haddaan
+goorna laga seexan
+Galabtaas ninkii jooga iyo
+guri yagleelkeeda.
+
+### DAAHYALEY
+
+Ka dib markii silsiladdii caanka ahayd ee Deelley oodaha jabsatay, nidaamkii dalka ka talin jirey wuxuu si toos ah iyo si dadban labadaba isugu deyey inuu silsiladdaas wedka iyo waabeeyada ku noqotay u helo talo iyo xeel uu ku joojiyo ama farsamooyin uu ku kala daadiyo.
+
+Markuu sina ugu guulaysan waayey ku talo-galkiisii ee ku hungoobay qorshayaashii ka-hor-tagga Deelley ayuu 8dii Maarso 1980 Xuskii Ururka Haweenka, Golaha Murtida iyo Madaddaalada ka hanjabay Jananku, kuna dhaartay in ragga Deelley hormoodka ka ah ee tiriya ama maamulaya la layn doono, qaar kalena la xidhxidhi doono.
+
+Heestan Daahyaley oo soo baxday 11kii bishii 3aad, 1980, waxay ka jawaabeysey go'aankaa doqonka ah waxayna nidaamkaa u sheegaysaa in go'aanka shacbiga Soomaaliyeed beeninayo go'aankiisaas.
+
+Daalacan warkeedii
+iyo faraski Doolaal
+dalan-doolka maansada
+dar-dartiyo wacdarihii
+sida danab u laba dhacay
+dadku maqal yey shaalle.
+
+Dedda kaca rogaalkiyo
+Daahyaley car-caraheed
+maantana dinnaahyaha
+Dayax Weerar baa sida
+
+Gaarriyow ku soo durug
+malmalkiyo dab-qaadkii
+iyo weliba deebaaq.
+
+Dabray oo haddana furay
+misna daah kalaan rogey.
+
+Deelley wankeed qalan
+daaheedu waa furan
+hibashada dareen kacay
+degmadeenna beer-qaad
+sida daadka maanshee
+hal-abuurku duunkiyo
+dhul damqaday ka faalloo
+ninba garashadiis direy
+darka cagaha soo geli
+sii durugtay sheekadu
+dumarkiina soo biir.
+
+Rag darmaano soo fuul
+ragna dalawadiisii
+iyo doobigii keen.
+Ragna deer-cadkiisoo
+baar-qab doobyayaa wado
+bandhigii ku soo daa.
+
+Nin dameero soo horay
+yaan la odhan denbuu galay
+billay duunyadiis tahay.
+Waxse iga dardaarana
+ninka daaqsanaayow
+dafac laa gosheediyo
+dixda hayska joogtee
+yaanay nagu dannaaniyin
+ama geela naga didin.
+Nirgo daaddah baradaa
 derrimaha madheedhka leh
-Dedda kaca rogaalkiyo sida digirin jiifee
-| Daahyaley car-caraheed yaanay naga danbaabidhin.
-: maantana dinnaahyaha
-Dayax Weerar baa sida Dogon yahay masayrkiyo
+sida digirin jiifee
+yaanay naga danbaabidhin.
+
+Doqon yahay masayrkiyo
 danni lagu abuuree
-Gaarriyow ku soo durug deeqdii Ilaahay
-malmalkiyo dab-qaadkii deelqaaf ka mudataay
-iyo weliba deebaaq. adigiyo dangaladaa
-| da’kastaydin qooqdaan
-Dabray oo haddana furay waxa aydin dihataan
-misna daah kalaan rogey. daratiyo ma caal baa ?
-Deelley wankeed qalan Maansada dunteediyo
-daaheedu waa furan waxa lagu dir-soocdaa
-hibashada dareen kacay degelkiyo dhirteedee
-degmadeenna beer-qaad heellada ma danadiyo
-sida daadka maanshee dibowgaa ka gurataan ?
+deeqdii Ilaahay
+deelqaaf ka mudataay
+adigiyo dangaladaa
+da'kastaydin qooqdaan
+waxa aydin dihataan
+daratiyo ma caal baa ?
 
-i
-Murtidiinnu dakhariyo Noloshaba ma dirashiyo ii . |
-aoe aaah damgqashada calooshiyo hh
-be io oollo bac Rae ! dalqadaa ka barateen? PP
-a dareere miirtiyo .
-lwudduub ku liqayow
-dilladii farshaxankiyo kolley geedka Rien |
-dux abwaan ma sidatoo taariikh la daastiyo
-ane Seer Adee ba oe magac hadha
-c sida diirta xagatoo
-gabaygaba ma ducashiyo dadnimada Arado
-dawersaa ku keentaan? dib maxaa u dhigateen
-Mise dagan ma dhaaftiyo duniduba ma maantaa?
-GH poe ka Sree Fh Dab cunaannu idin nidhi.
-1ul dellegan ka soo xada:
-Mise luug dahsoon iyo Maansadu dan guud iyo
-| suuqga doqgon ma garatiyo dalka hanashadiisiyo
-ku-dhacdaa ka dayataan? dadka wada-jirkiisiyo
-i Marka geel dar loo horo
-f diin maxawgu heestaan. dawna way ku socotaa
+Maansada dunteediyo
+waxa lagu dir-soocdaa
+degelkiyo dhirteedee
+heellada ma danadiyo
+dibowgaa ka gurataan ?
+
+Murtidiinnu dakhariyo
+dalab iyo lanlleemiyo
+daldaloollo badanaa ?
+Ma dareere miirtiyo
+duddun bahal galeenaa?
+Dardartii aftahankiyo
+dilladii farshaxankiyo
+dux abwaan ma sidatoo
+diftii saboolkiyo
+daal baa ka muuqdee
+gabaygaba ma ducashiyo
+dawersaa ku keentaan?
+Mise dagan ma dhaftiyo
+duul baa ka gadataan
+dhul dellegan ka soo xada?
+Mise luuq dahsoon iyo
+suuqa doqon ma garatiyo
+ku-dhacdaa ka dayataan?
+Marka geel dar loo horo
+diin maxawgu heestaan.
+
+Haddii reerku lama dego
+meel daaq ka dheer yahay
+degel oomman furan yahay
+dadka guriga joogiyo
+waxay duunyo haystaan
+diihalka wada qabo
+daruurana ka hooraan
+meel durugsan goortaas
+maxaa daanka oo qudha
+ula doogsin carartaan?
+
+Gudin-yahay dulbaaxdiyo
+dufan lagu afeeyee
+dareenkeedu laaciyo
+milicsiga ku deexdee
+danbarsiga cadceeddiyo
+dabayoodka luunka leh
+weligeed ku darartaa
+maxaad doodda beeshiyo
+danta qaranku leeyahay
+dusduskaaga foofkiyo
+damac uga hor marisaa?
+
+Noloshaba ma dirashiyo
+damqashada calooshiyo
+dalqadaa ka barateen?
+
+Midha daray raggiinaa
+duudduub ku liqayow
+kolley geedka duuggiyo
+taariikh la daastiyo
+laga diirto magac hadha
+sida diirta xagatoo
+dadnimada arradisee
+dib maxaa u dhigateen
+duniduba ma maantaa?
+Dab cunaannu idin nidhi.
+
+Maansadu dan guud iyo
+dalka hanashadiisiyo
+dadka wada-jirkiisiyo
+dawna way ku socotaa
 dawladnimo u samafala
-i Be Ae nt 2 in kastoo dirkeediyo
-TB Haddii reerku lama Gene dulucdeedu saas tahay
-meel daaq ka dheer yahay nisna loo dardaar weri
-degel oomman furan yahay : Pet nial
-Ses outd ye ka hor yimi nin diiddani |
-dadka guriga joogiyo deri iyo u yeel tuur |
-waxay duunyo haystaan Spa ior
+in kastoo dirkeediyo
+dulucdeedu saas tahay
+misna loo dardaar weri
+ka hor yimi nin diiddani
+deri iyo u yeel tuur
 dunjigeeda maydhaan
-dithaalka wada qabo xistigeedu daba gure
-daruurana ka hooraan poe ore
-ee Geese is as Dabinada shirqoolka ah
+xistigeedu daba gure.
+
+Dabinada shirqoolka ah
 inta boholo loo dedey
-ula doogsin carartaan? kaga gudubtey daanshood
-fai digashadu ma saamayn
-: udin-yahay dulbaaxdiyo dhibta waw dul leedahay
-¢] oe lagu afeeyee dibindaabyo hoostyo
-areenkeedu laaciyo dabra.weerar caabbiya
-ry passe ku see duullaanna waw hadhay.
-anbarsiga cadceeddiyo
-~ dabayoodka luunka leh Dibso aan nidhaahnoo
-ae a pa eee Me gelaane ee
-oodda beeshiyo abarkeeda geenyada
-danta qaranku leevahas geedkee ka dina
-pee reeee foofkiyo gorshahaba laguma darin.
-if amac uga hor marisaa?
-f -
-fd i A ate é
+kaga gudubtey daanshood
+digashadu ma saamayn
+dhibta waw dul leedahay
+dibindaabyo hoosiyo
+dabra weerar caabbiya
+duullaanna waw hadhay.
 
-Doc war ‘eenka sheelka\ah dogonniino hadalkiyo ih
-iyo saymo dawdilan i dayaay wax kuma falo 14
-kuma dagato maansadu maba lil daeentoee tb
-xinka way ku darartaa . |
-kulka way ku dirantaa fy aa
-dabka way ku carataa axa Qalinka l§u diray
-haddii feet lagu dayo dadku way tirsanayaa
-deeddankay ku badisaa deyna waa ka maqan yahay |
-dakharada la yeeliyo dana jirena waan ahay |
-hubka lagula daalee danyartiyo saboolkiyo
-ha ku debecdo laga wadot, rules Ae Cee aa |
-dardar bay ka qaadaa isku digato miihine
+Dibso aan nidhaahnoo
+ha dekaanto mooyee
+dabarkeeda geenyada
+geedkee ka diirraa
+qorshahaba laguma darin.
 
-erejaabay tolataa ‘
-cele bay CGE daalaa-dhacoodaan
-haddii seyga laga dilo aniguna damqanayaa
-dogqon geesigeedii xaq haddaan ku daakiro
-‘ ninka daray billaawaha ma deyrkit Makaan gubey?
+Doc wareenka sheelka ah
+iyo saymo dawdilan
+kuma dagato maansadu
+xinka way ku darartaa
+kulka way ku dirantaa
+dabka way ku carataa
+haddii jeedal lagu dayo
+deeddankay ku badisaa
+dakharada la yeeliyo
+hubka lagula daalee
+ha ku debecdo laga wado,
+dardar bay ka qaadaa
+haddii dayro laga dhigo
+derejaabay tolataa
+calan bay deldelataa
+haddii seyga laga dilo
+doqon geesigeedii
+ninka daray billaawaha
 i dumaal tidhaahdoo
-dakanada illowdoo Danbarkiyo karuurkiyo
-| dhanka kale u durugtoo caanaha durduurta ah
-Te diga-rogata maahee dadku haw sinnaadeen
-: : timahaabay dabataa haddii laygu dilo taas
-dunta waxay ku xidhataa taartikhdu duuggeed
-will dardaarankeed qaba dirirrada sidkood go’ay |
-magaciis Dulmane yahay door-roone haw hadho |
-dugqa dhalay sabool yahay dibna mooyi say noqon.
+dakanada illowdoo
+dhanka kale u durugtoo
+diga-rogata maahee
+timahaabay dabataa
+dunta waxay ku xidhataa
+wiil dardaarankeed qaba
+magaciis Dulmane yahay
+duqa dhalay sabool yahay
 danyar hooyadiis tahay
-a ah dumisiyo Dar Allee Dharkaynow
-| GEC KA Sar anuys. haddaad maanta dagan tahay
-} ninka duunyo kaa wada
-Dacwaddayda Ciinow afka kama daboosheen
-dira dire umaan tirin maxaad deelka maansada
-deel-qaaf ka xeel dheer dacar iyo dhunkaal tyo
-; uma jeeddo daw dhaaf duumo ugu arkaysaa?
-i daandaansi kama wado Maxaad uga didaysaa
-fi ka da’weyni ruuxaas uga dhigi wax kuu daran
-derejiyo xil-qaadkeed armay doorba kuu tahay?
-ae u dudaya maan thi
-SnIGWayee xaaragn Haddaan waayey roob da’ay
-dilla gabay ku faankiyo dayravdhaafte jiilaal
+inta xeerka dumisiyo
+deni waa ka garanuug.
+
+Dacwaddayda Ciinow
+dira dire umaan tirin
+deel-qaaf ka xeel dheer
+uma jeeddo daw dhaaf
+daandaansi kama wado
+ka da'weyni ruuxaas
+derejiyo xil-qaadkeed
+nin u dudaya maan ihi
+damac wayga xaaraan
+dilla gabay ku faankiyo
+doqonniino hadalkiyo
+i dayaay wax kuma falo
+maba lihi dareenkaas.
+
+Waxa qalinka igu diray
+dadku way tirsanayaa
+deyna waa ka maqan yahay
+dana jirena waan ahay
+danyartiyo saboolkiyo
+anigiyo dac-wadhantuna
+isku digato miihine
+daawaannu leenahay
+diilalyada cuslaysiyo
+daalaa-dhacoodaan
+aniguna damqanayaa
+xaq haddaan ku daakiro
+ma deyrkii Makaan gubey?
+
+Danbarkiyo karuurkiyo
+caanaha durduurta ah
+dadku haw sinnaadeen
+haddii laygu dilo taas
+taariikhdu duuggeed
+dirirrada sidkood go'ay
+door-roone haw hadho
+dibna mooyi say noqon.
+
+Dar Allee Dharkaynow
+haddaad maanta dagan tahay
+ninka duunyo kaa wada
+afka kama daboosheen
+maxaad deelka maansada
+dacar iyo dhunkaal iyo
+duumo ugu arkaysaa?
+Maxaad uga didaysaa
+uga dhigi wax kuu daran
+armay doorba kuu tahay?
+
+Haddaan waayey roob da'ay
+dayra-dhaafka jiilaal
 guri laga dugaashado
-. aqal laba deryaala ah
+aqal laba deryaala ah
+dadabtiisu nooshahay
+celin kara daroorraha
+docaha iyo raartiyo
+dhan kastaba ka dalab tiran
+ummadduna dugsoonkaas
+dermo qaran ku jiifaan
+bulshadoo dar hoogiyo
+taalla dooxa geerida
+haddii daad u soo galo
+miyaan waayey deelkiyo
+dareensiinta dhiillada.
 
-dadabtiisu nooshahay duddo bahalku kala tago ith
-celin kara daroorraha miyaan waayey deelkiyo Wii
-docaha iyo raartiyo daba socodka qaylada ? \
-dhan kastaba ka dalab tiran b
-ummadduna dugsoonkaas Hayin sida dadweynaha
-dermo qaran ku jiifaan dalaggiyo dhaqaalaha .
-bulshadoo dar hoogiyo duuggiyo wixii nool
-taalla dooxa geerida haddii layska daba galo
-haddii daad u soo galo hadduu aar dalaafiyo
-miyaan waayey deelkiyo arko belo ku soo diran
-dareensiinta dhiillada. nafta dawdab roorka ah
-daran doorri orodkiyo
-Duunyo waa la foofshaa durdurada ka buuxsado
-: daaqna waa la geeyaa maatada derderan iyo
-doorna wa ilaashaa deli tyo jar kala dhaco
-isha daymadeediyo doogaan la maarayn
-digta luuqdu waw wehel. dibna looga soo kaban
-Duhurkaa la ururshaa didmadiisu keentee
-| tiro lagu dabbaalaa haddaan waayey dabarkii
-dabadeed la hooyaa. dhacdo lagu daweeyoo
-kol hadday dareeraan lagu dagagaraa jirin —
-I 3 deegaanta raacaan miyaan waayey doohdiyo
-on dildillaan ku goosmaan doobirtii la odhan jirey ?
+Duunyo waa la foofshaa
+daaqna waa la geeyaa
+doorna wa ilaashaa
+isha daymadeediyo
+digta luuqdu waw wehel.
+Duhurkaa la ururshaa
+tiro lagu dabbaalaa
+dabadeed la hooyaa.
+kol hadday dareeraan
+deegaanta raacaan
+dildillaan ku goosmaan
 wax daryeela waayaan
-daaha hiimammowga ah Danta guud mudnaanteed |
-maqal-daaqda lagu tebo gobannimo daryeelkeed
-cawa-daran la raad guro damaciyo hankaygii
-dibjirtaye ma been baa ? haddaan waayey dawgaan
-Shilna wayna daan-weyn is lahaa ha lagu dego
-demmanaanta kama foga berri degel ma dhaafaan,
-xoolaha dayacanta ah dadka wada jirkiisiyo
-inuu daayoo mooyee isku duubnidiisti
-kama durugsanaan karo lagu doorshey reer reer
-doon-doonisteediyo kala daadsan laga dhigay,
-| day-dayashadeeduna mus duleedku xanan yahay
-darayada libaaxiyo qarannimadu dagan tahay
-ninka damalka ka hadhsaday gudahana dab kaga kacay
-y Deleb waw gudboon-tahay. dawankiyo carooggiyo
-sf miyaan waayey Daalacan
-Haddan waayey doobkii sengahayga Doolaal
-xilka doonnantiisa ah ama faras dirkiisa ah
-dayrada u nogonlaa Dayax-weerar oo kale ?
-\ danyar habaqlaheedii
+daaha hiimammowga ah
+maqal-daaqda lagu tebo
+cawa-daran la raad guro
+dibjirtaye ma been baa ?
+Shilna wayna daan-weyn
+demmanaanta kama foga
+xoolaha dayacanta ah
+inuu daayoo mooyee
+kama durugsanaan karo
+doon-doonisteediyo
+day-dayashadeeduna
+darayada libaaxiyo
+ninka damalka ka hadhsaday
+Deleb waw gudboon-tahay.
 
-Ragga daawadii furay ha ka tuurin daaddeys it
-ama daacadati jaray anna hay dardaar werin. i
-ama garanka duudsiyey iF
-hantidii dadweynaha 1]
-dacallada ka buuxsadey eer te oe ,
-dalku eed ku leeyahay dawgaagu waa sahan p
-rag la deydeyaayoo dadku waa abbaartaa
-dedan 00 qarsoonoo isku dira bahdeediyo
-damacooda xeel iyo kala dila ha nogonnine
-ku darsaday tab hoosoo isku dara ha lagu dhaho.
+Haddan waayey doobkii
+xilka doonnantiisa ah
+dayrada u noqonlaa
+danyar habaqlaheedii
+duddo bahalku kala tago
+miyaan waayey deelkiyo
+daba socodka qaylada ?
 
-WiXil deyn ku soo baxa Nin xumaa daneeyoo
-berri diidi karayoo” waxa jira damqanayee
-dufankiyo karriinkii yaanu xagal ka daac iyo
-iska duugey maahee gol daloolo kaa helin
-sida buurta Daalood xidho duubka nabadeed
-dal fog bay ka muuqdaan. daacaddiyo runtaba sheeg
-daaraanta magacaw.
+Hayin sida dadweynaha
+dalaggiyo dhaqaalaha
+duuggiyo wixii nool
+haddii layska daba galo
+hadduu aar dalaafiyo
+arko belo ku soo diran
+nafta dawdab roorka ah
+daran doorri orodkiyo
+durdurada ka buuxsado
+maatada derderan iyo
+deli iyo jar kala dhaco
+doogaan la maarayn
+dibna looga soo kaban
+didmadiisu keentee
+haddaan waayey dabarkii
+dhacdo lagu daweeyoo
+lagu dagagaraa jirin
+miyaan waayey doohdiyo
+doobirtii la odhan jirey ?
+
+Danta guud mudnaanteed
+gobannimo daryeelkeed
+damaciyo hankaygii
+haddaan waayey dawgaan
+is lahaa ha lagu dego
+berri degel ma dhaafaan,
+dadka wada jirkiisiyo
+isku duubnidiisii
+lagu doorshey reer reer
+kala daadsan laga dhigay,
+mus duleedku xanan yahay
+qarannimadu dagan tahay
+gudahana dab kaga kacay
+dawankiyo carooggiyo
+miyaan waayey Daalacan
+sengahayga Doolaal
+ama faras dirkiisa ah
+Dayax-weerar oo kale ?
+
+Ragga daawadii furay
+ama daacaddii jaray
+ama qaranka duudsiyey
+hantidii dadweynaha
+dacallada ka buuxsadey
+dalku eed ku leeyahay
+rag la deydeyaayoo
+dedan oo qarsoonoo
+damacooda xeel iyo
+ku darsaday tab hoosoo
+wixii deyn ku soo baxa
+berri diidi karayoo
+dufankiyo karriinkii
+iska duugey maahee
+sida buurta Daalood
+dal fog bay ka muuqdaan.
+
 Diricaasi waa kuma ?
-Dawdar weeye shalay jirey Cadowgaagu duurkiyo
-durba sawkan jeedladay hadduu doogga cawskiyo
-; dhistay aqallo daah weyn dareemada ka badan yahay
-Wy tolow duubka yaw xidhay adiguna dab baad tahay.
+Dawdar weeye shalay jirey
+durba sawkan jeedladay
+dhistay aqallo daah weyn
+tolow duubka yaw xidhay
 hadmuu tobanka doonyood
-dekedaha ku soo xidhay Digo shidan hadduu yahay |
-hadmuu dunida gaarkeed adna daad socdaad tahay. |
-intuu daawashaw tegey Damal adag hadduu yahay
-demesh iyo wixii yiil adna danab dhacaad tahay.
-; sida daad u soo rogey?
-kaftankaas dareenka leh Baaruudda duushiyo
-danyartaa ku heestee dubbe culus hadduu yahay
-| dadka maanigaa baray derbi soo ceshaad tahay.
+dekedaha ku soo xidhay
+hadmuu dunida gaarkeed
+intuu daawashaw tegey
+demesh iyo wixii yiil
+sida daad u soo rogey?
+kaftankaas dareenka leh
+danyartaa ku heestee
+dadka maanigaa baray
 derejada hummaaga ah
 magacyada dul-saarka ah
-ee soo gadaal baxay ae oh ia8 : pee ay ie hay
-? gudcur dama’ hadduu ya
-HERG DY SUICIEA ac: qorrax duluca furatiyo
-dayax buuxsamaad tahay.
-Doodda aan ku soo xidho
-| bi’i waaye deylooy i Hadduu aw dillaaliyo
-adna darayga hays dhigin qalin duurre faashiyo
-xaajadu dalluun iyo yahay figi dammiinana
-dalow bay ka lulataa cilmi durugsan baad tahay.
+dorraad soo gadaal baxay
+maxaa laygu digayaa?
 
-Dulin dhiigga miirtiyo ae
-dulmi Rinne yahay G AB ADH MADOW |
+Doodda aan ku soo xidho
+bi'i waaye deylooy
+adna darayga hays dhigin
+xaajadu dalluun iyo
+dalow bay ka lulataa
+ha ka tuurin daaddeys
+anna hay dardaar werin.
+
+Deelleyna aan faro
+duco iyo sidii roon
+dawgaagu waa sahan
+dadku waa abbaartaa
+isku dira bahdeediyo
+kala dila ha noqonnine
+isku dara ha lagu dhaho.
+Nin xumaa daneeyoo
+waxa jira damqanayee
+yaanu xagal ka daac iyo
+gol daloolo kaa helin
+xidho duubka nabadeed
+daacaddiyo runtaba sheeg
+daaraanta magacaw.
+
+Cadowgaagu duurkiyo
+hadduu doogga cawskiyo
+dareemada ka badan yahay
+adiguna dab baad tahay.
+
+Digo shidan hadduu yahay
+adna daad socdaad tahay.
+Damal adag hadduu yahay
+adna danab dhacaad tahay.
+
+Baaruudda duushiyo
+dubbe culus hadduu yahay
+derbi soo ceshaad tahay.
+
+Mugdi lagu dayoobiyo
+gudcur dama' hadduu yahay
+qorrax duluca furatiyo
+dayax buuxsamaad tahay.
+
+Hadduu aw dillaaliyo
+qalin duurre faashiyo
+yahay fiqi dammiinana
+cilmi durugsan baad tahay.
+
+Dulin dhiigga miirtiyo
+dulmi hilan hadduu yahay
 xaq dillaacay baad tahay.
-Goonyahaygu waa dhagar |
-sita daramalkiisoo pe re
-ku dan qaba hadduu yahay : Bia a ae ie
-GBI GnGBWigagaa tangy gondahaygu waa dhiig.
-Hadday daana daaniyo Weligay gu’ iyo dayr
-dawltil ku heesaan guul ooman baan ahay
-waxy! soo degaad tahay. hantidayda gawriyo
+
+Nin qabiil dafkiisiyo
+sita daramalkiisoo
+ku dan qaba hadduu yahay
+qaran dawladaad tahay.
+
+Hadday daana daaniyo
+dawliil ku heesaan
+waxyi soo degaad tahay.
+
+Inta dunidu raarkiyo
+deyrka hoose leedahay
+qof dulmani ku nool yahay
+ilays daaran baad tahay
+wed jiraana kuma dilo.
+
+Anigana bir danantiyo
+dabran iyo melmelan iyo
+deldelaad ha lay sudho
+duuggaygu waa adi.
+
+### GABADH MADOW
+
+Goonyahaygu waa dhagar
+guudkaygu waa xeel
+garayskaygu waa seef
+guntigaygu waa ciil
+gudahaygu waa yool
+gondahaygu waa dhiig.
+
+Weligay gu' iyo dayr
+guul ooman baan ahay
+hantidayda gawriyo
 gabayooxna lagu reeb
-Inta dunidu raarkiyo gertyaadna lagu beer
-deyrka hoose leedahay dayaxay u gudubtaa
-gof dulmani ku nool yahay aniguna gelgelintiyo
-ilays daaran baad tahay garab rarato kama baxo.
-wed jiraana kuma dilo®8. Gadh wadeennadayduna
+geriyaadna lagu beer
+dayaxay u gudubtaa
+aniguna gelgelintiyo
+garab rarato kama baxo.
+Gadh wadeennadayduna
 giddi inan-la-yaal iyo
-; guur-doonno weeyaan
-. Anigana bir danantiyo Tetineaeee Walden
-W dabran iyo melmelan iyo utintayda lama gudo
-deldelaad ha lay sudho gashigayga lama bedo
-duuggaygu waa adi. galladayda lama karo
+guur-doonno weeyaan,
+geyaankoodu waa damac
+utintayda lama gudo
+gashigayga lama bedo
+galladayda lama karo
 dibnahaa ka gaabsada
 guubaabadayduna
 kama foga guuraabaas
 Guuguule yeedhii.
-i Badi waan gadoodaa
+
+Badi waan gadoodaa
 cidda aan galaaftaa
 guurtidayda weeyaan
 anigays gunaanada
@@ -5521,3599 +10003,6332 @@ hadba waxaan ku giirtaa
 Guuleedka ii kaca
 geeddigaygu sahan ma leh
 geenyo hadaftey baan ahay
-i goobyaalka milicsiga
+goobyaalka milicsiga
 gabargaalka lahashada
 gacan haadis bay diley
-28 dumarkiina (Waxa la xusayaa Saado Cali 00 ka qayb qaadaiay Silsiladdii Deelley.) ae oe 3 wire.
-‘rantay ‘diy
+iyo laba gar-daymood
+gurrantayda bidixdiyo
+garabkayga midig baan
+midba gelin u jeestaa
+ka cabsaday god naareed
+jannadana ma geli karo
+gooddigooda ku anbaday
+duniduna gabaabsiday.
 
-iit |
-garabkayga midig baan Isagoo xil-gubashada \4 .
-midba gelin u jeestaa u daruuray gaashaan . .
-ka cabsaday god naareed Isma-gabe wuxuu yidhi:- Eb
-jannadana ma geli karo ” Markii ay na Gelayeen Pb
-gooddigooda ku anbaday waa nala gilgilayoo 14
-duniduna gabaabsiday. inta nala gun-dhebey baa i
-afka nalagu gaacsaday”. L
-Tiradaa gedmaysoo |
-i galaa baxaysee ony
-a goolal igu maqan ? Wadnihiisu galow ma leh
-Dheeshan laygu goobtee ku gadaar igad ceebtii
-gefka lagu heshiis yahay libintana ku geeraar |
-mee gar-sooraheedii ? xeeshiina lagu garey
-Geeddu xeer ma leedahay, murti guun ah laga reeb.
+Tiradaa gedmaysoo
+i galaa baxaysee
+maxaa goolal igu maqan ?
+Dheeshan laygu goobtee
+gefka lagu heshiis yahay
+mee gar-sooraheedii ?
+Geeddu xeer ma leedahay,
 mise waa lug iyo gacan
-labadaba ku garangari. Jiiftada gar-dhaladka ah
-waxan uga gol leeyahay
-. Goohu yuu ka soo baxay, Allahayow gurracanaa
-| guurowga yaa wadey, marti goor-xun socotood
-| maxaa keenay gabayada ? gobannimo ku soortoo
-Inaan gabadh madow ahay kugu tidhi gun baad tahay !
-| cadrad lagu gabood falay
-" malaa waad i garateen ? Markii aan garraaddaha
-Sheeko gaaban baa tidhi:- his if Lae
-Nir BAGO haysaa galabtaad is-wacateen
-guri yimi duleedkii taladana in lay galo
-soddoh garasho dheeruu Baarliin ku goyseen
-gab adheeda qabey baa ilaa gooshkan maanta ah
-| dhito godollo sheellayd hadimada i gaadhiyo
-ugu geysey meeshit oe waxaad geysateen baan
-Isaguna guddoon yidhi : gocashada xusuustee
-| Laysu guud mar toyashada maxaan Reer Galbeedow
-caanaha gadhoodhaa godob kaa tirsanayaa ?
-inay guurra guurraha mise gabawar mooyee
-weelka gaararkiisiyo tolow maba garawdaan !
+labadaba ku garangari .
+
+Goohu yuu ka soo baxay,
+guurowga yaa wadey,
+maxaa keenay gabayada ?
+Inaan gabadh madow ahay
+cadrad lagu gabood falay
+malaa waad i garateen ?
+
+Sheeko gaaban baa tidhi:-
+"Ninay gaajo haysaa
+guri yimi duleedkii
+soddoh garasho dheeruu
+gabadheeda qabey baa
+dhito godollo sheellayd
+ugu geysey meeshii".
+Isaguna guddoon yidhi :
+Laysu guud mar toyashada
+caanaha gadhoodhaa
+inay guurra guurraha
+weelka gaararkiisiyo
 gunta badi ku ururaan
-| waa ged lagu yaqaannaa, ;
-godankii isugu tage. Maxaa gaasas duuliyo
-; Isaguna ka geyn waa guutooyin xoogliyo |
-inuu dhiilka gororsado gurmad leedda-fuuliyo
-gacantana ma diran karo. guluf weerar tooxdiyo
+waa ged lagu yaqaannaa,
+godankii isugu tage.
+Isaguna ka geyn waa
+inuu dhiilka gororsado
+gacantana ma diran karo.
 
-dabley gaatan-socotiyo gayaxaha ka siibteen en
-geba-geba i saarteen ? milgaheeda gawsheen ER
-ka xil baxay geyaankeed nit
-Maxaan goor la saahidey Maxaad gaari weer xidhan Th
-habeenkoo gabbala-ridey godol-qaad ku daydeen. a
-laba gelin is-raaceen t
-gaaf-meerka socotada Maxaa guul darraystiyo, a
-iyo guura-bahallaha godadliyo hinaasiyo
-geesaaska fiintiyo Gocor igu hubayseen. |
+Isagoo xil-gubashada
+u duruuray gaashaan
+Isma-gabe wuxuu yidhi:-
+"Markii ay na Gelayeen
+waa nala gilgilayoo
+inta nala gun-dhebey baa
+afka nalagu gaacsaday".
+
+Wadnihiisu galow ma leh
+ku gadaangad ceebtii
+libintana ku geeraar
+xeeshiina lagu garey
+murti guun ah laga reeb.
+
+Jiiftada gar-dhaladka ah
+waxan uga gol leeyahay
+Allahayow gurracanaa
+marti goor-xun socotood
+gobannimo ku soortoo
+kugu tidhi gun baad tahay !
+
+Markii aan garraaddaha
+taariikhda kala guray
+ilaa gogol-dhiggiinnii
+galabtaad is-wacateen
+taladana in lay galo
+Baarliin ku goyseen
+ilaa gooshkan maanta ah
+hadimada i gaadhiyo
+waxaad geysateen baan
+gocashada xusuustee
+maxaan Reer Galbeedow
+godob kaa tirsanayaa ?
+mise gabawar mooyee
+tolow maba garawdaan !
+
+Maxaa gaasas duuliyo
+guutooyin xoogliyo
+gurmad leedda-fuuliyo
+guluf weerar tooxdiyo
+dabley gaatan-socotiyo
+geba-geba i saarteen ?
+
+Maxaan goor la saahidey
+habeenkoo gabbala-ridey
+laba gelin is-raaceen
+gaaf-meerka socotada
+iyo guura-bahallaha
+geesaaska fiintiyo
 galow fooridiisiyo
-ead nae Giiba saw nin ma ahayn
-gellimaad ku sara-kacay. ase Sal nit
-' Maxaa gacan ku dhiigliyo
-Maxaad gaade hoosiyo gibil ai takooriyo ees
-gurrac iyo shirgool iyo garma-qaate dhegaliyo
-tabo igu gantoobteen. garac igu abuurteen.
-Maxaad garangartaydiyo Maxaa good mariidliyo
-| guryahayga bi’iseen gungumiyo abeesiyo
-r Gacal tyo tol wada yaal goodaaddo jilifliyo
-1 fore gobol u ooddeen garangoorri socotiyo
-aba aan is-gooyeen inta bahal gurguurtiyo
-kala goonni yeesheen. belo igaga guurteen. |
+galayaxa rasaastiyo
+col gurguuranaayiyo
+gellimaad ku sara-kacay.
+
+Maxaad gaade hoosiyo
+gurrac iyo shirqool iyo
+tabo igu gantoobteen.
+
+Maxaad garangartaydiyo
+guryahayga bi'iseen
+Gacal iyo tol wada yaal
+gobol gobol u ooddeen
+laba aan is-gooyeen
+kala goonni yeesheen.
+
 Maxaa laba gudboonayd
-SS AES Maxaa gegi dabayliyo
-midna garabka siiseen Dom OnATI ca eaaaiNe
-| ka labaad u guusheen galoof iyo candhooliyo
-isku go’a tidhaahdeen. geyi lama degaaniyo
-x goonbaar habaasliyo
-Maxaa wiilal gaammurey guban lagu asqoobiyo
-intaa ugu guduuddeen gaajada rugteediyo
-' ha galgalan tidhaahdeen. gabno igu tilmaanteen.
-Maxaa Gaanni ciidmiyo Goobtii harraadkiyo
-hanad aan gardaadshoo | gurigii cadceeddiyo
-. ku goblamay birayseen, | geedkii saboolkiyo
-golxobkiinnu ku afuray gudcur maararrawliyo
-Maxaa geesi aan dhalay | yaa go’doonka iga dhigay,
-intaa gawrac mariseen adduunyada geddaas faray,
-gorgor baahan siiseen. | gaasiray waxaan ahay
-Maxaa inan gashaantiya |
+midna garabka siiseen
+ka labaad u guusheen
+isku go'a tidhaahdeen.
 
-ot .
-Maxaa gocayadiinniyo waxba kuma garaacdee q |
-intaa gaawihiinnniyo miyaan tiinnu gaagixin? i
-gorof iga milaasheen mu
-gudhan iigu yeedheen BEL
-Maxaan geystey ee dhimay? TEE
-Aaway euiyndavdil Maxaan galabsadee falay? TERT
-eeliyo lo’daydii anigoo la gamashiyey ii
-g fs J kil gondahayga seetadu BLT
-faraskiyo gammaankii waxay haar ku gedeftiyo. tBEL
-goolashaydii soocnaa ? Gurgurkii i saarraa Th
-bogol gu’ tyo taartaar .
-Aaway gaaxsantaydii anigoo gun iyo baar
-dahabkii guduudnaa korku wada gunaad yahay |
-macdantii goshaydiyo anigoo la golongolay
-buuraha guntoodiyo sida caynku ii gubey
-gebiyada ku duugnayd ? gubuxsiga tallaabada .
-garba-beelay dhawr jeer,
-Warshaddiinna guuxdaa goob-joogna ka ahaa
-midhahay gadaysiyo galab noolba waxa dhacay,
-miidday guntaysiyo anoo uur-guluuluca
-is ganacsiga abeerka ah la gommodey dhibtaadii,
-+ xaggee looga soo guray ? adoo gacan togaalaha
-bi : gardarriyo is-yeel yeel,
-intaasoo gef muuqdiyo
-Guushkay tufaysiyo guul darrooyin igu falay |
-dheecaanka gabaxliyo maxaad weli guhaaddiyo
-xinjiraha galshaystiyo gaadhka iiga haysaan?
-dhiigga gobo'leh yayska leh ? Maxaa gumuca boodiyo
-gaaraa-bidhaankiyo,
-Immisaa gabaarrey iyo hubka iigu gibisheen?
+Maxaa wiilal gaammurey
+intaa ugu guduuddeen
+ha galgalan tidhaahdeen.
+
+Maxaa Gaanni ciidmiyo
+hanad aan gardaadshoo
+ku goblamay birayseen,
+golxobkiinnu ku afuray
+Maxaa geesi aan dhalay
+intaa gawrac mariseen
+gorgor baahan siiseen.
+Maxaa inan gashaantiya
+gayaxaha ka siibteen
+milgaheeda gawsheen
+ka xil baxay geyaankeed
+Maxaad gaari weer xidhan
+godol-qaad ku daydeen.
+
+Maxaa guul darraystiyo,
+godadliyo hinaasiyo
+Gocor igu hubayseen.
+
+Giiba saw nin ma ahayn
+geeskayga bari yimi.
+
+Maxaa gacan ku dhiigliyo
+gibil kala takooriyo
+garma-qaate dhegaliyo
+garac igu abuurteen.
+
+Maxaa good mariidliyo
+gungumiyo abeesiyo
+goodaaddo jilifliyo
+garangoorri socotiyo
+inta bahal gurguurtiyo
+belo igaga guurteen.
+
+Maxaa gegi dabayliyo
+gocondhaley cagaagliyo
+galoof iyo candhooliyo
+geyi lama degaaniyo
+goonbaar habaasliyo
+guban lagu asqoobiyo
+gaajada rugteediyo
+gabno igu tilmaanteen.
+
+Goobtii harraadkiyo
+gurigii cadceeddiyo
+geedkii saboolkiyo
+gudcur maararrawliyo
+yaa go'doonka iga dhigay,
+adduunyada geddaas faray,
+gaasiray waxaan ahay
+
+Maxaa gocayadiinniyo
+intaa gaawihinnniyo
+gorof iga milaasheen
+gudhan iigu yeedheen
+
+Aaway guuyadaydii
+geeliyo lo'daydii
+faraskiyo gammaankii
+goolashaydii soocnaa ?
+
+Aaway gaaxsantaydii
+dahabkii guduudnaa
+macdantii goshaydiyo
+buuraha guntoodiyo
+gebiyada ku duugnayd ?
+
+Warshaddiinna guuxdaa
+midhahay gadaysiyo
+miidday guntaysiyo
+ganacsiga abeerka ah
+xaggee looga soo guray ?
+
+Guushkay tufaysiyo
+dheecaanka gabaxliyo
+xinjiraha galshaystiyo
+dhiigga gobo'leh yayska leh ?
+
+Immisaa gabaarrey iyo
 garab-cas igu koray?
-Maxaad saymo gadataa,
-Maxaa gaatirtaydiyo dab gamaaray hurisaa
-goldalooladaydiyo Maxaad gawsahaagiyo
-. sida lay gabraartiyo miciyaha golxaystiyo
-garka laygu laylyiyo ciddi wada garaara ah
-gedda lay salaaxiyo hadba shaadh u gelisaa
-googgaa ku sabiddiyo maxaad gedagedeysaa
-gobortayda barateen? | hadba geed is-marisaa.
-Dadku geed adaygiyo | Ummad geylamaysoo
-i gudintay Kol iyo laba gaarkooda taladii
-lafa-geri ku dhuuxaan | inta ay gorfeeyeen
 
-raba inay geyoodaan ar-naqsaan ku jeedaa Wid
-kuwa jira gadaashana talaan gawda ku hayaa. | |
-gaadiid u celiyaan, i]
-intaan gaasha-weyntiyo Inkastaad garamurttemn BEL
-SH aber eae geedka aan ka beerrahay rep
-ee pie ie ma qallalin guntaydii ,
-ef dad-liga ku nogoteen? ganto xidid leh baan ahay ai
-é 2 gumar qodax leh baan ahay
-Hadb / dab baan soo gadaal-celin. |
-adba ruuxa goolmoon
-raba ina gunnaysaan :
-ama guufaf timiriyo cate ee
-galley loogu sama-falo gaalgaalka dheelliga
-maxaa geeridiisiyo ku spemett ee
-waran iyo gantaal iyo waxaan goo oe raa
-gaalleef u siisaan? Jidkii guusha aadmiga |
-gelbiskiyo mashxaradaha
-aayo hawlaan
-U garbaynta noloshiyo Z fe is ei okutest karo
-gacan stinta nabaddiyo eobanimo ku hanan karo.
+Maxaa gaatirtaydiyo
+goldalooladaydiyo
+sida lay gabraartiyo
+garka laygu laylyiyo
+gedda lay salaaxiyo
+googgaa ku sabiddiyo
+gobortayda barateen?
+
+Dadku geed adaygiyo
+gudintay kol iyo laba
+lafa-geri ku dhuuxaan
+waxba kuma garaacdee
+miyaan tiinnu gaagixin?
+
+Maxaan geystey ee dhimay?
+Maxaan galabsadee falay?
+anigoo la gamashiyey
+gondahayga seetadu
+waxay haar ku gedeftiyo.
+Gurgurkii i saarraa
+boqol gu' iyo taartaar
+anigoo gun iyo baar
+korku wada gunaad yahay
+anigoo la golongolay
+sida caynku ii gubey
+gubuxsiga tallaabada
+garba-beelay dhawr jeer,
+goob-joogna ka ahaa
+galab noolba waxa dhacay,
+anoo uur-guluuluca
+la gommodey dhibtaadii,
+adoo gacan togaalaha
+gardarriyo is-yeel yeel,
+intaasoo gef muuqdiyo
+guul darrooyin igu falay
+maxaad weli guhaaddiyo
+gaadhka iiga haysaan?
+Maxaa gumuca boodiyo
+gaaraa-bidhaankiyo,
+hubka iigu gibisheen?
+
+Maxaad saymo gadataa,
+dab gamaaray hurisaa
+Maxaad gawsahaagiyo
+miciyaha golxaystiyo
+ciddi wada garaara ah
+hadba shaadh u gelisaa
+maxaad gedagedeysaa
+hadba geed is-marisaa.
+
+Ummad geylamaysoo
+gaarkooda taladii
+inta ay gorfeeyeen
+raba inay geyoodaan
+kuwa jira gadaashana
+gaadiid u celiyaan,
+intaan gaasha-weyntiyo
+cawa-darantu soo gelin
+maxaa geeddigoodii
+gujis lama filaaniyo
+gal dad-liqa ku noqoteen?
+
+Hadba ruuxa goolmoon
+raba ina gunnaysaan
+ama guufaf timiriyo
+galley loogu sama-falo
+maxaa geeridiisiyo
+waran iyo gantaal iyo
+gaalleef u siisaan?
+
+U garbaynta noloshiyo
+gacan siinta nabaddiyo
 gudashada sidii roon
-| maxaa kaa gabbaanadey?
-Ba: Guntashada ee
-gudashada habboonkay
-ee ee : ene) peat i
-‘vow k u ged-baxa falaa
-ae Ee eae ede waxaan geysto magac-dheba
-deh poh doontee aan lahaanno goorteed.
+maxaa kaa gabbanaadey?
+
+Afartaas god madaleed
+gola-joog ku naanays
+Gaarriyow ka marag noqo
+ila gudubtey sheekadu
+geba gebana doontee
 bal aan soo gunaanado.
+
 Ninka loo gol leeyahay
 isagaa is-garan kara
 sida goosan weer helay
 igu gaabi tuurtuur
 igu gado sir iyo caad
-i halkaad gaadho taagtaa.
+halkaad gaadho taagtaa.
+
 Aniguna il-galaclaha
 is-gamaarintaydiyo
-. gadh-salaaxa maahdiyo |
-gama’ aan hurdo ahayn |
-. goroddaan lalminayaa |
-| gabbashiyo ma aha quus |
+gadh-salaaxa maahdiyo
+gama' aan hurdo ahayn
+goroddaan lalminayaa
+gabbashiyo ma aha quus
+gar-naqsaan ku jeedaa
+talaan gawda ku hayaa.
 
-TREE
-” Markay heedhe waalaha nit
-HEELIYO hirwo kuu tuntumayaan ma
-hebed minaw san baad tahay”, bee
-Higio weeye dulin badan |
-waana hoga kaliileed ” Halgan iyo waddaninnimo eb
-hongorraha cadceedduu inaad heerto mooyee ven
-ka hadh-galay qadhaabkii, weligaa dab uma hurin”. .
+Inkastaad gammuurteen
+geedka aan ka beerrahay
+ma qallalin guntaydii
+ganto xidid leh baan ahay
+gumar qodax leh baan ahay
+dab baan soo gadaal-celin.
+
+Gebi-dhaca i haystiyo
+gaalgaalka dheelliga
+ku guddoonsan maayee
+waxaan goobayaa raad
+jidkii guusha aadmiga
+gelbiskiyo mashxaradaha
+gafi maayo hawlaan
+guryo-samo ku tegi karo
+gobanimo ku hanan karo.
+
+Guntashada xusuusaha
+gudashada habboonkay
+gabay gabaygan ciil-tira
+u ged-baxa falaadkay
+waxaan geysto magac-dheba
+aan lahaanno goorteed.
+
+### HEELIYO
+
+Higlo weeye dulin badan
+waana hoga kaliileed
+hongorraha cadceedduu
+ka hadh-galay qadhaabkii,
 haylaa ka yara dhacay
-hurdana wuu iskaga Jirey. *N APRA Gad TET OTVe
-Hillaac wax i tus bay tidhi Loris eed Bh ec
-hilayguna indhaa qabey. halag laba af-laad tahay”.
-Intuu soo hanbaabirey ” Marka ay hufnaantiyo
-haab haabtay maradii qof hagaagsan joogtee
-kuye Heeliyooy toos hebel kale la magac dhebo
-iga eeg kor tyo hoos nin hinaasiyaad tahay”.
-| miyaan hoolif mooyee
-hal turxaana leeyahay? *Garta hoga tuskeedana
-| hiinraac gurracanoon
-Halacsiga sarbeebta ah waxba hubinnin baad tahay”.
-Bh tyadoon u hagar bixin
-+ wax-ka-sheegga Haaruun ” Midhka hoos ka tuurka ah
-ha ka yaabin bay tidhi. nin ragaa hilmaamee
-naxli huursan baad tahay”
+hurdana wuu iskaga jirey.
+Hillaac wax i tus bay tidhi
+hilayguna indhaa qabey.
+
+Intuu soo hanbaabirey
+haab haabtay maradii
+kuye Heeliyooy toos
+iga eeg kor iyo hoos
+miyaan hoolif mooyee
+hal turxaana leeyahay?
+
+Halacsiga sarbeebta ah
+iyadoon u hagar bixin
+wax-ka-sheegga Haaruun
+ha ka yaabin bay tidhi.
+
 Huuhaadu digashiyo
-hab sabaale weeyaan ” Hadashada aqoontiyo |
-waana lays hunda ogyahay. hinddisaha garaadkana |
-hungo qaawan baad tahay”.
-lyadoon ku hawshoon . ;
-j wax-ka-sheegga Haaruun Hayntiyo dhaqaalaha :
-waxay hoos u sii tidhi:- gacmo hoorsadaad tahay”.
+hab sabaale weeyaan
+waana lays hunda ogyahay.
+
+Iyadoon ku hawshoon
+wax-ka-sheegga Haaruun
+waxay hoos u sii tidhi:-
 "Nin gumeysi habayoo
-isticmaar habeeyoo ” Hooda iyo deeqdana
-la hal maalay baad tahay”. hor Allaad ka joogtaa”.
-3 3 i ”Dadnimada hoggeedana
-i nal ih eae dhawrkiyo dibaddaad ka huruddaa”.
-q nin u heellan baad tahay.”
-| ”Hollashada dagaalkana
-hooto rogasho maad lihid”.
-et ee
+isticmaar habeeyoo
+la hal maalay baad tahay".
 
-ij ”Hayal waad ka madhan tahay Hoonbaro libaaxley 5 |
-heemaalna kaa dhimey”. hoosaaso badanley
-weligaa hunbaallee |
-”Abaartii Hawaariyo huga dhagarta laga tolay |
-Harga cuna mar baad tahay kolba midab ku hooshaar |
-marna Haarriyaad tahay”. dadka hawdka wada yaal
-isma hurada kala gee
-”Higil nuxurla’ baad tahay haan haan u kala sooc
-hirrig qodax leh baad tahay hilgadlaha isugu dhiib
-hawo beena baad tahay maadhiin holcaayiyo
-hadal kama dhergaad tahay”. hanti qaranku leeyahay
-hayin rarato guurtoon
-ake wax hallayn ku dabar goo
-Nin ammaanta heesaha haweenka iyo maatada
-u hamuumayaad tahay”’. hardafaha ku baabii’
-hebel hebel u aanee
-”Hibo iyo nin madaxnnimo ma colaad hagooglliyo
-u haliilayaad tahay”. hiirtaanyo reeb bay
-hawraartu kaa tahay?
-TF "Nin waxaanu hidin karin
-7 isku hawlayaad tahay”. Halse waxad ogaataa
-tt hiyigaaga gelisaa
-”Nin Waxaan la heli karin haddeer waa la joogaa |
-u harraaddan baad tahay.” hadhow waa la nool yahay |
-hordhacii qudhqudhisee
-» ' adigay hadhuubkii
-Hawkar tyo dhib baad tahay oat Gs HEI THEL
-habaas iyo ufaad tahay ah Heo
-hummaag iyo riyaad tahay waanad heensan doontaa.
+"Hamrashada xaq-dhawrkiyo
+haasaawahoodana
+nin u heellan baad tahay."
+
+"Markay heedhe waalaha
+hirwo kuu tuntumayaan
+hebed minaw san baad tahay".
+
+"Halgan iyo waddaninnimo
+inaad heerto mooyee
+weligaa dab uma hurin".
+
+"Marka aad nin hanadiyo
+hor u socod murmaysaan
+halaq laba af-laad tahay".
+
+"Marka ay hufnaantiyo
+qof hagaagsan joogtee
+hebel kale la magac dhebo
+nin hinaasiyaad tahay".
+
+"Garta hoga tuskeedana
+hiinraac gurracanoon
+waxba hubinnin baad tahay".
+
+"Midhka hoos ka tuurka ah
+nin ragaa hilmaamee
+naxli huursan baad tahay"
+
+"Hadashada aqoontiyo
+hinddisaha garaadkana
+hungo qaawan baad tahay".
+
+"Hayntiyo dhaqaalaha
+gacmo hoorsadaad tahay".
+
+"Hooda iyo deeqdana
+hor Allaad ka joogtaa".
+
+"Dadnimada hoggeedana
+dibaddaad ka huruddaa".
+
+"Hollashada dagaalkana
+hooto rogasho maad lihid".
+
+"Hayal waad ka madhan tahay
+heemaalna kaa dhimey".
+
+"Abaartii Hawaariyo
+Harga cuna mar baad tahay
+marna Haarriyaad tahay".
+
+"Higil nuxurla' baad tahay
+hirrig qodax leh baad tahay
+hawo beena baad tahay
+hadal kama dhergaad tahay".
+
+"Nin ammaanta heesaha
+u hamuumayaad tahay".
+
+"Hibo iyo nin madaxnnimo
+u haliilayaad tahay".
+
+"Nin waxaanu hidin karin
+isku hawlayaad tahay".
+
+"Nin Waxaan la heli karin
+u harraaddan baad tahay. "
+
+"Hawkar iyo dhib baad tahay
+habaas iyo ufaad tahay
+hummaag iyo riyaad tahay
 habeen yuururaad tahay
-| mugdi hoganayaad tahay Afartaas heshiiskii
-hafar iyo cidlaad tahay huriwaa ku magacaw
-intaasoo hal baasoo . hakad iyo tilmaan saar
-is hareer socdaad tahay hinji nabarka qalinyohow
-habaar biiray baad tahay”. hohe leebka igu mudan
-waxba hawla kala hadhin.
+mugdi hoganayaad tahay
+hafar iyo cidlaad tahay
+intaasoo hal baasoo
+is hareer socdaad tahay
+habaar biiray baad tahay".
+
 Afartaas heshiiskii
-huriwaa ku magacaw Naalleeye habacsane
-d hakad iyo tilmaan saar yaa horseede kaa dhigay
-hinji nabarka galinyohow hayb baabad sidataa
-hohe leebka igu mudan maadigaa hoggaansha ah
-waxba hawla kala hadhin. gobannimo hawadin kara
+huriwaa ku magacaw
+hakad iyo tilmaan saar
+hinji nabarka qalinyohow
+hohe leebka igu mudan
+waxba hawla kala hadhin.
+
+Hoonbaro libaaxley
+hoosaaso badanley
+weligaa hunbaallee
+huga dhagarta laga tolay
+kolba midab ku hooshaar
+dadka hawdka wada yaal
+isma hurada kala gee
+haan haan u kala sooc
+hilqadlaha isugu dhiib
+maadhiin holcaayiyo
+hanti qaranku leeyahay
+hayin rarato guurtoon
+wax hallayn ku dabar goo
+haweenka iyo maatada
+hardafaha ku baabii'
+hebel hebel u aanee
+ma colaad hagooglliyo
+hiirtaanyo reeb bay
+hawraartu kaa tahay?
+
+Halse waxad ogaataa
+hiyigaaga gelisaa
+haddeer waa la joogaa
+hadhow waa la nool yahay
+hordhacii qudhqudhisee
+adigay hadhuubkii
+huubadiisu kuu taal
+waanad heensan doontaa.
+
+Afartaas heshiiskii
+huriwaa ku magacaw
+hakad iyo tilmaan saar
+hinji nabarka qalinyohow
+hohe leebka igu mudan
+waxba hawla kala hadhin.
+
+Naalleeye habacsane
+yaa horseede kaa dhigay
+hayb baabad sidataa
+maadigaa hoggaansha ah
+gobannimo hawadin kara
 haneedka qaban kara
+higsankara asaaggaa
+qarannimo hitiqin kara
+isku duubni hanan kara
+dad saboola hagi kara
+himilada xil furan kara
+taariikh la hadhi kara
+hal-abuurka sharafka leh
+murtidooda heli kara
+hoodaale noqon kara ?
 
-HT ("|
-| higsankara asaaggaa hangalkuu la boodoo |
-garannimo hitigin kara hanbadii aboorkiyo 7 .
-isku duubni hanan kara harag iyo laf keliyaa 1a
-dad saboola hagi kara hanbaberey dareenkoo i
-himilada xil furan kara hurdadii ka toosoo .
-taariikh la hadhi kara hiyigayga waxa galay ai
-hal-abuurka sharafka leh nimankaad is hayseen EL
-murtidooda heli kara kala hoyatey guushee |
-hoodaale nogon kara ? Gaarriyow hireydiyo
-hayayda iyo qaylada
-Maxaad boog horeetiyo dhul fog baan u haystee
-haydaar daweysaa ma hareerahaygaa ?.
+Maxaad boog horeetiyo
+haydaar daweysaa
 dadkii sawtan haadkiyo
-haanraawe boobeen. Hooshaarka aarkiyo
-huntutuulka dhidarkiyo
-Afartaas heshiiskii hangagaarka baqayaha
-| huriwaa ku magacaw handashada waraabaha
-. hakad iyo tilmaan saar raqda heelka taallee
-hinji nabarka galinyohow laga haagay ii sheeg.
-hohe leebka igu mudan.
-if waxba hawla kala hadhin. Hiyigayga waxa galay
-) nimankaad ts hayseen
-Hal kalaan xusuustee hadhadoodi weeyoo |
-hogol yahay aduun baa waxad kala hufaysee
-ku habsadey dushaydee kala haadinaystyo
-miyaan anigu heegooy hirka dhiigga muuqdaa
-soo haabo kugu idhi ? ma halbowlahaygaa ?
-Baaruudda huguntee Haybad iyo xishoodlaay
-ambbatee habawdee waayeel habsooboo
-habilt’i sokeeyaha hangabsiga dhawaaqiyo
-ku hawaawi duushee higsanaaya beeshoo
-hadhka yeelataay yaad hollashada culayskii
-hungo madhan inaad tahay hadiwaayey socodkoo
-ka hadoodilaysaa ? hindiwaas tallaabada
-hakinaaya jaantiyo
-ss Hamta iyo digtaadii hablo maydhax diirtiyo
-; dhulka hogag la yaabliyo hibashada xanuunkiyo
-haaray ka jeexdoo haydaarta xanaftiyo
-hanfariirka meydkaa ma hadhada ajarankii
-hayn waayey luxudkoo ummul fool hallawdoo
-' Haabiil gilgilashada abidiyo hurgumadit |
+haanraawe boobeen.
 
-| inl
-hoosteeda yaalliin Adigaa halyeygiyo TEE
-garyad seh hooggiyo hanaddada ku dabar go’ay iii
-hengel iyo asay xidhan himilooy u baahnaa. |
-hadal barad gurguurtoo Br
-hawadiisu caaniyo- Hebelow laguu sheeg i
-hooyo naaska Joogtiyo ummaddaad hankeediyo
-habaqlaha aroorkiyo hilbaheeda gadataa
-horashada ku jeediyo hiilka kaaga baahnayd.
-Jidib iyo hangoolliyo
+Afartaas heshiiskii
+huriwaa ku magacaw
+hakad iyo tilmaan saar
+hinji nabarka qalinyohow
+hohe leebka igu mudan.
+waxba hawla kala hadhin.
+
+Hal kalaan xusuustee
+hogol yahay aduun baa
+ku habsadey dushaydee
+miyaan anigu heegooy
+soo haabo kugu idhi ?
+
+Baaruudda huguntee
+ambbatee habawdee
+habili'i sokeeyaha
+ku hawaawi duushee
+hadhka yeelataay yaad
+hungo madhan inaad tahay
+ka hadoodilaysaa ?
+
+Hamta iyo digtaadii
+dhulka hogag la yaabliyo
+haaray ka jeexdoo
+hanfariirka meydkaa
+hayn waayey luxudkoo
+Haabiil gilgilashada
+hanqalkuu la boodoo
+hanbadii aboorkiyo
+harag iyo laf keliyaa
+hanbaberey dareenkoo
+hurdadii ka toosoo
+hiyigayga waxa galay
+nimankaad is hayseen
+kala hoyatey guushee
+Gaarriyow hireydiyo
+hayayda iyo qaylada
+dhul fog baan u haystee
+ma hareerahaygaa ?.
+
+Hooshaarka aarkiyo
+huntutuulka dhidarkiyo
+hangagaarka baqayaha
+handashada waraabaha
+raqda heelka taallee
+laga haagay ii sheeg.
+
+Hiyigayga waxa galay
+nimankaad is hayseen
+hadhadoodi weyoo
+waxad kala hufaysee
+kala haadinaysiyo
+hirka dhiigga muuqdaa
+ma halbowlahaygaa ?
+
+Haybad iyo xishoodlaay
+waayeel habsooboo
+hangabsiga dhawaaqiyo
+higsanaaya beeshoo
+hollashada culayskii
+hadiwaayey socodkoo
+hindiwaas tallaabada
+hakinaaya jaantiyo
+hablo maydhax diirtiyo
+hibashada xanuunkiyo
+haydaarta xanaftiyo
+ma hadhada ajarankii
+ummul fool hallawdoo
+abidiyo hurgumadii
+hoosteeda yaalliin
+qaryad weerka hooggiyo
+hengel iyo asay xidhan
+hadal barad gurguurtoo
+hawadiisu caaniyo
+hooyo naaska joogtiyo
+habaqlaha aroorkiyo
+horashada ku jeediyo
+jidib iyo hangoolliyo
 habartana ma geydaa ?
-HOW saryon ay sua
-caku halalacdaadiyo
-eons ‘ibe nayad habar Wat AE ;
-lodaddaaba A wirantey meeshaa
-halkaan kuugu tala galay ws ‘4 hannbantnees
-hal-xidhaale noqotee kor u qaad hinaasaha
-galley iyo hadhuudh iyo dadka Rayol wel
-pale Wag ku ee hilimmadana kala baro.
-’ layntiisa kugu gaday
-: hindisana ku talo galay
+
+Hawsaryohow gurxamayaa
+hodaddaabadaadiyo
+halkaan kuugu tala galay
+hal-xidhaale noqotee
+galley iyo hadhuudh iyo
+ninka halo ku dhaafsaday
+hayntiisa kugu gaday
+hindisana ku talo galay
 inu kugu hor joogsado
-TT hororkiyo cadaawaha
-. j hawo damac ka soo galo
-ai hiddihiisa gobannimo |
+hororkiyo cadaawaha
+hawo damac ka soo galo
+hiddihiisa gobannimo
 halistana iskaga jiro
 haybaddaada gaarka ah
 ma inaad heddiisiyo
 hooggiisa joogtaa ?
+
 Hadimada Garoowiyo
-hanaq go’a Nugaaleed
+hanaq go'a Nugaaleed
 halka aad tummaatiday
 waxa kaga habboonaa
 dar kaloo i hawlee
 huqdaad reebtay weynaa
-| hibashiyo ladh kululaa .
-| Colka Bari harraatiyey
-; hubka Mudug ku talax legey
-Allaylehe hubsiiniyo
-haki buu u baahnaa. |
+hibashiyo ladh kululaa .
 
-JUT. AMA dhacadiidka fara badan 4 |
-| dhabarkaa ku daalee BE
-; x dhaqdhagaaga tarantari Bri
-Dhudi geenyadaydii poke u dhiib dhiib ii
-dhex-yartii shakaallayd dhabdhab orodka booddada
-dhirifkiyo wistisiga ha ku dhegin majiiraha.
+Colka Bari harraatiyey
+hubka Mudug ku talax tegey
+Allaylehe hubsiiniyo
+haki buu u baahnaa .
+
+Adigaa halyeygiyo
+hanaddada ku dabar go'ay
+himilooy u baahnaa.
+
+Hebelow laguu sheeg
+ummaddaad hankeediyo
+hilbaheeda gadataa
+hiilka kaaga baahnayd.
+
+Hawsaryohow gurxamayaa
+caku halalacdaadiyo
+habar wacashadaadee
+ku hawirantey meeshaad
+haab haabanaysee
+kor u qaad hinaasaha
+dadka haybi weligaa
+hilimmadana kala baro.
+
+### JIITAMA
+
+Dhudi geenyadaydii
+dhex-yartii shakaallayd
+dhirifkiyo wisiisiga
 dharjadii ku tumatoo
-Jarihii ku dhabatoo é 5
-dhufsataye u sii daa. Hadba dhaad isugu taag
+jarihii ku dhabatoo
+dhufsataye u sii daa.
+
+Magaceedu waa dheel
+heensaheedu waa dhiin
+shalmad dhabaq-guduudiyo
+dhowloosyo dahabiyo
+sitaac dheeh leh baw xidhan
+baal dhalaalayaa sudhan
+kun hal bay u dhigantaa
+dhanbaal bay siddaa culus
+dhalandhoolka tiigta ah
+hadday maagto dheemaal
+ama dheelmad soo galo
+dhudhubaha shareerka ah
+iyo jararka dhiibta ah
+iyadaa dhanbalatoo
+dhabbadeeda falatoo
+tubta sugan ku dhacantoo
+abataqan dhoweysee
+dhaxaad humhumatee
+ma dhan tahay Sarmaanow ?
+Isma Dhiba ku soo bood.
+
+Sida badowga haw dhiqin
+dhiiftu way cabudhisaa
+yaanay dhaadin guul guul
+xakamaha sal uga dhawr
+ha la dhicin rakaabbada
+nabar kulul ka dheeree
+dhengeddana ha ku adkayn.
+Yaanay koora dheelliyin
+dhacadiidka fara badan
+dhabarkaa ku daalee
+dhaqdhaqaaga tarantari
+tabahana u dhiib dhiib
+dhabdhab orodka booddada
+ha ku dhegin majiiraha.
+
+Hadba dhaad isugu taag
 hadba dheeg iskaga looh
 uga suul dhabaalee
-Magaceedu waa dheel aie dhinac u diga-rogo
-heensaheedu waa dhiin dhudhun iyo badh sii soco
-shalmad dhabaq-guduudiyo isku dhereri gaaddada
-dhowloosyo dahabiyo bogga dhaxanta kaga qabo
-sitaac dheeh leh baw xidhan dhulka gacanta saar saar
-baal dhalaalayaa sudhan hadba dhagax ka soo qaad
-kun hal bay u dhigantaa dhanka kale ka soo fuul
-dhanbaal bay siddaa culus hadba dhool ka muunsood
-dhalandhoolka tiigta ah dhoorka raanta tuurtiyo
-hadday maagto dheemaal taataabo dhabannada.
-ama dheelmad soo galo
-Te dhudhubaha shareerka ah
-iyo Jararka dhiibta ah Dhaw-dhawda kala quban
-iyadaa dhanbalatoo hal-abuurka dhabaqda leh |
-dhabbadeeda falatoo hawraarta kala dhiman
-tubta sugan ku dhacantoo tixahaan dhugta lahayn
-abataqan dhoweysee way ku dhega barjowdaa
-dhaxaad humhumatee dhudda gabaygu leeyahay
-ma dhan tahay Sarmaanow ?9 ereyada dhexroorka leh
-Isma Dhiba ku soo bood. suugaanta dhaladka ah
+hadba dhinac u diga-rogo
+dhudhun iyo badh sii soco
+isku dhereri gaaddada
+bogga dhaxanta kaga qabo
+dhulka gacanta saar saar
+hadba dhagax ka soo qaad
+dhanka kale ka soo fuul
+hadba dhool ka muunsood
+dhoorka raanta tuurtiyo
+taataabo dhabannada.
+
+Dhaw-dhawda kala quban
+hal-abuurka dhabaqda leh
+hawraarta kala dhiman
+tixahaan dhugta lahayn
+way ku dhega barjowdaa
+dhudda gabaygu leeyahay
+ereyada dhexroorka leh
+suugaanta dhaladka ah
 kula hadal af dhawrsoon
 ha ka dheregto maansada
-, Sida badowga haw dhigin dulucdana Ghacds u yeel.
-dhiiftu way cabudhisaa Nin la dhawrayaad tahay
-yaanay dhaadin guul guul waa lagaa dhur sugayaa
-xakamaha sal uga dhawr yaan darmaantu kula dhixin
-ha la dhicin rakaabbada dhakhsaheedu waa laydh
-nabar kulul ka dheeree hadi soo dhirbaaxdee
-; dhengeddana ha ku adkayn. dhag-dhagtiyo xawaaraha
-Yaanay koora dheelliyin yaanay dhaafin yoolkii
-| et Ina dhamac*® ku sugi jirey
-29 Sarmaan-waa magac ugu jira halkan hal-
-j Samaaga naftiisa u huraya xorriyadda shacbiga Soomaaliyeed. SUNT ha Di aiaaaiae Maxamed Xaashi Dhamac (Gaarriye)
+dulucdana dhacdo u yeel.
+Nin la dhawrayaad tahay
+waa lagaa dhur sugayaa
+yaan darmaantu kula dhixin
+dhakhsaheedu waa laydh
+badi soo dhirbaaxdee
+dhag-dhagtiyo xawaaraha
+yaanay dhaafin yoolkii
+Ina dhamac ku sugi jirey
+isba waa dhigaygee
+Dhoodaanna tala geli.
 
-. bh
-isba waa dhigaygee mise tolow dhalooshaa ag
-Dhoodaanna +! tala geli. dhidibkeedu adag yahay ? |
-Dhugashada ayaamaha Dhirta waxa ku jira geed
-haddaan dheehdo waayaha wac wac iyo dhalaal badan
-sooyaalka dhaxalka ah dhulka hoose kama baxo
-waxay dhaayo joogeen dhuuni yaalla kama gado
-hadda shalay ma dheerayn, damal dhuumo maaliyo
-waxa dhacay ma fududayn dhamastii hadhka lahayd
-weli dhaar ma beenayn marka dhuuxu ka engego
-maalmihii dhanaanaa, ma ogtahay dhillowyahan !
-wixii dhiif la soo maray hadduu dhaashto jiilaal
-inkastoo la dhabar jabay ama dhiibsho laamaha
-’ laysma dhiibin goobii naxariis la kala dhaco
-dhederbiga la geylamey dhardharraanta quruxdiyo
-mana jirin gof dhawrsaday dhaaddanaanta liqanyada
-dhagan tyo hiddaa jirey si kaluu u dheegtaa.
-. dheg la xeeriyaa tiil
-dhagashadu hal maahayn é,
-Gees shil maahayn Maan dhabtayda faagido
-dhiigna waa la huri jirey dhubbad-qaa dla daba galo
-t ota ae dla maan is kula dhaxo
-ei dhumuc waa la ridi jirey es h d
-badna waa la dhuri jirey horta pris G ne dhi |
-guulna waa la dhalin jirey Oe aT; ft Doth pete
-dhiirri buu hubku ahaa qnaluisnayal Waiting 9
-dhaadashaa hanku ahaa Ae pia. ei fre Hs ath :
-marka dhabi dhabteed tahay ied li ane che ip
-dhidar wayska tegi jirey. dhowrieeninbadaniqiay
-mid ka dhow ma helayaa ?
-Miyaan dheelallaysnahay,
-mise waan dhadhabayaa ? | kari
-, Dhammaan etittanaen A addaan dhay la Hes kar in
-riyo iyo ma dholol baa, ama sixin la dhami arin t
-ma dhibaad nin bixiyaa ? maan dhunkaal ba heensado.
+Dhugashada ayaamaha
+haddaan dheehdo waayaha
+sooyaalka dhaxalka ah
+waxay dhaayo joogeen
+hadda shalay ma dheerayn,
+waxa dhacay ma fududayn
+weli dhaar ma beenayn
+maalmihii dhanaanaa,
+wixii dhiif la soo maray
+inkastoo la dhabar jabay
+laysma dhiibin goobii
+dhederbiga la geylamey
+mana jirin qof dhawrsaday
+dhaqan iyo hiddaa jirey
+dheg la xeeriyaa tiil
+dhaqashadu hal maahayn
+dhimashadu shil maahayn
+dhiigna waa la huri jirey
+dhumuc waa la ridi jirey
+badna waa la dhuri jirey
+guulna waa la dhalin jirey
+dhiirri buu hubku ahaa
+dhaadashaa hanku ahaa
+marka dhabi dhabteed tahay
+dhidar wayska tegi jirey.
+
+Miyaan dheellallaysnahay,
+mise waan dhadhabayaa ?
+Dhammaan guulahaygii
+riyo iyo ma dholol baa,
+ma dhibaad nin bixiyaa ?
 Ma runtaan dhacdo ahayn
-; Dhagaxtuur’? ma been baa Dheeraad nin haystoo
-labadii dharaarood aqalkiisu dhalo yahay
-mee ninkii is dhinac sudhay ? nabaddiyo ku dhaqankeed
-Miyaan daayey dhagartii hadduu tuuryo dhaafsaday
-mise dhiilladaan jirin miyaan kiisa dhagax karin !
-4 SE No aE maan dhadhaabta xaabsado.
-31 2 Dhoodaan-waa Cabdillahi Macallin
-32 Dhagaxtuur-Dhacdadii taariikheed ee 1 1kii Jannaayo, 1948kii Xamar ka dhacday
+Dhagaxtuur ma been baa
+labadii dharaarood
+mee ninkii is dhinac sudhay ?
+Miyaan daayey dhagartii
+mise dhiilladaan jirin
+mise tolow dhalooshaa
+dhidibkeedu adag yahay ?
 
-Hadday dheeshu laba tahay Hadday ceel dhexdiis taal tb
-anigiyo dhurwaagay dhiigba maan ku soo guro. .
-ka dhaxaysey guushii |
-dhiniciisa ka holladay , |
-maan dhankayga ka guntado. Dhambaalkaasi waa rae |
-Qayla dhaanta sama doon paige aes Joogia s |
-nin hadhkiisa uga dhacay dhahay oh ee at ahay
-dhawaaqayga sahashadey dhigay 00 hadaana ahigay
-inuu ti dheg taagoo hadba dhinac ka soo diray
-i dhegeysto maan baro. hadba midad u dhalan rogey
+Dhirta waxa ku jira geed
+wac wac iyo dhalaal badan
+dhulka hoose kama baxo
+dhuuni yaalla kama qado
+damal dhuumo maaliyo
+dhamastii hadhka lahayd
+marka dhuuxu ka engego
+ma ogtahay dhillowyahan !
+hadduu dhaashto jiilaal
+ama dhiibsho laamaha
+naxariis la kala dhaco
+dhardharraanta quruxdiyo
+dhaaddanaanta liqanyada
+si kaluu u dheegtaa.
 
-nin dhegaystey fara badan
-inse dhuuxay sheekada
-Haddii awr dhufaanii beth th pe mooyaan
-isku saydhay dhibidii anna dhaawac igu gaadh
-dhirta maan jejebiyoo dhimashiyo hed mooyee
-anba dhoosha ka cartamo. suugaanta dhacanta leh
-dhibba haygu nogqotee
-Haddii dhoobi fara baxay inaan dhaafo lama sugo.
+Maan dhabtayda faaqido
+dhubbad-qaad la daba galo
+cidla maan is kula dhaxo
+horta ooda dhacameed
+maan tilmaan ku kala dhigo
+dhalliishaydu waa tuma
+dhaymahaygu waa maxay ?
+Dhabadaan ku taagnahay
+hadday laafyo dheer tahay
+dhowrteedu badan tahay
+mid ka dhow ma helayaa ?
+
+Haddaan dhay la heli karin
+ama sixin la dhami karin
+maan dhunkaal ba heensado.
+
+Dheeraad nin haystoo
+aqalkiisu dhalo yahay
+nabaddiyo ku dhaqankeed
+hadduu tuuryo dhaafsaday
+miyaan kiisa dhagax karin !
+maan dhadhaabta xaabsado.
+
+Hadday dheeshu laba tahay
+anigiyo dhurwaagay
+ka dhaxaysey guushii
+dhiniciisa ka holladay
+maan dhankayga ka guntado.
+Qayla dhaanta sama doon
+nin hadhkiisa uga dhacay
+dhawaaqayga sahashadey
+inuu ii dheg taagoo
+i dhegeysto maan baro.
+
+Haddii awr dhufaanii
+isku saydhay dhibidii
+dhirta maan jejebiyoo
+anba dhoosha ka cartamo.
+
+Haddii dhoobi fara baxay
 dhoobeeyey taladii
-anba maan hengelo dhigo. Maihiaamantnnavee
-intayda dhilayee
-7 Nin dhukani hadduu jiro HCA Ah pees
-i anba maan is dhega maro. bahalkii dhabbacan jirey |
-iga galay dhufayskii.
+anba maan hengelo dhigo.
+
+Nin dhukani hadduu jiro
+anba maan is dhega maro.
+
 Nin dhibtayda magan galay
-anba dhiillo maan bado :
-dhaawacayga hoog iyo 3 Nee Me ri
-dhimasho maan ku soo bedo. dusha sare ka dhayi jirey!.
-hulka iyo dadkiisii
-Ninkii Dheeha gawracay a os MAI saarrayd
-hadduu dhuuni qaatiyo toban iyo ma dhawr baa!
-hubkuu ciidda dhaafsaday Dhaqaagq joogsigaygii
-Co a ee ee a xidhay sannad kale dib may dhigay.
-1aadeyn
-sida jibin dhinbilo kulul ,
-| ama danab dhanbala ridey Intaan hawlo kala dhiman
-| ama dhibic gudgude wado dhirin-dhiris ku foognaa, |
-dusha maan ka soo dhaco. maygu dhalatay Jiitami
-| Dhaylo dubato caawana
-Hadday dhooftay nabaddii ma ku iiddey dheel-dheel!!.
-if cirka looga xero dhigay
-i dhoonbir maan ku soo rogo. |
-33 Jiitama-waxaa looga jeedaa 21ka Oktoobar 1969 kii talisku toobay xykunka.
+anba dhiillo maan bado
+dhaawacayga hoog iyo
+dhimasho maan ku soo bedo.
 
-| a
-Goobtu ahaygag badanaa, dhibicdeedu nogqotee 11)
-| meydna waa dhex-yaallaa dhicisee is nuugtee aa
-dhiigna waa qulqulayaa waxba dhiiqi weydaa. 7
-dhabataa la cunayaa t
-dhamac baa la tuban yahay Ma bishii dhallaankiyo BE
-dheella waa la tumayaa. dhallinyariyo waayeel |
-dhaddig iyo lab labadaba
-Ma bishii dhabcaalkiyo dhammidood qalgalatee
-dhaar jiidhka fuleyga ah waxba dhaafi weydaa.
+Ninkii Dheeha gawracay
+hadduu dhuuni qaatiyo
+hubkuu ciidda dhaafsaday
+dhan kastaba iskaga xidhay
+xilli aanu dhaadeyn
+sida jibin dhinbiilo kulul
+ama danab dhanbala ridey
+ama dhibic gudgude wado
+dusha maan ka soo dhaco.
+
+Hadday dhooftay nabaddii
+cirka looga xero dhigay
+dhoonbir maan ku soo rogo.
+
+Hadday ceel dhexdiis taal
+dhiigba maan ku soo guro.
+
+Dhambaalkaasi waa baaq
+dhawaaq weeye joogta ah
+dhahay oo haddana dhahay
+dhigay oo haddana dhigay
+hadba dhinac ka soo diray
+hadba midad u dhalan rogey
+nin dhegaystey fara badan
+ninse dhuuxay sheekada
+wax ka dheegtey mooyaan
+anna dhaawac igu gaadh
+dhimashiyo hed mooyee
+suugaanta dhacanta leh
+dhibba haygu noqotee
+inaan dhaafo lama sugo.
+
+Ma intaan dhitinayee
+arrintayda dhilayee
+dhebigeeda qorayaa
+bahalkii dhabbacan jirey
+iga galay dhufayskii.
+
+Dhayalsigu lur weeyee
+ma dhabiibyey nabarkaan
+dusha sare ka dhayi jirey!.
+Dhulka iyo dadkiisii
+intay dhiillo saarrayd
+toban iyo ma dhawr baa!
+Dhaqaaq joogsigaygii
+sannad kale dib may dhigay.
+
+Intaan hawlo kala dhiman
+dhirin-dhiris ku foognaa
+maygu dhalatay Jiitami
+Dhaylo dubato caawana
+ma ku iiddey dheel-dheel!!.
+
+Goobtu dhaygag badanaa,
+meydna waa dhex-yaallaa
+dhiigna waa qulqulayaa
+dhabataa la cunayaa
+dhamac baa la tuban yahay
+dheella waa la tumayaa.
+
+Ma bishii dhabcaalkiyo
+dhaar jiidhka fuleyga ah
 dharaar-maalka tuugga ah
-nin gumeysi dhaansado Ma bishii dhaqaaliyo
-taladti u dhiibraal!!. dhagankii burburisee
-isku dhuuqday labadaa.
+nin gumeysi dhaansado
+taladii u dhiibtaa!!!.
+
 Ma bishii ma dheregtada
-tyo dhaysa weyntii Ma bishii dhadhamadiyo
-gobanimada dhaawacay dhafandhaafka hogoshiyo
-nimaan dheefta mooyee wax la mariyo dhuuntiyo
-dhiska qaran ku hawshoon garan lagu dhillaystiyo
-dheeraadka siisaa. dharabbada u xilatee
-: dhulka lacag ku gadatee
-7 Ma bishaan dhoweystee dhirta wada arradisee
-7 dhololee ku dhololee dalku dhaxal wareegaa. |
-. dhawraayey sebenkee
-sugey dhalashadeedee Ma bishii la dhuuntee
-dhiciddeeda raadshaa. sida eeri dhabankii
-dhabbadiyo jidaashiyo
-Ma bishaan ku dhaatee lagu jiitay dhoofkee
-dhidibkeeda taagee dalka laga dhuyaalaa.
+iyo dhaysa weyntii
+gobanimada dhaawacay
+nimaan dheefta mooyee
+dhiska qaran ku hawshoon
+dheeraadka siisaa.
+
+Ma bishaan dhoweystee
+dhololee ku dhololee
+dhawraayey sebenkee
+sugey dhalashadeedee
+dhiciddeeda raadshaa.
+
+Ma bishaan ku dhaatee
+dhidibkeeda taagee
 dhismaheeda ficilkiyo
-dhudhunkiyo laxaadkiyo Ma bishii dhangalankiyo
-ku dhabeeyey kaarkee dhawa-welanka hooggiyo
-4 dhoobadeeda ciidda ah xabbad dheelli socotiyo
-| dheecaanka seeddiyo gabri laysku dhacanshiyo
-ku waraabshey dhididkee xabsi lagu dhabriiriyo
-4 dhaxan igu bannaysaa . dhaca iyo colaaddiyo
-| dhagartiyo shirqoolkiyo
-Ma bishaan u dhacartee dhimashada jideysaa.
+dhudhunkiyo laxaadkiyo
+ku dhabeeyey kaarkee
+dhoobadeeda ciidda ah
+dheecaanka seeddiyo
+ku waraabshey dhididkee
+dhaxan igu bannaysaa .
+
+Ma bishaan u dhacartee
 u kal tiriyey dhaaxee
-dhitlkeeda tolayee Ma bishii laf dhabarkiyo
-. ceeryaamo dhacantiyo afarteede kala dhigan
-; dhedo lagu hungoobiyo udubkiyo dhigtiisit
-dhalanteedka beenta ah dhoomihii is celin jirey
+dhiilkeeda tolayee
+ceeryaamo dhacantiyo
+dhedo lagu hungoobiyo
+dhalanteedka beenta ah
+dhibicdeedu noqotee
+dhicisee is nuugtee
+waxba dhiiqi weydaa.
 
-Bb
-dhaayihii is tebi jirey i} .
-| gacal wada dhagqnaan jirey eat ae poe aha / . .
-hilbihii is wada dhalay miyaa dhawrst kuu hadhay, i)
-dab dhexdooda gelisee M i Seat la dhaadoo th
-dadku kala dhaqaaqaa. lala dheellintaa magan. }.
-iis Dhib waxaan ku marinlaa
-Di sales ee i leh adigaa dhammaystee
-Wena AE EOE aa haddii dhoof ku soo galo |
-toddobaatan iyo dhowr adigaan is dhalan rogin
-ama bogol dharaarood ama dhuuman saas yeel. |
+Ma bishii dhallaankiyo
+dhallinyariyo waayeel
+dhaddig iyo lab labadaba
+dhammidood qalqalatee
+waxba dhaafi weydaa.
+
+Ma bishii dhaqaaliyo
+dhaqankii burburisee
+isku dhuuqday labadaa.
+
+Ma bishii dhadhamadiyo
+dhafandhaafka hogoshiyo
+wax la mariyo dhuuntiyo
+qaran lagu dhillaystiyo
+dharabbada u xilatee
+dhulka lacag ku gadatee
+dhirta wada arradisee
+dalku dhaxal wareegaa.
+
+Ma bishii la dhuuntee
+sida eeri dhabankii
+dhabbadiyo jidaashiyo
+lagu jiitay dhoofkee
+dalka laga dhuyaalaa.
+
+Ma bishii dhanqalankiyo
+dhawa-welanka hooggiyo
+xabbad dheelli socotiyo
+qabri laysku dhacanshiyo
+xabsi lagu dhabriiriyo
+dhaca iyo colaaddiyo
+dhagartiyo shirqoolkiyo
+dhimashada jideysaa.
+
+Ma bishii laf dhabarkiyo
+afarteede kala dhigan
+udubkiyo dhigtiisii
+dhoomihii is celin jirey
+dhaayihii is tebi jirey
+gacal wada dhaqnaan jirey
+hilbihii is wada dhalay
+dab dhexdooda gelisee
+dadku kala dhaaqaaqaa.
+
+Dhugucdada xajiinta leh
+waxa loo dhab dhabayaa
+toddobaatan iyo dhowr
+ama boqol dharaarood
 ama tiro wax sii dheer
-nafta loogu dhibayaa Haddii mawdku kugu dhego
-| my amme kuugu soo galo
-dalka oo dhan nuurkiyo ie Piduieanncotee
-dharka loogu xidhayaa dhoonbirkaygu kuma geyo
-dhaanto loogu tumayaa nabar geesi kaa dheer
-| dhaldhalaalka beenta ah birsol kaa dharaarow
-TF ayaan dhuux ka hoosayn. kuma darin dhallaankiyo
-an dhasha oo ku ximisoo
-TES ae Len ea Upuie ele ah |
-Ss y ugu jiidha dhoohnaan
-haddii ay dhabeel tahay iyo dhoobo digasha ah.
-dadka lihi ku dhaataan
-wuxuun dheefa lagu gabo Dhinbilaha i shidayaa
-dhag dhag iyo durbaan iyo dhiciddaada maahee
-dharba looma baahdeen. dhulluxaad abuurtiyo
-dhidhkaad reebtay baa badan
-Ninka dhacanta Jittow dhiilladaydu waa taas.
-dharka ceebta qariyaa a
-. hadal iyo dheh maahee Hadal iyo dhammaanitit
-. dhaqan suubban weeyaan. bal aan dhaarsho heestee
-waxay dhaabaddii tahay
-r Dhimashadu xabaash iyo marka dhamac la huriyee
-i kafan laba dhudoodiyo dhuxul iyo dab ololee
-| rapeddee ku dhaaftiyo San ations
-ul dhexdiisa maahee. Sart anaaya jurataa,
-Dhilashada jidhkaagiyo dhafoor taabashada qaar
-: sharafkoo dhantaalmiyo ha is dhigan nin diidow
-Vs dheg xumaanta weeyaan. ha u dhuran waraabii
-wE laftuu dhuuxay eersaday.
+nafta loogu dhibayaa
+dadka loogu dhacayaa
+dhaxan loogu joogaa
+dhafar iyo hurdo la'aan
+dibad loogu dhaxayaa
+dalka oo dhan nuurkiyo
+dharka loogu xidhayaa
+dhaanto loogu tumayaa
+dhaldhalaalka beenta ah
+ayaan dhuux ka hoosayn.
 
-,T mh hp:
-bh
-| Adoo dhiibey hayntaa 4
-dhaxdin iyo dalkii huray tli
-adigoo dhashaadii whe
-dhawagiyo codkoodii
-ku dhaqaajin waayeen |
-yaan ninkii ku dhaxal tiray ia
+Dheeha muuqa guudkaa
+nuxur looga dhigayaa
+haddii ay dhabeel tahay
+dadka lihi ku dhaataan
+wuxuun dheefa lagu qabo
+dhag dhag iyo durbaan iyo
+dharba looma baahdeen.
+
+Ninka dhacanta jiitow
+dharka ceebta qariyaa
+hadal iyo dheh maahee
+dhaqan suubban weeyaan.
+
+Dhimashadu xabaashiyo
+kafan laba dhudoodiyo
+rubaddoo ku dhaaftiyo
+iil dhexdiisa maahee.
+Dhilashada jidhkaagiyo
+sharafkoo dhantaalmiyo
+dheg xumaanta weeyaan.
+
+Haddaad dhuuxday bawdyaha
+miyaa dhawrsi kuu hadhay,
+Ma xanuun la dhaadoo
+lala dheellintaa maqan.
+
+Dhib waxaan ku marinlaa
+adigaa dhammaystee
+haddii dhoof ku soo galo
+adigaan is dhalan rogin
+ama dhuuman saas yeel.
+
+Haddii mawdku kugu dhego
+dhabaqsigu ku sii hodo
+dhamme kuugu soo galo
+dhakhso iyo si kedisa ah
+isha oo ku dhugatoo
+ku dhalliisha mooyee
+dhoonbirkaygu kuma geyo
+nabar geesi kaa dheer
+birsol kaa dharaarow
+kuma darin dhallaankiyo
+dhasha oo ku ximisoo
+dheesha maararrowga ah
+kugu jiidha dhoohnaan
+iyo dhoobo digasha ah.
+
+Dhinbilaha i shidayaa
+dhiciddaada maahee
+dhulluxaad abuurtiyo
+dhidhkaad reebtay baa badan
+dhiilladaydu waa taas.
+
+Hadal iyo dhammaantii
+bal aan dhaarsho heestee
+waxay dhaabaddii tahay
+marka dhamac la huriyee
+dhuxul iyo dab olol ee
+dhirta nooli gubataa
+gari dhaaya furataa,
+dhafoor taabashada qaar
+ha is dhigan nin diidow
+ha u dhuran waraabii
+laftuu dhuuxay eersaday.
+
+Adoo dhiibey hayntaa
+dhaxdin iyo dalkii huray
+adigoo dhashaadii
+dhawaqiyo codkoodii
+ku dhaqaajin waayeen
+yaan ninkii ku dhaxal tiray
 adoo caara dhuubtiyo
-dhulka nabarku kaa yaal ia
+dhulka nabarku kaa yaal
 dhaxan kaaga daba iman
 dhillistiisa kugu dilin.
+
 Yaan lagaaga soo dhicin
 dhinacaan is bixin karin
 dhacadiid iska ogow
-} dhagartana is weheshada. Q AYBT A AFRAAD
-' hayska dhiman sidti neef
-| horta dhiig ku faraxalo
-i. dhudhun kaa hor jeedaa
-| i | ku dhirbaaxi maayee.
-th Dhumucdaadu waar hooy
-1ek i dhumucdaadu hooy hooy
+dhagartana is weheshada.
+
+hayska dhiman sidii neef
+horta dhiig ku faraxalo
+dhudhun kaa hor jeedaa
+ku dhirbaaxi maayee.
+Dhumucdaadu waar hooy
+dhumucdaadu hooy hooy
 dhumucdaadu yay hooy
 dharab-roorka kugu jebin.
+
 Inantaada dhega culus
 dhiidhiibso kula tali
-d gacan baa wax dhalisee
-, ha dhur sugin ayaamaha
-| hana dhawrin maalmaha,
-’ dheeshu xeego maahee
-1 waa dhabiiltan gobannimo ,
-| dhidar fule gashaantida
-bogorkiyo dhaclaa xidhan
-yaanu kaaga dheerayn.
-i Daadi dhiilka buuxsamey
-a dhici guusha maganta ah
-§ nidarkiina dhaqan geli.
-314 Si)
 
-ih}
-BE
-[sA-SUDHAN itl
-Bit.
-Garan waayey sheekada p
-waxay gacallayaashay |
-Geed** iigu bixiyeen.
-Dhirtu waysku gogol qudha rh
-mase wada gudboonee |
+gacan baa wax dhalisee
+ha dhur sugin ayaamaha
+hana dhawrin maalmaha,
+dheeshu xeego maahee
+waa dhabiiltan gobannimo
+dhidar fule gashaantida
+boqorkiyo dhaclaa xidhan
+yaanu kaaga dheerayn.
+
+Daadi dhiilka buuxsamey
+dhici guusha maganta ah
+nidarkiina dhaqan geli.
+
+### QAYBTA AFRAAD
+
+### ISA-SUDHAN
+
+Garan waayey sheekada
+waxay gacallayaashay
+Geed iigu bixiyeen.
+Dhirtu waysku gogol qudha
+mase wada gudboonee
 giddi maysku qaadaa
 kay gaar u jeedaan
 may goonni sheegaan,
 maxay uga gabbanayaan ?
+
 Gudub magacu waa hore
 galbay oo la wada maqal
-| dunidoo dhan wada gaadh
+dunidoo dhan wada gaadh
 gabdhihiina loo sheeg
 iyadaan god loo deyn.
-me) Gibishay i saareen
-We geestee u duubaa ?
-LTEe Go’a lay huwinayaa
-ma dhalliil gurracan baa ? |
+
+Gibishay i saareen
+geestee u duubaa ?
+Go'a lay huwinayaa
+ma dhalliil gurracan baa ?
 Gumar iyo ma ciin baa ?
 Ma ganboor sunaan ahay,
-mise lagu go’aankiyo
+mise lagu go'aankiyo
 gawracatadaan ahay ?
 Gaagaabka cilinka ah,
 ma gadaal bax baan ahay ?
-" Mise gocondhadaan ahay ?
-| Mise gawlallaan ahay ?
+Mise gocondhadaan ahay ?
+Mise gawlallaan ahay ?
+
 Ma ammaan gayaxan baa ?
-‘4 Gabre iyo madheedh iyo
-a ma galool mudhaan ahay ?
-k Mise tolow gobkaan ahay ?
-i iyo lama garaacaan ?
-' 34 Geed-waa magac ay ugu yeedhaan Hadraawi asxaabtiisa gaar ahaaneed.
+Gabre iyo madheedh iyo
+ma galool mudhaan ahay ?
+Mise tolow gobkaan ahay ?
+iyo lama garaacaan ?
 
-Ha ka guban mar baan idhi ' Be |
-gacan baaban u holladay plain ge S'S) teh
-inaan geysto dhawr jeer PO TT, y ai
-misna waxaan guddoonsadey aa in ways gujinayoo te
-poaiuLaele ae Ra RL, markuu gooddi meershaba tp |
-nae loo gol-leey gs garashaan ku dirayee. '
-aa goorma goortee |
-gef dhacaan u haystoo ]
-godob baan tirsanayee Ninku ways galaalee bp
-sow waa gartoodee murti wax ka soo go’ay
-Garas jilif leh baan ahay. bal aan soo godlee qabo.
+Ha ka guban mar baan idhi
+gacan baaban u holladay
+inaan geysto dhawr jeer
+misna waxaan guddoonsadey
+horta inaan u kuur-galo
+halka loo gol-leeyahay.
+Waa qoorma goorteed
+gef dhacaan u haystoo
+godob baan tirsanayee
+sow waa gartoodee
+Garas jilif leh baan ahay.
+
+Guudkayga boqorrada
+garaareeya heesaha
+gallad qurux cod iyo luuq
+shimbiraha u gaarka ah
+gashan labada qaybood
+haddii ay galaydhkiyo
+galgalkiyo fadhiistaan
+geesigooda caan baxay
+gunta iyo salkaygana
+goodaaddo nacabiyo
+maska goodka halista ah
+inta bahal gurguurtiyo
+gungumaa ku shiri kara.
+
+Waxaan ahay ma guuraan
+gantadaydu adakaa
+gaashaan biraan ahay
+goblan tala adduunyooy
+gabay jaaba-jaaba ah
+jajab iyo guraangura
+geel-kiiska maansada
+suugaanta gocorka ah
+xulka inan gumeedka ah
+ninka maalin gelinkeed
+Maarkoos ka gurayee
+garcan waayey baan ahay;
+Alla gaarisaniyaa.
+
+Oo maxaase iga galay
+intuu Gaasir ii wadey
+googaalihiisii
+anba ways gujinayoo
+markuu gooddi meershaba
+garashaan ku dirayee.
+
+Ninku ways galaalee
+murti wax ka soo go'ay
+bal aan soo godlee qabo.
+
 Isagoo galgaladkii
-Guudkayga boqgorrada § "
-| garaareeya heesaha He I bs a ioe nt He
-| gallad qurux cod iyo luug WUE VEGA CUO Se
-| shimbiraha u gaarka ah
-gashan labada qaybood ”Samirkiyo dulqaadkiyo
-. haddii ay galaydhkiyo | naxarlista badan bay
-galgalkiyo fadhiistaan dadku igu ogaadeen
-geesigooda caan baxay nafta aad sugaysaan
-+e | gunta iyo salkaygana ma awoodahaygaa
-} goodaaddo nacabiyo yamyam lyo qadaad weyn
-maska goodka halista ah xataa caanaleydii
-inta bahal gurguurtiyo booc ugu tukubayaan |
-gungumaa ku shiri kara. markaan a waayaa
-laysti qodqodayaa”.
-”Doofaarka ficil li’i
-Hee ay ss guuraan naar loogu daayimi
-| ped) Ge gaakag kol haddii dubbiyo waran
-Saashaan biraan ahay duunkayga lala dhacay
-a ee en tale adduunyooy yaa dabarka igu xidhay
-{ mi Fa ek dae ah horta maan dagaallamo
-| : we ih is fa oe af i, anigu maan is daafaco”.
-suugaant
-XU tha nh Be ae h "Sow duruustu maahayn
-| ninka maalin gelinkeed | hag hoe g ag soo) .
-Maarkoos35 | marka geesi laga dilo
-acess Ma gurayes | dadku inay fadhiistaan
-§arcan waayey baan ahay | Test
-Alla gaarisaniyaa 2 waatan geenyadii Diran
-is iska soo durdurisee
-duufaanka wadatee
-35 Maarkoos-waa Ferdinando aes i l dabar ada
-kacdoonkii shacbi TO8oki, Mares Keli-aliyihi xukumi jirey dalka Filibiin (Philipine) ee lagu ride ivo iil Wet daraanne z
-rere =e es iis
-
-it il
-ma inaan dumaalay Gurxan?’ iyo Burhaan8iyo bey
-dantu igu khasbaysaa”? ninkay Guush?? yidhaahdaan ai
-
-ama Boobe” ugu gee BRE
-Duqu wuxuu u haystaa gurigtisa Taywaan ,
-dilku inu gardhaas yahay bal aniga wax iga gura. |
-dulmi lagu adkayn karo. Horta garanba maynee |
-Duqu waxaanu garanayn fara geliya yaa yidhi
-inuu dhiigga daataa arrimaha gudahayaga
-yahay dogobbo waaweyn xaggee bay ka kululyiin
-iyo xaabo lagu daro may shaqaalahaygiyo
-dabka garan kulaalee xaajiyo khamstintiyo
-lagu shido dareen guud. caasl waalideyntiyo
-jinka naagthiisiyo
-igiyo d h
-Isagoo galgalad kale a re et :
-id tagiaay a gavadntt jaas aanu dheellee
-wuxuu yidhi guddoonshuhu: - nin la soo kiraystoo
-f lacag doona baan nacay”.
-”Soddoh-yahay la duufsaday
-| sowdigaan bannaankiyo Duqu wuxu jeclaan laa
-3 | dibadaha u bixi jirin ninkuu doono mooyee
-; sowdigii dusuuddiyo dar kaloo ka geesii
-as weelkaaga xalan jirey daf inaanay soo odhan
-yaa ciyaarta kugu daray dalan doolka Filibbiin.
-kugu yidhi ku soo bood , |
-k ,? Isba waxa ku dacal jira
-EIS STR GTIAG AY dubatada dhallaankiyo
-diin laawa-yaashee
-Ma Rashtid Gadh-weynaa”° ie ii Para
-kugu yidhi ganbooley wuxuu ii arkaa dool
-tyo guurti waayeel nin dabaylo keeneen.
-garta waa u simanyiin” ?
-"Ma ogtahay xilkaan sido
-ruuxa soo damaaciya Duqu waxaanu garanayn
-inuu kiis bileys yahay. dunidaba sal iyo baar —
-Meesha yaan habaaskiyo inaan deyrku kala xidhin
-7 gabayooxu kugu dilin ama diirku kala gurin
-in dagaalka joogiyo
-”Haddaad doonto gaadhsii dadku laba bahood yahay.
-‘| Gaarriyiyo Hadraawiyo
-37 Gurxan-waa Xasan Gurxan Ibraahim
-HA a Ga aniaa Burhaan Daahir Afrax
-36 Rashiid Gadh-weyne waa Rashiid sheekh Cabdillaahi X. Axmed. 8 oobe-waa Cabal Yuusuf Ducaale
-
-a
-Isagoo galgalad kale Hongh By)
-| dadka gooni ula shiray fraernnien Seseengn chk Bil
-wuxu yidhi guddoonshuhu: - idinna magW aha eae 7
-WPAN. « » 07 sci roob ku di’i jir I
-Qarafsiga aroortii MARKO ACTS)
-gadhaab doonashada guud wuxuu doog jilbaha dhigay Pil
-qofna looma diidee p lihaal pegs (diasetai)
-haddii aan quwaax helo dibnahaa gallalan wel.
-dadka kalena wada qado
-maxaa lay qaleeyaa ? Duqu wuxu ka marag kacay
-Ma wax baan qalloocshoo danni horeba loo qabey
-garankiyo dalkaan dhacay in dorraad gumaystuhu
-ma wax giiro kiciyoo dusha sare ka raran jirey.
-laga qoomammoodaa” ? Duqu waxaanu garanayn
-kol haddii dabuubtaas
-| dalku lacag ma haystee dibnihiisa laga helay
-| shilimada ka soo baxa denbi kale inay tahay.
-qof haddaan la wada siin
-qiyaash maashka ugu weyn Isagoo galgalad kale
-" miyay gaybsamaysaa ? la hadlaaya gabadhii
-j haddii laysku wada dilo dadka guud ahaantii
-" hadhow yaa mas’uul ka ah?. wuxu yidhi guddoonshuhu:-
-anigaan wax meel dhigan So senan ie he RH taa
-sidaan yeeli doonaa stig hs h eh ay pee aha
-miyaan tuugsan doonaa bill ne 8 ae hiyo
-ma waxaydin jeceshiin pentresgioacc anes sy idh
-inaan daasad qaatoo ie kaan naag ao xianan
-| cole eaeat xilka anigu aan sido
-ceebeeyo Filibbiin?. u xayuubbinaayee
-7 xafiiskayga kuul iyo
-Intii ay dhul weynaha xinne iyo huruud iyo
-raggti dhoofay haysteen lala tegayo googarad”.
-et awr dhufaanaa
-. usha laygu dhaqayoo »
-labadayda ae baan Danyartay port can
-| mid markay dhirbanse | naagtan waalaneey maqa
-'y dhirbaaxaan dadka kuu gurmanayaa
-. | halay daahir yaa shamis
-ka labaad u dhigayoo
-intaas waan dhursugayee | aes Vadieed 3
-inta dhiisha gabada ah
-
-”Doorashadu mar weeyaan Annaima CanEnioen .
-nin la ssl ae ahay maduriusthieaed aa
-sidii baan u doorrahay ; 9 |
-doorashoo dhan waan xidhay BU DEINE Sadie
-dabadayna lama furo
-haddii al dab oe kacay Dal hadday ku badan tahay |
-imminkana digtoonow deldelaadda dhimashadu
-dib u jeesta oo taga dabar go’u bannaan yahay
-ka su’aal ka keenow hub markaaba soo dega
-magacaaga ii sheeg dawladdiisu waa caan
-amar diiddo weeyee inaan doorkan maanta ah
-anti baan ku gorayaa”. deeqdaas cid kale bixin
-dunidu way ogsoon tahay.
-| Duqu wuxu jeclaan laa D li
-midho daray had iyo jeer 7 he aon wet garan
-duuduub in lagu ligo ve oe NUE OTE 4 ad
-waxse aanu kuba darin GORD UNG SOLO CEE ATE:
-| in la yidhi ha laga dayo
-dirxi inu ku hoos jiro. Isagoo galgalad kale
 la hadlaaya gabadhii
-; Isagoo galgalad kale wuxu yidhi guddoonshuhu:-
-| la hadlaaya gabadhii ,
-wuxu yidhi guddoonshuhu: - Naagtu qaylo badanaa
-Ka fadhiisan weynee
-tiyaa nalagu soo falay” ?. |
-ane runes Filibbiin Hoe ei Lae
-ma dadkay u siman tahay »
-miyaan dais lay siin im Qoftan waal anya qaba
-miyaan Riigan odhan hay tolow mee ninke ea
-kun miyaanan shalay dilin MUXUL NOOR US CO CGY
-kuman kalena dhaawicin hadba gees u carartee ;
-kumanyaal xabsiga dhigin ma carsaanyo falan baa:
+wuxuu yidhi guddoonshuhu:-
+
+"Samirkiyo dulqaadkiyo
+naxariista badan bay
+dadku igu ogaadeen
+nafta aad sugaysaan
+ma awoodahaygaa
+yamyam iyo qadaad weyn
+xataa caanaleydii
+booc ugu tukubayaan
+markaan diiri waayaa
+laysii qodqodayaa".
+
+"Doofaarka ficil li'i
+naar loogu daayimi
+kol haddii dubbiyo waran
+duunkayga lala dhacay
+yaa dabarka igu xidhay
+horta maan dagaallamo
+anigu maan is daafaco".
+
+"Sow duruustu maahayn
+mudankiyo hal doorkiyo
+marka geesi laga dilo
+dadku inay fadhiistaan
+waatan geenyadii Diran
+iska soo durdurisee
+duufaanka wadatee
+ma la waayey dabar adag
+iyo wiil dardara qaba
+ma inaan dumaalay
+dantu igu khasbaysaa" ?
+
+Duqu wuxuu u haystaa
+dilku inu qardhaas yahay
+dulmi lagu adkayn karo.
+Duqu waxaanu garanayn
+inuu dhiigga daataa
+yahay dogobbo waaweyn
+iyo xaabo lagu daro
+dabka qaran kulaalee
+lagu shido dareen guud.
+
+Isagoo galgalad kale
+la hadlaaya gabadhii
+wuxuu yidhi guddoonshuhu:-
+
+"Soddoh-yahay la duufsaday
+sowdigaan bannaankiyo
+dibadaha u bixi jirin
+sowdigii dusuuddiyo
+weelkaaga xalan jirey
+yaa ciyaarta kugu daray
+kugu yidhi ku soo bood
+yaase kuu cimaamaday ?
+
+Ma Rashiid Gadh-weynaa
+kugu yidhi ganbooley
+iyo guurti waayeel
+garta waa u simanyiin" ?
+"Ma ogtahay xilkaan sido
+ruuxa soo damaaciya
+inuu kiis bileys yahay.
+Meesha yaan habaaskiyo
+gabayoonxu kugu dilin
+
+"Haddaad doonto gaadhsii
+Gaarriiyiyo Hadraawiyo
+Gurxan iyo Burhaan iyo
+ninkay Guush yidhaahdaan
+ama Boobe ugu gee
+gurigiisa Taywaan
+bal aniga wax iga gura.
+Horta garanba maynee
+fara geliya yaa yidhi
+arrimaha gudahayaga
+xaggee bay ka kululyiin
+may shaqaalahaygiyo
+xaajiyo khamsiintiyo
+caasi waalideyntiyo
+jinka naagihiisiyo
+anigiyo darmaanaha
+isu kaaya daayaan
+jaas aanu dheellee
+nin la soo kiraystoo
+lacag doona baan nacay".
+
+Duqu wuxuu jeclaan laa
+ninkuu doono mooyee
+dar kaloo ka geesii
+daf inaanay soo odhan
+dalan doolka Filibbiin.
+
+Isba waxa ku dacal jira
+dubatada dhallaankiyo
+diin laawa-yaashee
+wuxuu ii durkinayaa
+wuxuu ii arkaa dool
+nin dabaylo keeneen.
+
+Duqu waxaanu garanayn
+dunidaba sal iyo baar
+inaan deyrku kala xidhin
+ama diirku kala gurin
+in dagaalka joogiyo
+dadku laba bahood yahay.
+
+Isagoo galgalad kale
+dadka gooni ula shiray
+wuxu yidhi guddoonshuhu:-
+
+"Qarafsiga aroortii
+qadhaab doonashada guud
+qofna looma diidee
+haddii aan quwaax helo
+dadka kalena wada qado
+maxaa lay qaleeyaa ?
+Ma wax baan qalloocshoo
+qarankiyo dalkaan dhacay
+ma wax qiiro kiciyoo
+laga qoomammoodaa"?
+
+dalku lacag ma haystee
+shilimada ka soo baxa
+qof haddaan la wada siin
+qiyaash maashka ugu weyn
+miyay qaybsamaysaa ?
+haddii laysku wada dilo
+hadhow yaa mas'uul ka ah?.
+
+Haddii berrito lay rido
+ama geeshku igu kaco
+anigaan wax meel dhigan
+sidaan yeeli doonaa
+miyaan tuugsan doonaa
+ma waxaydin jeceshiin
+inaan daasad qaatoo
+ceebeeyo Filibbiin?.
+
+Intii ay dhul weynaha
+raggii dhoofay haysteen
+sida awr dhufaanaa
+usha laygu dhaqayoo
+labadayda dhaban baan
+mid markay dhirbaaxaan
+ka labaad u dhigayoo
+intaas waan dhursugayee
+inta dhiisha qabada ah
+wuxuun iigu dhacayaan
+idinna maa i dhawrtaan ?.
+
+Wixii roob ku di'i jirey
+wuxuu doog jilbaha dhigay
+Diihaal ma laqanyoon
+dibnahaa qallalan weli.
+
+Duqu wuxu ka marag kacay
+danni horeba loo qabey
+in dorraad gumaystuhu
+dusha sare ka raran jirey.
+Duqu waxaanu garanayn
+kol haddii dabuubtaas
+dibnihiisa laga helay
+denbi kale inay tahay.
+
+Isagoo galgalad kale
+la hadlaaya gabadhii
+dadka guud ahaantii
+wuxu yidhi guddoonshuhu:-
+
+"Tartan xaashi tiris galay
+xujo socota weyee
+xabbad baaban haystaa
+ma xashiish cab baan aha
+bilaash-xaytayaashiyo
+markaan naag asay xidhan
+xilka anigu aan sido
+u xayuubbinaayee
+xafiiskayga kuul iyo
+xinne iyo huruud iyo
+lala tegayo googarad".
+
+"Danyartay wad-wadatiyo
+naagtan waalaneey maqal
+dadka kuu gurmanayaa
+shalay daahir yaa shamis
+sawtay i doorteen
+wuxu diino badanaa".
+
+"Doorashadu mar weeyaan
+nin la doortay baan ahay
+sidii baan u doorrahay
+doorashoo dhan waan xidhay
+dabadayna lama furo
+haddii kale dab baa kacay
+imminkana digtoonow
+dib u jeesta oo taga
+ka su'aal ka keenow
+magacaaga ii sheeg
+amar diiddo weyee
+anti baan ku qorayaa".
+
+Duqu wuxu jeclaan laa
+midho daray had iyo jeer
+duuduub in lagu liqo
+waxse aanu kuba darin
+in la yidhi ha laga dayo
+dirxi inu ku hoos jiro.
+
+Isagoo galgalad kale
+la hadlaaya gabadhii
+wuxu yidhi guddoonshuhu:-
+
+"Madaxnimada Filibbiin
+ma dadkay u siman tahay
+miyaan aniga lay siin
+miyaan Riigan odhan hay
+kun miyaanan shalay dilin
+kuman kalena dhaawicin
+kumanyaal xabsiga dhigin
 duqa iga sarreeyaa
-markii uu warkaas helay miyaan kabuhu goynayn
-sowkii mafsuudee | haddii aan xanaaqoon
-: hambalyada goraalka ah | diinteeda caayana
-| deg deg iigu soo diray | hadhow baa islaantaas
-hubka yidhi ha loo raro. | loo barooran doonaa”.
+markii uu warkaas helay
+sowkii mafsuudee
+hambalyada qoraalka ah
+deg deg iigu soo diray
+hubka yidhi ha loo raro.
 Haddii aanan toosnayn
-sew muuicachoodeen ”Doollarkiyo waxaan xaday
-| maxaa adiga kaa galay
+sow muu cadhoodeen
+anna ima canaanteen
+ma duruusihiisaad
+igu beeninaysaa"?
+
+Dal hadday ku badan tahay
+deldelaadda dhimashadu
+dabar go'u bannaan yahay
+hub markaaba soo dega
+dawladdiisu waa caan
+inaan doorkan maanta ah
+deeqdaas cid kale bixin
+dunidu way ogsoon tahay.
+
+Duqu waxaanu weli garan
+dabka Riigan bixiyaa
+dadka inu garaad taro.
+
+Isagoo galgalad kale
+la hadlaaya gabadhii
+wuxu yidhi guddoonshuhu:-
+
+"Naagtu qaylo badanaa
+Ka fadhiisan weynee
+miyaa nalagu soo falay"?.
+
+"Qoftan waalan yaa qaba
+tolow mee ninkeedii
+muxuu noogu soo diray
+hadba gees u carartee
+ma carsaanyo falan baa?
+
+miyaan kabuhu goynayn
+haddii aan xanaaqoon
+diinteeda caayana
+hadhow baa islaantaas
+loo barooran doonaa".
+
+"Doollarkiyo waxaan xaday
+maxaa adiga kaa galay
 yaa xisaabi kugu yidhi
-| hanti-dhawr miyaad tahay
+hanti-dhawr miyaad tahay
 
-horta anigu yaabee haddii ay ku doortaan . | |
-ma basaasad baad tahay meel laguugu soo shiro a
-sheekhayga lacagtiyo maxaad sheegi doontaa? r
-sirahayga gaarka ah Ma buraanbur tuuga ah! .
-ha sheeg-sheegin adiguye maxaad keeni doontaa
-shuqulkaaga maahee dekedaha ka soo rogi
-shalmadaha xariirta ah ma kensheliyo fara badan
-kunka aqalka kuu yaal biinan iyo muraayado
-meesha aad ka keentiyo iyo toobab dhaadheer.
-halka lagu sameeyiyo Sharikadina baabuur
-qofka kaaga soo diray kaa iibin maysee
-bal cabbaar ka sheekee. maxaad fuuli doontaa?
-Ma dameer la soo xaday”.
-Dugu wuxu u haystaa
-dabka ruuxa shidayaa ”Miyaad suudhadh leedahay
-inuu Daado qudha yahay. niigtayno shucuba leh?
-Miyaad Riigan keligaa
-Duqu waxaanu garanayn la qadeyn karaysaa?
-hadday deyso gabadhani hor fadhiisanaysaa?
-weli inaanay degin talo Miyaad sheeko qurux badan
-‘| degelkuna sawaxan iyo qgosol loola wada dhaco
-T dabra weerar jiidhiyo gaadaa dhigaysaa” ?.
+horta anigu yaabee
+ma basaasad baad tahay
+sheekhayga lacagtiyo
+sirahayga kaarka ah
+ha sheeg-sheegin adiguye
+shuqulkaaga maahee
+shalmadaha xariirta ah
+kunka aqalka kuu yaal
+meesha aad ka keentiyo
+halka lagu sameeyiyo
+qofka kaaga soo diray
+bal cabbaar ka sheekee.
+
+Duqu wuxu u haystaa
+dabka ruuxa shidayaa
+inuu Daado qudha yahay.
+
+Duqu waxaanu garanayn
+hadday deyso gabadhani
+weli inaanay degin talo
+degelkuna sawaxan iyo
+dabra weerar jiidhiyo
 dad cadhaysan waayeyn.
-”Ma dharkii ninkaagaad
-Isagoo galgalad kale igu harowsanaysaa? |
-la hadlaaya gabadhii Maxaad aniga huunnooy
-wuxu yidhi guddoonshuhu: - ii khashiinsanaysaa?
+
+Isagoo galgalad kale
+la hadlaaya gabadhii
+wuxu yidhi guddoonshuhu:-
+
+"Adigays cajabiyee
+car miyaynu simannahay
+dhexir baabad sidataa
+miyaad dhaadashada guud
+Maarkoos u dhigantaa?
+ab-tirsoo ayaad tahay
+hooyadaa ma inan baa
+aabbahaase magaciis
+adigu maadigaad tahay
+horta adigu yaad tahay"?
+"miyaad janan ahayd beri?
+xiddigiyo ma leedahay
+billadiyo wax dereja ah?
+Ragga iyo haweenkuba
+
+haddii ay ku doortaan
+meel laguugu soo shiro
+maxaad sheegi doontaa?
+Ma buraanbur tuuga ah!
+maxaad keeni doontaa
+dekedaha ka soo rogi
+ma kensheliyo fara badan
+biinan iyo muraayado
+iyo toobab dhaadheer.
+Sharikadina baabuur
+kaa iibin maysee
+maxaad fuuli doontaa?
+Ma dameer la soo xaday".
+
+"Miyaad suudhadh leedahay
+niigtayno shucuba leh?
+Miyaad Riigan keligaa
+la qadeyn karaysaa?
+hor fadhiisanaysaa?
+Miyaad sheeko qurux badan
+qosol loola wada dhaco
+qaadaa dhigaysaa"? .
+
+"Ma dharkii ninkaagaad
+igu harowsanaysaa?
+Maxaad aniga huunnooy
+ii khashiinsanaysaa?
 Orod shaadhadh soo tolo
-”Adigays cajabiyee dheddigyohow lab soo tumo
-car miyaynu simannahay dabadeedna goortaas
-dhexir baabad sidataa kaalay aynu murannee .
-| miyaad dhaadashada guud
-; Maarkoos u dhigantaa? | Bal calaacalaa daya
-| ab-tirsoo ayaad tahay | cagihiyo tafeenaha
-F hooyadaa ma inan baa | ciddiyaha sibbaaqa leh
-aabbahaase magaciis intay soo buskuxisoo
-adigu maadigaad tahay | isa soo birkicisay
-horta adigu yaad tahay”? dadkan gelinba caynka ah
-miyaad janan ahayd beri? | caashaqa digaaga ah
-xidd igiyo ma leedahay | caammadan la soo xulay
-| billadiyo wax dereja ah? | i calmada ku leedahay.
-Ragga iyo haweenkuba Tyadoo cusburatoo
+dheddigyohow lab soo tumo
+dabadeedna goortaas
+kaalay aynu murannee".
 
-Hi |
-| weliba cuudna shidatay iyo meydka kala quban |
-cugashiyo usocotaa wacadkii Ilaahay tp
-carshigiyo kursiga sare”. haddaad aragto saamaha
-madaxyada is biirsaday | |
-”Carmal yahay garoob yahay inuu baalku kaa qoyi.
-Taadjar baa ku dhaantoo Meesha quud ma yaallee
-meelahaas ka hadashee yaan dhilmaanyo kugu cunin”. .
+"Bal calaacalaa daya
+cagihiyo tafeenaha
+ciddiyaha sibbaaqa leh
+intay soo buskuxisoo
+isa soo birkicisay
+dadkan gelinba caynka ah
+caashaqa digaaga ah
+caammadan la soo xulay
+i calmada ku leedahay.
+Iyadoo cusburatoo
+weliba cuudna shidatay
+cugashiyo u socotaa
+carshigiyo kursiga sare".
+
+"Carmal yahay garoob yahay
+Taadjar baa ku dhaantoo
+meelahaas ka hadashee
 waxaan kaa codsanayaa
-garankana ha ceebayn Duga waa wadhiisii
-calankana ha shaashayn. waa kaas derderey buur
-iyo meelan loo diran
-Isba dahabadiisuu dadgalnimada falatiyo
-u dedaalis badan yahay dufankuu u haystaa
-inay duugga dhaxashee diricnimo inay tahay.
+qarankana ha ceebayn
+calankana ha shaashayn.
+
+Isba dahabadiisuu
+u dedaalis badan yahay
+inay duugga dhaxashee
 Dulmar inay haween tahay
-gol daloolo maahee Duqu waxaanu garanayn
-. waxa uu u durayaa meydka daarta yaallee
-. damaq wuxu is leeyahay ku dib jirey agtiistyo
-. goddobtii dorraad tiil. madaxyada duggaashadey
-Dirir baanu kaba filan inay deyn ku maqan tahay.
-q dermaduu xidh xidhay shalay
-TF weli waxaan ka daadegin ii
-— dakharrada ku dhacayaa ee ae fea ii
-misna inay docdii tahay wuxu yidhi guddoonshuhu:-
+gol daloolo maahee
+waxa uu u durayaa
+damaq wuxu is leeyahay
+goddobtii dorraad tiil.
+Dirir baanu kaba filan
+dermaduu xidh xidhay shalay
+weli waxaan ka daadegin
+dakharrada ku dhacayaa
+misna inay docdii tahay
 rugtii daaha loo rogey.
-Du ”Haweeney xun baad tahay
-Ap ARGON SOranayn hooyo baagataad tahay
-qof dadkiisu geenyada huryo waalan baad tahay
-| u dallaallimeeyeen hed la soo diraad tahay
-inaan loo dardaar werin. belo hooliflaad tahay
+
+Duqu waxaanu garanayn
+qof dadkiisu geenyada
+u dallaallimeeyeen
+inaan loo dardaar werin.
+
+Isagoo galgalad kale
+la hadlaaya gabadhii
+wuxu yidhi guddoonshuhu:-
+
+"Hunguraa ku qaadoo
+sawir baad run mooddoo
+waxba war uma hayside
+aqalkaad ku socotaa
+janno dagatay maahee
+god waraabe weeyaan
+orod arag lafaa yaal
+iyo meydka kala quban
+wacadkii Ilaahay
+haddaad aragto saamaha
+madaxyada is biirsaday
+inuu baalku kaa qoyi.
+Meesha quud ma yaallee
+yaan dhilmaanyo kugu cunin".
+
+Duqa waa wadhiisii
+waa kaas derderey buur
+iyo meelan loo diran
+dadqalnimada falatiyo
+dufankuu u haystaa
+diricnimo inay tahay.
+
+Duqu waxaanu garanayn
+meydka daarta yaallee
+ku dib jirey agtiisiyo
+madaxyada duggaashadey
+inay deyn ku maqan tahay.
+
+Isagoo galgaladkii
+la hadlaaya gabadhii
+wuxu yidhi guddoonshuhu:-
+
+"Haweeney xun baad tahay
+hooyo baaqataad tahay
+huryo waalan baad tahay
+hed la soo diraad tahay
+belo hooliflaad tahay
 huudhaydh ayaad tahay
-j Isagoo galgalad kale seexaarad laga guray
-j la hadlaaya gabadhii | hargab soconayaad tahay
-wuxu yidhi guddoonshuhu: - | hindhisiyo wax baad tahay
+seexaarad laga guray
+hargab soconayaad tahay
+hindhisiyo wax baad tahay
 haddeer aanan sheegayn
-I ”Hunguraa ku gaadoo | biif-baaf ayaad tahay
-sawir baad run mooddoo | koolba aariyaad tahay
-waxba war uma hayside | isnidaamis baad tahay’.
-aqalkaad ku socotaa |
-i Janno dagatay maahee ”Habar xaabo keentoo
-god waraabe weeyaan | intay qaar ka biisheen
-. orod arag lafaa yaal | laga wada amaahdoo
+biif-baaf ayaad tahay
+koolba aariyaad tahay
+isnidaamis baad tahay".
 
-iid BPP
-galabtii carrawdoo waxaan hoos u leeyahay .
-kiishash madhan la noqgotoo maqli maysid adiguye tL
-isla sii murmaysoo duuduub ku qaadoo
-toban foog dhisaysoo hooygeeda ma xaslada
-is illowsan baad tahay”. hengel baabad sidataa |
-maadigaa hoggaansha ah
-”Malmalaado qubatoo nin halyey ah ridi kara
-waxar caana nuugil la a a payer :
-fadd. » baad tahay”’. midnimada burburin kara
-aeapeo 40 ; dadka kala kaxayn kara
-< Re oe ; qolo qolo ka dhigi kara
-] hence } gues) j hadba qoys ku tuman kara
-ay ap te ech se ot qofkaad doonto cunt kara
-| eit haves sharcigoo dhan burin kara
-| frinviga wihaysoo sidaad doonto fali kara ?
-es yf ae eaeoe sete hadda guulahaygaad
-Soe Ne NN Tl malaa sheegan doontaa”
+"Habar xaabo keentoo
+intay qaar ka biisheen
+laga wada amaahdoo
+galabtii carrawdoo
+kiishash madhan la noqotoo
+isla sii murmaysoo
+toban fooq dhisaysoo
+is illowsan baad tahay".
+
+"Malmalaado qubatoo
+waxar caana nuugii
+faddareeyey baad tahay".
+
+"Wadhatiyo biyooley
+laysku soo hoggaanshoo
+mid caloola karisaa
+firinbiga u haysoo
+intay feedh tabciyo laad
+isku wada daqiiqeen
+daaduunki xiiqoo
 hal cabbaara dabadeed
-isku laba kacleeyoo Duqa waxan ts leeyahay
-intay beer caddaadeen dura iyo isguulkii : |
-tf cagahays la dhacayoo markuu diinta baran jirey
-: ctid miidhanaad tahay”. diiwaanka gabayada
-iyo looxa doodaha
-"Dumar wada wallacayoo waxa loogu qaanacg)
-cuntadii ka dhaartoo : dibadduu ka qaban jirey
-intay liin cusbaysteen show muxuu dudubin jirey
-dhuxul ruugayaad tahay”. cilmigiyo daliillada.
-*Qolo aanan sheegeyn Duqa WaXGan ts leeyahay
-duqda lagu mannaystee berigaas da‘diisit
-gurigooda joogtee isagaa dafka u sidey
-dharka maydha baad tahay nacas iyo damiin tyo
-; midda xoogga weynlee kuwa daata maahayn
-dhulka xaadha baad tahay | Alla muxuu diin abaahiyey.
-labadoo kallahayoo | Durba guulihiisii
-is hareer socdaad tahay. deg deg buu u wada maray
-Intaas 00 dhan baad tahay | erey beena kuma darin.
-wax ka sit xun baad tahay
-| haash biiray baad tahay”. | Duqu waxaanu magac dhebin
-| | rag Allow duruustaas
-“Ereyada an kuu xulay | dugsiguu ku baran jirey.
-| waan kuu khafiifshee |
+isku laba kacleeyoo
+intay beer caddaadeen
+cagahays la dhacayoo
+ciid miidhanaad tahay".
 
-| Isagoo galgalad kale Isagoo galpalad kale | ; |
-ka hor yimi gadood dhacay la hadlaaya gabadhii tai
-wuxu yidhi guddoonshuhu: - wuxu yidhi Guddoonshuhus- BEI
-"Sanad guuradaydii bishan iyo bisheedii
-la i doortay maahoo belaad soo eryeysoo
-maalintii xorriyaddiyo soo baacsanaysee
-gobannimada maahee baradaydu Silimmiyo
-dadkan soo bannaan baxay ma bar laysku jiidhiyo
-feesteeya yaa yidhi ? baytu Abu Sufyaan baa?”
+"Dumar wada wallacayoo
+cuntadii ka dhaartoo
+intay liin cusbaysteen
+dhuxul ruugayaad tahay".
+
+"Qolo aanan sheegeyn
+duqda lagu mannaystee
+gurigooda joogtee
+dharka maydha baad tahay
+midda xoogga weynlee
+dhulka xaadha baad tahay
+labadoo kallahayoo
+is hareer socdaad tahay.
+Intaas oo dhan baad tahay
+wax ka sii xun baad tahay
+haash biiray baad tahay".
+
+"Ereyada an kuu xulay
+waan kuu khafiifshee
+waxaan hoos u leeyahay
+maqli maysid adiguye
+duuduub ku qaadoo
+hooygeeda ma xaslada
+hengel baabad sidataa
+maadigaa hoggaansha ah
+nin halyey ah ridi kara
+qaban kara halkiisii
+midnimada burburin kara
+dadka kala kaxayn kara
+qolo qolo ka dhigi kara
+hadba qoys ku tuman kara
+qofkaad doonto cuni kara
+sharcigoo dhan burin kara
+sidaad doonto fali kara ?
+hadda guulahaygaad
+malaa sheegan doontaa"
+
+Duqa waxan is leeyahay
+dura iyo isguulkii
+markuu diinta baran jirey
+diiwaanka gabayada
+iyo looxa doodaha
+waxa loogu daabaco
+dibadduu ka qaban jirey
+show muxuu dudubin jirey
+cilmigiyo daliillada.
+
+Duqa waxaan is leeyahay
+berigaas da'diisii
+isagaa dafka u sidey
+nacas iyo damiin iyo
+kuwa daata maahayn
+Alla muxuu diin abaahiyey.
+Durba guulihiisii
+deg deg buu u wada maray
+erey beena kuma darin.
+
+Duqu waxaanu magac dhebin
+rag Allow duruustaas
+dugsiguu ku baran jirey.
+
+Isagoo galgalad kale
+ka hor yimi gadood dhacay
+wuxu yidhi guddoonshuhu:-
+
+"Sanad guuradaydii
+la i doortay maahoo
+maalintii xorriyaddiyo
+gobannimada maahee
+dadkan soo bannaan baxay
+feesteeya yaa yidhi ?
 Madax-weynenimadiyo
 Maarshaal labeeyaan
-muddo badan ku joogee Adna buuse naag yahay
-mugga waan dallacayaa Malyannadan dar-leefka ah
-Bogor inaan noqdaa baa adigaa magaaliyo
-saarkaygu doonoo miyigaba ka keenoo
-in la ii ciyaaroo keligaa macsuumee
-dadku wada raxleeyaan milicdiyo habaaskiyo
-u tabaabulshaystee ha meermeerin suugee
-waxaad yeeli doontaan Al iba mudanay aal baan
-keeg baa la dubayaa marti-qaad u fidiyoon |
-4 | billadaa la tumayaa maraq tyo digaag tyo
-. badda iyo dhulkeenniyo macmacaan u kariyee
-samadaas dusheennaa had daad igu masayrtood
-dhal-dhalaal la sudhayaa muraad iyo xus leedahay
-kooxihii ciyaartiyo masaakiintan kabaha la
-ubaxii kacaankaa wada meehannawga ah
-maryo loo toltolayaa minankayga cadarkiyo
-dunidaa la wacayaa maaweredka lagu shubay
-maalintaa la yaabka leh ha ku soo maqiiqine
-u diyaar-garooboo makhsinkaagi orod gee
-re farxaddiyo bakhaanbakha marxuunkit ku qabi jirey
-cishadaa ha la la sugo.” u akhriya dheh Mawliid”.
-. Duqu wuxu u haystaa "Hadday muufo waayeen
-7 in dabbaaldeg giisii maanigaa kasoo xaday
-dadku farax u soo baxay, haddii tuug u soo dhacay
-Waxse aanu kuba darin denbigooda weeyee
-dhanka uu degmada yidhi may jikooyinkoodiyo
-i haw dareero geeddigu kushinkooda ootaan
-| inaan looba diga-rog Bileyskaan dalbanayaa |
-a diga-rogan. ha la baadho aqallada
-" kaygana ha lagu daro
+muddo badan ku joogee
+mugga waan dallacayaa
+Boqor inaan noqdaa baa
+saarkaygu doonoo
+in la ii ciyaaroo
+dadku wada raxleeyaan
+u tabaabushaystee
+waxaad yeeli doontaan
+keeg baa la dubayaa
+billadaa la tumayaa
+badda iyo dhulkeenniyo
+samadaas dusheennaa
+dhal-dhalaal la sudhayaa
+kooxihii ciyaartiyo
+ubaxii kacaankaa
+maryo loo toltolayaa
+dunidaa la wacayaa
+maalintaa la yaabka leh
+u diyaar-garooboo
+farxaddiyo bakhaanbakha
+cishadaa ha la la sugo."
 
-Pe
-muufaad ka hadashee Br
-bal in rooti laga helo Be ee mee ,
-af-lagaaddo badanaa iyo siidhi-walayaal 1195
-maba cuno hadhuudhkee dadkuna hayna daawado
-maxaad ii hafraysaa? raggu aniga weeyee
-adna xaawaleydoon .
-Duqu ways nasakhayaa Ubax iyo Ayaan iyo
-dabbaal saasa maahee Ururrada Haweenkiyo
-dulucdiisa maahda ah marwadayda lagu darin
-wuxuu duurxul uga dhigay tigidhada u soo goo
-dundumuu u haystaa mahadhooyinkaan dhigo
-dadka tuban hortiisoo haddii aan wargeysyada
-dala’saa ku jira weli, Xiddigtiyo Ogaal*” gorin
-. waxse aanu kuba darin waxaan sheegay waa been”.
-, inay dooddu xidhan tahay.
-| "Si Allaaba badanoo
-Isagoo galgalad kale taariikhda seben hore
-la hadlaaya gabadhii soddoh baa nin legeddee
-wuxu yidhi Guddoonshuhu: - haddii aan sabbeeyood
-iga gacan sarraysana |
-" *Nin ku gaba sidaan ahay ma inaan baxsanayay
-if kiradiyo ijaarkiyo cagligaaga kula tahay?
-la baxsaday masruufkii Gobanimo-u-dirir baan
-ku khammaaray biilkii kuu samaysan doonaa.
-ama xaafad kale tegey Jabhadaha Uniitiyo®
-gabdho kale shukaansaday Birigaato Roosaan*
-maxaad tigu maran tahay? hub ka keensan doonaa
-Hooy hooy wadaaddaay Birarna waaban haystaa
-bilcan yahay dabbaal yahay aan wiilal biima ah
-bilis yahay inkaar yahay Biljam iyo Isbeen tyo
-qaadka adigu naag yahay kaga keeno Baariis
-lima aanad qaadine kuwa lagu badhaadhee
-| qashqashaadda iga dhaaf nin dulmani u yeedhee
-qujbal*! baan ku leeyahay garannimada daafaca.
-baa quusan weydoo
-well soo quturan tahay .
-irridiina waa taas.
-Wey diririg leedahay dad ma soo cawaal baxo
-' wey dig iyo damleedahay.
-| 7 a Sa ry aS #2 Niddigtiyo Ogaal-Waa wargeysyada Taliska diktatooriga ah ee Soomaaliya.
-41 qujbal-waa ari, macnihii i 43 UNITA-jabhad ka jirta da ngoola.
-‘i ae A Amsaart:macnihitsuna waa fadhiiso 4 NA Sahel al prt oe A oo dalka Talyaaniga ka jirta.
+Duqu wuxu u haystaa
+in dabbaaldeggiisii
+dadku farax u soo baxay.
+Waxse aanu kuba darin
+dhanka uu degmada yidhi
+haw dareero geeddigu
+inaan looba diga-rogan.
 
-dal goblamayna lama magqal | i
-gabbal dumeyba waa beri. waxa sharafka dhaawaca Ta
-ha sheeg sheeginaan idhi, a
-Duqu waxaanu weli garan le ate y ata ai
-inaan dawga noloshiyo a Ob | ea Renee ioe .
-taariikhdu dib u nogon. gofka Uh abla Vaya 32
-waxaad qaali haysaan
-Isagoo galgalad kale giimihtisu badan yahay
-dadka goonni ugu digey iska soo qubaan idhi,
-wuxu yidhi guddoonshuhu: - gofka aniga iga dhana
-ruuxa tiga hiishaa
-"Wax la duufsanaayoo ajar buu ka helayaa
-faddaroobey weeyaan ka i neceb gabtaan idhi,
-miyuu dhaafay hadalkaan anbiyada la doortaa
-ku celceliyey dhawr jeer”. ruuxaan wax xaasidin
-"Ha qamaaminaan idhi u shafeeca qaaddee
-qunyar seexda baan idhi marka kharash i soo galo
-is-gaboojiyaan idhi illaa waan shaqaystee
-hantideennu keligey hambalyada i stiyoo
-anba iguma aaddee i shaxaada baan idhi,
-i iska quusta baan idhi cashadaan wax laayee
-tt qalbigaa ku naaxee meydkiinnu badan yahay
-u heeso qaada baan idhi denbigaa ku maydhmee
-gof hadduu bulshada xado iska wada qoslaan idhi.
-nee loo xil gariyaa
-qaladkiyo waxaan falo
-haygu i seme idhi, Wee tage dan anigy
-aakhiraa la tegayaa waa, lay SIRI
-Varnadey ka bincnan habeenka iyo maantii
-midhihii Fardawsee nee Mi oR
-samir qooshta baan idhi, ae a eee wie
-ku qadeeya baan idhi, ped des aa. es ae
-dulmigana gastaan idhi Se Cae
-kt MPa SEcekeD Haddii aad dhibaatada
-‘ qaxweeya baan idhi, u adk daa
-dhimashadu xaq weeyee th a HT
-hilbihij ; iuumaha saliiddiyo
-uinna bahalkiyo dhulka Carabta aadoo
-| yaanay haaddu gurannine isk ah Ee b idhi
-xabaalaha qotaan idhi iD aor ele rae
-Mili Progen hidid waxa ku hoysaan
-Ka qayta baan idhi, a ku dheeftaan
-qlyaamaa danbeeyee ths pie kal ak
-L ka xorooba noloshoo ‘andi Masicrnatialt ile oe
-cibaadada badshaan idhi Be ee ear i
-cunto looma ooyee 2 aanka soo dhigaan ian,
-
-Aniguba ma caasiyo | isha loo mar-maran baa ay
-casharrada raggaygiyo i hareera joogee,
-codka macallinkaygee anna bogorki Shaah iyo .
-cilmiyada afkaygiyo Xusni iyo Xuseen iyo
-carrabkiyo tusaalaha Xasankii ku biiriyo
-ku celceliya baan idhi. rooxaanta Bari Dhexe
-Intaasoo dhan baan idhi ku bariisanaysee
-gawlkaa san baan idhi. Bahda Fahad u weyn tahay
-Barre iyo Mabuutiyo
-”Dadkan joogi waayee jacfar iyo Bukaasiyo
-millaterigi aan diray Beegan tyo Samoosiyo
-la dagaallamaayaa Diktoor Baandaheediyo
-af-dhalaalka keenee Baaderiga Roomiyo
-haddii qaammudkood galay burjigiyo karaamada
-| in tacshiirad lagu furo ninka lagu barriijee
-abaalkooda weeyee
-maanigaa wax-saarka leh”. Baakistaan u taliyiyo
-Bootaan cuskanayaa
-Dugqa waa runtiisee iyo weliba Beeriis
-| dar Allee sidaas yidhi, ha dhacdaannu leenahay |
-: | hadda wuu iskuna deyey gabayohow ha beenaan
-Ri inaan diidey cidi odhan. naagta beerka kala goo
-Duqu waxaanu weli garan Duqu wuxu cuskanayaa
-inaan saas dad laga helin. dawliskii bahdiisiyo
-xunbo daad la socotoo
-Isagoo galgalad kale digaduu dhir moodee.
-la hadlaaya gabadhii Waxse aanu kuba darin
-| wuxu yidhi Guddoonshuhu:- isagiyo dirkiisiyo
-inaan dayro fara-madhan
-»O: ducadooda la aqbalin.
-Sida ruux i caashagay
-doondoonis badaneey
-| haddii aad i neceb tahay Isagoo galgalad kale
-anba waan ku shuufee la hadlaaya gabadhii
-rida rida haddaad tidhi wuxu yidhi guddoonshuhu:-
-habaar weeye saasiye
-cudud laysu sheegtiyo "In dhoweyto suuqii
-carrab iyo ishaariyo kaa xaabi waayee
-h markay baadh canaad tahay haddii aanad iga tegin
-nin waliba ciddiisuu waxa igu Wallaahiya
-cuskadaa u yeedhaa intaan kookayaashiyo
-: Kuwo laga ducaystoon jaariyadahaygiyo
-
-rey a.)
-naagtayda kugu diro_ Duqu waxaanu weli garan 1
-inay xaaqin kula dhici kol hadday dillaacaan
-Wolaaianwaawey dakhalkiyo shiraaqyadu |
-Bal cajuusaddaa daya inaan qiilba loo deyin.
-hadhka galay hadmaa dumar
-Madaxweyne nogon Jirey Isagoon garaysnayn
-makarafoon sidsidan jirey dadku inay gadoodkii
-shir jaraa’id gaban jirey”. kaga gacan sarreeyeen
+Isagoo galgalad kale
+la hadlaaya gabadhii
 wuxu yidhi Guddoonshuhu:-
-”Horta anigu yaabee
-ee 3 ae ”Weligood ha dhaarteen
-mayska galin daraalaa ange OS eer
-habartuna ma geydaa “Wh Or ep ie anes
-muslinyohow islaameed j Wee ‘ies fara a i
-. kursigani ma doonnaa ag so ip - aie abi
-ma bas buu ku yaallaa Buy, ; hee se
-kiro iyo ma lacag baa, ee Ong d 4 os gcaptl
-miyaa layska ka korayaa” ? pias Matec: ane ae
-; Waynaan dareemine aie bisa ae pee oe
-yh dadka naagahaw daran aa isan Ahi ; aed | |
-Bek dillaal iyo mallaal iyo : at a ‘dh / fis MoAg
-dib u socodna wayaga” etheal ip tte hI ZAAL SIAL
-é inaan dhacayo moodeen” ?
-”Waddankaa cuslaadoon
-shicib ila walwaaliyo ”Madaxweynahaan ahay
-markab qaada waayee anigaa guddoonshe ah
-miyaa subaxan saaka ah indhihii dadkaan ahay
-kibir iyo is-yeelyeel dhegihii dadkaan ahay
-cidi tila imanlayd”. maskaxdii dadkaan ahay
-barihii dadkaan ahay
-Duqu wuxu ka kulul yahay aabihii dadkaan ahay
-| doonniduu ku joogaa keligay dalkoo idil
-| doobigeedi buuxsamey. anigaa ka kaabba ah
-Didmaday la booddiyo dhici maayo weligey.
-dildillaanka ruxankuu
-dawannada k :
-. per ekacay, Dirgi buu ku yidhi saas
-Duufaanka dhacayiyo duqu wayska laban yahay
-danabkuu ku selelee si xun bay u daareen
-miyay doobir leedahay dafiraadda fara badan
-, xaggee doohdu joogtaa ? denigaa ku dhalay saas.
 
-ry | Be
-| ik
-| Hadda garo daldalankiyo Fe
-duryankiisa quusta ah mi SS eer eam ana |
-halka uu ka dirayaa ; 4 rhs bie! /
-in dastuurka qarankiyo
-waa diyaarad guudkeed. dugsigiyo aqoontiyo
-dareenkiyo xishoodkiyo
-Waxse aanu kuba darin dimuqraaddinimadiyo
-inay duushay geeddii. waxa ridey dadnimo tahay.
+"bishan iyo bisheedii
+belaad soo eryeysoo
+soo baacsanaysee
+baradaydu Silimmiyo
+ma bar laysku jiidhiyo
+baytu Abu Sufyaan baa?"
+
+Adna buuse naag yahay
+"Malyannadan dar-leefka ah
+adigaa magaaliyo
+miyigaba ka keenoo
+keligaa macsuumee
+milicdiyo habaaskiyo
+ha meermeerin suuqee
+"Anba mudanayaal baan
+marti-qaad u fidiyoon
+maraq iyo digaag iyo
+macmacaan u kariyee
+haddaad igu masayrtood
+muraad iyo xus leedahay
+masaakiintan kabaha la'
+wada meehannawga ah
+minankayga cadarkiyo
+maaweredka lagu shubay
+ha ku soo maqiiqine
+makhsinkaagi orod gee
+marxuunkii ku qabi jirey
+u akhriya dheh Mawliid".
+
+"Hadday muufo waayeen
+maanigaa kasoo xaday
+haddii tuug u soo dhacay
+denbigooda weeyee
+may jikooyinkoodiyo
+kushinkooda ootaan
+Bileyskaan dalbanayaa
+ha la baadho aqallada
+kaygana ha lagu daromuufaad ka hadashee
+
+bal in rooti laga helo
+af-lagaaddo badanaa
+maba cuno hadhuudhkee
+maxaad ii hafraysaa?"
+
+Duqu ways nasakhayaa
+dabbaal saasa maahee
+dulucdiisa maahda ah
+wuxuu duurxul uga dhigay
+dundumuu u haystaa
+dadka tuban hortiisoo
+dala'saa ku jira weli,
+waxse aanu kuba darin
+inay dooddu xidhan tahay.
+
+Isagoo galgalad kale
+la hadlaaya gabadhii
+wuxu yidhi Guddoonshuhu:-
+
+"Nin ku qaba sidaan ahay
+kiradiyo ijaarkiyo
+la baxsaday masruufkii
+ku khammaaray biilkii
+ama xaafad kale tegey
+gabdho kale shukaansaday
+maxaad iigu maran tahay?
+Hooy hooy wadaaddaay
+bilcan yahay dabbaal yahay
+bilis yahay inkaar yahay
+qaadka adigu naag yahay
+iima aanad qaadine
+qashqashaadda iga dhaaf
+qujbal baan ku leeyahay
+haddaad quusan weydoo
+weli soo quturan tahay
+waa yahaye bal soo daa
+dirridiina waa taas.
+Wey diririg leedahay
+wey dig iyo damleedahay.
+
+Dheeshu xeego weyyee
+ulihii inoo keen
+iyo siidhi-walayaal
+dadkuna hayna daawado
+raggu aniga weyyee
+adna xaawaleydoon
+Ubax iyo Ayaan iyo
+Ururrada Haweenkiyo
+marwadayda lagu darin
+tigidhada u soo goo
+mahadhooyinkaan dhigo
+haddii aan wargeysyada
+Xiddigtiyo Ogaal qorin
+waxaan sheegay waa been".
+
+"Si Allaaba badanoo
+taariikhda seben hore
+soddoh baa nin legeddee
+haddii aan sabbeeyood
+iga gacan sarraysana
+ma inaan baxsanayay
+caqligaaga kula tahay?
+Gobanimo-u-dirir baan
+kuu samaysan doonaa.
+Jabhadaha Uniitiyo
+Birigaato Roosaan
+hub ka keensan doonaa
+Birarna waaban haystaa
+aan wiilal biima ah
+Biljam iyo Isbeen iyo
+kaga keeno Baariis
+kuwa lagu badhaadhee
+nin dulmani u yeedhee
+qarannimada daafaca.
+
+Ma oggoli dabuubtaas
+sida damasha qaarkeed
+dad ma soo cawaal baxo
+dal goblamayna lama maqal
+gabbal dumeyba waa beri.
+
+Duqu waxaanu weli garan
+inaan dawga noloshiyo
+taariikhdu dib u noqon.
+
+Isagoo galgalad kale
+dadka goonni ugu digey
+wuxu yidhi guddoonshuhu:-
+
+"Wax la duufsanaayoo
+faddaroobey weeyaan
+miyuu dhaafay hadalkaan
+ku celceliyey dhawr jeer".
+"Ha qamaaminaan idhi
+qunyar seexda baan idhi
+is-qaboojiyaan idhi
+hantiideennu keligey
+anba iguma aaddee
+iska quusta baan idhi
+qalbigaa ku naaxee
+heeso qaada baan idhi
+qof hadduu bulshada xado
+waa loo xil qariyaa
+qaladkiyo waxaan falo
+haygu qabanninaan idhi,
+aakhiraa la tegayaa
+Jannaday ka buuxaan
+midhihii Fardawsee
+samir qooshta baan idhi,
+ku qadeeya baan idhi,
+dulmigana qastaan idhi,
+ku qaxweeya baan idhi,
+dhimashadu xaq weeyee
+hilbihiinna bahalkiyo
+yaanay haaddu gurannine
+xabaalaha qotaan idhi,
+ilka qayta baan idhi,
+qiyaamaa danbeeyee
+ka xorooba noloshoo
+cibaadada badshaan idhi,
+cunto looma ooyee
+waxa sharafka dhaawaca
+ha sheeg sheeginaan idhi,
+nafta waa la laylyaa
+qadoodiga bartaan idhi,
+waa lagu cadaabaa
+qofka dahabka kaydshee
+waxaad qaali haysaan
+qiimihiisu badan yahay
+iska soo qubaan idhi,
+qofka aniga iga dhana
+ruuxa iiga hiishaa
+ajar buu ka helayaa
+ka i neceb qabtaan idhi,
+anbiyada la doortaa
+ruuxaan wax xaasidin
+u shafeeca qaaddee
+marka kharash i soo galo
+illaa waan shaqaystee
+hambalyada i siiyoo
+i shaxaada baan idhi,
+cashadaan wax laayee
+meydkiinnu badan yahay
+denbigaa ku maydhmee
+iska wada qoslaan idhi.
+
+Weli kaashifaan ahay
+waa lay siyaartaa
+habeenka iyo maantii
+intaas waan siraataa
+ha i xamanninaan idhi,
+haddaad yeeli weydaan
+jaajuur noqdaan idhi.
+Haddii aad dhibaatada
+u adkaysan weydaan
+dhuumaha saliiddiyo
+dhulka Carabta aadoo
+iska dhoofa baan idhi.
+Dhidid waxa ku hoysaan
+ama muruq ku dheeptaan
+anaa meelo kala dhiman
+ku dhammayaanaayee
+Baanka soo dhigaan idhi,
+
+Aniguba ma caasiyo
+casharrada raggaygiyo
+codka macallinkaygee
+cilmiyada afkaygiyo
+carrabkiyo tusaalaha
+ku celceliya baan idhi.
+Intaasoo dhan baan idhi
+qawlkaa san baan idhi.
+
+"Dadkan joogi waayee
+millaterigi aan diray
+la dagaallamaayaa
+af-dhalaalka keenee
+haddii qaammudkood galay
+in tacshiirad lagu furo
+abaalkooda weeyee
+maanigaa wax-saarka leh".
+
+Duqa waa runtiisee
+dar Allee sidaas yidhi,
+hadda wuu iskuna deyey
+inaan diidey cidi odhan.
+
+Duqu waxaanu weli garan
+inaan saas dad laga helin.
+
+Isagoo galgalad kale
+la hadlaaya gabadhii
+wuxu yidhi Guddoonshuhu:-
+
+"Sida ruux i caashaqay
+doondoonis badaney
+haddii aad i neceb tahay
+anba waan ku shuufee
+rida rida haddaad tidhi
+habaar weeye saasiye
+cudud laysu sheegtiyo
+carrab iyo ishaariyo
+markay baadh canaad tahay
+nin waliba ciddiisuu
+cuskadaa u yeedhaa
+kuwo laga ducaystoon
+isha loo mar-maran baa
+i hareera joogee,
+anna boqorki Shaah iyo
+Xusni iyo Xuseen iyo
+Xasankii ku biiriyo
+rooxaanta Bari Dhexe
+ku bariisanaysee
+Bahda Fahad u weyn tahay
+Barre iyo Mabuutiyo
+jacfar iyo Bukaasiyo
+Beegan iyo Samoosiyo
+Diktoor Baandaheediyo
+Baaderiga Roomiyo
+burjigiyo karaamada
+ninka lagu barriijee
+
+Baakistaan u taliyiyo
+Bootaan cuskanayaa
+iyo weliba Beeriis
+ha dhacdaannu leenahay
+gabayohow ha beenaan
+naagta beerka kala goo
+
+Duqu wuxu cuskanayaa
+dawliskii bahdiisiyo
+xunbo daad la socotoo
+digaduu dhir moodee.
+Waxse aanu kuba darin
+isagiyo dirkiisiyo
+inaan dayro fara-madhan
+ducadooda la aqbalin.
+
+Isagoo galgalad kale
+la hadlaaya gabadhii
+wuxu yidhi guddoonshuhu:-
+
+"In dhoweyto suuqii
+kaa xaabi waayee
+haddii aanad iga tegin
+waxa igu Wallaahiya
+intaan kookayaashiyo
+jaariyadahaygiyo
+naagtayda kugu diro
+inay xaaqin kula dhici
+iyo baafaf waaweyn.
+
+Bal cajuusaddaa daya
+hadhka galay hadmaa dumar
+Madaxweyne noqon jirey
+makarafoon sidsidan jirey
+shir jaraa'id qaban jirey".
+
+"Horta anigu yaabee
+dawladnimo ma Baastaa
+ma quraac la dubayaa
+mayska qalin daraalaa
+habartuna ma geydaa
+muslinyohow islaameed
+kursigani ma doonnaa
+ma bas buu ku yaallaa
+kiro iyo ma lacag baa,
+miyaa layska ka korayaa"?
+Waynaan dareemine
+dadka naagahaw daran
+dillaal iyo mallaal iyo
+dib u socodna wayaga".
+
+"Waddankaa cuslaadoon
+shicib ila walwaaliyo
+markab qaada waayee
+miyaa subaxan saaka ah
+kibir iyo is-yeelyeel
+cidi iila imanlayd".
+
+Duqu wuxu ka kulul yahay
+doonniduu ku joogaa
+doobigeedi buuxsamey.
+Didmaday la booddiyo
+dildillaanka ruxankuu
+dawannada ku sara-kacay.
+
+Duufaanka dhacayiyo
+danabkuu ku selelee
+miyay doobir leedahay
+xaggee doohdu joogtaa ?
+
+Duqu waxaanu weli garan
+kol hadday dillaacaan
+dakhalkiyo shiraaqyadu
+inaan qiilba loo deyin.
+
+Isagoon garaysnayn
+dadku inay gadoodkii
+kaga gacan sarreeyeen
+wuxu yidhi Guddoonshuhu:-
+
+"Weligood ha dhaarteen
+dhoobo hays marmariyeen
+iyo dhiilo aan jirin
+dhagxan iyo ha qaateen
+dhalo iyo faraajiin
+guryo laga caraabiyo
+saro madhan ha shiideen
+laamiyada ha oodeen
+intay taayir oloshaan
+dabadeed ha dhuunteen".
+Kibirkann dhutinayiyo
+ma dheeldheelligaygay
+inaan dhacayo moodeen"?
+
+"Madaxweynahaan ahay
+anigaa guddoonshe ah
+indhihii dadkaan ahay
+dhegihii dadkaan ahay
+maskaxdii dadkaan ahay
+barihii dadkaan ahay
+aabihii dadkaan ahay
+keligay dalkoo idil
+anigaa ka kaabba ah
+dhici maayo weligey.
+
+Dirqi buu ku yidhi saas
+duqu wayska laban yahay
+si xun bay u daareen
+dafiraadda fara badan
+denigaa ku dhalay saas.
+
+Hadda garo daldalankiyo
+duryankiisa quusta ah
+halka uu ka dirayaa
+waa diyaarad guudkeed.
+
+Waxse aanu kuba darin
+inay duushay geeddii.
 waa daruuro guudkood
-duqu ways xansanayaa”. Duqu waa ogsoon yahay
-inaan daayin abidkii
-*Dunidu hawlo badanaa dawladdaas la yaabka leh
-tanna laysu dacaree damacitsu Sinayn
-caawaba ma dibad baa ! duniduuse barayaa
-| Tolow dawlad dhega-xidhan sida uu dastuurkiyo
-dummaddayda lagu qoro dugsigiyo agoontiyo:
-| dal tolow habeensadey dareenkiyo xishoodkiyo
-geyi aan dab laga shidan daacaddiyo sinnaantiyo
-dayaxuna u soo bixin dimuqraaddinimadiyo
-i gorraxduna dellegan tahay dadnimada u neceb yahay,
-1 dugsi iyo agoon iyo dar kalaa la qaba saas.
-Th garashiyo dareen iyo |
-Te dadnimiyo xishood iyo Duqu waxaanu garanayn
-dastuur iyo xisaab iyo duulka uu tilmaantiyo
-dacwad iyo garsoor iyo haddii uu dalkaas helo
-tartan iyo dardaan iyo isna inu dameer yahay.
-dibjir iyo wax buugiyo
-danyar gaylisaa jirin Duqu waxaanu weli maqal
-; dimugqraaddinimadiyo Dun Carbeed inuu yidhi
-xaqa cidina daaficin diric keli ahaantii
-taliyaha la daba gelin daleel guusha kama helo
-denbi dhacay la faallayn dadkaa geesi lagu yahay.
-cane laga calaacalin
-| uKa lyO Xasuugi
-j habe ddu ee ahay Qofba wuxu ku dagan yahay
-' ammaantaydu diin tahay halkuu daacad kaga hadho.
+duqu ways xansanayaa".
+
+"Dunidu hawlo badanaa
+tanna laysu dacaree
+caawaba ma dibad baa !
+Tolow dawlad dhega-xidhan
+dummaddayda lagu qoro
+dal tolow habeensadey
+geyi aan dab laga shidan
+dayaxuna u soo bixin
+qorraxduna dellegan tahay
+dugsi iyo aqoon iyo
+garashiyo dareen iyo
+dadnimiyo xishood iyo
+dastuur iyo xisaab iyo
+dacwad iyo garsoor iyo
+tartan iyo dardaan iyo
+dibjir iyo wax buuqiyo
+danyar qaylisaa jirin
+dimuqraaddinimadiyo
+xaqa cidina daaficin
+taliyaha la daba gelin
+denbi dhacay la faallayn
+dulmi laga calaacalin
+dilka iyo xasuuqiyo
+deldelaaddu furan tahay
+ammaantaydu diin tahay
 Deeleyna laga tirin,
-rageu daakirraaddii Dugqii Maarkos waa kaa
-4 sida adhiga daagq tago waddadii dayacan koray
-4 dumarkana la dhaansado jidka aaran dubatadu
-dadku wada nasakhan yahay ku dambayso weeyaan.
-Xaggee baan ka doontaa” ? Dawga weeye loo maro
-4 sannadaha dul-saarka ah
+raggu daakirraaddii
+sida adhiga daaq tago
+dumarkana la dhaansado
+dadku wada nasakhan yahay
+xaggee baan ka doontaa" ?
+
+Dabbaal maaha Xaajigu
+duqu waa ogsoon yahay
+in dastuurka qarankiyo
+dugsigiyo aqoontiyo
+dareenkiyo xishoodkiyo
+dimuqraaddinimadiyo
+waxa ridey dadnimo tahay.
+
+Duqu waa ogsoon yahay
+inaan daayin abidkii
+dawladdaas la yaabka leh
+damaciisu siinayn
+duniduuse barayaa
+sida uu dastuurkiyo
+dugsigiyo aqoontiyo
+dareenkiyo xishoodkiyo
+daacaddiyo sinnaantiyo
+dimuqraaddinimadiyo
+dadnimada u neceb yahay,
+dar kalaa la qaba saas.
+
+Duqu waxaanu garanayn
+duulka uu tilmaantiyo
+haddii uu dalkaas helo
+isna inu dameer yahay.
+
+Duqu waxaanu weli maqal
+Dun Carbeed inuu yidhi
+diric keli ahaantii
+daleel guusha kama helo
+dadkaa geesi lagu yahay.
+
+Qofba wuxu ku dagan yahay
+halkuu daacad kaga hadho.
+
+Duqii Maarkos waa kaa
+waddadii dayacan koray
+jidka aaran dubatadu
+ku dambayso weeyaan.
+Dawga weeye loo maro
+sannadaha dul-saarka ah
 iyo nolosha daalka leh.
 
-try }
-Dawga weeye loo maro daymadiisu kuma foga |
-duni aah hinanwieyn wuxu daawadaa meel
-duuggeedu male yahay dura ia elec I
-gof ku daaya mooyee dib hadduu aoe ga
-gof ku doonayaa jirin. dal tabyaan ku beerrayn. |
-Cudurrada dad leeyahay Dunta bili nin lagu xidhay .
-dawadoodu qaar bay dabin loogu yimi bahal
-dacar iyo dhunkaal tahay. haddii aano loo dilo
-Qof hadduu mar kaga daro dogonniino ugu filan.
+Dawga weeye loo maro
+duni aan tilmaannayn
+duuggeedu male yahay
+qof ku daaya mooyee
+qof ku doonayaa jirin.
+
+Cudurrada dad leeyahay
+dawadoodu qaar bay
+dacar iyo dhunkaal tahay.
+Qof hadduu mar kaga daro
 sida doorku ugu jiro
-sida daranba loo yeel. Dar xumooy nin kula cola
-dadna kuugu dhow dhow
-Nin is doortay keligii dannigiisu badanaa
-in la doorsho mooyee hadduu daawo kula galay
-: isma doorsho weligii. muxuu kuugu dudyaa?
-Daryeel maadigaa dhala? |
+sida daranba loo yeel.
+
+Nin is doortay keligii
+in la doorsho mooyee
+isma doorsho weligii.
+
 Nin dushiisa lagu shaxay
-: wax inuu durduriyoo
-i bal si uun u didi karo
-at | ka dareen qabaan jirin.
-bel Duudsi baa ku dhacay culus
+wax inuu durduriyoo
+bal si uun u didi karo
+ka dareen qabaan jirin.
+Duudsi baa ku dhacay culus
+
 dibindaabyo lagu falay
 waxa loogu daray nacas
 damqashadu ka dheer tahay
-| dirir buuse ku hubsaday
+dirir buuse ku hubsaday
 inuu diidi karo taas.
+
 Nin kastoo dardara kulul
 dabar lagu ceshaa jira
 Diin kastuu la soo shiro
-| dacwad baa ka furan kale.
-i Cirka sare nin degeshadey
-dayaxiyo marmari jJirey
-| xtddigaha la deriska ah
-| markuu hoos u soo dego
-a dhulku wuu dir soocaa
-fs digashada ku fara badan
-i dantaan dhuux ku odhanayn
-4 halka loogu daran yahay
+dacwad baa ka furan kale.
 
-Hadaadunka naaftay I
-HAMBABBER sidii habas daalka
-hawaarsadey ciidda |
-Habeenada weysha anaa hiddiddiida |
-dhurwaa habarteeda hobey hobe hooda
-dorraad ku hiraabtay durbaankiyo heesta,
-haabhaabadka naaska ku soo hoga geyne
-haaneed ka deyeysa. adaa hal-abuurka
-tixraaca ha’leyda
-Nirgaa hugun yuuska ie abate oe
-halkii lagu ooday id taltiniok aie aoe
-hamuunta ka yaw leh BOTUM CLOG GELS
-z: horweynka jiciirtay
-riyaa hoganaaya RaAhaaeanGon
-idaa tuban heelka a §@ U Jooyjt.
-| cadceedda hagoogtey
-haleelada weydda Haydaartiyo doogta
-dhaqaagq hidin waaga hantaaqada ciilka
-hareeriga taagan dareenka huqdiisa |
-} dantaa ku habstisey gqamuunyada haarta
-if inay hakadaane, caloosha hugmaysa
-dhulkoo hanad joogo hiirtaanyada raagtey.
-TH intaan gadadh heerin Dhinbiisha hulaaqday
-aa ka sti degin heerka dabkaan hurin doono
-haddeer la yaqaanno. colkaan humin doono
+Cirka sare nin degeshadey
+dayaxiyo marmari jirey
+xiddigaha la deriska ah
+markuu hoos u soo dego
+dhulku wuu dir soocaa
+digashada ku fara badan
+dantaan dhuux ku odhanayn
+halka loogu daran yahay
+daymadiisu kuma foga
+wuxu daawadaa meel
+dura loogu roonaa,
+dib hadduu u noqon laa
+dal tabyaan ku beerrayn.
+
+Dunta bili nin lagu xidhay
+dabin loogu yimi bahal
+haddii aano loo dilo
+doqonniino ugu filan.
+
+Dar xumooy nin kula cola
+dadna kuugu dhow dhow
+dannigiisu badanaa
+hadduu daawo kula galay
+muxuu kuugu dudyaa?
+Daryeel maadigaa dhala?
+
+### HAMBABBER
+
+Habeenada weysha
+dhurwaa habarteeda
+dorraad ku hiraabtay
+haabhaabadka naaska
+haaneed ka deyeysa.
+
+Nirgaa hugun yuuska
+halkii lagu ooday
+hamuunta ka yaw leh
+riyaa hoganaaya
+idaa tuban heelka
+cadceedda hagoogtey
+haleelada weydda
+dhaqaaq hidin waaga
+hareeriga taagan
+dantaa ku habsiisey
+inay hakadaane,
+dhulkoo hanad joogo
+intaan gadadh heerin
+ka sii degin heerka
+haddeer la yaqaanno.
+
+Intaan habqan beeshu
+huluulaha oodan
+ku saan go'in hawdka
+intaan habac jiitan
+badhkeed ku hallaabin
+markay habaq baahdo
+dugaaggu hilbaysan
+intaan hawa-boodka
+fardaa higil raacay
+kuwii higsanaayey
+hummaaggu ka reebin
+xayeeshku habaabin
+intaan halladaadka
+hayaanku is waayin
+habeenku dhex qaadin
+hadhow la shallaayin.
+
+Hadaadunka naaftay
+sidii habas daalka
+hawaarsadey ciidda
+anaa hiddiddiida
+hobey hobe hooda
+durbaankiyo heesta,
+ku soo hoga geyne
+adaa hal-abuurka
+tixraaca ha'leyda
+ujeeddada hoose
+hawaala yaqaanne
+haruu orod Faarax
+horweynka jiciirtay
+hadhaaga u jooji.
+
+Haydaartiyo doogta
+hantaaqada ciilka
+dareenka huqdiisa
+qamuunyada haarta
+caloosha hugmaysa
+hiirtaanyada raagtey.
+Dhinbiisha hulaaqday
+dabkaan hurin doono
+colkaan humin doono
 hargaa igu laalan
-Intaan habgan beeshu SAMAR EES bausig
-alana Oodan ninkaan huwin doono.
-ku saan go’in hawdka
-intaan habac jiitan Sabaanka hagaagey
-badhkeed ku hallaabin barwaaqada hoortay
-markay habagq baahdo daruur iyo heego
-dugaaggu hilbaysan waxaa hogol gaaxsan
-| intaan hawa-boodka hadhaysay dushayda
-a4 fardaa higil raacay harooyinka buuxa
-kuwii higsanaayey hoobaanta bislaatay
-hummaaggu ka reebin haraaciga daadka
-xayeeshku habaabin caleenta hiraysa
-i intaan halladaadka indhaa halacdooda
-a hayaanku is waayin hibaaqiyo laaca
-| i habeenku dhex qaadin naftayda hankeeda
-hadhow la shallaayin. waxay hibanayso
-if haddii wedku daayo
+dhowaan henggel baasta
+ninkaan huwin doono.
 
-ms i te ae
-inay heli doonto | Hangaalli hungaalli .
-anaa huba taase. | hegaan hega gaalli a5
-hunjaalli hantoolli |
-Hambaaber dhowaanta bidhaan had-hadowga
-dareen ma hurdaana hiwaali hahoodka
-dagaal wata heeso jibaanjib hunnuunnu
-hidday u lahayde huraalka hiraalka
-Hargeysi ma toostay hambaaber mardaadi
-hoggaanka ma diiddey hadeedab haraanhar
-harqoodka ma tuurtay kallaal himbiriirsi
-inaanay hummaagga hawaawir hayaayir
-hadoodilan yeelin sadaad herimooya
-sidti hebed geel ah hunnuushle hannaashle
-heshti Nebi Saalax sareedo hamboorri
-horaaddada dhiiban hankooble hayoosle
-j hankeedu ma siiyey falaad habbabbaale
-waxay hibanayso hanquusle halowle
-ninkay la hadlayso garaad himhimowle.
-hagaag ma u sheegtay |
-hadday sama weydo hep b
-ee ryaayub xumaanta
-ot i a humbaalle dhaqaaqa
-7 nal oA ee hallaallimo soofka
-SAE Say: hallaasiga sheelka
-Allaylehe waa hog harawsiga qaawan
-shax aan la hilmaamin. hilitliqa jeexa
-Malaa Hugur tiisa higiishis boqoolka
-waxaabu u haystey Galbeed hiyi raaca
-inaan hayal toosan Maraykan ku hiilka
-harraati aqoonne shirqool la hadaafka
-maskii Hilqadaale habheeb alalaaska
-ma soo hardaf boodey. hinraag qayayaabka
+Sabaanka hagaagey
+barwaaqada hoortay
+daruur iyo heego
+waxaa hogol gaaxsan
+hadhaysay dushayda
+harooyinka buuxa
+hoobaanta bislaatay
+haraaciga daadka
+caleenta hiraysa
+indhaa halacdooda
+hibaaqiyo laaca
+naftayda hankeeda
+waxay hibanayso
+haddii wedku daayo
+inay heli doonto
+anaa huba taase.
+
+Hambaaber dhowaanta
+dareen ma hurdaana
+dagaal wata heeso
+hidday u lahayde
+Hargeysi ma toostay
+hoggaanka ma diiddey
+harqoodka ma tuurtay
+inaanay hummaagga
+hadoodilan yeelin
+sidii hebed geel ah
+heshii Nebi Saalax
+horaaddada dhiiban
+hankeedu ma siiyey
+waxay hibanayso
+ninkay la hadlayso
+hagaag ma u sheegtay
+hadday sama weydo
+inay hantideeda
+nafteeda hurayso
+hubaal ma caddaysay.
+
+Allaylehe waa hog
+shax aan la hilmaamin.
+Malaa Hugur tiisa
+waxaabu u haystey
+inaan hayal toosan
+harraati aqoonne
+maskii Hilqadaale
+ma soo hardaf boodey.
+
+Horaanse u sheegay
+inaan hadda beeshu
+hadhiino ahayne
+haddeer waxa jooga
+hadmaan ka afeeftay.
+
+Hasaasaha muuqda
+wallee hagar daamo
+falkaagu habeensey
+higlooy gabbalkaa dhac.
+
+Hangaalli hungaalli
+hegaan hega gaalli
+hunjaalli hantoolli
+bidhaan had-hadowga
+hiwaali hahoodka
+jibaanjib hunnuunnu
+huraalka hiraalka
+hambaaber mardaadi
+hadeedab haraanhar
+kallaal himbiriirsi
+hawaawir hayaayir
+sadaad herimooya
+hunnuushle hannaashle
+sareedo hamboorni
+hankooble hayoosle
+falaad habbabbaale
+hanquusle halowle
+garaad himhimowle.
+
+Hayaayub xumaanta
+humbaalle dhaqaaqa
+hallaallimo soofka
+hallaasiga sheelka
+harawsiga qaawan
+hiliiliqa jeexa
+higiishis boqoolka
+Galbeed hiyi raaca
+Maraykan ku hiilka
+shirqool la hadaafka
+habheeb alalaaska
+hinraag qayayaabka
 haraaryada neefta
-Horaanse u sheegay hantaatac ergeynta
-inaan hadda beeshu hagaas caga jiidka
-hadhiino ahayne walaac haghagoodka
-haddeer waxa jooga tawaawac higgoodka
-hadmaan ka afeeftay. hamuun taltallawga
-| calaacal hungowga
-| Hasaasaha muugda | heshiis macaluulka
-wallee hagar daamo | hunfey salsalaaxa
-Kees u apeense) | hinfaal wax u sheegga
-' y gabbalkaa dhac. | wasiirro habaynta
-| | hoggaanno samaynta
+hantaatac ergeynta
+hagaas caga jiidka
+walaac haghagoodka
+tawaawac higgoodka
+hamuun taltallawga
+calaacal hungowga
+heshiis macaluulka
+hunfey salsalaaxa
+hinfaal wax u sheegga
+wasiirro habaynta
+hoggaanno samaynta
+hadhuubada daatay
+hareero ka leefka
+jalbeebta hal leyda
+rogaal halalleyda
+hemaal shaqalkeeda
+higgaadda shanlleyda
+halkaan ka abbaaray
+hadhuudhku Carraale
+huftoo hufmi waaye
+maxaad kala haadin?.
 
-hadhuubada daatay dagaal lagu hoobtay |
-hareero ka leefka halyey ku idlaaday q
-jalbeebta hal leyda ka soo hindiwaaska,
-rogaal halalleyda tabaalada huursan
-hemaal shaqalkeeda hangoollada qaybta
-higgaadda shanlleyda fulaa halistiisa
-halkaan ka abbaaray inaan hagartiisa
-hadhuudhku Carraale | u sii gacan haadsho
-huftoo hufmi waaye halkay godobtaydu
-maxaad kala haadin?. ka soo habqamayso
+Intaas haqab beelka
+badhaadho horteed dheh
+hal baase xusuus ah.
+
+Nin tiisa u heellan
+haddaan taladayda
+hayaankiyo beesha
+hoggaami idhaahdo
+in taydi hallawday,
+anaa huba taase
+hadhow iyo fuullan
+waxaanan huraynin
+inaan hadda yeelo
+ayaa ka haggaagsan.
+
+Qabiil ku hadaaqa
+hobsheyntiyo faanka
+masayrkiyo haybta
+hinaase la boodka
+holayntiyo maagga
+hirrooda qab dhaafka
+tollaay hebel meeyey
+sidii horor waalan
+hilbaa igu yaalla
+halgaad kula duulka
+colaad hurgumootey
+u sii hangaggaarka
+heleysada dhiiggu
+markuu heleleyda
+sidii harawaati
+hamuun tiro ciidda
+dagaal lagu hoobtay
+halyey ku idlaaday
+ka soo hindiwaaska,
+tabaalada huursan
+hangoollada qaybta
+fulaa halistiisa
+inaan hagartiisa
+u sii gacan haadsho
+halkay godobtaydu
+ka soo habqamayso
 ninkay huntutuulka
 ku soo hullanayso
-es She eo ane) inaan dib u init
-| hal Ree Nilcah a | hillaabta ka qaado
-; ayaa ka hagaagsan.
-Nin tiisa u heellan | Shirgool hadiwaaga
-haddaan taladayda | higlaynta riyaaqa
-hayaankiyo beesha | hubsiino la’aanta
-1 hoggaami idhaahdo | haloosiga luugda
-Wi in taydi hallawday, | hawaawi la boodka
-: ij anaa huba taase | hanuun la jibboodka
-hadhow iyo fuullan | dhurwaa halab saarka
-waxaanan huraynin | waraabe u heeska
-inaan hadda yeelo hufnaanta kashayda
-ayaa ka haggaagsan. nin aan hibo saaray
+inaan dib u haybsho
+hillaabta ka qaado
+ayaa ka hagaagsan.
+
+Shirqool hadiwaaga
+hiqlaynta riyaaqa
+hubsiino la'aanta
+haloosiga luuqda
+hawaawi la boodka
+hanuun la jibboodka
+dhurwaa halab saarka
+waraabe u heeska
+hufnaanta kashayda
+nin aan hibo saaray
 xariir ku habsiiyey
-Qabiil ku hadaaga markuu hal haleelka
-hobsheyntiyo faanka sidii hurin yey ah
-masayrkiyo haybta u soo hal haliilo |
-hinaase la boodka anoo hadhsan waayey |
-holayntiyo maagga 1 soo hungureeyo
-hirrooda qab dhaafka inaan hangalkayga
-5 tollaay hebel meeyey sidit habla weynta
-sidii horor waalan u soo rogo hoosta
-hilbaa igu yaalla inaan af-lahaarka
-halgaad kula duulka harraati ku diido
-colaad hurgumootey ayaa ka hagaagsan.
-u Sti hangaggaarka
-heleysada dhiiggu | Hanraawe i boobay
-i markuu heleleyda | markuu iga haago
-| stdii har awaati | inuu hadhadaydu
-hamuun tiro ciidda | hafeefta xanuunka
+markuu hal haleelka
+sidii hurin yey ah
+u soo hal haliilo
+anoo hadhsan waayey
+i soo hungureeyo
+inaan hanqalkayga
+sidii habla weynta
+u soo rogo hoosta
+in aan af-lahaarka
+harraati ku diido
+ayaa ka hagaagsan.
 
-markay hurgumooto Waxay tidhi "heedhe
-hoosaaso afuufo Hibooy ratigeennu .
-halbawlaha kayga Pati .
-idaas kula hoydo hiacsceme alent dy LIN 2
-| aA di Asses ayaan huriwaaga
-| nin ne i cunsiiyey haleel cuskadaaye
-cfs ae a Be habeen ma wadaagno
-OS od ale haddaan magaciisa
-Hawraar iyo sheeko ee gs Z is i as ”
-haween laga reebay :
-= beraa habar guurtey
-| hayaan rareygeeda Ujeeddiyo haatan
-! culaab iyo haamo nin tiisa u heegan
-waxay hilif saartay halyeynimadiisa
-haldhaa kici waayey hashiisa ku dheelmay
-| hiyeeda gadh jiidka iddiisa ku hoystey
-markuu hollan waayey inuu hantidayda
-| ayey hindiskeeda habaynta xilkayga
-iB halaanhal ku keentay dhismaa hodankayga
-i} midaan kolla haabka hiddaa sharafkayga
-markaa lagu haynin. Yas ne bees
-it orseed ka ahaado
-| : Waxay tidhi *hoogey inaan ka habaaro
-iF hayaay Cabdul-Qaadir. ka haayir idhaahdo |
-i hareer qabo awrka”. ayaa ka hagaagsan. 1
-Markuu hayinkeedu Hashayda nin maalay
-hagaag isu taagey markuu hordhaceeda
-ayay tidhi haakah”. habniin kaga daalo
-| inaan hanbadiisa
-. Hebloo gabanteed ah hafriinyaha beenta
-hilowna basteeda habeedda qalaysan
-if malaa u han weynna | ku hoorsado weelka
-i karaamadan hiirta Gobaad ka hillaabto
-i i fe. hor eae inaan ku hagoogto i"
-| mina weyde ee
-} wadaadka hog if y ayaa ka hagaagsan. Ms
-| ka soo hangallaystay |
-itn siduu ugu hiishey | Anoo qaba hawsha
-it ayaa tidhi *hooyo | habeen iyo maalin .
-; muxuu horta sheekhu | intaas sida heeryo
-ie inoo yahay haybta” ? habaaska i fuushan
-it inaan ku hungoobo
-. hulleelka madhnaanta
+Hanraawe i boobay
+markuu iga haago
+inuu hadhadaydu
+hafeefta xanuunka
+markay hurgumooto
+hoosaaso afuufo
+halbawlaha kayga
+sidaas kula hoydo,
+nin haad i cunsiiyey
+inaan horor siiyo
+ayaa ka hagaagsan.
 
-hamaansiga quusta | Bi)
-hamuun la carrawga Mae ER lee if
-REsitls Burahaaco wuxuu yidhi "hoo war
-naftayda ka hiisho intaan hana qaaday
-Hg g es AOgOnnInO haddeer iyo caawa
-Hurrow nin i saaray | AEP A OTAb) iio
-inaanan u hoogin | Rae Mra oi a Ap .
-calaacal harraaddan Horaadotay a
-xagayga ku haybsho waxed Taha,
-ayaa ka hagaagsan. !
-| Habki xidinsidka ri bay hateahe
-: qugaag huwantiisa ka soo kabey haarta
-heshiis lagu duuley bahaysiga haadda IP
-’ horyaal ka ahaaye {
-if markii hankakoobka hilbaa CuUnAIDOda
-f la soo helay guusha habeen gama’iisa
-ibtii lala hoydey inaanu haweysan |
-i tukaa yiani hoy day ayuu han fogaanta
-. hashaan qalay saami halkii kaga dhaartay.
-, hagaagna u qaybi | |
-, hadhowna i toosi”. .
-if | Ujeeddiyo haatan TP
-ip rag waa hal adayge Ty
-| eee hayedaadu abl yh iedteiee N
-ig ve ray huwanayde inaan hanbalyeeyo
-y PG Gen bi tubaa halaq yaalka
-Hedas hog layga qaniiney
-hatkay talo joogtey ku sii hiradkiisa
-. ka sit wadey hawsha ka haarri agtiisa |
-j ninkiina halmaanyey. ayaa ka hagaagsan. |
-Saqdii dhexe hawda Haddaanan haddaanan i
-7 ninkii hurdey toosyey haddaanan dhawaaqa |
-| hareeraha eegyey hireyda wireyda a 1
-ob raqdii ku hungowyey hayay ka kacayda i
-a hanqaar warwareegga jihaadka Hargeysa ;
-my hankaag jaljalleeca barbaartu hagayso a |
-iia haqdii samri waayey, haweenka gadoodey i,
-iE tukti hanfariirka ka gayb gelin hawsha. hie
-at waldeys kula haadyey ie
-i gar laysu hankaabsey, . Haddaanan haddaanan .
-ie intii isku hiila
+Hawraar iyo sheeko
+haween laga reebay
+beraa habar guurtey
+hayaan rareygeeda
+culaab iyo haamo
+waxay hilif saartay
+haldhaa kici waayey
+hiyeeda gadh jiidka
+markuu hollan waayey
+ayey hindiskeeda
+halaanhal ku keentay
+midaan kolla haabka
+markaa lagu haynin.
 
-| i
-Hargeysiyo Bayla’ . ath
-intii la hal maasha YAAL
-Bakool hilinkeeda DIBAD
-heeraarta Kismaayo | Deelley karaankeed
-ilaa Hobyo geynin in kastaanay duuduub .
-Hiiraan u tallaabin. | demmanaha wax ugu odhan |
-hadalkana u duur xulin
-ama daagqsin geel marin |
-Runtay la hudmeene doc qudhay shifaysee
-haddaanan haddaanan dhanka kale ma daaweyn
-ies penne nin sharaystay kuma duxin
-' Sida) y eeu dhego debecsan kama helin. |
+Waxay tidhi "hoogey
+hayaay Cabdul-Qaadir,
+hareer qabo awrka".
+
+Markuu hayinkeedu
+hagaag isu taagey
+ayay tidhi "haakah".
+
+Hebloo gabanteed ah
+hilowna basteeda
+malaa u han weynna
+karaamadan hiirta
+ku soo hormanaysa
+hilmaamina weydey
+wadaadka hoggiisa
+ka soo hangallaystay
+siduu ugu hiishey
+ayaa tidhi "hooyo
+muxuu horta sheekhu
+inoo yahay haybta"?
+
+Waxay tidhi "heedhe
+Hibooy ratigeennu
+markuu hinqan waayo
+ayaan huriwaaga
+haleel cuskadaaye
+habeen ma wadaagno
+haddaan magaciisa
+dantaydu higgaadin
+ma soo hadal qaado".
+
+Ujeeddiyo haatan
+nin tiisa u heegan
+halyeynimadiisa
+hashiisa ku dheelmay
+iddiisa ku hoystey
+inuu hantidayda
+habaynta xilkayga
+dhishmaa hodankayga
+hiddaa sharafkayga
+waxaan nolol haysto
+horseed ka ahaado
+inaan ka habaaro
+ka haayir idhaahdo
+ayaa ka hagaagsan.
+
+Hashayda nin maalay
+markuu hordhaceeda
+habniin kaga daalo
+inaan hanbadiisa
+hafriinyaha beenta
+habeedda qalaysan
+ku hoorsado weelka
+Gobaad ka hillaabto
+inaan ku hagoogto
+ayaa ka hagaagsan.
+
+Anoo qaba hawsha
+habeen iyo maalin
+intaas sida heeryo
+habaaska i fuushan
+inaan ku hungoobo
+hulleelka madhnaanta
+hamaansiga quusta
+hamuun la carrawga
+heshiis ku ahaado
+naftayda ka hiisho
+hugaas doqonnino
+Hurrow nin i saaray
+inaanun u hoogin
+calaacal harraaddan
+xaqayga ku haybsho
+ayaa ka hagaagsan.
+
+Habkii xidinxiidka
+dugaag huwantiisa
+heshiis lagu duuley
+horyaal ka ahaaye
+markii hankakoobka
+la soo helay guusha
+libtii lala hoydey
+tukaa yidhi "hoy day
+hashaan qalay saami
+hagaagna u qaybi
+hadhowna i toosi".
+
+Tukow hayedaadu
+waxbay huwanayde
+dantiisa ka haybi
+qorshii hiyigiisa
+halkay talo joogtey
+ka sii wadey hawsha
+ninkiina halmaanyey.
+
+Saqdii dhexe hawda
+ninkii hurdey toosyey
+hareeraha eegyey
+raqdii ku hungowyey
+hanqaar warwareegga
+hankaag jaljalleeca
+haqdii samri waayey,
+tukii hanfariirka
+waldeys kula haadyey
+gar laysu hankaabsey.
+
+Hamuun gorayaale
+ninkii Halac-dheere
+wuxuu yidhi "hoo war
+intaan hana qaaday
+haddeer iyo caawa
+haddee weligayba
+inaanan hanbaynin
+horaad u ogayde
+maxaad igu hiifi"?.
+
+Ninkayse ka hoostay
+mar bay hawireene
+ka soo kabey haarta
+bahaysiga haadda
+hilbaa cuniddooda
+habeen gama'iisa
+inaanu haweysan
+ayuu han fogaanta
+halkii kaga dhaartay.
+
+Ujeeddiyo haatan
+rag waa hal adayge
+heddeyda wedkeyga
+inaan hanbalyeeyo
+tubaa halaq yaalka
+hog layga qaniiney
+ku sii hiradkiisa
+ka haarri agtiisa
+ayaa ka hagaagsan.
+
+Haddaanan haddaanan
+haddaanan dhawaaqa
+hireyda wireyda
+hayay ka kacayda
+jihaadka Hargeysa
+barbaartu hagayso
+haweenka gadoodey
+ka qayb gelin hawsha.
+
+Haddaanan haddaanan
+intii isku hiila
+Hargeysiyo Bayla'
+intii la hal maasha
+Bakool hilinkeeda
+heeraarta Kismaayo
+ilaa Hobyo geynin
+Hiiraan u tallaabin.
+
+Runtay la hudmeene
+haddaanan haddaanan
+haddaanan dhawaaqa
+sidii hanqar yeedha
 hillaac iyo maayad
-dhulkoo dhan hadhaynin E.
-Banaadir ka heesin Ma hirg elin dabuubtii
-wixti hurda toosin pas se ne Sei oe
-} Pi dluagpill Visel dakharkiina lama dhayin
-, fans wuu sii darsanayaa
-. Ee daldaloolkii sii korodh
-- Daba-keenna faalkii
-a Haddaanan haddaanan ku dayow xiddigiskii ‘i
-. waxaan huro caawa dugtey xeegadiisit. ~
-it dhammaan huga xaaska .
-haylaa maryahayga Dildillaaca maradii
-i) sariirta hanbaadha wax la sii daneeyoo
-y kuraasta hagoogan | la dugsado ka weynaa
-: ashuunka hunbuuca | misna deylo bixisada
-haraaq iyo daahyo dhaw dhawdu kama degin |
-waxaan jagaf haysto Gaarriyow dabuubtiyo
-4 haddaanan xaraashin la dardaaran keenii
-| is pane oie doolaalo dheeraan
-aan hub u Silyo ira di d.
-| d adkayga habaynin dira dire ka soo qaa
-} is oe me ae Dabagyada dhunkaasha ah
-ih haWeaarliva leant ninkii duubi kala baxay
-Cabdow hada ees durba soo rogaal celi
-hay dooraalayaashii
-ie NORM ae. < weli ways dalbanayaan
-ite damaciyo hungurigii
-{ sii durug hankoodit |
-At! darka laysu mari waa
-i | xaajada delleganata ah
+dhulkoo dhan hadhaynin
+Banaadir ka heesin
+wixii hurda toosin
+halyeyyada ciilka
+ka haajirey ciidda
+halkay talo joogto
+u sii farin haadda.
 
-weli dawliskeedii Intaa deebshey gaawaha - oa
-dandan buu ku dhacayaa. danbarsaday irmaantaas.
-Qalinkiyo dawaaddii Wax la yidhi nin dooloo
-weli ways dul-yaalliin beryo dibada meeroo
-Dul-figaarna lama dhigin dani baajin weydaa
-qubanaha la duudsiyey caal waa dib ugu kacay |
-isagana dagaal faran. degelkuu cid ku ogaa.
-| Dayeerku laan buu Fadalkiyo durduraddii
-> weli dacalka haystaa wuxu dacal ka soo galay
-| bahal ceedhin deyn waa dooryaanle waagii
-| anna waxa la ii diray didibkii la oollaa.
-daaraanta godobtoo Daagsin buu ka halacsaday
-nabarrada damqanayaan dayra-dhaaf nin jiilaal
-hadba dacar ku noolayn shitay dogobbo waaweyn
-ilaa dayin abidkay waxa duunka hoosiyo
-dawankaan ruxruxayaa damaciisu kula faqay
-falla waan ku darayaa ninkaas daartay xaabada
-| marka doobi buuxsamo. wax u dagamsan baa jira.
-iW Intaan deebshey gaawaha Lugihii degdegayuu
-| . i danbarsaday irmaantaas. u duwadey dhankiisii
-i; isla doonasho Ilaah
-it Adigaa hal doorkiyo doobku waa walaalkii
-ne | suugaanta derida leh waa ninkuu dad iyo maal
-y dir ku kala kexeeyoo dummaddiisa kaga tegey. |
-midba dara-dhigiisiyo "
-dhirta looga diiriyo Durba laysku soo bood
-dillo ugu abtiriyoo degdeg laysu gacan qaad |
-' dantu waxay u magan tahay wuxu yidhi ”bal soo durug
-: darka fayl is dhaafiyo hadalkana i deeqsii
-daran doorri shubiddee marmar baan daraaddiin
-7 inta aynu dirirtiyo degdeggiyo kalgacalada
-dood wadaagga leenahay odhan jirey ma duushaa
-mY dabra celinta xeeshiyo meel bay dalooshoo
-k shax dalaynta togashada dal tabyaa i haysee, .
-hindisaha godkaan dego duni waa ku dhaqannoo
-ae ku danbee Rashiidow's dareen lagama waayee
-i} Jire waa ii duufaa degmadii ma nabad baa”?
-Hy Jarta haygu sii deyn.
-ul 45 Rashiid-waa Rashiid sh. Cabdillaahi
-i] |
+Haddaanan haddaanan
+waxaan huro caawa
+dhammaan huga xaaska
+haylaa maryahayga
+sariirta hanbaadha
+kuraasta hagoogan
+ashuunka hunbuuca
+haraaq iyo daahyo
+waxaan jaqaf haysto
+haddaanan xaraashin
+waxay hanti goyso
+intaan hub u siiyo
+dadkayga habaynin
+dagaal u hormaynin
+la soo hadhin guusha
+hawraartiyo luuqdu
+Cabdow hadalkaygu
+hawaawi kac weye
+ninkii hebel miihi.
 
-Wuxu yidhi "dareen ma leh kuye ”seben ummulo doox
-degmadana shil kama dhicin dabayaaqadiisii
-dadna waa fayow yahay”. intii aan duqduba hoyan
-dabra weerar nagu dhacay
-kuye "dooddigaygii duullaan ku dhimayaa”.
+### DIBADYAAL
+
+Deelley karaankeed
+in kastaanay duuduub
+demmanaha wax ugu odhan
+hadalkana u duur xulin
+ama daaqsin geel marin
+doc qudhay shifaysee
+dhanka kale ma daaweyn
+nin sharaystay kuma duxin
+dhego debecsan kama helin.
+
+Ma hirgelin dabuubtii
+dooddiina lama garan
+ama waa la dala'sadey
+lama baanan doogtii
+dakharkiina lama dhayin
+wuu sii darsanayaa
+daldaloolkii sii korodh
+Daba-keenna faalkii
+ku dayow xiddigiskii
+dugtey xeegadiisii.
+
+Dildillaaca maradii
+wax la sii daneeyoo
+la dugsado ka weynaa
+misna deylo bixisada
+dhaw dhawdu kama degin
+Gaarriyow dabuubtiyo
+la dardaaran keenii
+doolaalo dheeraan
+dira dire ka soo qaad.
+
+Dabaqyada dhunkaasha ah
+ninkii duubi kala baxay
+durba soo rogaal celi
+dooraalayaashii
+weli ways dalbanayaan
+damaciyo hungurigii
+sii durug hankoodii
+darka laysu mari waa
+xaajada delleganata ah
+weli dawliskeedii
+dandan buu ku dhacayaa.
+
+Qalinkiyo dawaaddii
+weli ways dul-yaalliin
+Dul-fiqaarna lama dhigin
+qubanaha la duudsiyey
+isagana dagaal faran.
+
+Dayeerku laan buu
+weli dacalka haystaa
+bahal ceedhin deyn waa
+anna waxa la ii diray
+daaraanta godobtoo
+nabarrada damqanayaan
+hadba dacar ku noolayn
+ilaa dayin abidkay
+dawankaan ruxruxayaa
+falla waan ku darayaa
+marka doobi buuxsamo.
+
+Intaan deebshey gaawaha
+danbarsaday irmaantaas.
+
+Adigaa hal doorkiyo
+suugaanta derida leh
+dir ku kala kexeeyoo
+midba dara-dhigiisiyo
+dhirta looga diiriyo
+dillo ugu abtiriyoo
+dantu waxay u magan tahay
+darka fayl is dhaafiyo
+daran doorri shubiddee
+inta aynu dirirtiyo
+dood wadaagga leenahay
+dabra celinta xeeshiyo
+shax dalaynta togashada
+hindisaha godkaan dego
+ku danbee Rashiidow
+jire waa ii duufaa
+jarta haygu sii deyn.
+
+Wax la yidhi nin dooloo
+beryo dibada meeroo
+dani baajin weydaa
+caal waa dib ugu kacay
+degelkuu cid ku ogaa.
+
+Fadalkiyo durduraddii
+wuxu dacal ka soo galay
+dooryaanle waagii
+didibkii la oollaa.
+Daaqsin buu ka halacsaday
+dayra-dhaaf nin jiilaal
+shitay dogobbo waaweyn
+waxa duunka hoosiyo
+damaciisu kula faqay
+ninkaa daartay xaabada
+wax u dagamsan baa jira.
+
+Lugihii degdegayuu
+u duwadey dhankiisii
+isla doonasho Ilaah
+doobku waa walaalkii
+waa ninkuu dad iyo maal
+dummaddiisa kaga tegey.
+
+Durba laysku soo bood
+degdeg laysu gacan qaad
+wuxu yidhi "bal soo durug
+hadalkana i deeqsii
+marmar baan daraaddiin
+degdeggiyo kalgacalada
+odhan jirey ma duushaa
+meel bay dalooshoo
+dal tabyaa i haysee,
+duni waa ku dhaqannoo
+dareen lagama waayee
+degmadii ma nabad baa"?
+
+Wuxu yidhi "dareen ma leh
+degmadana shil kama dhicin
+dadna waa fayow yahay".
+
+kuye "dooddigaygii
 dardartaan u yeellaa
-imminkaan debcinayaa ”. Wuxu yidhi ”ma Daadana”?
-Ninba dabada meel saar kuye “daad la orodyaa
-warku sii dabayl raac ria vache meneelen:
-su daaddeg toyashada. oars
-Bosulaannese loyasiidda ubadkiyo durriyaddii
-Wuxu yidhi “hal ti daran dahr igaaga laga jaray
-goraygii dufka lahaa subax keliya duudduub
-; ma rakaatay doobtii lagu darin xabaalaha *
-' shinbiraha ma didiyaa” ?
-; hr: 8 Wuxu yidhi ”dabayshaday
-Wuxu yidhi "ku daayaa”. q
-. ; * ee dayaxay madoobaa
-| Maxaa daaray "buu yidhi”? gabbalkay dam weeyaan
-| Wuxu yidhi ”dabbaalkii paeaecencn 2:
-| lafii Daabbad qaarkood a is pee: baa”?
-sow duleedka kama helin ma daleel bannaan baa”: |
+imminkaan debcinayaa".
+
+Ninba dabada meel saar
+warku sii dabayl raac
+laysu daaddeg toyashada.
+
+Wuxu yidhi "hal ii daran
+goraygii dufka lahaa
+ma rakaatay doobtii
+shinbiraha ma didiyaa"?
+
+Wuxu yidhi "ku daayaa".
+Maxaa daaray "buu yidhi"?
+
+Wuxu yidhi "dabbaalkii
+lafii Daabbad qaarkood
+sow duleedka kama helin
 duf ku bexe wedkiisii
-P dogonniino gur ayaa Kuye ”duumo xaaqadaa ~~
-nacasnimo daldalayaa intaan Dahabadaadii N
-dabadeeto eedyaa”. duulal raacay loo tirin
-tyagana ka daba gee
-Wuxu yidhi "dul badanii wixii aakhiraw degey”.
-doonnidii la raran Jirey
+doqonniino gurayaa
+nacasnimo daldalayaa
+dabadeeto eedyaa".
+
+Wuxu yidhi "dul badanii
+doonnidii la raran jirey
+ma naf baa ka daydeen
+mise wuu dibboodoo
+dugaag caydha baa helay"?
+
+Kuye "daayinkiisii
+denbi dhaaf ha siiyee
+sawti duugti loo qalay
+ducadii adoogeen".
+
+Wuxu yidhi "duqeennii
+degta inagu sidi jirey
+isaguna ma dubuq yidhi".
+
+kuye "seben ummulo doox
+dabayaaqadiisii
+intii aan duqduba hoyan
+dabra weerar nagu dhacay
+duullaan ku dhimayaa".
+
+Wuxu yidhi "ma Daadana"?
+kuye "daad la orodyaa
+daaddeys ka xooryaa
+intaan danabadaadii
+ubadkiyo durriyaddii
+dahrigaaga laga jaray
+subax keliya duudduub
+lagu darin xabaalaha".
+
+Wuxu yidhi "dabayshaday
+dayaxay madoobaa
+gabbalkay dam weeyaan
+da'yartii cuddoonayd
+iyagana docdoodii
+ma daleel bannaan baa"?
+
+Kuye "duumo xaqadaa
+intaan Dahabadaadii
+duulal raacay loo tirin
+iyagana ka daba gee
+wixii aakhiraw degey".
+
+Kuye "Dahabaydii
 iyaduna ma duug baa
-| dugaag caydha baa helay” ? maxaa loogu daw-galay” ?
-Ki ” rf NOOR
-| ci a Hea Ma dumaashiday baa?
-sawti duugti loo qa lay Kuye "waaban daalee
-ducadii ad oogeen” sawtii Duleedow
-J ‘ daandaansi keentee
-| MeN jin dagaagay maagtee
-Wuxu yidhi ”dugeennii pire
-é sity, aqalkii ka dumisee
-1 ae oe ai Pan, lagu helay denbiga culus |
-a dubug yidhi”. sawtii la doorshee }
-as 7 Li
+maxaa loogu daw-galay"?
 
-dalandoolli laga dhigay taataabey dakharrada WW
-intaan xoolo dabar go’in. gosol buu ku yara daray a]
-wayska dagagar jiifee
-Duugowyey xiisti deexashuu la soo kacay. |
+Ma dumaashiday baa?
+Kuye "waaban daalee
+sawti Duleedow
+daandaansi keentee
+jin dagaagay maagtee
+aqalkii ka dumisee
+lagu helay denbiga culus
+sawti la doorshee
+dalandoolli laga dhigay
+intaan xoolo dabar go'in.
+
+Duugowyey xiisii
 dirgan waayey hadalkii
-indhuhuna is daydaye. Wuxu yidhi "degmadayda
-dugsi keliya baa jira
-Wuxu yidhi "dad yaa hadhay diric keliya dhiga
-maxaa duunyo weli nool” ? dersi baanu baranaa
-. dulliga iyo beentiyo
-| J Kuye "duunyadeennii dogonniino faankiyo
-j daratiyo kud weydii Goma g r aes
-j dadna waa anoo qudha”. ducadiyo yaboohdiyo
-inta laga diqoodiyo |
-é 6 dawersigu ka kow yahay
-Duleedoo yaqu isaday digashadu u mudan tahay.
-i inaan guul danbaysoo Marka galin daraalaha
-a lagu diirsadaa hadhin dilla shegga la cuskado
-i] ayaa daymo muruga ah intixaanka loo dego
-} aibno jiltamaayiyo ka dul dhiga jawaabtiyo why
-. deelqaaf ku yidhi ciil doorkiyo wax-garadkaa |
-i danab iyo wajaaf iyo inta daadata u badan”.
-a daacuun ku kala goo!!!
-\ reerkan daaha loo rogey
-4 dubbihii Iaahay a Wuxu yidhi "degmadayada
-| darandoorri ugu dhacay dibnahaa la cunayaa
-dam daguugan laga dhigay qosolkaa la deexdaa
-miyaad guul darraystow adigoo il dabayaa
-nabad iyo dardaan iyo dadku inaanay kaa garan
-igu tidhi dareen ma leh misna lagu dedaalaa
-; waxa duur-xulkaagani mae ane aie
-Ad kaa daarran / sidaad doonto weydaa
-_ yahay sheeg: sidaad diiddey yeeshaa”. i
+indhuhuna is daydaye.
+
+Wuxu yidhi "dad yaa hadhay
+maxaa duunyo weli nool"?
+
+Kuye "duunyadeennii
+daratiyo kud weydii
+dadna waa anoo qudha".
+
+Duleedoo yaqiinsaday
+inaan guul danbaysoo
+lagu diirsadaa hadhin
+ayaa daymo muruga ah
+dibno jiitamaayiyo
+deelqaaf ku yidhi ciil
+danab iyo wajaaf iyo
+daacuun ku kala goo!!!
+reerkan daaha loo rogey
+dubbihii Ilaahay
+darandoorri ugu dhacay
+dam daguugan laga dhigay
+miyaad guul darraystow
+nabad iyo dardaan iyo
+igu tidhi dareen ma leh
+waxa duur-xulkaagani
+kaa daarran yahay sheeg!
+
 Dibadyaal kal adakaa
-naxariist kuma duxin Wuxu yidhi ”degmadayada Lf
-damqashada walaalkii si dareenka garashadu
-i weji duban ku baabi’i aanu nooga nogon duug |
-if af daboolan kula hadal dawrigaan hayin ahayn i
-7 ma degdegin jawaabtii ma dagmaha indhaa qaba .
-| docdan iyo docdaas dhawr tiisa waw daboollaa
-ii dib xusuuso ugu nogoy waanu daadahaynaa
-ik dabkii xaabo saarsaar wuxuu daymo boganlaa
-1) madax diiran baaqbaaq dulmar bay ku gaadhaan.
+naxariisi kuma duxin
+damqashada walaalkii
+weji duban ku baabi'i
+af daboolan kula hadal
+ma degdegin jawaabtii
+docdan iyo docdaas dhawr
+dib xusuuso ugu noqoy
+dabkii xaabo saarsaar
+madax diiran baaqbaaq
+taataabey dakharrada
+qosol buu ku yara daray
+wayska dagagar jiifee
+deexashuu la soo kacay.
 
-ti
-Ka dheguu daloolaan came BL
-daba ead wixii dhacay tee yidhi degmadayada Wa
-| xanta durugsan heli kara phe i ele rile i |
-dooca waw gufaynaa pied a sharafkiyo |
-deeqsiinta hadalkana Jada la sityaa
-q : dabar iyo nac weeyaan |
-farahaannu dirannaa darbbo waw ma ih
-iyagaa ka door roon deldelaaddu xeer ei |
-dibno sheega godobaha kol haddaan xa ee adil
-hayska dagamsanaatee Aca maser jp Git |
-yeedhow dam weeyaan”. deero deero ma hirddiyin M,
-| Sama-diidna loo qaad
-| Wuxu yidhi *degmayada meydka waw baroor diiq
-roobabkii ka di’i jirey dumarkana hugoodiyo
-f dirirradu ma baahaan diibkoodu waa weer ii
-/ dalka uma sinnaadaan dacar bay ku dhaashtaan ”. fe
-é annagaa daruuraha
-d - deebaanka haynnoo Wuxu yidhi »degmadayadu
-meeshaanu doonnaa boobka way la dirirtaa
-: lagu soo dabbaalaa. in la duro garsoorkiyo |
-Dooxaannu seerraa in la dumiyo ma oggola
-' deyr ooda marinaa badi waxay danaysaa
-hogolaha darrooraa dadku inay sinnaadaan
-; marka ay ku daataan kefedaha dalooliyo
-'p deegaan ka saaraan miisaanka dalabta leh
-; waxa doog ka soo baxa waxa laysu dacal sudhay
-yaa daaqa ma ogtahay ? dibindaabyo maahee
+Wuxu yidhi "degmadayda
+dugsi keliya baa jira
+diric keliya dhiga
+dersi baanu baranaa
+dulliga iyo beentiyo
+doqonniino faankiyo
+qoqobkiyo dirsoociyo
+ducadiyo yaboohdiyo
+inta laga diqoodiyo
+dawersigu ka kow yahay
+digashadu u mudan tahay.
+Marka qalin daraalaha
+dilla shegga la cuskado
+intixaanka loo dego
+ka dul dhiga jawaabtiyo
+doorkiyo wax-garadkaa
+inta daadata u badan".
+
+Wuxu yidhi "degmadayada
+dibnahaa la cunayaa
+qosolkaa la deexdaa
+adigoo il dabayaa
+dadku inaanay kaa garan
+misna lagu dedaalaa
+marka aad Duleedow
+sidaad doonto weydaad
+sidaad diiddey yeeshaa".
+
+Wuxu yidhi "degmadayada
+si dareenka garashadu
+aanu nooga noqon duug
+dawrigaan hayin ahayn
+ma dagmaha indhaa qaba
+tiisa waw daboollaa
+waanu daadahaynaa
+wuxuu daymo boganlaa
+dulmar bay ku gaadhaan.
+
+Ka dheguu daloolaan
+daba gala wixii dhacay
+xanta durugsan heli kara
+dooca waw gufaynaa
+deeqsiinta hadalkana
+farahaannu dirannaa
+iyagaa ka door roon
+dibno sheega godobaha
+hayska dagamsanaatee
+yeedhow dam weeyaan".
+
+Wuxu yidhi "degmayada
+roobabkii ka di'i jirey
+dirirradu ma baahaan
+dalka uma sinnaadaan
+annagaa daruuraha
+deebaanka haynnoo
+meeshaanu doonnaa
+lagu soo dabbaalaa.
+Dooxaannu seerraa
+deyr ooda marinaa
+hogolaha darrooraa
+marka ay ku daataan
+deegaan ka saaraan
+waxa doog ka soo baxa
+yaa daaqa ma ogtahay ?
+
+Inta duunyo dhaqatadu
+docol ruug tidhaahdee
+markay xaabka daaftiyo
+inta dacaydu gaadhiyo
+daab gaabta laastaan
+dhirta hoose diirtaan
+xoolaha dar-leefka ah
+jeenyaha dul-saaree
+laamaha duxleyda ah
+damac fuul ku goostee
+daamankaan wax sii marin
+dira waxay haleelaan
+gawsaha dalqada ku leh".
+
+Wuxu yidhi "degmayada
+ninka ragga daryeelkiis
+ama duubka sharafkiyo
+derejada la siiyaa
+dabar iyo nac weeyaan
+darbbo waw ma dhaafaan
+deldelaaddu xeer ma leh
+kol haddaan xaq lagu dilin
+denbbi meesha kama dhicin
+deero deero ma hirddiyin
+Sama-diidna loo qaad
+meydka waw baroor diiq
+dumarkana hugoodiyo
+diibkoodu waa weer
+dacar bay ku dhaashtaan ".
+
+Wuxu yidhi "degmayadu
+boobka way la dirirtaa
+in la duro garsoorkiyo
+in la dumiyo ma oggola
+badi waxay danaysaa
+dadku inay sinnaadaan
+kefedaha dalooliyo
+miisaanka dalabta leh
+waxa laysu dacal sudhay
+dibindaabyo maahee
 waa daryeel sida u yaal
-Inta duunyo dha danyar loogu tala galay.
-ella ithe nee Si.aan Jaysy Gangieare: i
-; markay xaabka daaftiyo di xaqa u cunin
-a inta dacaydu gaadhiyo ayaxaannu awdnaa
-F daab gaabta laastaan gorraxdaannu daahnaa
-dhirta hoose diirtaan nunrkaanhy daminaa
-xoolaha dar-leefka ah mugdigaannu daarnaa
-ik laamaha duxleyda ah sharcigii dalka u yiil —
-iz damac fuul ku goostee cir da’ furay habeenkii
-ie daamankaan wax sii marin dallad baa la qaataa’.
-ail dira waxay haleelaan
-hi gawsaha dalqada ku leh”. Wuxu yidhi *degmadayada
-7 dahab baanu shiillaa
-] lafta dhagax dixeedkiyo
+danyar loogu tala galay.
+Si aan laysu daba gurin
+dulmiguna xaqa u cunin
+dayaxaannu awdnaa
+qorraxdaannu daahnaa
+nuurkaannu daminaa
+mugdigaannu daarnaa
+dabadeeto fulinaa
+sharcigii dalka u yiil
+cir da'furay habeenkii
+dallad baa la qaataa ".
+
+Wuxu yidhi "degmayada
+dahab baanu shiillaa
+lafta dhagax dixeedkiyo
 bir-lab aan dubnixinoo
-
-debcin baannu shiidnaa é I,
-derbiyaannu fanannaa diig aanyo nagu dhaban
-| daaraannu taagnaa miyaa daasdaa madhan
-| digir iyo galley iyo Dirham noogu dhacayaa” ?
+debcin baannu shiidnaa
+derbiyaannu fanannaa
+daaraannu taagnaa
+digir iyo galley iyo
 dalag baanu keennaa
-daacaddaannu beerraa Wuxu yidhi ”degmadayada
-in yar oo dalxiiskiyo ruuxii la duugaa
-weriyaha dan-fulintiyo marka laga dareeruu
-marti daansha socotiyo dardar soo ceshaayoo
-ragaan loo darraan karin dib u soo dhashaayoo
-} lagu dararsho mooyee durba loo mashxaradaa”.
+daacaddaannu beerraa
+in yar oo dalxiiskiyo
+weriyaha dan-fulintiyo
+marti daansha socotiyo
+ragaan loo darraan karin
+lagu dararsho mooyee
 isku duubnideedaa
-: dekedaha la geeyaa Nr hig
-; duniday u dheopad Mba yidht Comes) ada
-dulmigaannu gadannaa a U WEN Oy He, Aenea * 4
-. dibadaha ka keennaa an quntaa u fara badan”. i
-4 waa daba qabsiye garo.
-Wuxu yidhi *degmadayadu we pe
-i duleed joogta magqashiyo ~
-rt diihaal ma reebaan ayay genta aaa
-E dayac beel ma haynee |
-‘a dundumaanu maydhnaa Wuxu yidhi ”degmadayada )
-ie sida ogaxda diinkaa dibida iyo weylaha
-4 daymadu na korisaa”. waxa dhala dameeraha”. |
-Wuxu yidhi ”"degmadayada Wuxu yidhi ”degmadayada
-cudurrada dillaacee waxa jira Duleedow iq
-aayaadka diintiyo habar doobir kululoo
-dadku uu Quraankiyo dhererkana Dijaal le’eg .
-. Daa’inkay ka magan galay dadabkiyo ballaadhkana
-waaba lagu ducaystaa. dhirta daray ka xoog-weyn
-' dhakaday il daaftoon
-Sr dawo karin ku leedahay
-Eats paren eee ridin mar inay wax dihatoo
-if dawliil ku naalloon ubad daaddahaysay
-i} ama duul xeryo u goyn si kastaba u doontoo
-ia ama keenin d ae Ne markay ciil dellegantee
-ath ama daadad soo rogin toddobaatan dayrood
-ib webiyada durdurayaa dedan iyo si daalacan
-A | jiilaal wax naga dilin nafta damac u gelisee
-it Daba-dheer na sala Ravi baryadii ka daashaa
+dekedaha la geeyaa
+duniday u dhooftaa
+dulmigaannu gadannaa
+dibadaha ka keennaa
+waa daba qabsiye garo.
 
-Rabbi deeqsi weeyee Nina dal enone
-ducadeedi ka aqbalay”. du Me r gee d hl, seex dee
-falanoo derderanoo dildillaaca waaberi,
-denbi iyo xasarad badan, markuu daydaypeedii
-curad guri danbbaysna ah dalag dala nie ae aaah
-dirqi iyo si fool adag : ka dul dhacay raqdeedii
-hoosteeda laga deyey”. runta Magan is diidsii
-‘ Iyadoo ha daganitii able age
-digta qalabka reenka leh And kaleeiete ae
-kaga dananinaysoo Sac
-Demman guulaheedii ee
-‘ u dabbaal degeysaa Wuxu yidhi ”*degmadayada
-' Suul Cayn durduriyoo danbbar laguma maalee '
-4 Dubur buu ka xulay Hawd”. dar-xumaa ka oloshoo .
-dalawadu nin moogow ‘i
-: ”Damdamtiyo mashxaraddii may gabin dadkeedee
-tyo darammalkeedii waxa loogu daw galay
-A miyaa dhiillo darartiyo ninaan daawo xidhinoo
-I dugey lagu gunaanadey”. ilaa dalan-dalkiisii
-f doofaaro dhigqi jirey”. |
-; | "Daadduunka ciilkii |
-iy dib waxaan u dhici karin ”*Duluglaha is haystiyo "
-y duqdu sow kKhalaawaha dibiyada herdamayaa
-wax kastaba iskuma deyin dixda ay ku shaxayaan
-dulucana umay xidhan”. waxa damashi weyneyd
-dhirta looga dabar jaray
-”Kolba daw shixnadan bay durba haysu muuqdeen
-sanqadhaha docdeeda ah kibir haysu dooxeen
-hadba ruux la duushaa dacawaa basaastoo
-markay dayma bogashada dufan looga shubayaa.
+Qabqabtiyo durbaannada
+daran doorri dhacayaa
+diihaal ma reebaan
+dayac beel ma haynee
+dundumaannu maydhnaa
+sida ogaxda diinkaa
+daymadu na korisaa".
+
+Wuxu yidhi "degmadayada
+cudurrada dillaacee
+aayaadka diintiyo
+dadku uu Quraankiyo
+Daa'inkay ka magan galay
+waaba lagu ducaystaa.
+
+Haddaannaan dagaal ridin
+ama ciidan soo dumin
+dawliil ku naalloon
+ama duul xeryo u goyn
+ama keenin daacuun
+ama daadad soo rogin
+webiyada durdurayaa
+jiilaal wax naga dilin
+Daba-dheer na salabayn
+diigaanyo nagu dhaban
+miyaa daasdaa madhan
+Dirham noogu dhacayaa"?
+
+Wuxu yidhi "degmadayada
+ruuxii la duugaa
+marka laga dareeruu
+dardar soo ceshaayoo
+dib u soo dhashaayoo
+durba loo mashxaradaa".
+
+Wuxu yidhi "degmadayada
+dadku waxay la yaabaan
+dan quntaa u fara badan".
+
+Wuxu yidhi "degmadayadu
+duleed joogta maqashiyo
+ka hagrada ma durugtada
+ayay geel u dirataa".
+
+Wuxu yidhi "degmadayada
+dibida iyo weylaha
+waxa dhala dameeraha".
+
+Wuxu yidhi "degmadayada
+waxa jira Duleedow
+habar doobir kululoo
+dhererkana Dijaal le'eg
+dadabkiyo ballaadhkana
+dhirta daray ka xoog-weyn
+dhakaday il daaftoon
+dawo karin ku leedahay
+mar inay wax dihatoo
+ubad daaddahaysay
+si kastaba u doontoo
+markay ciil dellegantee
+toddobaatan dayrood
+dedan iyo si daalacan
+nafta damac u gelisee
+baryadii ka daashaa
+Rabbi deeqsi weeyee
+ducadeedi ka aqbalay".
+
+"Da'baa wiil gurracano
+falanoo derderano
+denbi iyo xasarad badan,
+curad guri danbbaysna ah
+dirqi iyo si fool adag
+hoosteeda laga deyey".
+
+Iyadoo ha dagantii
+digta qalabka reenka leh
+kaga dananinaysoo
+Demman guulaheedii
+u dabbaal degeysaa
+Suul Cayn durduriyoo
+Dubur buu ka xulay Hawd".
+
+"Damdamtiyo mashxaraddii
+iyo darammalkeedii
+miyaa dhiillo darartiyo
+dugey lagu gunaanadey".
+
+"Daadduunka ciilkii
+dib waxaan u dhici karin
+duqdu sow khalaawaha
+wax kastaba iskuma deyin
+dulucana umay xidhan".
+
+"Kolba daw shixnadan bay
+sanqadhaha docdeeda ah
+hadba ruux la duushaa
+markay dayma bogashada
 weji dadabka quusta ah
-isha daawisiisay Dooh doohdu waa been
-gofkaan duud carrale noqon nin dalaafsan baa yidhi
-7, | daad xoor ku tuurtaa”. waxay daarran tahay waa
-5 isku didi ibleysow
-ite “laa maalintii dura mid ahaan duxdiisiyo
-ie sidii bay Duleedow daribtiisa noo loog.
-ie xaajadu dudduuc iyo
-it dejt iyo dul gee tahay”. Degelkaad xusaysaa
+isha daawisiisay
+qofkaan duud carrale noqon
+daad xoor ku tuurtaa".
+
+"Ilaa maalintii dura
+sidii bay Duleedow
+xaajadu dudduuc iyo
+deji iyo dul gee tahay".
+
+Ninka dalawadiisii
+duhur geed ka seemdee
+dib-jirtee habeenkii
+bahaluhu durdduurteen
+dildillaaca waaberi,
+markuu daydaygeedii
+dalag dalagta raacdada
+ka dul dhacay raqdeedii
+runta Magan is diidsii
+indhahana dib ula noqoy
+ruuxeeda doon doon
+dad kaleeto weyddii.
+
+Wuxu yidhi "degmadayada
+danbbar laguma maalee
+dar-xumaa ka oloshoo
+dalawadu nin moogow
+may gabin dadkeedee
+waxa loogu daw galay
+ninaan daawo xidhinoo
+ilaa dalan-dalkiisii
+doofaaro dhiqi jirey".
+
+"Duluglaha is haystiyo
+dibiyada herdamayaa
+dixda ay ku shaxayaan
+waxa damashi weyneyd
+dhirta looga dabar jaray
+durba haysu muuqdeen
+kibir haysu dooxeen
+dacawaa basaastoo
+dufan looga shubayaa.
+
+Dooh doohdu waa been
+nin dalaafsan baa yidhi
+waxay daarran tahay waa
+isku didi ibleysow
+mid ahaan duxdiisiyo
+daribtiisa noo loog.
+
+Degelkaad xusaysaa
 ma dal buu ka weyn yahay
+naf adaa u dudayee
+afka sow ma hadal deyn".
 
-naf adaa u dudayee ; gacma daalis weeyee ;
-afka sow ma hadal deyn’. dx ingangni tale
+Kuye "daba-likaalow
+Allaylehe dad baa ba'ay.
+
+Waxaan doogsin cararkii
+diihaal la orodkii
+habeenkoo dalool tegey
+socodkiyo dawaafkii
+didmo caymadkaygii
+deli iyo jar kala dhacay,
+wixii doox rogmmanayaa
+igu daray badweyntee
+daad-xoorta iga dhigay
+waxaan reer i diir neceb
+ku dib jirey agtiisee
+da'dey gacanta hoos dhigay
+qalo iyo dir-sooc iyo
+waxaan diif la golongolay
+dalan dool u yeellaa
+daalaa dhacaygii
+rugtaan soo duggaashadey
+miyaa ii darraatoon
+ugu imi dardaar werin
+maantana degaankay
+ma Dagaar u guur baa
+iyo diillintii Gurey"?
+
+Wuxu yidhi "Duleedow
+dilalyada ku haysaa
+ambba iima dihinoo
+intii ay dabayluhu
+hadba meel deleeliyo
+daaddeys ku dhigayeen
+wixii daad mahiigaan
+dal shisheeye kugu furay
+dabataan ku noolaa
+dhaxan baan dugsanayoo
+anbba dayro ku ahaa
+Dibadyaalla kula baxay
+dooyeysigaygiyo
+dunqulaalka hoosiyo
+digsigaan babbinayaa
+gacma daalis weyee
+dux inaanan kala bixin
 malaa daawashada guud
-Kuye "daba-likaalow dunii »
-Allaylehe dad baa ba’ay. unjigaygu kugu Alaris
-Waxaan doogsin cararkit bal ninkool dah |
-diihaal la orodkii a :
-habeenkoo dalool tegey a pies sore ay)
-socodkiyo dawaafkii Paceearmecaten tet s AES 1C5
-1 didmo caymadkaygii isna tiisa daymood”.
-| deli iyo jar kala dhacay,
-wixii doox rogmmanayaa Ninkii duurka caydha ah
-igu daray badweyntee duufaan ku soo ridey
-. daad-xoorta iga dhigay halkuu daalac heli laa
-waxaan reer i diir neceb markii deyn ku sii go’ay
-a ku dib jirey agtiisee intuu doobi quusiyo
-da’dey gacanta hoos dhigay dib u liqay candhuuftii
-i qalo iyo dir-sooc iyo dirri-xaradh ku hawshoo.
-1 waxaan diif la golongolay
-dalan dool u yeellaa aD 9 rEy
-: daalaa dhacaygii ens as ple eer
-: rugtaan soo duggaashadey ae 2 a iG ri
-| miyaa ii darraatoon 0 Ee
-ie ugu imi dardaar werin Og. poe pect, da iiri
-maantana degaankay gatiearscractnadcncsteee eR!
-y ma Dagaar u guur baa is dd et alent
-iyo diillintti Gurey ” ? if 9 pe ae ipa
-r Wuxu yidhi ”Duleedow iyo dooxatada baas |
-dilalyada ku haysaa dabar maa u goysaan P
-4 ambba iima dihinoo xadhig maa u diirtaan .
-| intii ay dabayluhu dibso maa tidhaahdaan |
-hadba meel deleeliyo colka wadhaf ku daydaan if
-ie daaddeys ku dhigayeen nafta deeq u bixisaan” ?
-wil daad mahiigaan
-: | pi shisheeye kugu furay Wuxu yidhi ”*degmadaydu
-ik abataan ku noolaa dareen way ka siman tahay
-ik aoe baan dugsanayoo doogna way gudboon tahay
-aut ee ie doorna waw midowdaa
-lik yaala Kula baxay libna way ku dirirtaa
-ne ooo) See xilla way daryeeshaa
-ay unqulaalka hoosiyo daba gelisyadiisiyo
-He digsigaan babb
-: ie dad-qal way ka adag tahay
+dunjigaygu kugu filan".
 
-danna way wadaagtaa Dogonniino lama dhayo .
-duddadaa u kala rogan hedna lama daweyn karo. |
-mana kala ae Laks
-dadab baa ku kala xidhan Dadka aad ka dhalati
-kala durugsanaantiyo dalka aad u anaes |
-digadana nin baa shiday nin la yidhi danta u tali
-dawaduu ku huriyaa hanad laga dab qaatiyo
-rag inay ku damiyaan diric iyo fariid nogo,
-dannigoodu farayaa dibin daabyo ka ogow
-gaas bay ku darayaan bs duco iyo xusuus iyo
-meel daad u baahnayd”. duug aad ka dhaxashide
-i ae xilka daacad ugu ha
-ci nei! og pu eager ha dullayne paathoee
-. ibirrooti kulul baa
-dingaraaradiisii Misael rabies
-§ u galeen dagaalkii
-xaska lagula daatee “iif olulkalahan |
-; duusbocrmaayaan dib i aheee ka maaree
-dakharrada la geystoo ; hawligalt
-waa daanno culusoo fprdeae oe mies a oe jaa
-rag iskaga danbbeeyaa”. dereioW Stee Hs os a
-Malaa wayla durugtee guul baa u dagatee
-aan soo dabbaale Alla doori saw kaa
-: tartan laba ku dirireen darka jiidhay Maaweel!.
+"Haddaad diidday maandhow
+bal ninkaad u tahay deni
+iyo xaaji soo degey
+saadaasha kugu daray
+isna tiisa daymood".
+
+Ninkii duurka caydha ah
+duufaan ku soo ridey
+halkuu daalac heli laa
+markii deyn ku sii go'ay
+intuu doobi quusiyo
+dib u liqay candhuuftii
+dirri-xaradh ku hawshoo.
+
+Wuxu yidhi "dulmanidaa
+misna gacan degganidaa
+aaway dawladnimadii
+iyo doorarkeedii
+ma dad baan arllada jirin
+ma nin baa daraaddii
+u daddaabba xidhantiin
+caku aaran dubatada
+iyo dooxatada baas
+dabar maa u goysaan
+xadhig maa u diirtaan
+dibso maa tidhaahdaan
+colka wadhaf ku daydaan
+nafta deeq u bixisaan"?
+
+Wuxu yidhi "degmadaydu
+dareen way ka siman tahay
+doogna way gudboon tahay
+doorna waw midowdaa
+libna way ku dirirtaa
+xilla way daryeeshaa
+daba gelisyadiisiyo
+dad-qal way ka adag tahay
+danna way wadaagtaa
+duddadaa u kala rogan
+mana kala dab qaataan
+dadab baa ku kala xidhan
+kala durugsanaantiyo
+digadana nin baa shiday
+dawaduu ku huriyaa
+rag inay ku damiyaan
+dannigoodu farayaa
+gaas bay ku darayaan
+meel daad u baahnayd".
+
+"Waxse jira Duleedow
+dibirrooti kulul baa
+dingaraaradiisii
+xaska lagula daatee
+duugoobi maayaan
+dakharrada la geystoo
+waa daanno culusoo
+rag iskaga danbbeeyaa".
+
+Malaa wayla durugtee
+aan soo dabbaale
+tartan laba ku dirireen
 dahab loogu beretamey
-in la seexsho dacawada Waxan dooddi kaga baxay
-danta laga lahaa waa hadalkana ku daa idhi
-inuu diinku guul helo nin dab ligay Rashiidow
-dulmarkiyo ujeeddadu dhuxul buu ka daacaa!!!
-dadka waxay baraysaa, Ma darmaanta booddee
-in dedaalku wacan yahay didday baan u jeedaa?
-dhanna dulucda sheekada ma dalilka muugdiyo
-‘ duur-xul baa ku yara jira dhamac hoos ka darartoo b
-tyo dala’si laga wado is -dallaallimaysiyo "
-duqu inaanu dheerayn. danbas baan aqaannaa? q
-akhtigu dhigo ,
-' Sida loogu daran yahay panes le ech ‘
-| tyadoo ka diimmoon Ragin is u magac bixin! '
+in la seexsho dacawada
+danta laga lahaa waa
+inuu diinku guul helo
+dulmarkiyo ujeeddadu
+dadka waxay baraysaa,
+in dedaalku wacan yahay
+dhanna dulucda sheekada
+duur-xul baa ku yara jira
+iyo dala'si laga wado
+duqu inaanu dheerayn.
+
+Sida loogu daran yahay
+iyadoo ka diimmoon
 dayo moog habaarkaas
-i awglis ma daaree
-{ isna duubka hibada ah
-) doomaarta cawskiyo
+awgiis ma daaree
+isna duubka hibada ah
+doomaarta cawskiyo
 daristuu ka jecel yahay.
-: 46 Kaddare -Waa Xuseen Sh. Axmed
 
-ku gadoodyey beeshii laa
-GOL J AN NO habeenkiina gaadhkiyo
-gaaf-meerka tarantari. .
-Weatkhtigaa is-gurayoo
-hadba xaajo godadliyo Warka lays galaa-bixi |
-ged la soo baxaayoo dabadeeto goobtii
-garashada damqaayoo, gurmadkii isugu tegey
-gudgudaa hillaaciyo afka gacanta wada saar.
+Doqonniino lama dhayo
+hedna lama daweyn karo.
+
+Dadka aad ka dhalatiyo
+dalka aad u dhalatiyo
+nin la yidhi danta u tali
+hanad laga dab qaatiyo
+diric iyo fariid noqo,
+dibin daabyo ka ogow
+duco iyo xusuus iyo
+duug aad ka dhaxashide
+xilka daacad ugu hay
+ha dullayne gaadhsii
+meeshay daraaddeed
+u galeen dagaalkii
+diiftiyo kulka lahaa
+dib u dhaca ka maaree
+dumar iyo rag hawl geli
+kartiidooda deeqsii
+derejow sugnaatoo
+guul baa u dagatee
+Alla doori saw kaa
+darka jiidhay Maaweel!.
+
+Waxan dooddi kaga baxay
+hadalkana ku daa idhi
+nin dab ligay Rashiidow
+dhuxul buu ka daacaa!!!
+Ma darmaanta booddee
+didday baan u jeedaa?
+ma dalilka muugdiyo
+dhamac hoos ka darartoo
+is-dallaallimaysiyo
+danbas baan aqaannaa?
+halka deyr wakhtigu dhigo
+dib baa looga sheekayn
+Kaddaraa u magac bixin!
+
+### GOL JANNO
+
+Wakhtigaa is-gurayoo
+hadba xaajo godadliyo
+ged la soo baxaayoo
+garashada damqaayoo,
+gudgudaa hillaaciyo
 geydha iyo fooraha
-| Xasan Ganey*? ladhkiisii Mar la yidhi ridaa guul
-: | Gol jannaa ka dhalatoo gallad hoose wadatoo
-| galabta iyo sheekada cidi aanay garanayn.
+Xasan Ganey ladhkiisii
+Gol jannaa ka dhalatoo
+galabta iyo sheekada
 gorgor yimi Hargeysiyo
-i geeskaannu joognaa. Marna gacal xijaabtoo
-gunno lyo xusuus iyo
-{ In dhoweyd guhaankii laga gooyey samahoo
-‘ gulcub buu dhalaayoo godka lagu illaawoo |
-| gorgor iyo wax yaabliyo isa-soo galluubtiyo
-is tuke hilib gadaayiyo nin gargaar u dudayoo yy
-i | xuunsho geel la joogtiyo gibil doorsan lagu sheeg.
+geeskaannu joognaa.
+
+In dhoweyd guhaankii
+gulcub buu dhalaayoo
+gorgor iyo wax yaabliyo
+tuke hilib gadaayiyo
+xuunsho geel la joogtiyo
 golli heeryo sidatiyo
-| ; rati gorod madow iyo Marna aayad gaaroo
-iF geesoole bogoriyo xidid iyo gun dheeroo
-. saadaal gurracanoo Rabbi soo guddoonshiyo
-gurran waa la filayee, ged la yaab leh lagu sheeg.
-é ninkii beesha soo galay
-gonda-dhigashadiisii Marna duni gablooshoo
-ri‘ garbaa iskaga taag, isa-Soo guraysoo
-, marna saaryey gaaddada. socotoo gudbaysoo
-Mar gadhkeeda feedh feedh guuraysa lagu sheeg. |
-7 afka godan ku kaakici
-i marna geesaheediyo Marna caashaq guunoo .
-7. kaga weehay goonyaha goobaayey beeshoo
-) arn Bee Uu Soo oe rida Garo eel
-if marna sheemt gaarkee uur-doon ah lagu sheeg. ih
-ka takooryey gacalkeed. g ‘ g .
-: Googaadu badatee
-HS Gabankiyo haweenkii Xasan Ganeyna tiisit i
-in iyo gurungurcoodkii biyo gebi ka soo degey |
-ie gurxan tyo colaad iyo galka ay ku jeedaan, |
-La guulguul u saar-saar gurdankooda sii raac
-att ee eee godankiyo ishii doon
-a | 47 Xasan Ganey-waa Xasan Xaaji Cabdillaahi gunta hoos u sii baadh.
+rati gorod madow iyo
+geesoole boqoriyo
+saadaal gurracanoo
+gurran waa la filayee,
+ninkii beesha soo galay
+gonda-dhigashadiisii
+ri' garbaa iskaga taag,
+marna saaryey gaaddada.
+Mar gadhkeeda feedh feedh
+afka godan ku kaakici
+marna geesaheediyo
+kaga weehay goonyaha
+marna caws u soo goo
+marna sheemi gaarkeed
+ka takooryey gacalkeed.
 
-Gorgorkii xammuurraa Talo laysu geegee Wl |
-gacan haadis ugu yeedh dadku hawlo gaaxdiyo
-dadka goonni uga saar gale baadi doonkii eo
-gole xaadhan soo taag Gudcur laysla soo taag |
-googoos u kala bixi gabadhii la weydii |
-gobannimo ku sooryee geedka aan tagnuu yidhi r
-gelbi oo lugaysti garta jilibka loo laab t
-geyigoo dhan soo mari hadalkiina go’i waa. |
-gobolkana wax uga sheeg |
-guji oo wax weydli Gudcur baanihiisii
-SAHA GEO baat guuyo keena buu yidhi. |
+Gabankiyo haweenkii
+iyo gurungurcoodkii
+gurxan iyo colaad iyo
+guulguul u saar-saar
+ku gadoodyey beeshii
+habeenkiina gaadhkiyo
+gaaf-meerka tarantari.
+
+Warka lays galaa-bixi
+dabadeeto goobtii
+gurmadkii isugu tegey
+afka gacanta wada saar.
+
+Mar la yidhi ridaa guul
+gallad hoose wadatoo
+cidi aanay garanayn.
+
+Marna gacal xijaabtoo
+gunno iyo xusuus iyo
+laga gooyey samahoo
+godka lagu illaawoo
+isa-soo galluubtiyo
+nin gargaar u dudayoo
+gibil doorsan lagu sheeg.
+
+Marna aayad gaaroo
+xidid iyo gun dheeroo
+Rabbi soo guddoonshiyo
+ged la yaab leh lagu sheeg.
+
+Marna duni gablooshoo
+isa-soo guraysoo
+socotoo gudbaysoo
+guuraysa lagu sheeg.
+
+Marna caashaq guunoo
+goobaayey beeshoo
+rida Garo jeclaadoo
+guur-doon ah lagu sheeg.
+
+Googaadu badatee
+Xasan Ganeyna tiisii
+biyo gebi ka soo degey
+galka ay ku jeedaan,
+gurdankooda sii raac
+godankiyo ishii doon
+gunta hoos u sii baadh.
+
+Gorgorkii xammuurraa
+gacan haadis ugu yeedh
+dadka goonni uga saar
+gole xaadhan soo taag
+googoos u kala bixi
+gobannimo ku sooryee
+gelbi oo lugaysii
+geyigoo dhan soo mari
+gobolkana wax uga sheeg
+guji oo wax weydii
+fuley baa wax gaadee
+go'e yidhi iskeen sii
+xaajada gun iyo baar
 geeraar ku xadantee
-gudbi oo is dhaafsti Gucle orod la soo roor
-. hal-abuurka gaadhsii goolal soocan loo miidh
-ragna galangal soo celi ahminkiina loo gee. ij
-| gabayana ka daba tiri. Gudcur baa hadana yidhi ,
-waxaa goobta keenteen
-fi magtii Giibba maahee
-Gudcur baa arlada jira gashigii badh baa hadhay
-F gogoshaa la jiifaa hasha gabanku maaliyo
-y gama’ waa la magan yahay gaaditidka beeshiyo
-| goonyaha cabaad iyo geyigiyo dhulkoo idil
-4 gurxan baa ka baxayoo waxa geelal joogiyo
-reerihii badh baa gudey inta gorod madowliyo
-in la guuro weeyaan geesleyda soo tuba”.
+gudbi oo is dhaafsii
+hal-abuurka gaadhsii
+ragna galangal soo celi
+gabayana ka daba tiri.
+
+Gudcur baa arlada jira
+gogoshaa la jiifaa
+gama' waa la maqan yahay
+goonyaha cabaad iyo
+gurxan baa ka baxayoo
+reerihii badh baa gudey
+in la guuro weeyaan
 gaadiid ma laylyana
-gadh-wadeenka beeshuna Teadnonilaeal
-i gabadh buu ku xidhan yahay rd ore a one
-ityaduna galbeed iyo ] ae ca) ae ore
-dhul fog bay go’doonkiyo agu yidhi ee nor ige
-gocashada ku joogtaa inantil ma gadan tanday.
-P wakhti waa is gurayaa. |
-i ”Yaa is gaadhey” buu yidhi.
-is ; 4 Googaradda dumarkiyo ni
-i, rae! Ganbog Eisaabte waxa aad go’ haysaan i,
-i ayaa Gaarriyow qaar ”idhi” |
-i gabrantii dayeysnayd iska soo guruu "yidhi”.
-| araadkii ku soo degey. |
-| 2 ace Guryihii la baadh baadh
-bE guntintii danbaysiyo
-i] kawlkiina loo gee.
+gadh-wadeenka beeshuna
+gabadh buu ku xidhan yahay
+iyaduna galbeed iyo
+dhul fog bay go'doonkiyo
+gocashada ku joogtaa
+wakhti waa is gurayaa.
 
-Gudcur baa haddana yidhi Gaarriyow halyeygii aq
-*xinjir gaatamaystyo: hanbalyada la gaadhsii .
-cadraddiyo gashaantida gacan qaadka lagu dhaaf, |
+Goor danboo xisaabtii
+geba geba ku dhowdahay
+ayaa Gaarriyow qaar
+gabrantii dayeysnayd
+garaadkii ku soo degey.
+
+Talo laysu geegee
+dadku hawlo gaaxdiyo
+gale baadi doonkii
+Gole laysla soo taag
+Gudcur laysla soo taag
+gabadhii la weydii
+geedka aan tagnuu yidhi
+garta jilibka loo laab
+hadalkiina go'i waa.
+
+Gudcur baanihiisii
+markuu soo gunaanadey
+guuyo keena buu yidhi.
+
+Gucle orod la soo roor
+goolal soocan loo miidh
+ahminkiina loo gee.
+Gudcur baa hadana yidhi
+"waxaa goobta keenteen
+magtii Giibba maahee
+gashigii badh baa hadhay
+hasha gabanku maaliyo
+gaadiidka beeshiyo
+geyigiyo dhulkoo idil
+waxa geelal joogiyo
+inta gorod madowliyo
+geesleyda soo tuba".
+
+Iyadoon la kala gurin
+hanti oo dhan loo gee
+lagu yidhi guddoon hoo
+inantii ma gadan tahay.
+
+"Yaa is gaadhey" buu yidhi.
+Googaradda dumarkiyo
+waxa aad go' haysaan
+iyo googo' lacageed
+iska soo guruu "yidhi".
+
+Guryihii la baadh baadh
+guntintii danbaysiyo
+kawlkiina loo gee.
+
+Gudur baa haddana yidhi
+"xinjir gaatamaysiyo
+cadraddiyo gashaantida
 inta wiil gantaashiyo
-gaaridiinna labadaba intuu gaadh u diray gaar
-btan keena ”buu yidhi gargaraacyey aqalkii
-| goobtan ylant. soo gal baana lagu yidhi.
-Codsigaasna loo gee Gobaad foolku ka hor yimi
-wuxu yidhi guddoonsadey isha laysku galac sii
-| gabadhiina waa taas. garashaa fogeysoo
-gabadhuba ma heellana
-Guul-Allaa la wada yidhi wejigeeda guul iyo
-gaaridii la soo hoy gacaltooyo kuma taal. |
+gaashaanka hanatiyo
+ordoo geesigiinniyo
+gaaridiinna labadaba
+goobtan keena "buu yidhi.
+
+Codisgaasna loo gee
+wuxu yidhi guddoonsadey
+gabadhiina waa taas.
+
+Guul-Allaa la wada yidhi
+gaaridii la soo hoy
 geesigiina loo door
-guurkeeda hananlaa Gacan qaawan soo fiiq
-; gobolkana xilkiistyo ”kaa geysan” bay tidhi
-iE geeddigiisa koowaad xiisihii ka gaagaxay ia
-7, gadh wadeenka nogonlaa. hogashada gandoodkii a
-. soo laabtay goroddii |
-i Golihii la dheehee HR aga
-A harrarrada la goobiyo as ioe i reabee fhe
-googooska lagu xidhay, BADD ASI OER SIGS
-gelbiskii rugtii yimi. a ae hades
-Gurxankiyo mashxaradii Waxay er) hab xidho
-; dadku gooli baadhkii go‘a iga fur “buu yidhi
-| gumucyada rasaasta ah gudin iyo hanggool lyo |
-sida galayax loo tuur garab qaad is weheshay |
-isna goobta quruxda leh tidhi "qabo guddoonshow .
-4 hadba gees u daymoo gogo! au ie vie Be
-} guurtidii isugu timi ginbir bay ku “tidhi hoo’.
-mahad celin ku gaalgaal. :
-it Gargariirka lahashada © i
-5 Markii waagu euubaha cabashada is gabangabi i
-fm | iyo furay pa ee kil milligsiga galaa bixi a
-it gaafkiyo xusuustii durba gaajo soo qaad. Wl
-ie inta ubax guduutiyo i
-i duco lagu gunaanadey Dib u guratay Joogdheer
-te eeg eegtay gurigil
-ial gudur meel halkana yaal
-At | iyo gocay hadoodilan
+guurkeeda hananlaa
+gobolkana xilkiisiyo
+geeddigiisa koowaad
+gadh wadeenka noqonlaa.
 
-ugu geysey meeshit ” Goosaradihii qaar a
-Gurracow ku tidhi hoo Gurrac kuuma dhiginaa » {
-isaguna guddoon yidhi. ; |
-”Gabadhiina waa ugub
-Baahiduu u golon golay iyaduna geyaankeed
-gunnadii xujaysnayd guumeys ka nogotoo
-markii uu gondaa dhigay, guudkaa u daban weli”. |
-galladii ku rayray A
-hadduu guur xil leeyahay ”Sarar gool wan shilisoo /
-| | gabadhiiba kuma lurin geedeysan hooyaa”’?.
+Golihii la dheehee
+harrarrada la goobiyo
+googooska lagu xidhay,
+gelbiskii rugtii yimi.
+Gurxankiyo mashxaradii
+dadku gooli baadhkii
+gumucyada rasaasta ah
+sida galayax loo tuur
+isna goobta quruxda leh
+hadba gees u daymoo
+guurtidii isugu timi
+mahad celin ku gaalgaal.
+
+Markii waagu guubaha
+iyo furay garayskii
+gaafkiyo xusuustii
+inta ubax guduutiyo
+duco lagu gunaanadey
+Gaarriyow halyeygii
+hanbalyada la gaadhsii
+gacan qaadka lagu dhaaf.
+
+Ka gadaala wiilkii
+intuu gaadh u diray qaar
+gargaraacyey aqalkii
+soo gal baana lagu yidhi.
+
+Gobaad foolku ka hor yimi
+isha laysku galac sii
+garashaa fogeysoo
+gabadhuba ma heellana
+wejigeeda guul iyo
+gacaltooyo kuma taal.
+
+Gacan qaawan soo fiiq
+"kaa geysan" bay tidhi
+xiisihii ka gaagaxay
+hogashada gandoodkii
+soo laabtay goroddii
+isaguna guhaaddiyo
+guul guulka ka hor yimi
+gabbashada is weydii.
+
+Waxay tidhi "guntiga xidho"
+go'a iga fur "buu yidhi
+gudin iyo hanggool iyo
+garab qaad is weheshay
+tidhi "qabo guddoonshow"
+gogol buu ku "yidhi" keen
+ginbir bay ku "tidhi hoo".
+
+Gargariirka lahashada
+cabashada is gabangabi
+milliqsiga galaa bixi
+durba gaajo soo qaad.
+
+Dib u guratay Joogdheer
+eeg eegtay gurigii
+gudur meel halkana yaal
+iyo gocay hadoodilan
+ugu geysey meeshii
+Gurracow ku tidhi hoo
+isaguna guddoon yidhi.
+
+Baahiduu u golon golay
+gunnadii xujaysnayd
+markii uu gondaa dhigay,
+galladii ku rayray
+hadduu guur xil leeyahay
+gabadhiiba kuma lurin
 kaba goosey hadalkii.
-Goraygiina yaabyoo
-Dadkii soo gadaal noqoy ka gur Qaafo buu yidhi.
+
+Dadkii soo gadaal noqoy
 hadba goosan soo biir
-” higsi laysku soo gaadh Guray oo xuslinayoo
-gawraha duleedkii baahi geylameysiyo
-gacalkii isugu yimi gabaddano eryeysaa
-t | golihii la weynee gooddiga ka soo kudey. 4
+higsi laysku soo gaadh
+gawraha duleedkii
+gacalkii isugu yimi
+golihii la weynee
 dhagxan laysu soo gurey
-| ie caarite Bran Gobaad leexadiisay
-i; eecidy aidaisida Mech heen ser atag)
-iy § y waa gaal la jooggii
-| yaradkiyo gabbaatiga
-| badh gataatigii ciir gudcur Siiyey berigii
-galaayuuska hibashada waa ninkii gumeystuhu
-guuxa hoos ka tuurka ah marka uu gabraar tago |
-, gocashada kor loo qaad. garanuugta celin jirey.
-Goray baa ka ciyey meel Isna soo galaydhyee
-”Gurayow war lagu sii iyadana talaw go‘an.
-i gobanimadi waa halis haan bay garays iyo |
-if geesku baylah weeyaan”. ganbo iyo hagoog tyo
-: fF googgarad jacfaaniyo
-. ; maryo dumar u gelisoo 4
-Kaalay gawrac neefkaa” ?. gunta iyo furkii bay 4
-ih xinne ugu guduuddoo i
-A | *Gurigiina dadab ma leh waxay tidhi Gadaan Dheer 1
-7) laga gurey wixii yiil ninka soo gurdamayaa
-8 dadkii waa la gaasiray gabadh doonimaayoo
-in lama gudin xilkoodii”. gogol looma fidiyee
-ib guushkiyo qadhaabkiyo
-1h gawska ugu roonow
-a |
+shaxda loo garraaddee
+lagu guulyey meeshii
+sheekadu gabaabsiday
+badh gataatigii ciir
+galaayuuska hibashada
+guuxa hoos ka tuurka ah
+gocashada kor loo qaad.
 
-| dhaxantana wax uga geli Gadh intuu samaystuu “aa
-aniguna gadaashiyo kutub eae soo sudhay .
-guradaan ka baxayaa soo gaadhyey beeshii.
-gurigiina waa kaas. |
-Hadba dadabta loo goo |
-Geyllankii xawaaraha hadba goolal loo loog i
-gurma go‘an xaskeediyo badht tyo leg loo gee if
-gubad raran leh soo jiidh gallad loogu roonaa
-dadkii qaar galaafaha hoosna gaadhku kala socoy, |
-7 gaaddada ku soo qaad |
-gurigii ku soo biir | Gahan gaha abaaraha
-| sida weerka guuree E
-Gurrac xadhig ku taandhee hadba reer ku soo gaas yi
-| ku gaggabi tummaatida hadba galab carraabaha, =
-. garba duub iskaga reeb masallaha gabboodkiyo @
-ginbirkiina soo fuul. hoos galbeedka soo dhigey |
-gelin qudha maqnaan waa aye |
-Yidhi yidhi Gobaad yidhi guryihii ku fara badey N
-gacan dhiig leh soo taag gal gal iyo xasarad keen
-q laye gooha soo reen gacan dhaafna lagu arag.
-a: haantiina kama gurin.
-ai Gungunuuska beenta ah
-y kol hadduu gabbood iyo | ku galgaley Quraankii
-goosarado caammiya | guudaanki dhayi waa F
-is la helay ninkii Gurey goosan lumay bariin waa ;
-cidi lama gudboonee lagu barey geddiisiyo
-/ hanbaddii ku gooraan inaan Geeddi Baabow
-| gufarkii ku naallo naf gunaanadkeediyo |
-hadba goobo soo qaad garshada ku dheerayn
-ku gufee calooshii. | misna gogosha loo badi. i
-Haki Maxamed geenyada Isna laba gar-daagqii A!
-| li gudub h
-hasha Garow u yeedh yeedh | A durug. mi
-iB godol oo u gaal gaal a
-; gabantana ka yara celi. |
-t | Guul- darraa ka salaglee |
-if Wax la yidhi guyaal hore galab buu ka kacay meel
-, Bahal geed -is marisaa gegi laysu soo baxay
-| maqlay gobol Islaamoo dadkii joogey goobtaas
-ty wadaad gaasa- baxay raba. kadin geela weydil.
+Goray baa ka ciyey meel
+"Gurayow war lagu sii
+gobanimadi waa halis
+geesku baylah weyaan".
 
-warka Geeddi Baabbow Be
-gujo iyo faq hoosiyo garan gari kitaabkii t
-insha laysku gaadhsii ged kaluu u diga rogey aa
-waa dad soo gubtoo jabay miciyii gahaydhiyo |
-dhegahay gufaysteen. daba goojinaysiyo .
-gawsthii u Sheellaa |
-sii garooc hankiisii gibishitulduubnayd |
-gu‘ rin qaalinuu yidhi gashey saamihiisii
-’ | yaa godkiisa hoosiyo Bagi ae eis .
-| geysanaaya aakhiro?. gafi waa runtiisii. r
-| ’ dadku gacan macaanaa
-| Shirka ruux garaaboo | gobsanaa furfuranaa |
-| gacan taaga laga waa. gacaltooyo badana
-| . Gaarriyow shabeelkaas, ;
-| Iyadana ka sii gudub gabbal iyo galaal iyo
-j kuye gacallayaalow maxaa gaasho loo qalay,
-| bogol shilin ha lay guro. maxaa goobo loo shiray
-maxaa guulo loo qoray |
-Goroddaa la wada lulay tag THGd SUUnCay ]
-i ku go‘ baana lagu yidhi. eons Be see tae
-i araaddiyo
-i é Gonduhuu u sii degey aie rai i a
-kuye geed -is mariskii shaal Ee i Pel ae idhay!
-gini lacaga yaa hura? agu xidhay!.
+"Kaalay gawrac neefkaa"?.
+
+"Gurigiina dadab ma leh
+laga gurey wixii yiil
+dadkii waa la gaasiray
+lama gudin xilkoodii".
+
+"Goosaradihii qaar
+Gurrac kuuma dhiginaa".
+
+"Gabadhiina waa ugub
+iyaduna geyaankeed
+guumeys ka noqotoo
+guudkaa u daban weli".
+
+"Sarar gool wan shilisoo
+geedeysan hooyaa"?.
+
+Goraygiina yaabyoo
+ka gur Qaafo buu yidhi.
+
+Guray oo xuslinayoo
+baahi geylameysiyo
+gabaddano eryeysaa
+gooddiga ka soo kudey.
+
+Gobaad leexadiisay
+meel dheer ka garatoo,
+waa gaal la jooggii
+yaradkiyo gabbaatiga
+gudcur siiyey berigii
+waa ninkii gumeystuhu
+marka uu gabraar tago
+garanuugta celin jirey.
+
+Isna soo galaydhyee
+iyadana talaw go'an.
+haan bay garays iyo
+ganbo iyo hagoog iyo
+googgarad jacfaaniyo
+maryo dumar u geli soo
+gunta iyo furkii bay
+xinne ugu guduuddoo
+waxay tidhi Gadaan Dheer
+ninka soo gurdamayaa
+gabadh doonimaayoo
+gogol looma fidiyee
+guushkiyo qadhaabkiyo
+gawska ugu roonow
+dhaxantana wax uga geli
+aniguna gadaashiyo
+guradaan ka baxayaa
+gurigiina waa kaas.
+
+Geyllankii xawaaraha
+gurma go'an xaskeediyo
+gubad raran leh soo jiidh
+dadkii qaar galaafaha
+gaaddada ku soo qaad
+gurigii ku soo biir
+
+Gurrac xadhig ku taandhee
+ku gaggabi tummaatida
+garba duub iskaga reeb
+ginbirkiina soo fuul.
+
+Yidhi yidhi Gobaad yidhi
+gacan dhiig leh soo taag
+laye gooha soo reen
+haantiina kama gurin.
+
+kol hadduu gabbood iyo
+goosarado caammiya
+is la helay ninkii Gurey
+cidi lama gudboonee
+hanbaddii ku gooraan
+gufarkii ku naallo
+hadba goobo soo qaad
+ku gufee calooshii.
+
+Haki Maxamed geenyada
+hasha Garow u yeedh yeedh
+godol oo u gaal gaal
+gabantana ka yara celi.
+
+Wax la yidhi guyaal hore
+Bahal geed-is marisaa
+maqlay gobol Islaamoo
+wadaad gaasa-baxay raba.
+
+Gadh intuu samaystuu
+kutub garabka soo sudhay
+soo gaadhyey beeshii.
+
+Hadba dadabta loo goo
+hadba goolal loo loog
+badhi iyo leg loo gee
+gallad loogu roonaa
+hoosna gaadhku kala socoy.
+
+Gahan gaha abaaraha
+sida weerka guuree
+hadba reer ku soo gaas
+hadba galab carraabaha,
+masallaha gabboodkiyo
+hoos galbeedka soo dhigey
+gelin qudha maqnaan waa
+guryihii ku fara badey
+gal gal iyo xasarad keen
+gacan dhaafna lagu arag.
+
+Gungunuuska beenta ah
+ku galgaley Quraankii
+guudaanki dhayi waa
+goosan lumay bariin waa
+lagu barey geddiisiyo
+inaan Geeddi Baabow
+naf gunaanadkeediyo
+garshada ku dheerayn
+misna gogosha loo badi.
+
+Isna laba gar-daaqii
+hadba taako sii gudub
+ganacsiga ku sii durug.
+
+Guul-darraa ka salaglee
+galab buu ka kacay meel
+gegi laysu soo baxay
+dadkii joogey goobtaas
+kadin geela weydii.
+
+warka Geeddi Baabbow
+gujo iyo faq hoosiyo
+insha laysku gaadhsii
+waa dad soo gubtoo jabay
+dhegahay gufaysteen.
+
+sii garooc hankiisii
+gu' rin qaalinuu yidhi
+yaa godkiisa hoosiyo
+geysanaaya aakhiro?.
+
+Shirka ruux garaaboo
+gacan taaga laga waa.
+
+Iyadana ka sii gudub
+kuye gacallayaalow
+boqol shilin ha lay guro.
+
+Goroddaa la wada lulay
+ku go' baana lagu yidhi.
+
+Gonduhuu u sii degey
+kuye geed-is mariskii
+gini lacaga yaa hura?
+
+laga gaabsey hadalkii.
+
+wuxu yidhi galkiisiyo
+yaa kitabka naga gada?
+
+Gaw baa la wada yidhi
+go'a boodhka laga tumey
+la bannee gawaankii
+dadku galab carrabaha
+badhba gees u siigee
+raabe raabe loo guran
+golihi ku nogoy keli
+goobtaas la kala dhimey.
+
+Isna Geeddi Baabbow
+galalkiyo khamiiskiyo
+garan gari kitaabkii
+ged kaluu u diga rogey
+miciyii gahaydhiyo
+daba goojinaysiyo
+gawsikii u sheellaa
+gibishii u duubnayd
+gashey saamihiisii
+gaaleemadii tuur
+gafi waa runtiisii.
+
+dadku gacan macaananaa
+gobsanaa furfuranaa
+gacaltooyo badana
+Gaarriyow shabeelkaas,
+gabbal iyo galaal iyo
+maxaa gaasho loo qalay,
+maxaa goobo loo shiray
+maxaa guulo loo qoray
+taariikhda guunka ah
+maxaa baalal loo gubey
+immisaa garaaddiyo
+billad gaara lagu tolay
+immisaa go'sharafiyo
+shaal guduudan lagu xidhay!.
+
 Gurey baynu haynee
-| laga gaabsey hadalkii. hadda eo labaakii
-aynnu guulthisit |
-am ia isla sii gorfaynoo
-wuxu yidhi galkiisiyo poets lo!
-ATEN gurigii ku nogonnee
-| yaa kitabka naga gada? hgh guufakii ligay |
-| Gaw baa la wada yidhi Stain roneee |
-. ao boodhka laga tumey geeri buu ku yidhi tali
-ita galeb car abah weit dit TAA
-: Rn He meen alece golxobkana u diro sahan.
-| raabe raabe loo guran Dadka gees biciid dheer
-f golihi ku nogoy keli guubaabo ugu lali
-i goobtaas la kala dhimey, gurgurshaaga loo yeedh |
-ih lagu giiji canykit |
-i Isna Geeddi Baabbow guryo samo allahayow i.
-ik galalkiyo khamiiskiyo ku dareeryey geelii. y
+hadda goosh labaakii
+aynnu guulihisii
+isla sii gorfaynoo
+gurigii ku noqonnee
+markuu guufakii ligay
+ayuu daaca goodlaha
+guulaamo kiciyoo
+geeri buu ku yidhi tali
+waxay tidhi dadku ha gudo
+golxobkana u diro sahan.
 
-Luugduu ku garan Jjirey | gendel iyo alool saar | |
-gosha lagu hayaanshee hadba garangar oodee |
-goonbaarta wadatiyo hadba gooddi kala bixi
-guuguuda hugunkiyo galka ulo ku baadh baadh
+Dadka gees biciid dheer
+guubaabo ugu lali
+gurgurshaaga loo yeedh
+lagu güji canykii
+guryo samo allahayow
+ku dareeryey geelii.
+
+Luuqduu ku garan jirey
+gosha lagu hayaanshee
+goonbaarta wadatiyo
+guuguuda hugunkiyo
 goofaadhtankii yaab,
-codka gaban ka xoorka ah Gobbvanltan a
-hadba soo gadaal eeg. OOO Ay
+codka gaban ka xoorka ah
+hadba soo gadaal eeg.
+
+Beeshu waa gawaan raac
+dayax rogey gadaafaha
+gudcurkiina sii baah
+la is waa go'doonkii
+gelliyada dugaagga leh
+hadba goosan lagu dhaaf
+hadba guura raacii
+laba guuto loo reeb
+gamas iyo warmaa raran
+
+halkan gaban yar baa qalan
+halkan geesi baa yaal
+halkan gaari baa wadhan
+halkan waxa ku gawracan
+guurtidii xulka ahayd
+dhankan culimo gaariyo
+gadh-cas iyo wadaad iyo
+golfof iyo raq baa quban
+gaadiidku waa naxash
+gadh hayuuna waa mawd
+waxa geeddi lagu degey
+godadkiyo xabaalaha
+dhulka hoose loo guur.
+
+Wax la yidhi duq guunoo
+golxoshoo idlaadoo
+lafta dheeri godatoo
+gaabshey oo cuslaadaa
+guudadley ku soo baxay
+mayracaysa galab adhi.
+
+Gooli baadhka sheekada
+haasaawe goo goo
+hadalkii gar adag iyo
+gendel iyo alool saar
+hadba garangar oodee
+hadba gooddi kala bixi
+galka ulo ku baadh baadh.
+
+Goobyaalka inantii
 garan weydey baanuhu
 geesuu u dhacayoo
-Beeshu waa gawaan raac waxay tidhi geddaa hadal.
-| dayax rogey gadaafaha
-gudcurkiina sii baah Aan is guursannuu yidhi |
-la is waa go ‘doonkii Alla yay gujay tidhi.
-gelliyada dugaagga leh Kol hadduu gedmado hadal
-eta goosan lagu dhaaf goobta waan ka dheelmaa
-1adba guura raacit ii’ tidhi”
-. laba guuto loo reeb BEY BOHRA
-gamas iyo warmaa raran pers be
-i Wuxu yidhi god bay hadhay
-halkan gaban yar baa qalan waxay tidhi Gadh -cawsow
-halkan geesi baa yaal adhigaa galbanayee
-halkan gaari baa wadhan aan gadaal u soo rogo”.
-: halkan waxa ku gawracan
-guurtidii xulka ahayd Isna yidhi ka gaadhsii
-dhankan culimo gaariyo guusha maanta kuu dagan |
-gadh- cas tyo wadaad iyo gol -dalooladiisiyo
-golfof iyo raq baa quban guga faraqa haystiyo |
-gaadiidku waa naxash gedihiisa qari yidhi hi
-gadh hayuuna waa mawd ganbaraashka sii luud te
-waxa geeddi lagu degey gumar buu ka jaray qodax Hi) |
-J godadkiyo xabaalaha geed kaluu ku soo mudey Wha
-dhulka hoose loo guur. gabbashada ku soo nogoy
-oy ku soo laabey goobtii
-Wax la yidhi duq guunoo gabadhiina ugu timi.
-golxoshoo idlaadoo
-lafta dheeri godatoo ii
-gaabshey oo cuslaadaa Pe oe se af eObRtD
-| guudadley ku soo baxay gacantiisa ka hadhsaday
-| mayracaysa galab adhi. wuxu yidhi ”galoolkaas
-; ari dumaree
-; Gooli baadhka sheekada Purith Noose kaga bee
-Hanae §00 g00 ma gammuun ku jabay baa
-t adalkti gar adag iyo ma fallaadh ku ganan baa
+waxay tidhi geddaa hadal.
+
+Aan is guursannuu yidhi
+Alla yay gujay tidhi.
+Kol hadduu gedmado hadal
+goobta waan ka dheelmaa
+ayay gololadii "tidhi".
+
+Wuxu yidhi god bay hadhay
+waxay tidhi Gadh-cawsow
+adhigaa galbanayee
+aan gadaal u soo rogo".
+
+Isna yidhi ka gaadhsii
+guusha maanta kuu dagan
+gol-dalooladiisiyo
+guga faraqa haystiyo
+gedihiisa qari yidhi
+ganbaraashka sii luud
+gumar buu ka jaray qodax
+geed kaluu ku soo mudey
+gabbashada ku soo noqoy
+ku soo laabey goobtii
+gabadhiina ugu timi.
+
+Gol castii dhacaysuu
+go'a sare hagoogtiyo
+gacantiisa ka hadhsaday
+wuxu yidhi "galoolkaas
+maxaa gaari dumareey
+gunta hoose kaga mudan?
+ma gammuun ku jabay baa
+ma fallaadh ku ganan baa
 ma gafuur maxaadh baa
+ma atoor gadoodaa
+geesihii mid kaga tegey"?
 
-ma atoor gadoodaa ‘ «
-geesihii mid kaga tegey”? i on }
-ku wadh wadhey gabaahiir, L
 Geedka way u jeedaa
-waxa gaar u raacee |
-guur -doonku sheegee oe iiey oo aa ea |
-gunta hoose kaga mudan fae ri! baal i i I
-indhaheedu gabadhii noleaneeah re mate |
-markay gaadhi waayeen Boe i é ; sa eS |
-| ' waxay tidhi inoo gee & aa ie ae hae
-: runta aynu gunudnee. a loach CALETA SY
-Fadalkaa la wada guray Gurey baan xusuustee ie
-garo 00 barbbaarkii gobor iyo turxaan iyo i
-P gabgabtiyo is waalkii | ninku gaatir badanaa
-wuxuu guudka kaga dhacay Eleati buu f i gelly gg
-hal fadhida gelgelin show Oe ee Bi oa
-ka sokaysa geedkii. Masapraaens UO Aei |
-} Gaariyouw na naagtii The
-; loo Maydhay gacantiyo '
-. Qosol guuli keentay ‘ gambadii la sheegiyo
-ff hayn weydey gabadhii. gabaygii la tiriyaa!!!
-Isaguna gilgilashada Gol jannaan ka shaxayee
-gebi dhaca is yidhi toos goormaan dawaafkii
-misna gudub u soo ciir tegey webi Ganaaniyo
-gabaxdit ts qaban waa gabbala dusheenna ah?.
-g gadhka ciidda kula duul waxba yaan ku raad gadan
-show illayn gar. daadkiyo nabarrada i gubayee
-, garab iyo shanshaa jaban. gorof legedka hoosiyo |
+waxa gaar u raacee
+guur-doonku sheegee
+gunta hoose kaga mudan
+indhaheedu gabadhii
+markay gaadhi waayeen
+waxay tidhi inoo gee
+runta aynu gunudnee.
+
+Fadalkaa la wada guray
+garo oo barbbaarkii
+gabgabtiyo is waalkii
+wuxuu guudka kaga dhacay
+hal fadhida gelgelin show
+ka sokaysa geedkii.
+
+Qosol guuli keentay
+hayn weydey gabadhii.
+
+Isaguna gilgilashada
+gebi dhaca is yidhi toos
+misna gudub u soo ciir
+gabaxdii is qaban waa
+gadhka ciidda kula duul
+show illayn gardaadkiyo
+garab iyo shanshaa jaban.
+
+Jaljalleecday gegiduu
+ku burburay geyaankeed
+laye guud haldhaaley
+garangarisay laafyaha.
+
+Isna gocasho sii dhawr
+baalal goof ku yaalliyo
+indha gudhay ka daba tuur
+dabadeed galgashda
+la gurguurey boodhkii
+gawdiidsey meeshii
+salka dhigey go'doonkii
+ku wadh wadhey gabaahiir.
+
+Waxa hodey garaaraha
+golxadiyo cabbadhyaha.
+Goobtaasi hadal ma leh
+goolkaasi dhalan waa
+guurkaasi beenow
+gabow baa da' mehersaday.
+
+Gurey baan xusuustee
+gobor iyo turxaan iyo
+ninku gaatir badanaa
+qudhun buu far geliyaa
+marka gacal la yaabuu
+guudkiisa mariyaa
+Gaariyouw na naagtii
+loo Maydhay gacantiyo
+gambadii la sheegiyo
+gabaygii la tiriyaa!!!
+
+Gol jannaan ka shaxayee
+goormaan dawaafkii
+tegey webi Ganaaniyo
+gabbala dusheenna ah?.
+waxba yaan ku raad gadan
+nabarrada i gubayee
+gorof legedka hoosiyo
 gunta aan u soo dego
-Jaljalleecday gegiduu xaajadu galoof iyo |
-\ ku burburay geyaankeed nin gawaan ordaayoo
-laye guud haldhaaley cidla‘ gelelefaayo
-1] garangarisay laafyaha. Geriyaad jafaayoo F
-a | garab maray abbaartoo |
-.. iska gola- ka -fuuliyo
-: Isna gocasho sii dhawr garo iyo jacayl iyo It
-- baalal goof ku yaalliyo Ue See Hi
-ie indha gud} gorgor iyo ri‘ maahee
-| da ee “del Hite SMUT murti gooli baadhiyo |
-| ¥, ibil saaran weeyaan
-| i la gurguurey boodhkii papier: iyo shax weeyaan
-7 gunaad biiray weeyo
-
-gumuc lala dhacaayoo Dabadeeto goobtaas
-umal gaaxdey weeyaan dibno foolku goostiyo
-gubashiyo ladh weeyaan gogoshoo la laaliyo
-gocashiyo dan weeyaan gama! oo la dayrshiyo
-gabay iyo xil weeyaan dhulka oo guhaad iyo
-bahal loo gabbanayoo gubashiyo xanuun iyo
-nin geddiis yaqaannaa gulcub lala xarriigiyo
-u gurguuranaayoo godob baa ka dhalatoo.
+xaajadu galoof iyo
+nin gawaan ordaayoo
+cidla' gelelefaayo
+Geriyaad jafaayoo
+garab maray abbaartoo
+iska gola-ka-fuuliyo
+garo iyo jacayl iyo
+gorgor iyo ri' maahee
+murti gooli baadhiyo
+gibil saaran weyaan
+gudban iyo shax weyaan
+gunaad biiray weeyo
+gumuc lala dhacaayoo
+umal gaaxdey weeyaan
+gubashiyo ladh weeyaan
+gocashiyo lan weeyaan
+gabay iyo xil weeyaan
+bahal loo gabbanayoo
+nin geddiis yaqaannaa
+u gurguuranaayoo
 gaadaayo weeyaan.
-Xasan Ganey tummaatida lyadana go‘ann iyo
-| ummaddana guddoonsii guubaabo tarantiyo
-| gocorkana ku naafee gurmashaa ka dhalatoo.
-gunta taabey eelkii lyadana gantaal iyo
-maansada gef kuma jiro gaashaan LS J iidhiyo
-| hasha Goray sideedaba, baadidoo is guratiyo
-waxaa loo gayaxa maray gocondhaa ka dhalatoo.
+
+Xasan Ganey tummaatida
+ummaddana guddoonsii
+gocorkana ku naafee
+gunta taabey eelkii
+maansada gef kuma jiro
+hasha Goray sideedaba,
+waxaa loo gayaxa maray
 inay Geeska deeqdoo
-| saameesho gaawaha lyadana col gulufiyo |
-. ama garo ama ha garan. galow fooridiisiyo es
-. eesi haadku loogtiyo >
-| 96 A uapoor sal tyo baar SoHo hengalaine
-ladadii geel isugu jiro uryo laga baroortiyo
-y gar maqaate dhega li‘i Pall n of, xabaal a
-go°aan wadari leedahay geeri baa ka dhalatoo.
+saameesho gaawaha
+ama garo ama ha garan.
+
+Rag gudboon sal iyo baar
+haddii geel isugu jiro
+gar maqaate dhega li'i
+go'aan wadari leedahay
 hadduu goonidiisiyo
-gaarkiis umaamulo ’ ;
-| keligii nin goba yahay Iyadana go‘doon iyo
-inta badan gun hoosiyo gocashiyo hagoog iyo |
-garas iyo gadhoon iyo gacal kala f Aa)
-gaagaab ka wada dhigo wejt gabax is dhaafiy 2 |
-marka loo ged sheegtana nabaddoo g HT aGaeD ie
-galka seefta kala baxo hantidoo gablooshiyo
-wuxuu goosto keligii gob jabtaa ka dhalatee |
-: ama geysto dabadeed iga gunud Rashiidow.
+gaarkiis u maamulo
+keligii nin goba yahay
+inta badan gun hoosiyo
+garas iyo qadhoon iyo
+gaagaab ka wada dhigo
+marka loo ged sheegtana
+galka seefta kala baxo
+wuxuu goosto keligii
+ama geysto dabadeed
 garashaa ku tidhi yeel.
+
+Ninka kale gilgilashada
+hadduu giirto hibashada
+ama goosto dabadeed
+gacan inu ku ciil baxo
+dala'siga la gaasiray
+garashaa ku tidhi diid.
+
+Dabadeeto goobtaas
+dibno foolku goostiyo
+gogoshoo la laaliyo
+gama' oo la dayrshiyo
+dhulka oo guhaad iyo
+gubashiyo xanuun iyo
+gulcub lala xarriiqiyo
+godob baa ka dhalatoo.
+
+Iyadana go'ann iyo
+guubaabo tarantiyo
+gurmashaa ka dhalatoo.
+
+Iyadana gantaal iyo
+gaashaan is jiidhiyo
+baadidoo is guratiyo
+gocondhaa ka dhalatoo.
+
+Iyadana col gulufiyo
+galow fooridiisiyo
+geesi haadku loogtiyo
+gaaridoo hengelatiyo
+guryo laga baroortiyo
+goblan iyo xabaal iyo
+geeri baa ka dhalatoo.
+
+Iyadana go'doon iyo
+gocashiyo hagoog iyo
+gacal kala fogaadoo
+weji gabax is dhaafiyo
+nabaddoo gurracantiyo
+hantidoo gablooshiyo
+gob jabtaa ka dhalatee
+iga gunud Rashiidow.
+
 Geba gebada heestiyo
-| Ninka kale gilgilashada eabavetbean iavia vind 4.
-it hadduu giirto hibashada Gaax-nuug la talintii .
-; pis esa pe tis gabbal dhacay i sper |
-7. an inu ku ciil baxo hadda galabta sheekada
-| dala‘siga la gaasir ay Weaenin uga gol-leeyahay
-8arashaa ku tidhi diid. samihiyo is garabsiga —
-: berri yaan la gees marin.
-OEE
+gabaygaygan kama wado
+Gaax-nuug la talintii
+gabbal dhacay ka hadalkii
+hadda galabta sheekada
+waxaan uga gol-leeyahay
+samihiyo is garabsiga
+berri yaan la gees marin.
 
-raqda solan lafaa soogan i
-SIRTA NOLO SHA bal su’aal u celi meydkan .
-sababtuu u go’ay raadi ! L
-Saaxiibkayow heedhe Bal dhegeyso saylaanka |
-safar baan ka imi dheere iyo salowga beer-qaadka
-marka hore salaan ditrran iyo sebiga yeedhiisa |
-marka xiga samow heedhe waxad aragtayoo saasa .
-ha ka nixin si-dalagtayda waxad maqashayoo saasa
-sacab fara-madhnaantayda maxaad odhan lahayd Suudi 248
-" suugaanta yaabkeeda
-salka iyo fadhaa keena Samalaho furfuriddooda |
-| marka xiga sugnaanteeda godka seer-ma-weydaanka
-| socodkiyo falkaa sheega marka ay sabbuux gaadho
-| xeerkeedu waa saase. si kalaan u dhigi taase.
-Saaxitibkay Waayaale i}
-| Saaxiibkayow heedhe suurtuu dhalaay heedhe a
-; anba saaka qaybteeda heedhe Sahraay heedhe #9 .
-, Sirsirraan ka joogaaye waxaan adiga kuu saantay
-. xadhiggiyo bal eeg suunka dadka kaaga soo soocay
-if iyo sabarka gaadiidey Sahra kuugu yeedh-yeedhay
-iyo salabka ti qaaran siduu aabbahaa heedhe
-i iyo suudha guudkayga. samo ii faraan heedhe
-} kuu siinayaa heedhe
-/ Hilaygiyo waxaan saabka noe aalke agnikiay |
-u gilgiley Samaw haanta iyadaan salguurayne
-subag inay ku dhiiqdaaye murtidaan Sahraay heedhe |
-saasay ku badisaaye sadar kuugu qorayaaye.
-} sannad weliba xeeshiiye Heedhee Sahraay heedhe
-Kol hadday silloonaato curad suubbaneey heedhe,
-samaheedu waa dhiige sumaddii Rashiid yeelo
-sumuc talada loo dhiibye yo weynidit Saado
-k sida sida sidaas weeye lyO SaWracil hooyo .
-si la yeeli jirey weeye. sinjigii hablaa geeska. |
-| Marka xiga Samaw heedhe Subaxdii indhaa kuulo Hy
-f, talo sibig dhaqaaqeeda tintu saqafta yay waayin
-f soof-daran habawgeeda iyo diibka loo saaro
-ul sal-fudaydka hooggiisa subko 00 hayaabayso
-a | bal sallaankan fuul laalan korka stigo yay taaban
-in iyo sagabtan heensaysan ku ilaali saabuunta
-F dhulka Saas ea) eedaali 48 Suudi-halkan Rashid Sh.Cabdillahi ayuu ugu jiraa.
-sidan yo sidaas fiir i 49 Sahra-waa Sahra Rashiid Sh.Cabdillaahi
-j sidan lyo gadaa | dheeho 50 Saado-waa Saado Cabdi Bacad
+### SIRTA NOLOSHA
 
-dharku siifad yuu yeelan | :
-suyac iyo bar gaasheysan Heedhe Sahraay heedhe
-ku ilaali saahoodka. Hee ene dheehaaga |
-samaydaada dhererka
-Garashadu Sahraay ruuxa sarajooga muuqaaga pits
-sed u gaara weeyaane sanqaroorka jaahaaga
-hadduu saamigaas yeeshay dahab iyo xariir saaran .
-qurux ma leh saluuggeedu. uma baahna saantaadu, |
-Dadku siigga dida maaha hadda silis ha xidhan maaha |
-' sogob iyo ri’weyn maaha luquntana ha sudhin maaha }
-| sumal iyo laxdiis maaha waxan uga socdaa heedhe if
-rati iyo sabeen maaha marka aad sunuud hayso
-falka iyo sugnaantiisa waxa suug mug-weyn yaalla
-| socodkiyo abbaartiisa ha la simin kitaab weeye.
-| ae sida xishoodkiisa
-i abar iyo silsilad haysa Hurdoi ‘ii
-iyo suun ma dhaafaan ah ea Nas piri,
+Saaxiibkayow heedhe
+safar baan ka imi dheere
+marka hore salaan diirran
+marka xiga samow heedhe
+ha ka nixin si-dalagtayda
+sacab fara-madhnaantayda
+suugaanta yaabkeeda
+salka iyo fadhaa keena
+marka xiga sugnaanteeda
+socodkiyo falkaa sheega
+xeerkeedu waa saase.
+
+Saaxiibkayow heedhe
+anba saaka qaybteeda
+Sirsirraan ka joogaaye
+xadhiggiyo bal eeg suunka
+iyo sabarka gaadiidey
+iyo salabka ii qaaran
+iyo suudha guudkayga.
+
+Hilaygiyo waxaan saabka
+u gilgiley Samaw haanta
+subag inay ku dhiiqdaaye
+saasay ku badisaaye
+sannad weliba xeeshiiye
+kol hadday silloonato
+samaheedu waa dhiige
+sumuc talada loo dhiibye
+sida sida sidaas weeye
+si la yeeli jirey weeye.
+
+Marka xiga Samaw heedhe
+talo sibiq dhaqaaqeeda
+soof-daran habawgeeda
+sal-fudaydka hooggiisa
+bal sallaankan fuul laalan
+iyo sagabtan heensaysan
+dhulka saas u jeedaali
+sidan iyo sidaas fiiri
+sidan iyo gadaal dheeho
+raqda solan lafaa soogan
+bal su'aal u celi meydkan
+sababtuu u go'ay raadi !
+Bal dhegeyso saylaanka
+iyo salowga beer-qaadka
+iyo sebiga yeedhiisa
+waxad aragtayoo saasa
+waxad maqashayoo saasa
+maxaad odhan lahayd Suudi ?
+
+Samalaho furfuriddooda
+godka seer-ma-weydaanka
+marka ay sabbuux gaadho
+si kalaan u dhigi taase.
+Saaxiibkay Waayaale
+suurtuu dhalaay heedhe
+heedhe Sahraay heedhe
+waxaan adiga kuu saantay
+dadka kaaga soo soocay
+Sahra kuugu yeedh-yeedhay
+siduu aabbahaa heedhe
+samo ii faraan heedhe
+kuu siinayaa heedhe
+sooyaalka taariikhdu
+iyadaan salguurayne
+murtidaan Sahraay heedhe
+sadar kuugu qorayaaye.
+Heedhe Sahraay heedhe
+curad suubbaneey heedhe,
+sumaddii Rashiid yeelo
+iyo weynidii Saado
+iyo sawracii hooyo
+sinjigii hablaa geeska.
+
+Subaxdii indhaa kuulo
+tintu saqafta yay waayin
+iyo diibka loo saaro
+subko oo hayaabayso
+korka siigo yay taaban
+ku ilaali saabuntadharku siifad yuu yeelan
+
+suyac iyo bar gaasheysan
+ku ilaali saahoodka.
+
+Garashadu Sahraay ruuxa
+sed u gaara weeyaane
+hadduu saamigaas yeeshay
+qurux ma leh saluuggeedu.
+Dadku siigga dida maaha
+sogob iyo ri'weyn maaha
+sumal iyo laxdiis maaha
+rati iyo sabeen maaha
+falka iyo sugnaantiisa
+socodkiyo abbaartiisa
+dhaqan sida xishoodkiisa
+dabar iyo silsilad haysa
+iyo suun ma dhaafaan ah
+wuxuu soofka xoolaaba
+kaga soocan yahay weeye.
+
+Waxan uga socdaa heedhe
+naftu seeto yay waayin
+hana falin sidaad doonto.
+
+Hadalkana sar weedhiisa
+una saaf qofkii waaya
+ha ka tegin sarbeebtiisa
+hana gelin sursuur oodan
+hana lumin sargoyntiisa
+hana liqin sangaabtiisa
+ha ku saxan badheedhkiisa
+runta sogordoh haw yeelin
+ha suldaarin dooddiisa
+sisibaa wadaaggiisa
+sababee abbaartaada
+hana badin su'aashiisa
+sarrifkiyo tilmaantiisa
+saddex erey halkii dooni
+soddon yaanay kaa qaadan
+siddi-qabaxi yay raacin
+sare haw dhig-dhigin luuqda
+gacantana ha saydh-saydhin
+hana odhan wax sawliila.
+
+Heedhe Sahraay heedhe
+sarta hilibka dheehaaga
+samaydaada dhererkaaga
+sarajooga muuqaaga
+sanqarooka jaahaaga
+dahab iyo xariir saaran
+uma baahna saantaadu,
+hadda silis ha xidhan maaha
+luquntana ha sudhin maaha
+waxan uga socdaa heedhe
+marka aad sunuud hayso
+waxa suuq mug-weyn yaalla
+ha la simin kitaab weeye.
+
+Hurdo iyo Sahraay jiifka
 marka hore sariir raadi
-1 We soofka xoolaaba salli iyo furaash dayday
-(aga SOOC hay weey
-axan uga socdaa heedhe aayo |
-| naftu seeto yay waayin free! Lea maaha q
-+ hana falin sidaad doonto. | Eee Eee. I
-if
-Hadalkana sar weedhiisa Nin ku qaday Sahraay tiisa
-una saaf qofkii waaya hadduu seed ligligiddeeda
-ha ka tegin sarbeebtiisa ku saruurad goyn waayo
-hana gelin sursuur oodan subag iyo baruur doono
-hana lumin sargoyntiisa sidu jecelyahaa been ah.
-ee ligin sangaabtiisa
-a ku saxan badheedhkiisa Dh iyo St
-i ee cre ord a haw yeelin pirrealesilen st |
-a suldaarin dooddiisa ii
-ee hoawatiaerive pe phe! shiidan
-ij sababee abbaartaada y pa
-i eS ote wax la cuno sabiibbaa ah
-sarrifkiyo tilmaantiisa WARMER F EER
-; saddex erey halkii dooni ka sokow aan ai,
-soddon yaanay kaa qaadan hadd. di : 2
-. ALLER Ne EE a soortu dacar maaha.
-| sare haw dhig-dhigin luuqda
-: gacantana ha saydh-saydhin Dharku Saadhi qudha maaha
-i ana odhan wax sawiliila. Saylooni garan maaha
+salli iyo furaash dayday
+saddexdaba haddaad weydo
+lama seexan kari waayo
+hadda saantu qodax maaha
+suubaantu gogol weeye.
+
+Nin ku qaday Sahraay tiisa
+hadduu seed liqliqiddeeda
+ku saruurad goyn waayo
+subag iyo baruur doono
+sidu jecelyahaa been ah.
+
+Dhadhan iyo sibraar kayda
+sidig caanaheedaa leh
+badar iyo sarreen shiidan
+iyo sixin ku iidaaman
+wax la cuno sabiibbaa ah
+nin samaystay baa faan leh
+waxaad haysataa saas ah
+ka sokow intaan sheegay
+hadda soortu dacar maaha.
+
+Dharku Saadhi qudha maaha
+Saylooni garan maaha
 iyo sabarandaa giiran
-| os mana aha surwaal biid ah
-————
+mana aha surwaal biid ah
+haddaan saarku kuu diidin
+saddex qaydu ceeb maaha.
 
-haddaan saarku kuu diidin salsalaw cid kale maaha |
-saddex gaydu ceeb maaha. qof silloon ku dayo maaha L
-wax sawaaban noqgo maaha
-Heedhee Sahraay heedhe sinta iyo lafaa duudka |
-sar daruuranoo maasa saddex goor jejebi maaha
-maro Abu Sarmaantitya dhaqankaaga saydh maaha
-dhacle baarka loo seesay Soomaali diid maaha :
-bogor wada siyaakhaysan sidaad doonto yeel maaha
-sindiyaal jiljila dhiibsan dhulka oon ku sidi waayin
-} ’ tusbax dhawr sagaal laaba samadoo la koro maaha.
-{ iyo qool sunaar dheehan
-subeciyad xiddiyo laaf leh Xilliyada wax saareenka
-| adigoo siddeeddaas hal iyo saacadaa reebban
-. iyo timaha oo soohan sabadivo nigiay joogtey
-st ku darsaday sifaa guudka gabadh timi ma saalloona
-, garashiyo sarriig sheegtay ku salliya Rasuulkiinna
-sinta bidix ka laafyooday salka dhiga guryaa seexda. |
-i ma qof kaa sitaa jooga.
-Sunsun falan siddaa feyda ,
-i] Hadda salamadhlow gaabi sati fudud salaan sheegan
-ha ku jabin saqlaa waalan indha suhub af geed saarrey
-ig salow ololka hoy jooji hadba surin ka sheekeeya
-Ty ha saloolan xayndaabka sidan iyo si baas yeela
-V ha ku bixin saloognaanta ereyada saluuggoo dhan
-ha sariiran waayeelka kuma lihid Sahraay meella.
-sakatiga ka daa beesha Adigiyo intii seeran .
-saha iyo af kala qaadka, inta saahiddee dhawran
-ha ka nixin hiddaa suubban!. inta gabadh sidaadaasa f
-| uma socoto weedhaydu. ii
-Gabdhayohow sidee waaye ! |
-Ilbaxnimadu saas maaha Sunbo iyo maraadaa leh
-7 hadba suuf karkaro maaha inta sibiq dhaqaaqdaa leh
-sararaha bannee maaha sagan daaga jiitaa leh
-qorgor suunniyaa maaha inta marinka seegtaa leh
-: dhabannada sibbaaq maaha waxba aan sugeyn baa leh
-sanka oo la mudo maaha inta sharafka saydhaa leh
-sakhrad iyo xashiish maaha suuraafta maqan baa leh
-ie sawir iyo riyaag maaha xadhig lama sitaan baa leh
-filin iyo sarcaad maaha saca Faarsa nacay baa leh
-z saxan reer galbeed maaha Barni sumal xadkeedaa leh.
-iz kabo sookal dheer maaha
-it suurtyo durduro maaha
+Heedhee Sahraay heedhe
+sar daruuranoo maasa
+maro Abu Sarmaantiiya
+dhacle baarka loo seesay
+boqor wada siyaakhaysan
+sindiyaal jiljila dhiibsan
+tusbax dhawr sagaal laaba
+iyo qool sunaar dheehan
+subeciyad xiddiyo laaf leh
+adigoo siddeeddaas hal
+iyo timaha oo soohan
+ku darsaday sifaa guudka
+garashiyo sarriig sheegtay
+sinta bidix ka laafyooday
+ma qof kaa sitaa jooga.
 
-Heedhee Sahraay heedhe ay b
-suugaantu iib maaha Nini ugavaven ein |
-erey iyo sunnee maaha i
-hugun iyo sitaad maaha eee pa pet M need
-siddi iyo i daya maaha maxaad wl sugtaa heedhe ? |
-sadho iyo xajiin maaha aeetiee
-laba saaq ku gado maaha. co a ste heedhe
-La ie Nini dhirta sare diene all |
-sahdi iyo dareen weeye ulo
-| bulsho saasaheed weeye gorayadu sanqadha reebto
-samaheeda mudan weeye cone aN xidho ase
-i sawdkeeda diga weeye mugdi talada sii maaha
-| Sayabiteds kulul weeye pe pe Bee ip 7 ;
-marna baadi sooc weeye maaha
-| sahan iyo tilmaan eee saqda dhexe habeen soocan
-dhaxal soo jireen weeye gudcur Simay adduunkeenna
-wax ku saabsan meel weeye wax Siraata nogo weeye.
-' so’da iyo ka guro dhuuxa.
-i Heedhee Sahraay heedhe
-Hy Heedhee Sahraay heedhe saranseerka jitlaalka
-| sirta noloshu xoog maaha surbacaadka jaahweynta
-i dhagar iyo suryee maaha sumal haadka roob waaga
-i surma seegto dedan maaha iyo solanka daaduunka
-4 sibgi iyo hunguri maaha oe ee 00 ee boo)
-y sacab iyo ka leef maaha dhulka 00 huwadey stigo
-sukhrad iyo fal xumo maaha iyo dogobbo soogsoogan |
-hadba seeb u rogo maaha marka beladu sooyaanto |
-salfo iyo ku faan maaha saadaashu alice
-. damac iyo sandaho maaha saca nuguli kaa leex.
-derejiyo saldano maaha adna sebenka raac maaha.
+Hadda salamadhlow gaabi
+ha ku jabin saqlaa waalan
+salow ololka hoy jooji
+ha saloolan xayndaabka
+ha ku bixin saloognaanta
+ha sariiran waayeelka
+sakatiga ka daa beesha
+saha iyo af kala qaadka,
+ha ka nixin hiddaa suubban!.
+
+Gabdhayohow sidee waaye !
+Ilbaxnimadu saas maaha
+hadba suuf karkaro maaha
+sararaha bannee maaha
+qorqor suunniyaa maaha
+dhabannada sibbaaq maaha
+sanka oo la mudo maaha
+sakhrad iyo xashiish maaha
+sawir iyo riyaaq maaha
+filin iyo sarcaad maaha
+saxan reer galbeed maaha
+kabo sookal dheer maaha
+suuriyo durduro maaha
+salsalaw cid kale maaha
+qof silloon ku dayo maaha
+wax sawaaban noqo maaha
+sinta iyo lafaa duudka
+saddex goor jejebi maaha
+dhaqankaaga saydh maaha
+Soomaali diid maaha
+sidaad doonto yeel maaha
+dhulka oon ku sidi waayin
+samadoo la koro maaha.
+
+Xilliyada wax saareenka
+iyo saacadaa reebban
+sabadiyo rugtay joogtey
+gabadh timi ma saalloona
+ku salliya Rasuulkiinna
+salka dhiga guryaa seexda.
+
+Sunsun falan siddaa feyda
+sati fudud salaan sheegan
+indha suhub af geed saarrey
+hadba surin ka sheekeeya
+sidan iyo si baas yeela
+ereyada saluuggoo dhan
+kuma lihid Sahraay meella.
+Adigiyo intii seeran
+inta saahiddee dhawran
+inta gabadh sidaadaasa
+uma socoto weedhaydu.
+
+Sunbo iyo maraadaa leh
+inta sibiq dhaqaaqdaa leh
+sagan daaqa jiitaa leh
+inta marinka seegtaa leh
+waxba aan sugeyn baa leh
+inta sharafka saydhaa leh
+suuraafta maqan baa leh
+xadhig lama sitaan baa leh
+saca Faarsa nacay baa leh
+Barni sumal xadkeedaa leh.
+
+Heedhee Sahraay heedhe
+suugaantu iib maaha
+erey iyo sunnee maaha
+hugun iyo sitaad maaha
+siddi iyo i daya maaha
+sadho iyo xajiin maaha
+laba saaq ku gado maaha.
+Waxan seylad geyin weeye
+sahdi iyo dareen weeye
+bulsho saasaheed weeye
+samaheeda mudan weeye
+sawdkeeda diga weeye
+sacabkeeda kulul weeye
+marna baadi sooc weeye
+sahan iyo tilmaan weeye
+dhaxal soo jireen weeye
+wax ku saabsan meel weeye
+so'da iyo ka guro dhuuxa.
+
+Heedhee Sahraay heedhe
+sirta noloshu xoog maaha
+dhagar iyo suryee maaha
+surma seegto dedan maaha
+sibqi iyo hunguri maaha
+sacab iyo ka leef maaha
+sukhrad iyo fal xumo maaha
+hadba seeb u rogo maaha
+salfo iyo ku faan maaha
+damac iyo sandaho maaha
+derejiyo saldano maaha
 saro iyo dhalaal maaha
-| sidan iyo sidaas maaha Inan sabadu duugoobin
-hadda sadadu lacag maaha. sayax iyo ugbaad waayin |
-sudda iyo degaankaagu i
-: Heedhee Sahraay heedhe surmi iyo harraad yeelan |
-i bulsho saami loo tuurtay ama saacu guur-guurin—
-shan siyood wax loo yeelay sohda ceelku dheeraannin
-7: samir inay xigtaan maaha adaa yeeli kara saasba.
+sidan iyo sidaas maaha
+hadda sadadu lacag maaha.
+
+Heedhee Sahraay heedhe
+bulsho saami loo tuurtay
+shan siyood wax loo yeelay
+samir inay xigtaan maaha
 surka inay dhigtaan maaha
-sas inay didaan maaha Heedhee Sahraay heedhe
-| inay suudalaan maaha saxariirka aafaadka
-i sardho inay galaan maaha saxallada kal-meerkooda
-il sar inay dirtaan maaha sambabkuba col weeyaane
-Ad
-an
+sas inay didaan maaha
+inay suudalaan maaha
+sardho inay galaan maaha
+sixir inay dirtaan maaha
+inay kala saftaan maaha.
+Nin i sugayayow heedhe
+anigoo ku sugey heedhe
+maxaad ii sugtaa heedhe ?
 
-marka saymo loo iisho nin aqgoonta soorkeeda |
-ama soofku jaan qaado sida kale u rogey baa leh
-ushu way sabooshaaye, ninka sulubka maadhiinka
+Heedhee Sahraay heedhe
+marka haaddu socod deyso
+dhirta sare tukuu fuulo
+gorayadu sanqadha reebto
+adna soonka xidho maaha
+mugdi talada sii maaha
+berri iyo siday doonto
+sug cadceedda maqan maaha
+saqda dhexe habeen soocan
+gudcur simay adduunkeenna
+wax siraata noqo weeye.
+
+Heedhee Sahraay heedhe
+saranseerka jiilaalka
+surbacaadka jaahweynta
+sumal haadka roob waaga
+iyo solanka daaduunka
+cirka oo sabaad guurey
+dhulka oo huwadey siigo
+iyo dogobbo soogsoogan
+marka beladu sooyaanto
+saadaashu beenowdo
+saca nuguli kaa leexdo
+adna sebenka raac maaha.
+
+Inan sabadu duugoobin
+sayax iyo ugbaad waayin
+sudda iyo degaankaagu
+surmi iyo harraad yeelan
+ama saacu guur-guurin
+sohda ceelku dheeraannin
+adaa yeeli kara saasba.
+
+Heedhee Sahraay heedhe
+saxariirka aafaadka
+saxallada kal-meerkooda
+sambabkuba col weyaane
+marka saymo loo iisho
+ama soofku jaan qaado
+ushu way sabooshaaye,
+
+ha ku dagan sidsidadkeeda
+qalinkaa wax suureeya
+kugu sima halkaad doonto
+saaxiib kal furan weeye
+sunto fara ku hayntiisa
+weligaa ha sii deynin.
+Sisin iyo ku beer muufo
+iyo laanta saytuunka,
+ku qotomi sugnaan waarta
+iyo nabadda seeskeeda
+samo iyo ku doon heedhe
+dunidiyo sinnaanteeda.
+Ku dawee sawaaceenka
+iyo siica daacuunka
+ku burburi sarbaa mooska
+iyo soohdimaa meersan
+ku midee samuud raaca
+midabada la sooc soocay
+dadkan tobanka saamood leh.
+
+Weligaa ha tumin seefo
+iyo sabaradaa mowdka
+dar samaysan baa yaalla
+sancayahan gaboobaa leh
+sahankaynu diranaa leh
+nin sokeyeheenaa leh
+ninka sida xilkeennaa leh
+ka sarjara heddeennaa leh
+salab ciiddu hayn weydey
+ninka sudhay xiddigahaa leh
+nin sabuul la aayaysto
+dhulka siib ku ridin baa leh
+nin Sahraay adduunkeenna
+saacad gubi karaa haysta
+ninka sigay kun jeer baa leh
+waxa nolosha saameeya
+sako nimaan ka bixin baa leh
+nafta saawa-saawaysan
+santi nimaan ku furan baa leh
+nin aqoonta soorkeeda
+sida kale u rogey baa leh
+ninka sulubka maadhiinka
 ugu roon saboolkaa leh
-ha ku dagan sidsidadkeeda nin samaa ku adag baa leh
-galinkaa wax suureeya nin ku filan sal guurkaa leh
-kugu sima halkaad doonto sannadkaynu caydhowney
-saaxiib kal furan weeye kaynu suus ka weynaa leh
-sunto fara ku haynttisa naftu waa sir xeel dheere
-weligaa ha sii deynin. nimaan suubin karin baa leh
-. Sisin iyo ku beer muufo wedka qudha sameeyaa leh. |
-| iyo laanta saytuunka,
-ku gotomi sugnaan waarta Sula iyo xannuunkeeda
-iyo nabadda seeskeeda shalay iyo sadaaddeeda
-samo iyo ku doon heedhe iyo saawihii hoogga
-dunidiyo sinnaanteeda. naxdintii badh baa suuxsan |
-Ku dawee sawaaceenka selelkii badh baa waashay |
-iyo stica daacuunka dad sawaaban baa buuxa tod
-ku burburi sarbaa mooska dumar waayey saygooda | aie
-. iyo soohdimaa meersan hengashii sidaa muuqda
-; ku midee samuud raaca ololkii badh baan seexan
-: midabada la sooc soocay sarihii dumaa jiifa
-dadkan tobanka saamood leh. gabrigii sinmaa jeexan
-| waxa saaka joogow ah
-Weligaa ha tumin seefo surrad baa i guud taalla
-tyo sabaradaa mowdka salabkii horaa tuuran
-dar samaysan baa yaalla samadiyo dhulkaa buuxa
-sancayahan gaboobaa leh baddu waa sakalo miidhan
-| sahankaynu diranaa leh qalab suruc leh baa laalan
-nin sokeeyeheenaa leh sanqadhuhu hub kacay weeye
-ninka sida xilkeennaa leh sabarkii dadkaa baahan
-ka sarjara heddeennaa leh saantii dadkaa qaawan
-salab ciiddu hayn weydey weli talo ma saalloona
-| ninka sudhay xiddigahaa leh waxa soo socdaa yaab leh
-nin sabuul la aayaysto wershed suufiyaa daaran '
-dhulka siib ku ridin baa leh waxay soo siddaa geert
-nin Sahraay adduunkeenna midhaheedu waa saymo |
-| saacad gubi karaa haysta belo aan fan seeraarka
-‘ ninka sigay kun jeer baa leh saxar loo mar-maran weeye
-. waxa nolosha saameeya waxan ahay gof cayn saaban
-| sako nimaan ka bixin baa leh deldelaad u sudhan jeebka !.
-| . nafta saawa-saawaysan
-. santi nimaan ku furan baa leh
+nin samaa ku adag baa leh
+nin ku filan sal guurkaa leh
+sannadkaynu caydhowney
+kaynu suus ka weynaa leh
+naftu waa sir xeel dheere
+nimaan suubin karin baa leh
+wedka qudha sameeyaa leh.
 
-Allow yaa wax suureeya Sidashada awooddaasi a)
-salka dunida yaa dhawra sahal iyo wax fudud maaha ie
-iyo seeska jiriddeeda gofba waa si garadkiisa, .
-wacanaa acerca |
+Sula iyo xannuunkeeda
+shalay iyo sadaaddeeda
+iyo saawihii hoogga
+naxdintii badh baa suuxsan
+selekii badh baa waashay
+dad sawaaban baa buuxa
+dumar waayey saygooda
+hengashii sidaa muuqda
+olokii badh baan seexan
+sarihii dumaa jiifa
+qabrigii sinmaa jeexan
+waxa saaka joogow ah
+surrad baa i guud taalla
+salabkii horaa tuuran
+samadiyo dhulkaa buuxa
+baddu waa sakalo miidhan
+qalab suruc leh baa laalan
+sanqadhuhu hub kacay weeye
+sabarkii dadkaa baahan
+saantii dadkaa qaawan
+weli talo ma saalloona
+waxa soo socdaa yaab leh
+wershed suufiyaa daaran
+waxay soo siddaa geeri
+midhaheedu waa saymo
+belo aan fan seeraarka
+saxar loo mar-maran weeye
+waxan ahay qof cayn saaban
+deldelaad u sudhan jeebka !
+
+Allow yaa wax suureeya
+salka dunida yaa dhawra
+iyo seeska jiriddeeda
+wacanaa sansaankeeedu
 badanaa sudaaddeedu
-saxanaa hannaankeedu adda WORT ia
-Allow yaan sugnaanteeda iyo buurta saysaaban
-saymiyo u rogin duullan onkodkiyo sawaxanliten .
-subax noolba dhiig daata salowgiyo jibaadkiisa
-xadhig iyo silsilad shiilan danabkiyo salsalihiisa F
-| Allow yaan sinnaanteeda sarka dhabanka duufaanka {
-ku beddelin saraar oodan ha kadidin savant i}
-| ! iyo seere will qaytey duni kuu sakhiran weeye |
-dadka saaran guudkeeda sayid baad u tahay caana iq
-h yaan ka dhigin sabool qaawan suubaali oo layli
-iyo soobir caydh jooga ku sasabo aqoontaada
-SLO SOTE URE DON. senge iyo ka dhigo doonni
-Allow yaan ku jarin soodhka sallo iyo ka dhigo oori a
-f garashada ka dhigan seefo. gabadh weeye caad saaran i
-. badi saayiraaddeeda 1!
-Allow yaa su’aashaasi iyo laab salaaxeeda
-5 sida ay u tahay yeela. guro saadka guudkeeda
-| iyo sahayda uurkeeda
-} Heedhee Sahraay heedhe kordhi noole soorkeeda
-: dhulka iyo wixti saaran iyo baahi saarkeeda
-sare iyo wixii laalan hubi nabad sugnaanteeda
-inta sudan intii seemman iyo sabo negaanteeda,
-waxa jira sir tyo caadba ha ku dey lami alex te eh
-: Rabbi qudha sax weedhiisa ha ku badin saqaaf ciiddan
-m sida uu ku yidhi buuxi suluf iyo colaad waarta
-1 waxa hadhay salkiyo baarka ha ku saaxin naabaalka
-inta sool garsoon joogta lyO sulubka baaruudda
-iJ inta seel xidhxidhan jiifta ha ku didin sabbeeyaanka
-inta saydha waabayda sabareynka boodbooda :
-F maroodiga siddaa dheer leh lyo sukhula naareedka
-wiyil iyo sah boodkeeda ha la dhicin sawaariikhda
-ia inta laga subxaanaysto iyo saanadaa miiggan
-i kolay tahay libaax sayn leh ha sumayn macaankeeda
-marka aad Sahraay meel fog i
-: uga suul dhabaalayso salabaha ha marin doogga
-i. degdeg inay sujuuddaada ha burburin sansaankeeda
-a | suxullada dhigtaan weeye | quruxdiyo sureer. keeda i
-1 ha sadhayn hagoogteeda
+saxanaa hannaankeeedu
+Allow yaan sugnaanteeda
+saymiyo u rogin duullan
+subax noolba dhiig daata
+xadhig iyo silsilad shiilan
+Allow yaan sinnaanteeda
+ku beddelin saraar oodan
+iyo seere wiil qaytey
+dadka saaran guudkeeda
+yaan ka dhigin sabool qaawan
+iyo soobir caydh jooga
+erey sami wuxuu gooyo
+Allow yaan ku jarin soodhka
+garashada ka dhigan seefo.
 
-sagalkiyo daruurteeda . Wl
-ha sukuumin uunkeeda Nin ku yidhi anaa saasa |
-saryankiyo ugaadheeda ha ku odhan sidaas weeye |
-ha furfurin sin-dadabkeeda sida uu ku yidhi heedhe .
-ha ka rogin dul saarkeeda haddii ay siniin weydo
-udubbada ha siibsiibin ama sarin sanaan weydo
-ha afuufin suurkeeda waxa furan sidaas maaha
-subax qudha ha duuduubin r
-sakaraadka taaheeda gof saluugey maankiisa |
-uga xilo samaanteeda ama suufay muugiisa |
-4 sacabkiyo mashxaraddeeda ka sal kacay xagiiqdiisa |
-i | garashadu mid soofaysa gabku saami ladha maaha 7 }
+Allow yaa su'aashaasi
+sida ay u tahay yeela.
+
+Heedhee Sahraay heedhe
+dhulka iyo wixii saaran
+sare iyo wixii laalan
+inta sudan intii seemman
+waxa jira sir iyo caadba
+Rabbi qudha sax weedhiisa
+sida uu ku yidhi buuxi
+waxa hadhay salkiyo baarka
+inta sool qarsoon joogta
+inta seel xidhxidhan jiifta
+inta saydha waabayda
+maroodiga siddaa dheer leh
+wiyil iyo sah boodkeeda
+inta laga subxaanaysto
+kolay tahay libaax sayn leh
+marka aad Sahraay meel fog
+uga suul dhabaalayso
+degdeg inay sujuuddaada
+suxullada dhigtaan weeye !
+
+Sidashada awooddaasi
+sahal iyo wax fudud maaha
+qofba waa si garadkiisa.
+
+Heedhee Sahraay heedhe
+badda iyo sulaaqeeda
+iyo buurta saysaaban
+onkodkiyo sawaxankiisa
+salowgiyo jibaadkiisa
+danabkiyo salsalihiisa
+sarka dhabanka duufaanka
+ha ka didin sawaxankooda,
+duni kuu sakhiran weeye
+sayid baad u tahay caana
+suubaali oo layli
+ku sasabo aqoontaada
+senge iyo ka dhigo doonni
+sallo iyo ka dhigo oori
+gabadh weeye caad saaran
+badi saayiraaddeeda
+iyo laab salaaxeeda
+guro saadka guudkeeda
+iyo sahayda uurkeeda
+kordhi noole soorkeeda
+iyo baahi saarkeeda
+hubi nabad sugnaanteeda
+iyo sabo negaanteeda,
+ha ku deyin xannuun saaqa
+ha ku badin saqaaf ciiddan
+suluf iyo colaad waarta
+ha ku saaxin naabaalka
+iyo sulubka baaruudda
+ha ku didin sabbeeyaanka
+sabareynka boodbooda
+iyo sukhula naareedka
+ha la dhicin sawuariikhda
+iyo saanadaa miiggan
+ha sumayn macaankeeda
+salabaha ha marin doogga
+ha burburin sansaankeeda
+quruxdiyo sureerkeeda
+ha sadhayn hagoogteeda
+sagalkiyo daruurteeda
+ha sukuumin uunkeeda
+saryankiyo ugaadheeda
+ha furfurin sin-dadabkeeda
+ha ka rogin dul saarkeeda
+udubbada ha siibsiibin
+ha afuufin suurkeeda
+subax qudha ha duuduubin
+sakaraadka taaheeda
+uga xilo samaanteeda
+sacabkiyo mashxaraddeeda
+garashadu mid soofaysa
 ha ka dhigin sadqaynteeda
-| ha ku solo wanaaggeedu sant
-j ku sin inan-dumaalkeeda nin sitaba bar baa saaran
-kuwa saadanbee laalan. nin ka sit sitaa jooga
-| ragannimada sooceeda
-adigoo sagaal buuxshey
-Heedhee Sahraay heedhe hal ku seegay baa yaalla.
-: seben tegey xusuustiisa
-raad raaca Siinleyda
-. socod RaPSaHG bode NV a hes u kacay oogan
-| Saxarliyo abbaarteeda DS bf oF ay xalaaleeye
-; aaigenm vanes Gamavalls adna sahankan beel loogan
-: n ha ka dhigin socdaal baada
-F sannad iyo garaadkiisa g :
-f saadaashu been weeye
-waxba samir ma liileeyo In halkii sal hayn waayo
-ha sarwicin gof kaa jeeda laga saba rogtaa doora
-hana sugin nin kaa maarmay in su’aal jawaabteed leh
-hana sigan mar mooyaane lala sara kacaa fiican :
-nin ku siray ha faallaynin nin ku yidhi sinnaan mayno .
-. sababana ha weydiinnin adna buri sarrayntiisa
-ha u seeta dheeraynin sidka waa wadaagtaane |
-| hana sidin culayskiisa ma sagaashan baa tiisu.
-| sirig iyo ku qabo baydo |
-hana falin siduu yeelay. Selelkaba hurdaa keenta
-7 haba seexan goor baas leh
-i han sareedo loo waayey
-: in saraaye loo daayo
-ii sida aan u idhi weeye.
-‘i:
-a
+ha ku solo wanaaggeedu
+ku sin inan-dumaalkeeda
+kuwa saadanbee laalan.
 
-(Seat
-Bela saacaddeed joogta 4
-sabti nabada haw riixin D AALALLEY a)
-subax dhalatay caadkeeda Marka hore dad baan ah |
-ha ka bogan wax saarkeeda dad dad reebay baan ag .
-adiguba samee maanta dunji dhalan rogtaan ahay |
-berritona sargoo heedhe hadba fadal durkaan ahay
-noloshaba inaad saafto nebi dooran baan ahay
-gaabayso saabkeeda han dareersan baan ahay .
-| 4 waxan suura gelin maaha. hiyi durugsan baan ahay
-da’ da’deed u talisoo Ne
-| | Garashiyo sugnaan hoyso ugu damac fog ban ahay. |
-falka sami ha kuu raaco phe abi wada naal
-mana jiro sed kaa baaqday yh Ae eos deris nanny |
-ilbaxnimadu saas weeye Ta ee ahaa
-sirta noloshu taas weeye. haddii taas mid lagu daro |
-: ama daadku halis yahay .
-; inta mudan wax doorshaan
-inta daran u leeyahay. ;
+Heedhee Sahraay heedhe
+seben tegey xusuustiisa
+raad raaca Siinleyda
+socod barashadii doodda
+Saxarliyo abbaarteeda
+anigaan wax saaraynin
+sannad iyo garaadkiisa
+saadaashu been weeye
+waxba samir ma liileeyo
+ha sarwicin qof kaa jeeda
+hana sugin nin kaa maarmay
+hana sigan mar mooyaane
+
+nin ku siray ha faallaynin
+sababana ha weydiinnin
+ha u seeta dheeraynin
+hana sidin culayskiisa
+siriq iyo ku qabo baydo
+hana falin siduu yeelay.
+
+Nin ku yidhi anaa saasa
+ha ku odhan sidaas weeye
+sida uu ku yidhi heedhe
+haddii ay siniin weydo
+ama sarin sanaan weydo
+waxa furan sidaas maaha
+
+qof saluugey maankiisa
+ama suufay muuqiisa
+ka sal kacay xaqiiqdiisa
+qabku saami ladha maaha
+
+nin sitaba bar baa saaran
+nin ka sii sitaa jooga
+ragannimada sooceeda
+adigoo sagaal buuxshey
+hal ku seegay baa yaalla.
+
+Nin salaad u kacay oogan
+sahwi galay xalaaleeye
+adna sahankan beel loogan
+ha ka dhigin socdaal baada.
+
+In halkii sal hayn waayo
+laga saba rogtaa doora
+in su'aal jawaabteed leh
+lala sara kacaa fiican
+
+nin ku yidhi sinnaan mayno
+adna buri sarrayntiisa
+sidka waa wadaagtaane
+ma sagaashan baa tiisu.
+
+Seelelkaba hurdaa keenta
+haba seexan goor baas leh
+
+han sareedo loo waayey
+in saraaye loo daayo
+sida aan u idhi weeye.
+
+Bela saacaddeed joogta
+sabti nabada haw riixin
+
+subax dhalatay caadkeeda
+ha ka bogan wax saarkeeda
+adiguba samee maanta
+berritona sargoo heedhe
+noloshaba inaad saafto
+qaabayso saabkeeda
+waxan suura gelin maaha.
+
+Garashiyo sugnaan hoyso
+falka sami ha kuu raaco
+mana jiro sed kaa baaqday
+ilbaxnimadu saas weeye
+sirta noloshu taas weeye.
+
+### DAALALLEY
+
+Marka hore dad baan ahay
+dad dad reebay baan ahay
+dunji dhalan rogtaan ahay
+hadba fadal durkaan ahay
+nebi dooran baan ahay
+han dareersan baan ahay
+hiyi durugsan baan ahay
+da' da'deed u talisoo
+ugu damac fog baan ahay.
+Dunidaannu wada naal
+noloshaannu deris nahay
+dalandoolka geeddiga
+dan qudhaan u jeedaa
+haddii taas mid lagu daro
+ama daadku halis yahay
+inta mudan wax doorshaan
+inta daran u leeyahay.
 Dab waxaa ku guban kara,
-is inuu daaro mooyee
-if nimaan xeel ku damin karin
-4 docse aniga way wehel
+inuu daaro mooyee
+nimaan xeel ku damin karin
+docse aniga way wehel
 iyo dulucda guulaha
 intaan daw ku laalla.
+
 Daray waarayaan ahay
-. duufaanku ima lulo
-; dulin hoose ima galo
-. dardaraale ima rido
-| digdig beena kuma rugo
+duufaanku ima lulo
+dulin hoose ima galo
+dardaraale ima rido
+digdig beena kuma ruqo
 cirka danab ka soo dhacay
-i deli igama raarrido
-¥ kuma dumo tab iyo xeel
-| dibin daabyo mooyee
-digaxaadhku ima tiro |
+deli igama raarrido
+kuma dumo tab iyo xeel
+dibin daabyo mooyee
+digaxaadhu ima tiro
 nin danaystay ima tebo
-| nin darjiidhay kama naxo
-it nin u go’ay daraadday
-is isba garey daraadday -
-in dalleemo lagu huro. i
-he
+nin darjiidhay kama naxo
+nin u go'ay daraadday
+isba garey daraadday
+in dalleemo lagu huro.
 
 nin dushayda ku xajiyey
-iska daansha daanshoo uma dudu karaankiyo
-siduu tigu diran yahay waxaan daafad loo hayn. |
-ayuu tigu dagan yahay
-nin Dagaar fog iga koray Dogonkana anaa xila
-anaa daaf u soo roga si aan dawga uga xidho
-marna waxaan dammiintaa waracana anaa dira
-nin dil tigu xidhan geed. si daddaabba lagu furo
-damacana anaa dhiga
-Danni kuma tallaabsado lee pions Se
-wax dahsoonna uma tago duudsigayga kuma helo
-demmanida shil kama dhigo wuxuu doonayee baas.
+iska daansha-daanshoo
+siduu iigu diran yahay
+ayuu iigu dagan yahay
+nin Dagaar fog iga koray
+anaa daaf u soo toga
+marna waxaan dammiintaa
+nin dil iigu xidhan geed.
+
+Danni kuma tallaabsado
+wax dahsoonna uma tago
+demmanida shil kama dhigo
 ma agaanno digashada
-haddaan lay dardaar werin. Ninka ii darraadow
-anba waw darsanayaa
-Dib waxaan u dhigan karo dibin-daabyadaadee 4
-degdeggeeda kuma qalo tirtirsiga ha iga deyn. id
+haddaan lay dardaar werin.
+
+Dib waxaan u dhigan karo
+degdeggeeda kuma qalo
 waxaan daadshey baa jira
-intaan daastey baa badan. Carrab dananka laasima
-/ Daymadaydu waa gelin wacdi dowdab lagu yidhi
-duur-xulkaygu waa seben ninka ti dudubiyow
-» dul-qaadkaygu waa guun kuma deexdo hadalkee
-digniintaydu waa bogol wax kaloon daneeyoon
-diidmadaydu waa kow ku damqado ma haysaa.
+intaan daastey baa badan
+Daymadaydu waa gelin
+duur-xulkaygu waa seben
+dul-qaadkaygu waa guun
+digniintaydu waa bogol
+diidmadaydu waa kow
 hadday daahdo waa laba.
-Duni aanan weli maqal
-Se IUST era haae are eS
-qofna iguma deegee ORE
-dalabtaanan moogeyn bees or mice 4
-inaan dayro lagu mudan bi seipmaieatic ots 4
-: ux la’aanta gadantee
-gofna xagal ka daaciyo
-dal-daloolka kuma naco wax intaas ka door roon |
-nin la yimi dedaalkiis la dugsado ma hidisaa?
+
+Dardartiisa gaarka ah
 anigaa wax ugu dara
-MANO WaNcah daboolia Waxaan daanka soo marin
-' xubnihiisa derida leh. dalgadaaba celisee
-| wax dareenku iga jiro
-ninka ti dardarayow
-| Dedda kaca hayaan dheer taas dameero ap sheeg
-iin nin dekaanka ila lumay dirxi iima dhuuntee |
-1 inaan soo duwaa furan midho daray nin jecelow |
-iif hadduu daal la kala dhaco ku lig adigu duuduub.
+marna waxaan daboolaa
+xubnihiisa derida leh
+hadduu daal la kala dhaco
 dul la saaro kuma gabo
-nn ER ee E—E—E—EEEEEEE ee
+uma dudu karaankiyo
+waxaan daafad loo hayn.
 
-Ninka dayday kaga dhacay sharcigeeda dura baxay
-dad intuu u xilan jirey dawadaydu kuma taal,
-noloshiisu duug ma leh. da’day maanta joogtana
-haddii loo kitaab dayo |
-Bad daruuran baan ahay oh Epes lane
-laygama dabbaashee malaa waa dugowdee se
-ninka doonidaydii haddii layska deyn laa
-kala degey halkiisow dulmigay ku tarantoo
-anba doonnidaadii dacawooyinkaa badan
-kala degey hankaygii. bogol baa ku daba jira! |
-Intuu daalac leeyahay
-Damdamiiyo shirqoollada ninka doonan karayaa
-dirashada dhufaannada dacwad goro ma liqi karo.
+Doqonkana anaa xila
+si aan dawga uga xidho
+waracana anaa dira
+si daddaabba lagu furo
+damacana anaa dhiga
+wuxuu doonayee baas.
+
+Ninka ii darraadow
+anba waw darsanayaa
+dibin-daabyadaadee
+tirtirsiga ha iga deyn.
+
+Carrab dananka laasima
+wacdi dowdab lagu yidhi
+ninka ii dudubiyow
+kuma deexdo hadalkee
+wax kaloon daneeyoon
+ku damqado ma haysaa
+
+Duni aanan weli maqal
+nin i daawisiiyow
+kuma arag daraandaro
+midabbada dalxiiskiyo
+ku dalaysan dheehee
+dux la'aanta gadantee
+wax intaas ka door roon
+la dugsado ma hidisaa?
+
+Waxaan daanka soo marin
+dalgadaaba celisee
+wax dareenku iga jiro
+ninka ti dardarayow
+taas dameero loo sheeg
+dirxi iima dhuuntee
+midho daray nin jecelow
+ku lig adigu duuduub.
+
+Ninka dayday kaga dhacay
+dad intuu u xilan jirey
+noloshiisu duug ma leh.
+
+Bad daruuran baan ahay
+laygama dabbaashee
+ninka doonidaydii
+kala degey halkiisow
+anba doonnidaadii
+kala degey hankaygii.
+
+Damdamtiyo shirqoollada
+dirashada dhufaannada
 shaxda dalagta lawlaban
-waa laygu dagayaa Marka deelba deel cuno
-xadhig qoob la duulaa anaa tayda diirtee
-marba lay debcinayaa, toban daawo lala galo
-nin i deydeyaayow derejiyo xil lagu taxo
-. dhulka qaar ha iga deyin ama duunyo lagu qubo
-: nin dorraad ogsoonaa uma korin darmaantee re
-halkii Daado lala maray waxaan duullan u cuskaday: —
-Jidh dubaaxi maayee
-nin gar tigu dudayow Idan dive kaibubiebare
-dermo haygu kala bixin, Boole | aoe Riptide
-fad whe E Be 208d inaan dood ka odhan karo
-duqaydiyo wax garadkii inaan daahan garan karo
-dhulka ugu da’weyneyd dibnahayga bari karo
-dunbukh baan u dhiiboo in la diidi karo yeel j
-meyd bay dul yaallee | |
-miyaan geedka damalka anigiyo dedaalkay I
-dooyaysan karayaa. inaan door ka filan karo a
-Naxariisi kuma duxin aetna ee
-1 es eee a inaan roob i daba maray
-it daloolaan ‘isu igu digan
-ii damqashaa ku dhalisee pt HSE
-Hy dayo toobad laga filo debeciyo is dhigashada
-I denbigeedu ma oggola haddaan duulo halabsiga
-| dawliilka hadalkay inaan hoos u degi karo
-a | | nin qabow ku durataa dersi qudha ka dhigo laba
-il wax u dihin shar baa jira
+waa laygu dagayaa
+xadhig qoob la duulaa
+marba lay debcinayaa,
+nin i deydeyaayow
+dhulka qaar ha iga deyin
+nin dorraad ogsoonaa
+halkii Daado lala maray
+jidh dubaaxi maayee
+nin gar iigu dudayow
+dermo haygu kala bixin,
+duhur lays hor-joogaa
+la'i deedafeeyoo
+duqaydiyo wax garadkii
+dhulka ugu da'weyneyd
+dunbukh baan u dhiiboo
+meyd bay dul yaallee
+miyaan geedka damalka
+dooyaysan karayaa.
 
-dakharrada kol igu dhacay below doorkan maanta ah ;
-misna inaanay doog noqon adaan daacad kuu ahay
-ilaa daayin igu shidan haddii laygu kaa diro
-digashaan ka dhigayaa
-daribtayda malabka leh adna diid nin kula fagay,
+Naxariisi kuma duxin
+dhegihii dorraatee
+hadday ii daloolaan
+damqashaa ku dhalisee
+dayo toobad laga filo
+denbigeedu ma oggola
+dawliilka hadalkay
+nin qabow ku durataa
+wax u dihin shar baa jira
+sharcigeeda dura baxay
+dawadaydu kuma taal,
+da'day maanta joogtana
+haddii loo kitaab dayo
+waxay daaqdo mooyee
+waxay deeqdo lama cuno
+malaa waa duqowdee
+haddii layska deyn laa
+dulmigay ku tarantoo
+dacawooyinkaa badan
+boqol baa ku daba jira!
+Intuu daalac leeyahay
+ninka doonan karayaa
+dacwad qoro ma liqi karo.
+
+Marka deelba deel cuno
+anaa tayda diirtee
+toban daawo lala galo
+derejiyo xil lagu taxo
+ama duunyo lagu qubo
+uma korin darmaantee
+waxaan duullan u cuskaday:
+
+Inaan duug ku hubin karo
+madal iyo shir ila da'a
+inaan dood ka odhan karo
+
+inaan daahan garan karo
+dibnahayga bari karo
+in la diidi karo yeel
+
+anigiyo dedaalkay
+inaan door ka filan karo
+
+anoo doogsin cararkii
+la durduriyey haamaha
+inaan roob i daba maray
+ufadiisu igu digan
+
+debeciyo is dhigashada
+haddaan duulo halabsiga
+inaan hoos u degi karo
+dersi qudha ka dhigo laba
+
+dakharrada kol igu dhacay
+misna inaanay doog noqon
+ilaa daayin igu shidan
+
+daribtayda malabka leh
 in dugaaggu nici karo
-Samana waysu dihinnahay
-inaan doogistaydiyo gabadh ii dambaysoo
-danahayga labadaba ii doonnan weeyaan
-nin direyska igu qaba waxaan dayday leeyahay
-dummaddiisa lagu xidhin degmo lagu aroosiyo
-gole lagu dabbaal dego.
-dad inaanu kala nogon
-dangalooyin kala jira Dibno iima gooyaan
-dakanooyinkaygee
-| si la dayaba aayaha laba daw mid iga xidhan
-dur u tuuran maayee ' ,
-| dufan iyo nin jecelow iga dayrsan nacasnimo NN
-rido adigu daabaca. iga deyran lahashadu .
-a iga duuban googoos
-Laba duni ku kala mudan boholyowna iga dedan.
-dogonkaba u kala mida
-waxaan doortay taydee Ha is deyso gqiil ma leh
-dirgan waaga hurisada dushaa layska eegtaa
-magqashaa is dadabtoo dib baa laysu eedaa y
-dalanbaabi noqgotee haba diillin badatee
-dib u guuri maayee shaxi duud u kala rogan .
-nin da’ furay kalkiisow siba deleb u kala guran i
-dalka waan agaannaa weligaa ha igu degin i
-bahal iga da’weynoo godka daraya qoolka leh i
-dad cunii ma joogee daran doorri nabarrada
-ma didee hargoolow xagga hore u dalandali |
-haygu tumin durbaannada ha durduuratee sii
-. iyo daasadaa madhan. ha is daashatee lali
-. ha is daasatee hubi.
-7 Talo duubka laga furay
-degdeggana wax lagu faray Dadna wada dad maahee |
-at tyadaa durduro falan dalladaa habeenkiyo
-| sebenkay derderan tahay danbas buu huwanayee
-|| xadhko lagu dabbaaliyo sawnigii rag kala diray.
-a | qabashiyo diddii ma leh
-a | dib waxay ka nogotaba
-r———s SESE
 
-Kuwa dayrta iyo guga | Haddaan doohba lay barin
-sida diinka sugayow dibso yaa i odhan kara ?
+inaan doogistaydiyo
+danahayga labadaba
+nin direyska igu qaba
+dummaddiisa lagu xidhin
+
+dad inaanu kala noqon
+dangaloooyin kala jira
+
+si la dayaba aayaha
+dur u tuuran maayee
+dufan iyo nin jecelow
+rido adigu daabaca.
+
+Laba duni ku kala mudan
+doqonkaba u kala mida
+waxaan doortay taydee
+dirgan waaga hurisada
+maqashaa is dadabtoo
+dalanbaabi noqotee
+dib u guuri maayee
+nin da' furay kalkiisow
+dalka waan aqaannaa
+bahal iga da'weynoo
+dad cunii ma joogee
+ma didee hargoolow
+haygu tumin durbaannada
+iyo daasadaa madhan.
+
+Talo duubka laga furay
+degdeggana wax lagu faray
+iyadaa durduro falan
+sebenkay derderan tahay
+xadhko lagu dabbaaliyo
+qabashiyo diddii ma leh
+dib waxay ka noqotaba
+below doorkan maanta ah
+adaan daacad kuu ahay
+haddii laygu kaa diro
+digashaan ka dhigayaa
+adna diid nin kula faqay.
+
+Samana waysu dihinnahay
+gabadh ii dambaysoo
+ii doonnan weeyaan
+waxaan dayday leeyahay
+degmo lagu aroosiyo
+gole lagu dabbaal dego.
+
+Dibno iima gooyaan
+dakanooyinkaygee
+laba daw mid iga xidhan
+
+iga dayrsan nacasnimo
+iga deyran lahashadu
+iga duuban googoos
+boholyowna iga dedan.
+
+Ha is deyso qiil ma leh
+dushaa layska eegtaa
+dib baa laysu eedaa
+haba diillin badatee
+shaxi duud u kala rogan
+siba deleb u kala guran
+weligaa ha igu degin
+godka daraya qoolka leh
+daran doorri nabarrada
+xagga hore u dalandali
+ha durduuratee sii
+ha is daashatee lali
+ha is daasatee hubi.
+
+Dadna wada dad maahee
+dalladaa habeenkiyo
+danbas buu huwanayee
+sawnigii rag kala diray.
+
+Kuwa dayrta iyo guga
+sida diinka sugayow
 anaa daaqa cawskoo
-ku higsada daruurtee Rag dasa nanan
-ka hadh-gala diraacaha. Debi guuli lil dirin
-ama duubi wada jabin
-Nimaan diiftu saarrayn isma dooda dhuuxdee
-dusha sare ka qolof dhicin marka dhaylo dubantee
-dubatadu ku shaacnayn digsi xanan kulkaan bado
-nimaan daawa shiillayn iska rogo daboolkee
-fadhi dagagar yeeshaan
-ama degel ku sheellayn garan dooca hadalkee
-ama dibad ku sheegnayn debci qorigu hay faro.
+ku higsada daruurtee
+ka hadh-gala diraacaha.
+
+Nimaan diiftu saarrayn
+dusha sare ka qolof dhicin
+dubatadu ku shaacnayn
+nimaan daawa shiillayn
+
+ama degel ku sheellayn
+ama dibad ku sheegnayn
 daymadaydu suurayn
-waxaa loogu digayaa Dirirtaan dhanna u dhicin
-dohdu Waamo maahee dillo aan cuskanoo
-dirir baa ka socotee dabar ugu badheedhaa
-bi firdhisada iskaga durug. docna ima hor-taallee
-waxaan dani i yeelsiin
-se Markaidirincabaabsivo is dugaashan maynoo
-isma dayada dhiifta leh daiqad baa ka taallee
-iyo duraha jiilaal ilaa laysu deyn baxo
-dayawgiyo kulka is wada waa duurxul nabadduye
-doorsoonka garashada CSE is dili kara
-daadduunka nugulkiyo duco qaadan maayoo |
-dac ku dhiidhigeediyo nolol kuma dardaarmee
-dar-wisiisigeediyo haba diirran oloshoo i
-danbabeera rugankiyo danba haw gilgilatee ‘ i)
-daabaan u jedankiyo aaway dawladdii Xamar : .
-duul duulka Jaahweyn "
-anigaa ka doogoo Dugri may maqlaysaa !
-weligay danbeeyee daratiyo kud iyo caal
-dhulka deexda dharabka leh durey iyo kul iyo daaf
-nin dallaallimaystow waxaad duumo hidisiyo
-} dad anaa ku hadhayee | waxaad hayso daacuun
-dhanka kale u diga rogo. annagaa daweynee
-it | dabaq qudha isugu gee
-11! Anoo daaya m ha ka tegin duruustay
-} eOtobtey te daliiye rag saga fala
-dadab yaa ku xidhi kara ? isku soo daroo keen
-a | Anoo daadsha mooyee
+waxaa loogu digayaa
+dohdu Waamo maahee
+dirir baa ka socotee
+firdhisada iskaga durug.
+
+Marka dirir gabaabsiyo
+isma dayada dhiifta leh
+iyo duraha jiilaal
+dayawgiyo kulka is wada
+doorsoonka garashada
+daadduunka nugulkiyo
+dac ku dhiidhigeediyo
+dar-wisiisigeediyo
+danbabeera ruqankiyo
+daabaan u jedankiyo
+duul duulka Jaahweyn
+anigaa ka doogoo
+weligay danbeeyee
+dhulka deexda dharabka leh
+nin dallaallimaystow
+dad anaa ku hadhayee
+dhanka kale u diga rogo.
+
+Anoo daaya mooyee
+godobteyda daah iyo
+dadab yaa ku xidhi kara ?
+Anoo daadsha mooyee
 dabka yayga dhigi kara ?
 
-cirka sare badh soo dumi Marka toban la dooxaba
-Waxad hayso soo daa! annagaa kun dihannoo
-badhba diir u gelinnee
-Dala’siga xanuunka leh dubta beerka caydiga,
+Haddaan doohba lay barin
+dibso yaa i odhan kara ?
+
+Rag dagaal isugu yimi
+haddaan guuli kala dirin
+ama duubi wada jabin
+isma dooda dhuuxdee
+marka dhaylo dubantee
+digsi xanan kulkaan bado
+iska rogo daboolkee
+fadhi dagagar yeeshaan
+garan dooca hadalkee
+debci qorigu hay faro.
+
+Dirirtaan dhanna u dhicin
+dillo aan cuskanoo
+dabar ugu badheedhaa
+docna ima hor-taallee
+waxaan dani i yeelsiin
+is dugaashan maynoo
+dalqad baa ka taallee
+ilaa laysu deyn baxo
+waa duurxul nabadduye
+anigoo wax dili kara
+duco qaadan maayoo
+nolol kuma dardaarmee
+haba diirran oloshoo
+danba haw gilgilatee
+aaway dawladdii Xamar ?
+
+Duqri may maqlaysaa
+daratiyo kud iyo caal
+durey iyo kul iyo daaf
+waxaad duumo hidisiyo
+waxaad hayso daacuun
+annagaa daweynee
+dabaq qudha isugu gee
+ha ka tegin duruustay
+rag isaga danbeeyeen
+isku soo daroo keen
+
+cirka sare badh soo dumi
+Waxad hayso soo daa!
+
+Dala'siga xanuunka leh
 dadnimaa ka dhalatee
-nolol aan ku dirirree Dunqulaalka madagtiyo
-darxumooyin nagu fala. xoloddada ka daba hura
-Aan doombir qodannee annagaa ku daarroo
-durdurrada si naga dhaha. qaybo degel gufeynoo
-Dhirta aanu daaqnee duni kale abuurree
-guba dalagga beeraha duddun waayi maynee,
-dekedoo dhan naga xidha. idinkaa wax dumiyee
-Aan diinka qalannee daari yaanay taagnaan.
+nolol aan ku dirirree
+darxumooyin nagu fala.
+Aan doombir qodannee
+durdurrada si naga dhaha.
+Dhirta aanu daaqnee
+guba dalagga beeraha
+dekedoo dhan naga xidha.
+Aan diinka qalannee
 cagta mariya duunyada.
-Idinkaa degdegayoo
-Aan direyska jamannee nafta doojinaayoo
-dirka maradu leedahay dithaal la sahayee |
-duni yaanay nagu hadhin. dux halkaa ku aragtaan
-Marka salabku deeddamo dardarsada wadaamaha
-daran doorri laba dhaco isku lura daldalalashada.
+
+Aan direyska jamannee
+dirka maradu leedahay
+duni yaanay nagu hadhin.
+Marka salabku deeddamo
+daran doorri laba dhaco
 ardadaa dillaantee
-dadku haysu boodee Docolkiyo hareeriga
-ku dalbada hubka is wada . annagaa ka diirree
-furta dahabka ooryaha
-Dawersaad ku dhagataa iyo duluca gaarida.
-dixda dhagaxa yaalliyo Diriciyo malkhabadaha
-dogob aan ku furannoo kala baxa dukaannada.
-farsamooyin dayannee ;
-keen dabbaabadii hadhay. Inta lagu dekeeyiyo
-inta lagu dingiigsado |
-; Cabsi iyo dardaan iyo inta daabac lagu dhigo
-dacwad iyo baroor iyo in durraaxad lagu simo
-dugey yeedhi maysoo adaa dawladee guro.
+dadku haysu boodee
+ku dalbada hubka is wada .
+
+Dawersaad ku dhaqataa
+dixta dhagaxa yaalliyo
+dogob aan ku furannoo
+farsamooyin dayannee
+keen dabbaabadii hadhay.
+
+Cabsi iyo dardaan iyo
+dacwad iyo baroor iyo
+dugey yeedhi maysoo
 hengel waa la daayee
-ha mashxarado dumarkuye Anna weliba deeqdaas
-deldelaadda bogol bogol waxaan kuugu darayaa
-kala daran isugu xidha. inta igu dul-saarka ah.
-J
-i . Dacartaa ku shidantee Marka ay dibbootee
-. ha darrooro hilibkuye nin hagraday ka dayrshee
-daldaloosha xididdada. dugsi looga leexdaan
+ha mashxarado dumarkuye
+deldelaadda boqol boqol
+kala daran isugu xidha.
+
+Dacartaa ku shidantee
+ha darrooro hilibkuye
+daldaloosha xididdada.
+
+Marka toban la dooxaba
+annagaa kun dihannoo
+badhba diir u gelinnee
+dubta beerka caydiga.
+
+Dunqulaalka madagtiyo
+xoloddada ka daba hura
+annagaa ku daarroo
+qaybo degel gufeynoo
+duni kale abuurree
+duddun waayi maynee,
+idinkaa wax dumiyee
+daari yaanay taagnaan.
+
+Idinkaa degdegayoo
+nafta doojinaayoo
+diihaal la sahayee
+dux halkaa ku aragtaan
+dardarsada wadaamaha
+isku lura daldalalashada.
+
+Docolkiyo hareeriga
+annagaa ka diirree
+furta dahabka ooryaha
+iyo duluca gaarida.
+Diriciyo malkhabadaha
+kala baxa dukaannada.
+
+Inta lagu dekeeyiyo
+inta lagu dingiigsado
+inta daabac lagu dhigo
+in durraaxad lagu simo
+adaa dawladee guro.
+
+Anna weliba deeqdaas
+waxaan kuugu darayaa
+inta igu dul-saarka ah.
+
+Marka ay dibbootee
+nin hagraday ka dayrshee
+dugsi looga leexdaan
 daba geli aqaannaa.
-lee > te
 
-Markay ciinka daaqdaan Dhabbadi |
-ROE ger ss 'yo Gal-dogob iyo
-dabka ugu xiddigiyaa. | digtii awrayaal iyo aot
-Nin dumaala baan ahay | dirnanibaanien ahaaveay, .
-degel fule ka bara kacay. | |
-Nin ku diirsadaan ahay . |
-maalintay u daran tahay. Birjeex deedankeedii |
-laga diday kulkeediyo
-Marka daawad lala tago | degsan baan ku dhaartay
-nin didsani iskaga hadho Lixle damacyadiisii |
-annagaa ku dirirroo | diric Ina Saleebaan |
-halka daran ku dhicinoo | duxan baan ku dhartay.
-sida loogu dabar go’ay
+Markay ciinka daaqdaan
+dabka ugu xiddigiyaa.
+Nin dumaala baan ahay
+degel fule ka bara kacay.
+Nin ku diirsadaan ahay
+maalintay u daran tahay.
+
+Marka daawad lala tago
+nin didsani iskaga hadho
+annagaa ku dirirroo
+halka daran ku dhicinoo
+sida loogu dabar go'ay
 Deelley ka tirinnee
-Ifkuu Xaamud *8 daariyo
-/ nin debcow dhan uga guro. Khaliif®* doorraneityo
-| ) digan baan ku dhaartay.
-| Dibadda iyo gudahaba
+nin debcow dhan uga guro.
+
+Dibadda iyo gudahaba
 dacallada hor iyo gees
-doc kastaba adoo jira Hurre *> doonnantiisii
-isu baydh dad-qalatoy. Gurey Ina Dawaarriyo *©
-Isku daya kas iyo maag | dar kalaan ku dhaartay.
-inaad xeesha dalabta leh | i i
-igu laba dibleysaan. 7 adhioe ust
-Isku duuba gorigiyo Islow *” dara-dhigiisii Z
-birtaan daabka haystiyo danab Aadan Shiiniyo
-midigtayda daalacan. dadban baan ku dhaartay.
-Rabbi derejadiisiyo Karuur >? duur-xulkiisii
-| deeqdiisa culus iyo iyo damalki Koosaar i
-diintaan ku dhaartay. dedan baan ku dhaartay. 4
-Culimada ducaysee sieht
-{ lagu hubo daliilkee Dil-dillaanka dhiiggiyo
-; digridaan ku dhaartay. inta nacabku dooxee
-dahan baan ku dhaartay. .
+doc kastaba adoo jira
+isu baydh dad-qalatoy.
+Isku daya kas iyo maag
+inaad xeesha dalabta leh
+igu laba dibleysaan.
+Isku duuba qorigiyo
+birtaan daabka haystiyo
+midigtayda daalacan.
+
+Rabbi derejadiisiyo
+deeqdiisa culus iyo
+diintaan ku dhaartay.
+
+Culimada ducaysee
+lagu hubo daliilkee
+digridaan ku dhaartay.
+
 Xilka dawladnimadiyo
-dalka iyo shinkiisiyo ET eet s
-| ixle-wa amed Xaashi Di
-dad leh baan ku dhaar lay. - ne Coa Bl Sciauaaie Maxamed
-. 53 Xaammud-waa Mariah epee Yaasiin
-‘ - ooddig ul Mandheeree $5 Pee nana Xai Xason Hunts: eee a
-aga qaxay dayaankiyo 56 Gurey ina Dawaarre-waa ue aar F aa "
-| darban baan ku dhaartay. 38 Pirnegrecaecceaie ety! Nae ShCabdillahi F
-59 Karuur-waa Cabdi Sheek Jaamac ‘
-60 Koosaar-waa Cabdilqaadir Koosaar Cabdi ;
-i)
+dalka iyo shinkiisiyo
+dad leh baan ku dhaartay.
 
-Inta daaha dhagartiyo Deebaanka noloshiyo |
-ku xidh-xidhan dalluuntee diiwaanka nabaddiyo |
-dabran baan ku dhaartay. duuggaan ku dhaartay.
-Dalan-doolka caydhiyo Dil-dillaaca waagiyo
-dingaraarka mudankiyo dabka iyo cadceeddiyo
-dibjirkaan ku dhaartay. dayaxaan ku dhaartay.
-ss Inta cadowgu dayrshee ay.
-. ae Qalinkiyo dawaaddiyo
-dibadaha u hoyatee dugsiyada aqoontiyo
-vi dulman baan ku dhaartay. dawankaan ku dhaartay.
-Agallada daloolee
-Wy Doolaabo huruddee eae patie te
-H dansan baan ku dhaartay. nan se A nae as rtay.
-A Garashada dareenkiyo :
-1 inta laga dab-qaatee Dar, i iyo wadaantiyo
-| axe inta doojinaysiyo
-| ARIES GARGTT AY, dawliskaan ku dhaartay.
-- Dacar iyo ladh jiifiy Digirtiyo galleydiyo 4
-inta donee laa durdurrada waraabshiyo
-damaqdaan ku dhaartay. dibigaan ku dhaartay.
-Dhulka hanad ka duuliyo Inta dhididku deegee
-Duriyaan ku dhaartay, dan xalaala jiratiyo
-Daalacaan ku dhaartay. dubbahaan ku dhaartay.
-Dar-daraa barbaartiyo Da’da soo kacaysee i
-inta dirirta geydee dummaddayda xilatee nt
-diran baan ku dhaartay. dagan baan ku dhaartay. i
-, sr oaleaantoe egankiye Hirka Daalalleydiyo
-araanta godobtiyo dersan iyo Rashiid iyo
-. dunbukhaan ku dhaartay, dulucdaan ku dhaartay.
-j ee eee Inta diib is marisiyo
-il ET QGLY G. naxariista dunidiyo
-daacaddaan ku dhaartay, dumarkaan ku dhaartay.
-it |
+Dooddigii Mandheeree
+laga qaxay dayaankiyo
+darban baan ku dhaartay.
 
-Dab haddaad hunqaacdiyo Adoo dool dhaqaagqiyo
-haddaad daacdo dhabataba adoo daata mooyee |
-haddaad adigu doontiyo damac waa halkiisii
-haddaad adigu diiddaba dabna waa dabkiisii.
+Dhabbad iyo Gal-dogob iyo
+digtii awrayaal iyo
+duman baan ku dhaartay.
+
+Birjeex deedankeedii
+laga diday kulkeediyo
+degsan baan ku dhaartay
+Lixle damacyadiisii
+diric Ina Saleebaan
+duxan baan ku dhaartay.
+
+Ifkuu Xaamud daariyo
+Khaliif doorrankiisiyo
+digan baan ku dhaartay.
+
+Hurre doonnantiisii
+Gurey Ina Dawaarriyo
+dar kalaan ku dhaartay.
+
+Islow dara-dhigiisii
+danab Aadan Shiiniyo
+dadban baan ku dhaartay.
+
+Karuur duur-xulkiisii
+iyo damalki Koosaar
+dedan baan ku dhaartay.
+
+Dil-dillaanka dhiiggiyo
+inta nacabku dooxee
+dahan baan ku dhaartay.
+
+Inta daaha dhagartiyo
+ku xidh-xidhan dalluuntee
+dabran baan ku dhaartay.
+
+Dalan-doolka caydhiyo
+dingaraarka mudankiyo
+dibjirkaan ku dhaartay.
+
+Inta cadowgu dayrshee
+dibadaha u hoyatee
+dulman baan ku dhaartay.
+
+Aqallada daloolee
+Doolaabo huruddee
+dansan baan ku dhaartay.
+
+Garashada dareenkiyo
+inta laga dab-qaatee
+i dirtaan ku dhaartay.
+
+Dacar iyo ladh jiifiyo
+inta doogta kicisee
+damaqdaan ku dhaartay.
+
+Dhulka hanad ka duuliyo
+Duriyaan ku dhaartay,
+Daalacaan ku dhaartay.
+
+Dar-daraa barbaartiyo
+inta dirirta geydee
+diran baan ku dhaartay.
+
+Dedda-ruxanka maankiyo
+daaraanta godobtiyo
+dunbukhaan ku dhaartay.
+
+Doodaha sinnaantiyo
+dimuqraaddinimadiyo
+daacaddaan ku dhaartay.
+
+Deebaanka noloshiyo
+diiwaanka nabaddiyo
+duuggaan ku dhaartay.
+
+Dil-dillaaca waagiyo
+dabka iyo cadceeddiyo
+dayaxaan ku dhaartay.
+
+Qalinkiyo dawaaddiyo
+dugsiyada aqoontiyo
+dawankaan ku dhaartay.
+
+Dalawada la maaliyo
+daableyda gudintiyo
+doobigaan ku dhaartay.
+
+Darka iyo wadaantiyo
+inta doojinaysiyo
+dawliskaan ku dhaartay.
+
+Digirtiyo galleydiyo
+durdurrada waraabshiyo
+dibigaan ku dhaartay.
+
+Inta dhididku deeqee
+dan xalaala jiratiyo
+dubbahaan ku dhaartay.
+
+Da'da soo kacaysee
+dummaddayda xilatee
+dagan baan ku dhaartay.
+
+Hirka Daalalleydiyo
+dersan iyo Rashiid iyo
+dulucdaan ku dhaartay.
+
+Inta diib is marisiyo
+naxariista dunidiyo
+dumarkaan ku dhaartay.
+
+Dab haddaad hungaacdiyo
+haddaad daacdo dhabataba
+haddaad adigu doontiyo
+haddaad adigu diiddaba
 haddaad ii darraatiyo
-haddaad ti ducaysaba
-haddaad maato dabatiyo s usduskay ku dheregtee
-haddaad dbobia lalisaba 1addaan daalku dheeraan
-haddaad doolli nogotiyo gabbal baas u dumin nabad.
-haddaad daasas fagataba Nin dalleensi lagu cunay
-haddaad geelal didisiyo haddaan guuto loo dilin
-haddaad deylo shabisaba dakharktiba toban nogon.
-haddaad faan dudubisiyo Nin kastoo dun iga qaba
-haddaad been daldalataba haddaan daab-cad lala dhicin.
-haddaad kaara ducatiyo Janannada durduurta ah
-haddaad geeri dihataba haddaan daadku soo qubin.
-haddaad dooddi oroddiyo Aqallada derbiga dheer |
-haddaad deeddan socotaba haddaan daaqad laga gelin.
-haddaad soo durdurisiyo Ninka dabin ka boodka ah
-haddaad xeel la duru gtaba haddaan diirad lagu helin.
-haddaad waalli duushiyo haddaan duubka gogoshiyo
-haddaad maan ku dirirtaba lagu dhuuman dalowyada.
-haddaad daad faruurtiyo Haddaan shaashka derejada
-haddaad soo da’ fanataba dallacaadda laga nixin.
-haddaad duusho kicisiyo Dar Allay u kibirtee _ |
-haddaad dawri carisaba haddaan iilka lagu degin.
-haddaad dawga xidhatiyo Haddaan meydku duurkiyo
-| haddaad deyr is marisaba derrimaha ka fara badan.
-haddaad buur la deristiyo Sanqadhaa dabayshiyo”
-i haddaad dooxyo qodataba haddaan fiinta laga didin.
-Tap haddaad doobir shidatiyo Fadhigay ku daaqdee
-haddaad diina taxataba haddaan soodhku dalandalin
-hadduu dhiiggu daatiyo halka doobi lala maro
-hadday xaydhi dixataba haddaan raacdo daba gurin.
-hadday guushu degatiyo Dacfalaanka mahaddiyo
-hadday daahyo rogataba dardarsiga barwaaqada
-hadday qaanso debecdiyo iyo doosha subagga leh
-hadday shiish dellegantaba haddaan laysu dacarayn,
-hadday Daydo curatiyo Inta daran intaw daran
-hadday deero tebisaba. haddaan duulal lagu falin.
-Haddaan deebta gumuciyo
-ee 423
+haddaad ii ducaysaba
+haddaad maato dabatiyo
+haddaad doobta lalisaba
+haddaad doolli noqotiyo
+haddaad daasas fagataba
+haddaad geelal didisiyo
+haddaad deylo shabisaba
+haddaad faan dudubisiyo
+haddaad been daldalataba
+haddaad kaara ducatiyo
+haddaad geeri dihataba
+haddaad dooddi oroddiyo
+haddaad deeddan socotaba
+haddaad soo durdurisiyo
+haddaad xeel la durugtaba
+haddaad waalli duushiyo
+haddaad maan ku dirirtaba
+haddaad daad faruurtiyo
+haddaad soo da' fanataba
+haddaad duusho kicisiyo
+haddaad dawri carisaba
+haddaad dawga xidhatiyo
+haddaad deyr is marisaba
+haddaad buur la deristiyo
+haddaad dooxyo qodataba
+haddaad doobir shidatiyo
+haddaad diina taxataba
+hadduu dhiiggu daatiyo
+hadday xaydhi dixataba
+hadday guushu degatiyo
+hadday daahyo rogataba
+hadday qaanso debecdiyo
+hadday shiish dellegantaba
+hadday Daydo curatiyo
+hadday deero tebisaba.
 
+Adoo dool dhaqaaqiyo
+adoo daata mooyee
+damac waa halkiisii
+dabna waa dabkiisii.
+
+Dusduskay ku dheregtee
+haddaan daalku dheeraan
+gabbal baas u dumin nabad.
+Nin dalleensi lagu cunay
+haddaan guuto loo dilin
+dakharkiiba toban noqon.
+Nin kastoo dun iga qaba
+haddaan daab-cad lala dhicin.
+Janannada durduurta ah
+haddaan daadku soo qubin.
+Aqallada derbiga dheer
+haddaan daaqad laga gelin.
+Ninka dabin ka boodka ah
+haddaan diirad lagu helin.
+haddaan duubka gogoshiyo
+lagu dhuuman dalowyada.
+Haddaan shaashka derejada
+dallacaadda laga nixin.
+Dar Allay u kibirtee
+haddaan iilka lagu degin.
+Haddaan meydku duurkiyo
+derrimaha ka fara badan.
+Sanqadhaa dabayshiyo
+haddaan fiinta laga didin.
+Fadhigay ku daaqdee
+haddaan soodhku dalandalin
+halka doobi lala maro
+haddaan raacdo daba gurin.
+Dacfalaanka mahaddiyo
+dardarsiga barwaaqada
+iyo doosha subagga leh
+haddaan laysu dacarayn,
+Inta daran intaw daran
+haddaan duulal lagu falin.
+Haddaan deebta gumuciyo
 lagu guban dabkaan shido.
-Duhur laysla wada jiro GUD GUDE
+Duhur laysla wada jiro
 haddaan guusha lay deyn
-Allay-lehe docdaydii Gedgedoonka maankiyo qalbiga
-ha goblamo dal weynuhu. gocasho soo boodka
-Xaajada garlayliga jartiyo ;
+Allay-lehe docdaydii
+ha goblamo dal weynuhu.
+
+### GUDGUDE
+
+Gedgedoonka maankiyo qalbiga
+gocasho soo boodka
+Xaajada garlayliga jartiyo
 gun-u-saluugayga
 Gibladiyo mashxaraddayda iyo
 farax la goohayga
-Gandoodkayga taahayga iyo |
-goobo xaradhkayga |
+Gandoodkayga taahayga iyo
+goobo xaradhkayga
 Gurmadkiyo haloosiga taxmiyo
 guluf alooskayga
-Gama’ li’ida reenkayga iyo
+Gama' li'ida reenkayga iyo
 jiif galgaladkayga
 Goobyaalka caga-jiidka iyo
 meel-ka-gabargaalka
 Gucla orodka seeraarka iyo
-geyllan dirirkayga
+geylla dirirkayga
 Haddaan geestan eegana cabsida
 gaarkay igu raaran
 Gabranaanta qoollaalligiyo
 mala gorfayntayda
 Gadoobnaanta yeelkayga iyo
 kala gantoobnaanta
-| Garab li’ida soodhkayga iyo
-| gooninnimadayda
-| Goofkiyo xabaalaha shixnadan
-| godadka buuxbuuxa
-Cagta go’an lugaa iyo gacmaha "
-gabawar duugoobey 7
-Naafada garbaha kaashatee :
-sumucu gaagaabshey |
-| Geerida shinkeed dhaaftay iyo
-Guri dambayskayga |
+Garab li'ida soodhkayga iyo
+gooninnimadayda
+Goofkiyo xabaalaha shixnadan
+godadka buuxbuuxa
+Cagta go'an lugaa iyo gacmaha
+gabawar duugoobey
+Naafada garbaha kaashatee
+sumucu gaagaabshey
+Geerida shinkeed dhaaftay iyo
+Guri dambayskayga
 Goodaadsigaygiyo hiyiga
 garar tallawgiisa
 Kol haddaan wadnuhu kuu garrayn
-| geydha kugu yeedhye
-Garner anaa kula hadlee
+geydha kugu yeedhye
+Garasow anaa kula hadlee
 gacalkayow heedhe
-| 61 Garas- waa Muxumed Carte Jaamac.
 
-Nafta gororaheediyo haddii Inkastuu gaggaabkii cuslaa
-galowda lays taabto garangar duul duulay
-Geesteyda waa fule ninkii Xaajada god-raaca leh haddii
-goob ka saahidaye loo gabbala eego
-Guddoon dhacayna waa dogon ninkii Sida ay u kala geysan tahay
-gaar u faashadaye way gun dheertahaye
-Guri ba’ayna waa cadow ninkii Kol haddaan garaad lagala hadhin
-raarta sii guraye galabba sheeggeeda
-Gobannimana waa quus ninkii Inta maanku gaajeysan-yahay
-gawska dhaafsadaye. guuli waa weliye.
-Ummad geeska loo tumay habeen Gashigayga way dhaganyihiin
-gocasho soo jeeddo gaasaskii qabaye
-Haddii aan tashiga loo golayn Weli gaaf dugsoon bay hurdaan
-amase gaashaanka ganacya weyntiiye
-Fallaadhiyo gabooyaha haddaan Dibjirkii gidaarrada hurdaa
-godobta loo taaban laysu soo guraye
-lyadoo gadoodiya hadday Gebegebe rag lagu keenay baa
-i. fadal garmaammayso layga gadayaaye
-a Hadba nabar gataatiya hadday Erey gara haddii loola tago
-gebi dhac tuuryayso godol ma waayeene
-Galladdeeda oo dhow hadday Gargaarkoodu wuu dhimi lahaa '
-gaadhi kari weydo guul-darrada taalle
-Inta gudashadeed tahay hadday Lafa-gerina way jebin lahayd
-geysan kari weydo maalin gudeheede
-lyadoon garaysnayn haddii Gobanimana way dhalin lahayd
-gacantu ay daasho, loo gudboonyahaye
-Gamaarshaa ku dhaca amase way Gacalnimana way hubin lahayd
-gabax tidhaahdaaye aan la goyn karine.
-Gabbashay liqdaa amase way Weli gumucu meel baydhsan buu
-gamashi luuddaaye gawda ku hayaaye
-Way kala guddaa amase way Gartirkaad maqlaysaan ka dhow
-kala go‘doontaaye goobahaan rabaye
-Ways gawdhisaa amase way Gadhqaadkeedu waa leexsanyahay
-feedha gurantaaye waana gudayaaye
-Guushay nacdaa amase way Garar loo maleeguu ku ridey ry
-i gubasho oydaaye. guura socodkiiye
-Guudkeedu waa wada fin iyo
-Inkastoo guddoonkii burburay Hodday ola ae waxaa |
-ihr Ink loo gudcura joogey gabay raggeediiye
-RRASIOO BO GGnKg] dulliga Guyaal iyo guyaal bay rarteen
-| Geesinnimo diiddey gocorro shaydaane
-. Inkastoo giyigu waa xormee
+Nafta gororoheediyo haddii
+galowda lays taabto
+Geesteyda waa fule ninkii
+goob ka saahidaye
+Guddoon dhacayna waa doqon ninkii
+gaar u faashadaye
+Guri ba'ayna waa cadow ninkii
+raarta sii guraye
+Gobannimana waa quus ninkii
+gawska dhaafsadaye.
+Ummad geeska loo tumay habeen
+gocasho soo jeeddo
+Haddii aan tashiga loo golayn
+amase gaashaanka
+Fallaadhiyo gabooyaha haddaan
+godobta loo taaban
+Iyadoo gadoodiya hadday
+fadal garmaammayso
+Hadba nabar gataatiya hadday
+gebi dhac tuuryayso
+Galladdeeda oo dhow hadday
+gaadhi kari weydo
+Inta gudashadeed tahay hadday
+geysan kari weydo
+Iyadoon garaysnayn haddii
+gacantu ay daasho,
+Gamaarshaa ku dhaca amase way
+gabax tidhaahdaaye
+Gabbashay liqdaa amase way
+gamashi luuddaaye
+Way kala guddaa amase way
+kala go'doontaaye
+Ways gawdhisaa amase way
+feedha gurantaaye
+Guushay nacdaa amase way
+gubasho oydaaye.
+
+Inkastoo guddoonkii burburay
+loo gudcura joogey
+Inkastoo go'aankii dulliga
+Geesinnimo diiddey
+Inkastoo giyigu waa xormee
 gaadhka lagu meershey
+Inkastuu gaggaabkii cuslaa
+garangar duul duulay
+Xaajada god-raaca leh haddii
+loo gabbala eego
+Sida ay u kala geysan tahay
+way gun dheertahaye
+Kol haddaan garaad lagala hadhin
+galabba sheeggeeda
+Inta maanku gaajeysan-yahay
+guuli waa weliye.
+Gashigayga way dhaqanyihiin
+gaasaskii qabaye
+Weli gaaf dugsoon bay hurdaan
+ganacya weyntiiye
+Dibjirkii gidaarrada hurdaa
+laysu soo guraye
+Gebegebe rag lagu keenay baa
+layga gadayaaye
+Erey gara haddii loola tago
+godol ma waayeene
+Gargaarkoodu wuu dhimi lahaa
+guul-darrada taalle
+Lafa-gerina way jebin lahayd
+maalin gudeheede
+Gobanimana way dhalin lahayd
+loo gudboonyahaye
+Gacalnimana way hubin lahayd
+aan la goyn karine.
+Weli gumucu meel baydhsan buu
+gawda ku hayaaye
+Gariirkaad maqlaysaan ka dhow
+goobahaan rabaye
+Gadhqaadkeedu waa leexsanyahay
+waana gudayaaye
+Garar loo maleeguu ku ridey
+guura socodkiiye
+Guudkeedu waa wada fin iyo
+gaatir iyo booge
+Hadday gooli-baadh tahay waxaa
+gabay raggeediiye
+Guyaal iyo guyaal bay rarteen
+gocorro shaydaane
 
-Iyadoon A Het Lae ihe Gogol bi ku siaashoonayaa
-gee 00 gudboonyahaye
-a na i Sida goray sei Ae
-galalka eae — : §00n1 Joog yahaye
-Gelin looma ee ah karo kol laa, nin mawd lagu gudbadey
-xaajo } : lisa uga guuro
-comets iyo Vag lee Xil uun a lea AU EO: ka baydh
-agu gumoobaay §udashadiisiiye,
-Mar agers hillaab lagu gudbayn ka galgaley habaar-qabe halkuu
-giriftan mooyaane §OOL Ku Cuno weyne
-Gabgabteedu yh si intay Nin bir, tashiga guuto faran
-gawrac leedahaye eli ganaanaysto
-Geeddiga cagaa daaliyaa Gaaraayucuuntiyo shinnida
-lagu geyoodaaye gurucya dhaadheerta
-Gellimaadka ose Jirtiyo OHA aS se
-goosan habaqlaaye aguma guuraan
-Gubuxsiga mar uun bay tirsiga Gumarta iyo maajeenta iyo
-meel ka soo geliye geed-xunkiyo tuugga
-Gargaraaciddeediyo ha deyn Gungunnaafka iyo maarta iyo :
-geed ka didinteeda. gocorka aan quudhin
-kun ninoo guraangura hadduu
-goob isugu keeno
-TT Guufkiyo haddii hooda iyo
-giniga loo qaybsho
-Garashadu hadday ruux la tahay Dadka kale intii gudan haddii
-SUL Saranaayo gararka loo jiido,
-. CURRIE suu qabo haddii Ninka gaaban meel dhow haddii
-oola garan waayo looga geda-sheegto
-CAO f fats a Guubaaeneen haddii
-yidhi garaadkiise” loogu godadleeyo
-xaajadu yey sare ‘da iyo Hadallada galoofta ah haat
-| gawda culus Joogto loogu mala gaaxsho .
-i keligii nin Ap aed wuu Guryo-nogoshadeedii be
-gola ka fuulaaye lagu gawaan-raacsho
-Caggasltisg uun baa durbaan Gabbal daye suai hadday
-; aga garaacaaye laba gar-daymooto
-Labadiisa geet ma jiro Shimbiraha SabraRr ENG A CEay
-ruux ku gelayaaye galow wax weydliso
-| Arrin lalama guulee warkuu kol haaey soo TER
-| gura yidhaahdaaye laabta uga guuxdo
-| Dadka wuxu u gacan haadi yaa Garba-raar Sai eat hadduu
-qof iyo gaarkiise gooyo taladeeda
+Iyadoon goblamin baa haddana
+geelo loo hadhaye
+Gol-dalooladeedaa ka badan
+galalka ciideede
+Gelin looma wada sheegi karo
+xaajo geda weyne
+Gawdiidka iyo quusta waa
+lagu gumoobaaye
+Mar haddaan hillaab lagu gudbayn
+giriftan mooyaane
+Gabgabteedu waa xubin intay
+gawrac leedahaye
+Geeddi ga cagaa daaliyaa
+lagu geyoodaaye
+Gellimaadka hayskaga jirtiyo
+goosan habaqlaaye
+Gubuxsiga mar uun bay tirsiga
+meel ka soo geliye
+Gargaraaciddeediyo ha deyn
+geed ka didinteeda.
+
+II
+
+Garashadu hadday ruux la tahay
+suu u garanaayo
+Garaadkiisu suu qabo haddii
+loola garan waayo
+Gardarruu u qaataa ninkii
+yidhi garaadkiise
+xaajadu markay gobo'da iyo
+gawda culus joogto
+keligii nin gaashaantay wuu
+gola ka fuulaaye
+Gadaashiisa uun baa durbaan
+laga garaacaaye
+Labadiisa geesood ma jiro
+ruux ku gelayaaye
+Arrin lalama guulee warkuu
+gura yidhaahdaaye
+Dadka wuxu u gacan haadiyaa
+qof iyo gaarkiise
 Gendi iyo dhukaan buu qabaa
 cudurro guumeede
-
-Guulkeedu aheaieg oe ; seetada nin goostaba
-geenyadii Bixine”’. wuxuu gesto lala yaabye,
-Weligeed fal oa loo guntaa mar hadduu tallaabada gurguro
-lagu guhaamaaye gaatan iyo booddo
-Mar uun lea pais siday Dhaaxaa gadaal laysla tebey
-gees lo’aad tahaye wiil galbaday jeere.
-| Galab xiisaheedaa wakhtigu Toojaba waxaa lagu godlaa
-| kaga gaboobaaye say u gaar tahaye
-Ninuun eee guuree yada Gurranidu mar waa dhalasho iyo
-geeddi waw weliye— gacanba qaabkeede
-| marka BU ia Hass Sa ihey lyo Marna waa calool garac siddiyo
-godadka Yaahuuda xaal ku soo gala’e
-| Ayay kii Jannada geyn lahaa Kol haddaanay maankaaga gadin
-dayasho goobtaaye talana kaa geynin
-| Marka uu eee Gurracnaanta qiil lagu saxoo
-| guba yidhaahdaaye loo gudbaa jira’e
-Markay NB oR nin bay Gudboonaantu way daalisaa |
-Hi gudub tianaanaaaye ruuxa meel gurane
-Gabno ugubi iis 8 Nin hadduu go’aankiyo sharciga
-gaawe Cumarow gawrac ugu jiido
-hats ¥ ee lagu ee Hadba goondhabaaliyo hadduu
-geedad sare waabye gooddi-furan keeno »
-PERS Ua ty? dadkaa beera Gacalnimo hal loo yidhi hadduu
-. ruux guahane basho sii beero
-; ee ct gubas
-Ganbo pie la soo een haddii Guudaan haddii uu ku ligo
-‘0 tagu waabo ereyga geedeysan
-iH) Mar. iat cape oes haddii Runta wuxu u guul-guulayaa
-: CT GICEyO way gun-dheer tahaye
-Hi Isagoo canaan lagu gudbiyo Goldaloolo qudha maaha iyo F
-. Giblo i St oie Oe goonnidaa taliye 4
-{ Ae tadaui sacabbo lulan Gedaan loo filayn baa jirtiyo
-| Keliciitn ogu gogol-xaadho geel-la-daagq kale’e
-| F ee Sih ota Hadba geed-is-maris baa u hadha |
-. Marka uu tee Sumidye guul dad leeyahaye ft
-gadaan tyo gadaan Miyaan Geeddi-Baabbow arladu
-Sacan-togaaleeyo gelina waayeynin. |
+Gogol wuu ku shaashoonayaa
+loo gudboonyahaye
+Sida goray fallaagoobey buu
+gooni joog yahaye
+kol hadduu nin mawd lagu gudbadey
+tiisa uga guuro
+Xil uun buu guddoontaye ka baydh
+gudashadiisiiye,
+ka galgaley habaar-qabe halkuu
+gool ku cuno weyne
+Nin hadduu tashiga guuto faran
+keli ganaanaysto
+Gaaraayucuuntiyo shinnida
+gurucya dhaadheerta
+Giiryaalayaashiyo fulaa
+laguma guuraanka
+Gumarta iyo maajeenta iyo
+geed-xunkiyo tuugga
+Gungunnaafka iyo maarta iyo
+gocorka aan quudhin
+kun ninoo guraangura hadduu
+goob isugu keeno
+Guufkiyo haddii hooda iyo
+giniga loo qaybsho
+Dadka kale intii gudan haddii
+gararka loo jiido,
+Ninka gaaban meel dhow haddii
+looga geda-sheegto
+Guubaabadeedii haddii
+loogu godadlee yo
+Hadallada galoofta ah haddii
+loogu mala gaaxsho
+Guryo-noqoshadeedii haddii
+lagu gawaan-raacsho
+Gabbal daye sidiisii hadday
+laba gar-daymooto
+Shimbiraha gabraartiyo hadday
+galow wax weydiiso
+kol hadday galaydh soo kallahay
+laabta uga guuxdo
+Garba-raar cadhaysani hadduu
+gooyo taladeeda
+Guulkeedu dheeraa sidii
+geenyadii Bixine,
+Weligeed fal baa loo guntaa
+lagu guhaamaaye
+Mar uun bay gadooddaa siday
+gees lo'aad tahaye
+Galab xiisaheedaa wakhtigu
+kaga gaboobaaye
+Ninuun baa ku guuree iyada
+geeddi waw weliye
+Marka wiil ku guro Naarta iyo
+godadka Yaahuuda
+Ayay kii Jannada geyn lahaa
+dayasho goobtaaye
+Marka uu galaa buu iyaga
+guba yidhaahdaaye
+Markay raar guraysaba nin bay
+gudub tidhaahdaaye
+Gabno ugubi way quusisaa
+gaawe Cumarowe
+Garab-daar ninkii lagu bokhraa
+geedad sare waabye
+Gar-ma-qaatayaashiyo dadkaa beera
+ruux gudhane
+Ganbo nimaan la soo bixin haddii
+guulo lagu waabo
+Markuu dhaawac geystaba haddii
+loo gargarateeyo
+Isagoo canaan lagu gudbiyo
+gaarran filanaaya
+Giblo iyo haddii sacabbo lulan
+loogu gogol-xaadho
+Keligii inuu guurti yahay
+maalintaa gunudye
+Marka uu gadaan iyo gadaan
+gacan-togaaleeyo
 Ayuun buu waxaan ganac lahayn
-SUL gorgoriyaaye ORK
-Hil a Gole miiggan, geed sheegan iyo
-eenyadii Bixin-waa geenyo degel fa i ku ahayd ce an,
-ay ku baxday "sow pe ee Eels Guanine ee Sapa oat bnan jirey; wieana te garangar muunaysan
-63 Cumarowe,- Waa Cumar Salaad Cilmi , olaad laguma tebo”.
+sii gorgoriyaaye
+seetada nin goostaba
+wuxuu gesto lala yaabye,
+mar hadduu tallaabada gurguro
+gaatan iyo booddo
+Dhaaxaa gadaal laysla tebey
+wiil galbaday jeere.
+Toojaba waxaa lagu godlaa
+say u gaar tahaye
+Gurranidu mar waa dhalasho iyo
+gacanba qaabkeede
+Marna waa calool garac siddiyo
+xaal ku soo gala'e
+Kol haddaanay maankaaga gadin
+talana kaa geynin
+Gurracnaanta qiil lagu saxoo
+loo gudbaa jira'e
+Gudboonaantu way daalisaa
+ruuxa meel gurane
+Nin hadduu go'aankiyo sharciga
+gawrac ugu jiido
+Hadba goondhabaaliyo hadduu
+gooddi-furan keeno
+Gacalnimo hal loo yidhi hadduu
+gubasho sii beero
+Guudaan haddii uu ku liqo
+ereyga geedeysan
+Runta wuxu u guul-guulayaa
+way gun-dheer tahaye
+Goldaloolo qudha maaha iyo
+goonnidaa taliye
+Gedaan loo filayn baa jirtiyo
+geel-la-daaq kale'e
+Hadba geed-is-maris baa u hadha
+guul dad leeyahaye
+Miyaan Geeddi-Baabbow arladu
+gelina waayeynin.
 
-Gudban iyo cod laba geesa iyo Haddii aan gantada loo adkayn
-guurti kala soorta, amase gaafaanta
-Garnagsiga mudducigoo tashiga Guddo iyo waxay yeelataa
-gooni uga showrey, gulufo shaydaane
-Geda labe maddaacaley hadloo Gaadaa dhexdeedaba ka kaca
-dhaabad ba’an geystey, maalin gelinkeede
-kala gurasho meertiyo rogaal Gacmaa lagu xejaa amase way
-la isla guur guurey, galab dhaqaaqdaaye
-Maahmaaho wada guuna iyo Waa lagu gam’aa amase way
-| gabayo raac raacay, geeri badisaaye
-| Guddoon dhacay hubaal iyo go’aan Gob baa lagu noqdaa amase waa
-| laysku gacan qaaday, lagu gumoobaaye.
-| shan god oo murtidu leedihiyo Garan maayo maalmaha intuu
-gororka suugaanta, soor gad leeyahaye
-Gedda hadalka loo ruga geshiyo Mar hadduu gidaad bahal qabaa
-| marin gobaadeed dheh. gaajo kula ciiro
-| Gujo-dhaadhigeediyo hadduu
-taabo gorofkeeda
-Til Waxba kama go’aan ruux ku shubay
-Gobannimadu waa libin ku taxan xeedho gudaheede |
-| geeddi nololeede Hadduu gaar u maamulo gof
-Waa gumaro aadmigu hantiyo waa geel nin leeyahaye
-guusha ugu weyne Inkastoo gantaal iyo wed iyo
-Guddoonkeedu waa faral siyaal gawrac lagu hooyo
-loo gafaa jirine Meel loo gun-raaciyo haddaan
-Geduun buu ka leeyahay khalgigu gogol dhig loo yeelin
-maalintuu gado‘e Mar haddaan garaad loo lahayn
-marka uu gabaabsiyo xilliga wayska gubataaye
-laga gu’weynaadey Geedkeed ba’ waa sixir haddaan
-| Ayuun baa ninkii gudan karaa garasho liilayne
-dhan ugu guuraaye Hadduu gaws dhurwaa ruugi karo ’
-Hi Qabyadeedu waa guun intay waa laf gurt taalle.
-. gaadho weligeede Gunti-furey nin caashaqay haddii .
-Galab noolba ooddeedu waa guudka loo sudho’e ie
-gudinta loo hay-ye Galacdeeda uun baa indhuhu .
-Nin gufeeya mooyiye ma jirin golongol eegaane |
-ruux gunaanadaye Giniis iyo hadday kala dhaxlaan
-Gelbiskeeda 00 qudha hadduu gaar-la-ababkiisu
-tacabku kuu gooyo Waa maro gargaranoo adhyaha
-| Adigoo gadaashaday hadday lagu gabraartaaye
-. guure kugu dhaafto Mar hadduu waraabuhu gashado
-Gommodkiyo yaboohdeedu way giiro waa halise
+* * *
+
+Gole miiggan, geed sheegan iyo
+garangar muunaysan,
+Gudban iyo cod laba geesa iyo
+guurti kala soorta,
+Garnaqsiga mudducigoo tashiga
+gooni uga showrey,
+Geda labe maddaacaley hadloo
+dhaabad ba'an geystey,
+kala gurasho meertiyo rogaal
+la isla guur guurey,
+Maahmaaho wada guuna iyo
+gabayo raac raacay,
+Guddoon dhacay hubaal iyo go'aan
+laysku gacan qaaday,
+shan god oo murtidu leedihiyo
+gororka suugaanta,
+Gedda hadalka loo ruga geshiyo
+marin gobaadeed dheh.
+
+III
+
+Gobannimadu waa libin ku taxan
+geeddi nololeede
+Waa gumaro aadmigu hantiyo
+guusha ugu weyne
+Guddoonkeedu waa faral siyaal
+loo gafaa jirine
+Geduun buu ka leeyahay khalqigu
+maalintuu gado'e
+marka uu gabaabsiyo xilliga
+laga gu'weynaadey
+Ayuun baa ninkii gudan karaa
+dhan ugu guuraaye
+Qabyadeedu waa guun intay
+gaadho weligeede
+Galab noolba ooddeedu waa
+gudinta loo hay-ye
+Nin gufeeya mooyiye ma jirin
+ruux gunaanadaye
+Gelbiskeeda oo qudha hadduu
+tacabku kuu gooyo
+Adigoo gadaashaday hadday
+guure kugu dhaafo
+Gommodkiyo yaboohdeedu way
 goora badataaye
-432 oer
+Haddii aan gantada loo adkayn
+amase gaafaanta
+Guddo iyo waxay yeelataa
+gulufo shaydaane
+Gaadaa dhexdeedaba ka kaca
+maalin gelinkeede
+Gacmaa lagu xejaa amase way
+galab dhaqaaqdaaye
+Waa lagu gam'aa amase way
+geeri badisaaye
+Gob baa lagu noqdaa amase waa
+lagu gumoobaaye.
+Garan maayo maalinaha intuu
+soor gad leeyahaye
+Mar hadduu gidaad bahal qabaa
+gaajo kula ciiro
+Gujo-dhaadhigeediyo hadduu
+taabo gorofkeeda
+Waxba kama go'aan ruux ku shubay
+xeedho gudaheede
+Hadduu gaar u maamulo qof
+waa geel nin leeyahaye
+Inkastoo gantaal iyo wed iyo
+gawrac lagu hooyo
+Meel loo gun-raaciyo haddaan
+gogol dhig loo yeelin
+Mar haddaan garaad loo lahayn
+wayska gubataaye
+Geedkeed ba'waa sixir haddaan
+garasho lüilayne
+Hadduu gaws dhurwaa ruugi karo
+waa laf guri taalle.
+Gunti-furey nin caashaqay haddii
+guudka loo sudho'e
+Galacdeeda uun baa indhuhu
+golongol eegaane
+Giniis iyo hadday kala dhaxlaan
+gaar-la-ababkiisu
+Waa maro gargaraanoo adhyaha
+lagu gabraartaaye
+Mar hadduu waraabuhu gashado
+güiro waa halise
 
-lyvadoo gashaantiya sidit
-3 hold gogol dhaafay Noloshana galgalaheeda iyo
-Guurkeedu tuuguu ahaa Wi gebi ahaanteeda
-gaabsi iyo beene axaan geest karin baa jiroon
-Iyadoo garoobiyo markay Xaaj Fite, ¢ ninaw faline,
-| guudka fidhanaysey aajaba gan baa loo unkaa
-| Inanuu gumeystuhu dhalaa U talaba waa goore
-| gaadhka ka ahaaye mmadyahay tiraa kaa gedmane
-| Gabowgeeda way doonnantahay Ninkii wax ISU £eygeyso
-gedaha waayeele inkii aad garaaddiyo shaxshaxo
-marka ay geyaan sheelataa Kol saartay garabkiisa
-garacu yeeshaaye ol hadduu dharaar goonya kulul
-| Hadba wiil is gaalaynayaa kaa gelgelin doontay
-loo gu’tiriyaaye Waxaad galabsatuun baa jiree
-| Nin dharaar wuxuun laga guntay __,, aado kale yeelo
-| guushu jamataaye : Ninkii aan gondaha kaala dhayin
-Gobannimadu ruux kuma xidhniyo gololo hawsheeda
-Giib ninkii dilaye Gardaadkaaga yuu baran inaan
-| Agaabaynta maalmaha gudbiyo taada lagu gaadhin
-| galaha taariikhda Hadday gibili kaa saarantahay
-Gadood dhacayba sheekuu lahaa gocomo hooseeya |
-| geyfan iyo raade Waxaan geedna kaa qarin indhuhu
-Ganba-xoorka waayaha haddii yay ka gabargaalin
-laysu minan guursho Hadba soo gadaal eeg ninkaad
-Dad uun baa ma guurtada lahaa gadato hiilkiisa
-goobihii baxaye. Gol dalooladaaduu nin ogi
-Gurgurshaagu awr buu ka yahay galagalaystaaye
-rarasho gaadiide Aduun bayse kaa go’an yihiin
-Gadh-wadeenku ruux buu ka yahay maalmahays guraye
-i) geylan wadareede Godan baa la yeeshaa xadhkaha
-il Nin uun baa guddoonsha’e xil waa _ _haysku wada giijin |
-| laysu gororshaaye Geyigiisa wiilkaan ahayn .
-| Galladduna waxay saaran tahay gibilka mooyaane |
-| 7” wax isu geygeyne Gun-dhigiisu meel kaa fog buu a
-' nkastuu wax galo ama wax gudo geed ku leeyahaye
-. ae ama wax weyn gooyo Si aad uga go’daba ruux ku neceb ;
-nkastuu galool mudhay ka yahay gaarar kala yeesha
-oe dhiraha gaagaaban Guushaada waa lala jiraa
-| adduu geel abuuriyo hadduu gees ha ka ahaannin
-| -_ gaas cartama beero Godobtaada meelee intaan
-| EE Boh gaadhsiin karaa gacantu kaa boobin
-y gun dhowdahaye Gacalnimada noolee intaan
+Iyadoo gashaantiya sidii
+loola gogol dhaafay
+Guurkeedu tuuguu ahaa
+gaabsi iyo beene
+Iyadoo garoobiyo markay
+guudka fidhanaysey
+Inanuu gumeystuhu dhalaa
+gaadhka ka ahaaye
+Gabowgeeda way doonnantahay
+gedaha waayeele
+marka ay geyaan sheelataa
+garacu yeeshaaye
+Hadba wiil is gaalaynayaa
+loo gu'tiriyaaye
+Nin dharaar wuxuun laga guntay
+guushu jamataaye
+Gobannimadu ruux kuma xidhniyo
+Giib ninkii dilaye
+Agaabaynta maalmaha gudbiyo
+galaha taariikhda
+Gadood dhacayba sheekuu lahaa
+geyfan iyo raade
+Ganba-xoorka waayaha haddii
+laysu minan guursho
+Dad uun baa guurtada lahaa
+goobihii baxaye.
+Gurgurshaagu awr buu ka yahay
+rarasho gaadiide
+Gadh-wadeenku ruux buu ka yahay
+geylan wadareede
+Nin uun baa guddoonsha'e xil waa
+laysu gororshaaye
+Galladduna waxay saaran tahay
+wax isu geygeyne
+Inkastuu wax galo ama wax gudo
+ama wax weyn gooyo
+Inkastuu galool mudhay ka yahay
+dhiraha gaagaaban
+Hadduu geel abuuriyo hadduu
+gaas cartama beero
+Inta ruux wax gaadhsiin karaa
+way gun dhowdahaye
+Noloshana galgalaheeda iyo
+gebi ahaanteeda
+Waxaan geesi karin baa jiroon
+gaar ninaw faline,
+Xaajaba gan baa loo unkaa
+talaba waa goore
+Ummadyahay tiraa kaa gedmane
+wax isu geygeyso
+Ninkii aad garaaddiyo shaxshaxo
+saartay garabkiisa
+Kol hadduu dharaar goonya kulul
+kaa gelgelin doontay
+Waxaad galabsatuun baa jiree
+gaado kale yeelo
+Ninkii aan gondaha kaala dhayin
+gololo hawsheeda
+Gardaadkaaga yuu baran inaan
+taada lagu gaadhin
+Hadday gibili kaa saarantahay
+gocomo hooseeya
+Waxaan geedna kaa qarin indhuhu
+yay ka gabargaalin
+Hadba soo gadaal eeg ninkaad
+gadato hiilkiisa
+Gol dalooladaaduu nin ogi
+galagalaystaaye
+Aduun bayse kaa go'an yihiin
+maalmahays guraye
+Godan baa la yeeshaa xadhkaha
+haysku wada giijin
+Geyigiisa wiilkaan ahayn
+gibilka mooyaane
+Gun-dhigiisu meel kaa fog buu
+geed ku leeyahaye
+Si aad uga go'daba ruux ku neceb
+gaarar kala yeesha
+Guushaada waa lala jiraa
+gees ha ka ahaannin
+Godobtaada meelee intaan
+gacantu kaa boobin
+Gacalmimada noolee intaan
 gocasho kaa oodin
-fest 7
-
-; Guryahoo haleelada sidkani
-Guddoonkaaga reeree markay gaabis kaga fooftay,
-kula gudboonaato ‘5 Marka gororka naasaha fatahay
-Gamaaddaada muunee haddaa gobo’da deyn weydo.
+Guddoonkaaga reeree markay
+kula gudboonaato
+Gamaaddaada muunee haddaad
 geeri huri weydo
 Guntashana xusuusnow waxaad
-godolba soo joogtey Galabuu kulaylkii ka jabay
-| Gurgurshaana haw raran niumaan gubayey jeedaalka,
-gudasho kuu doorin Qorraxdoo gollaha kuulatood
-Garashana ogsoonow inay gaari wacan mooddo,
-xaaja badan goyso Gaaraabidhaankiyo markay
-| geeraarku waa sude hadduu taranto goobaantu,
-| kuu ged-bixi-waayo Caweys ay gabdhuhu boodayaan
-| Adba goor is weydii intuu golaha saarreyda,
-gabaygu kaa dhaafo. Dayaxoo galshada meersadood
-} Pte geesi ba’an mooddo, |
-| Xilligay gammaankiyo ifaan |
-| quruxda gaarreydu,
-Cir gadoodey, dirir gaamur da’ay Dhulka oo galaaluhu simeen
-| galayax waalaystay, gun iyo baarkiisa,
-Onkodkoo gariirkit ka baxay Cosobkoo golxada fooraroo
-galowgu yaab yaabay, laba gardhaalaystay,
-Guulaamo sawsaba kortiyo Qorraxdoo gelgelimaysatoo
-dhibic garaaraysay, goroddu laallaaddo,
-Guluuluco mareegeysey iyo dayaxoo go’yaal wada cas iyo
-Hit gabadhle miish-miishtay, shaal galgala qaatay,
-Wy Fad godladey, mahiigaan dhex galay gu’ xasilay, gudgudayaal habsadey
-mayay ku soo gaadhey, adhaxda Gaaroodi,
-Hi Wagal gaaftey jarar soo gabradey Marka awrku goojada ka simo
-Hii Zebiyo soo citray, gaasa-baxa dhaartay t
-11] Gibil bururtay, gale foos burburay Qorraxdoo guduud lagu bokhroo
-. galangal leexastay, ors meel garba ah saaran fe
-| Gurdan baxay, xareed galal jabtiyo Dayaxoo intuu garab la baxay ie
-| godanno miilaystay, gooddi uga muuqda, |
-) Dadka 00 intuu nabad gogladey Gararkiyo taraaraha madow {4
-| godob a aan toosay, " Kala geddoonkooda, 4
-. Qorraxdoo garayskiyo martii Gabbal ururay, waa soo gurguray
-Sees isaga xoortay, labada goorood dheh.
-| Dayaxoo intuu gaadh ka degey
+godolba soo joogtey
+Gurgurshaana haw raran nimaan
+gudasho kuu doorin
+Garashana ogsoonow inay
+xaajo badan goyso
+geeraarku waa sude hadduu
+kuu ged-bixi-waayo
+Adba goor is weydii intuu
+gabaygu kaa dhaafo.
+
+***
+
+Cir gadoodey, dirir gaamur da'ay
+galayax waalaystay,
+Onkodkoo gariirkii ka baxay
+galowgu yaab yaabay,
+Guulaamo sawsaba kortiyo
+dhibic garaaraysay,
+Guluuluco mareegeysey iyo
+gabadhle miish-miishtay,
+Fad godladey, mahiigaan dhex galay
+mayay ku soo gaadhey,
+Waqal gaaftey jarar soo gabradey
+gebiyo soo ciiray,
+Gibil bururtay, gale foos burburay
+galangal leexastay,
+Gurdan baxay, xareed galal jabtiyo
+godanno miillaystay,
+Dadka oo intuu nabad gogladey
+godob la'aan toosay,
+Qorraxdoo garayskiyo martii
+gees isaga xoortay,
+Dayaxoo intuu gaadh ka degey
 gacalo muunsooday,
-| Tigaaddoo ganbada uunsatoo
-Hil shidatay geed-saaqa,
+Tigaaddoo ganbada uunsatoo
+shidatay geed-saaqa,
 Marka geela laantiisa dheer
 gabantu soo reebto,
+Guryahoo haleelada sidkani
+gaabis kaga fooftay,
+Marka gororka naasaha fatahay
+gobo'da deyn weydo.
+
+Galabuu kulaylkii ka jabay
+gubayey jeedaalka,
+Qorraxdoo gollaha kuulatood
+gaari wacan mooddo,
+Gaaraabidhaankiyo markay
+taranto goobaantu,
+Caweys ay gabdhuhu boodayaan
+golaha saarreyda,
+Dayaxoo galshada meersadood
+geesi ba'an mooddo,
+Xilligay gammaankiyo ifaan
+quruxda gaarreydu,
+Dhulka oo galaaluhu simeen
+gun iyo baarkiisa,
+Cosobkoo golxada fooraroo
+laba gardhaalaystay,
+Qorraxdoo gelgelimaysatoo
+goroddu laallaaddo,
+dayaxoo go'yaal wada cas iyo
+shaal galgala qaatay,
+gu' xasilay, gudgudayaal habsadey
+adhaxda Gaaroodi,
+Marka awrku goojada ka simo
+gaasa-baxa dhaartay
+Qorraxdoo guduud lagu bokhroo
+meel garba ah saaran
+Dayaxoo intuu garab la baxay
+gooddi uga muuqda,
+Gararkiyo taraaraha madow
+Kala geddoonkooda,
+Gabbal ururay, waa soo gurguray
+labada goorood dheh.
 
 IV
-Ged ninkii ogaadaba shillale ees ee uma guuri karo
-guuto loo wacaye Cosnaiioaven diag es ahe
-Inta aan gar- waagsaday intaan goodir ka recat ee
-| garasho diidaayo Gashi baxana Me:
-| Inta laygu gaad gaadayaa geed k as h, y! set tania
-; iiga geed ba’ane Hadday gudubt gaslista
-Cishaday gabnowdiyo intay Siaale 0 yeedhaydwwaa
-a gelinba heer joogtey Geyigaygu wa piles
-| Girif-giriftu way igu badnayd cane ere
-| anne waajib ti galo’e
-| gu ‘iyo jiilaale Dhulka kale int ,
-| Inaan gaabsho mooyiye cishana ee t aie gaadhi karo
-1 tayda maan gabine Adduunyad 0 ; eeyahaye
-j Galka seefta kuma haysan jirin yada go'doon kagama jiro
-maalin gulufeede Ga essen)! loo yaalle
-Misna geeladay, gocoraday Mh oiael dhaafsan yahay
-iiga gaws kulule Roots goboleede — |
-| Goonbaartu eelkay dhigtaba ed of gooddiga sibuu
-gaari baw xidhane Gu jee gilayaaye
-| Godobteedu waxay saarantahay lyo canaan buu hiyigu
-meelo aan geyine ina UL gab-leeyahaye
-| God markaan daboolaba far baa Salad LAE LCL
-laygu godayaaye Hadb ey da maan gudane
-Nin gefaaba lay tirinayaa a waxan galiilyoonayaa
-garasho waa yaabe ACh goobo lay tebaye
-| Waxan ahay nin lagu saan gatoon aggay wuxuu galo ayaan
-) ” raadba soo geline Aniaiy TRTRED aaye
-Hi arraantayda qaar iyo lag iyo giyo kuwii lagu goblamay
-| | gaasas baa necebe — Oni waa gudboonnahaye
-Gabbashayda duul iyo badh iyo ayrkay intuu guul suntaday
-. " goosan baan rabine Ni Seontn jarang i
-addaan gaasho yeeshana dar ba ee areas SOar A AEGY |
-| gawl la leedahaye 4 dunida guudkeeda |
-Hadba waxaan ku guul seegayaa Gurmadkayga waw baahanyahay fe
-lama garaystaane ruux la gaasiraye : Li
-Garba-duub waxaan ugu xidhnaha Toydane minkh te cerggg) | )
-I maan gurracaneede f waw gar leeyahaye i
-| naan geenyo buubsaday haddii Marba gooha dhiillada halkii |
-Gad guuxu weli joogo igu galoollaata |
-adaal baaba lay eegayaa Karaankayga waan geyn intaan
-gool tirsaa jira’e. geeri moogahaye
-Waxa ina rag it guulayaa
-tiisa
-ee | gaarka ahe .
-ee
 
-nna waxaan go’aansaday inaan
-A lay gabood faline. xXUSUUS
+Ged ninkii ogaadaba shillale
+guuto loo wacaye
+Inta aan gar- waaqsaday intaan
+garasho diidaayo
+Inta laygu gaad gaadayaa
+iiga geed ba'ane
+Cishaday gabnowdiyo intay
+gelinba heer joogtey
+Girif-giriftu way igu badnayd
+gu'iyo jiilaale
+Inaan gaabsho mooyiye cishana
+tayda maan gabine
+Galka seefta kuma haysan jirin
+maalin gulufeede
+Misna geeladay, gocoraday
+iiga gaws kulule
+Goonbaartu eelkay dhigtaba
+gaari baw xidhane
+Godobteedu waxay saaran tahay
+meelo aan geyine
+God markaan daboolaba far baa
+laygu godayaye
+Nin gefaaba lay tirinayaa
+garasho waa yaabe
+Waxan ahay nin lagu saan gatoon
+raadba soo geline
+Garraantayda qaar iyo lag iyo
+gaasas baa necebe
+Gabbashayda duul iyo badh iyo
+goosan baan rabine
+Haddaan gaasho yeeshana dar bay
+gawl la leedahaye
+Hadba waxaan ku guul seegayaa
+lama garaystaane
+Garba-duub waxaan ugu xidhnahay
+maan gurracaneede
+Inaan geenyo buubsaday haddii
+guuxu weli joogo
+Gadaal baaba lay eegayaa
+gool tirsaa jira'e.
+Ummadyahay dib uma guuri karo
+gooshkan maanta ahe
+Gosha hooyo waa laga koraa
+goodir kay tahaye
+Gashi baxana waa lagu dayaa
+geed ka hadalkiiye
+Hadday gudubto yeedhaydu waa
+sheeko ii gadane.
+Geyigaygu waa kow intuu
+waajib ii galo'e
+Dhulka kale intaan gaadhi karo
+waw gol leeyahaye
+Adduunyada go'doon kagama jiro
+garangar loo yaalle
+Garaadkaygu waa dhaafsan yahay
+xaajo goboleede
+Dareenkaygu gooddiga sibuu
+ii gilgilayaaye
+Guhaad iyo canaan buu hiyigu
+ii gab-leeyahaye
+Inta garasho ii meel la'dahay
+tayda maan gudane
+Hadba waxan galiiyoonayaa
+goobo lay tebaye
+Asaaggay wuxuu galo ayaan
+anigu gooyaaye
+Anigiyo kuwii lagu goblamay
+waa gudboonnahaye
+Qayrkay intuu guul suntaday
+gooni ii farane
+Nin kastoo ganbadu saaran tahay
+dunida guudkeeda
+Gurmadkayga waw baahanyahay
+ruux la gaasiraye
+Taydana ninkii igu guntadey
+waw gar leeyahaye
+Marba gooha dhiillada halkii
+igu galoollaata
+Karaankayga waan geyn intaan
+geeri moogahaye
+Waxa ina rag ii guulayaa
+tiisa gaarka ahe
+
+Anna waxaan go'aansaday inaan
+lay gabood faline.
 Garawshiiyo jeeraan ka helo
-gaanka dunidayda -A-
-Jeeraan galaa baxo arllada Aadan Shiine:-
-gooddi iyo gooddi (Aadan Sheekh Maxamuud). Waxa uu ahaa sarkaal ka tirsanaan Jirey
-Jeeraan gufaacada ku tago Xoogga Dalka Soomaaliyeed. Bilowgii sannadkii 1982kii, ayuu u dibad
-meelo geriyaada baxay halganka xoraynta ummadeed.
-Gane Ca peadho Agen Shi Ue ae ee gtk sl ugu magaca weyn leh uguna
-Barigivo Galbeedkaba ilaa soo norrays 2 1aq- dhaqaagqa waddaniga Soomaaliyeed. Aadan
-| ae laygu gacan qaado Shiine xilal sare oo kala duwan ayuu ka soo qabtay Ururka SNM, xilalkaas
-Gurey® iyo Islow® iyo Hurrow® 00 kala ahaa:- .
-| gabaygu waa beene 1. xoghayaha Ciidammada Xoraynta. |
-| Godadleysan maayee tashiga 2. Guddoomiye-ku-xigeenka Ururka sannadihii 1982-1986.
-waan guddoonsadaye _ Aadan Sheekh Maxamud, naxariistii janno Alle ha ka waraabshee
-Weeraanyegn HORAN Leu cadowgu shirqool gaadmo ah ayuu i diley 31/5/1987, isaga oo hawl ka
-senpsumnd Agcanne. haya goob ka mid ah goobaha dagaalka
-Af-Qalooc-Xaaji Aadan Axmed:-
-Gudcur laga tallaabsaday ilays Alle ha u naxariistee WUXUU ku dhashay Gobolka Sanaag. Suugaan- yahan
-baadi lagu goobtay, waddaniya oo xarakaddii gobanimada kaalin sheegan, gaar ahaan
-Gamas iishay, gaashaan burburay suugaanta ku lahaa buu ahaa xaajigu. Silsiladii ’Siinleyda” ahaydna wu
-gawrac laga maarmay, u ka qayb galay. Hal-abuur waayeel ah oo aad loo qaderiyo ayuu ahaa.
-Dunidoo giblada iidsanoo Bogol iyo siyaado ayuu ku geeriyodey Xaaji Aadan.
+gaanka dunidayda
+Jeeraan galaa baxo arllada
+gooddi iyo gooddi
+Jeeraan gufaacada ku tago
+meelo geriyaada
+Gaaliyo Islaamkaba ilaa
+taydu wada gaadho
+Barigiyo Galbeedkaba ilaa
+laygu gacan qaado
+Gurey iyo Islow iyo Hurrow
+gabaygu waa beene
+Godadleysan maayee tashiga
+waan guddoonsadaye
+Waxba yaan indhaha laygu gubin
+gaabsi ma aqaanne.
+
+***
+
+Gudcur laga tallaabsaday ilays
+baadi lagu goobtay,
+Gamas iishay, gaashaan burburay
+gawrac laga maarmay,
+Dunidoo giblada iidsanoo
 gacal walaalowdey
-Buc DOLE a aeerkeedailyo Aaminatu Wahab - Aamina Bintu Wahab (Ilaahay
-| garasho nuurkeed dheh. raalli ha ka noqdee): waa hooyadii Nebi Maxamed (nabad- gelyo iyo |
-| naxaritsi korkiisa ha ahaatee). |
-Islow - Maxamed Axmed Maxamuud (Islaweyn): (|
-. Wuxuu ka mid ahaa saraakiishii Ciidammada Cirka ee 1973kii la |
-ruqseeyey, markii uu Siyad Barre bilaabay in shakhsiyaadka waddaniga
-| ah laga safeeyo Xoogga Dalka Soomaaliyeed. Islaweyn wuxuu ka mid ahaa
-| saraakii- shii ciidammada ee aasaastay garabka hubaysan ee Ururka
-| SSDF, muddo dheer- na wuxuu ahaa Taliyaha Aaga koonfur- eed ee
-64 Gurey-Ibraahim Faarax Dawaarre(Gurey) Ururka. Laga bilaabo sannadkii 1984kii wuxuu ka mid noqday Ururka
-| 65 jslow-Maxamed Ahmed Maxamuud(Islaweyn) SNM, halkaas oo uu ku shahiidey dagaal ka dhacay Tuulada Balli-Dhiig
-Panes men ; ea (Gobolka Togdheer) 12/2/1987 isaga oo Taliye u ah Cutub SNM oo bartaa
-eaten yaahidtin naftoodii u huray, dhiiggoodiina u hibeeyey halganka Xoraynta Ummadda tyada ah weerar ku qaaday. Islaweyn wuxuu ahaa geesi waddani ah oo aad
-440 da
+Gudboonaanta xeerkeeda iyo
+garasho nuurkeed dheh.
 
-eae 0 aftahan aqoon dheer u leh hiddaha iyo suug- aanta Bukaasa-Jean Bedel Bukaasa Keligii taliyihii dalka Afrikada
-vest De ie Dhexe, ee af-genbiga kale lagu ridey.
-B ta M Thatch
-ae) Maa ‘oe keli-talivihii af-genbiga ku gabsa- Taadjar - Margaret Thatcher:
-Barre- Maxamed Ska ea et Aeli-taliyihil af gendiga ku qabsa- day Ra’iisal Wasaaradii hore ee dalka Ingiriiska iyo Hogaamiyihii Xusbiga
-dalka Soomaaliya 21/10/190?. Muxaafidka sannadihii 1979-1990.
-Beeris - Shimon Peres Ra’iisal Wasaarihii hore, Dalka Israa’iil. ]
-| _M Beegan: Ra’iisal Warsaare hore. Dalka Israa’iil, Jacfar- J acfar Maxamed Numayri: Diktaatoor ka mid ah Diktaatoorada
-Beegan-Manaaxem bees soo maray Afrika, horena muddo dheer uga talin jirey dalka Soodaan.
-ilaal-Bilaal Bin Xaaris: 5 rf
-| Wisse ahaa Asxaabi madow oo ka mid ah dadkii ugu hor rumeeyey Diinta SNG2
-Islaamka. Bilaal wuxuu caan ku ahaa Addimaadda. <aamud'=:Xaamud (braahimnaaaitie
-| Mujaahid ku caan baxay geesinimo iyo xeel dagaal oo ka tirsanaa
-Boobe-Cabdi Yuusuf Ducaali: , Ciidammada Xoraynta Ururka SNM. Xaamud Ibraahim naxariistii janno
-Mujaahid firinfircoon, ka mid ah dhallinyarada indheer-garadka ah. Alle ha ka waraabiyee wuxuu ku shahiidey goob uu mahadho ka geystey oo
-Boobe, wuxuu muddo dheer ka tirsanaa Ururka Dhaqdhaqaaqa ka mid ah goobihii cadowga lagaga hor yimi sannadkii 1984kii.
-Waddaniga Soomaaliyeed.Muddadaas gudaheeda wuxuu Ururka SNM
-a alee a Bea Chen Sieg Xasan - is bokhraha dalkaa Moroko. Xasan Saleebaan - Xasan
-2.Xo ah ft Warfaafinta Saleebaan Maxamed (Ina Saleebaan Weyne):
-spear Sarkaal ka tirsanaan jirey Xoogga Dalka Soomaaliyeed. Xasan wuxuu
-shaadhkii Xoogga Dalka Soomaaliyeed iska xayuubiyey ka dib markuu ku
-Boota-W.G.Botha: gancay in magaca Xoogga Dalku lumiyey kalsoonidii shacbiga. Xasan
-Madaxweynthii hore ee dalka koonfur Afrika ee ku caan-baxay Saleebaan wuxuu ka mid ahaa saraakiishii dhinaca Ururka SNM ee
-| siyaasadaha midab takoorka ah. xabbaddii ugu horraysey ku ridey cadowga xukunka dalka boobay. Xasan
-: ma ahayn sarkaal ka tirsan ciidammada oo keliya.
-Boodhari-Cilmi Boodhari (1908-1941): Xasan Saleebaan wuxuu ahaa geesi keenadiid ah oo leh niyad bir ah. |
-. Waa astaanta iyo halqabsiga Jacaylka iyo Jamashada haweenka, Sidaas xasan, naxariistii Janno Alle ha ka waraabiyee wuxuu ku shahiidey |
-| darteed waxa laga yaabaa in Jacaylka Cilmi yahay ka ugu caansan goobihii ugu horreeyey ee cadawga lays kaga hor yimi sannadkti 1983kii. i
-see ee Fs Wuxuu ku noolaa Magaalada Berbera markay
-| odan indhuhu tuseen giyaastii 30 nadii. Kalgacalkiisii Hodan ayaa X ; , . ‘ :
-. eps hs Ms ; or is ct Aegean fiat bie ¢ Xasan Ganey - Xasan Xaaji Cabdillaahi:
-eA Rie eo hibadit iyo hantidii Cilmi aes: Jiifiay Suugaanyahan aad looga yaqaano dalka Soomaaliya oo dhan, kana mid i
-MESO RY Th CH ns is i Neate M axamed Shabele. Waxa 1 ah ragga ugu horreeya maansadda xilligan.Xasan Ganey wuxuu ka |
-yanhay in Culmt Boodhari Jacaylkii Hodan dartii u hoydey. tirsanaan jirey Xoogga Dalka, gaar ahaan, kooxdii fanniga ahayd, ee loo
-yiqiin ”Jeneral Daa ’uud”, toddobaatanadii ayuu ku soo wareegey
-porlaan Suraan Daahir Afrax: ' Hooballada Waaberi. Xasan Ganey waa nin ku xeel-dheer Afka ;
-arbaar gabyaa ah oo ka tirsanaaX ooggaga Mucaaradka ka soo horjeeda Soomaaliga, kuna caan-baxay astaynta farshaxanimo, quruxda tyo A
-nidaamkii foosha xumaa ee ka dhisnaa Soomaaliya. adeegsiga sifooyinka dabeecada. Xasan Ganey wuxuu ka mid ahaa raggit
-kaalinta lama illaawaanka ah ka qaatay sisiladdii *Deelley”. Xasan
+### XUSUUS
 
-. ee a a hone laal geeriyooday. Deeqi waxay si
-“uu ka mid yahay ragga ku leh qayb libaax suugaanta tyo Janka Galaat , vaxay
-ee ua ka ea Say ragga ugu riwaayado iyo heeso badan. xilkasnimo leh isugu taxallujisay inay badbaadiso nolosho Muuse Galaal.
-x . Dun Carbeed - Cali Sugulle Dun Carbeed:
-iimo - Xaliimatu Sacdiya: | hy ced:
-ner Alle ee) ha ka Paibe nuujisey Nebi Maxamed /Nabad iyo Maansa-y ahan ku caan ah taariikhda fanka Soomaaliyeed, kana mid ah
-naxariisi korkeeda ha ahaatee) ka dib markii hooyadii Aamina Bintu ragga tiirarka u taagey fanka Soomaaliyeed ee cusub. Cali Sugulle waa
-Wahab (Ilaahay raali ha ka noqdee) geeriyootay. faylasuuf aragti dheer. Wuxuu aad u hantay afka Soomaliga saddex ilaa
-pigs ts ake) oink on taxnayd. Maansadiisu dhinacyada nolosha
-oo dhan tyo da‘ kasta oo bulshada ka mid ah ayay saamaysay welina i
-Xuseen- Xuseen Bin Dalaal Bin Cabdalla: dhimin. Cali Sugulle wuxuu ka mid yahay se tirada his ayade aes
-Waa is bokhraha dalka Urdun. balladhan ku leh maansada iyo fan masraxeedka soomaaliyeed.
-Xusni - Maxamed Xusni Mubaarak: a Pg
-Bie aa gales Masar. Rashiid - Rashiid sheekh Cabdillaahi Xaaji Axmed:
-Aqoonyahan ku takhasusay Cilmiga Bulshada.Suugaan ruug iyo goraa ku
-| . KH Z xeel dheer siyaasadda. Rashiid intii dagaalka hubaysan ee SNM jireyba ka
-Khaliif - Khaliif Sheekh Axmed: mid buu ahaa, waxaanu hay’adaha Ururka ee sare ka soo qabtay xilal ku
-Hanad dhallin yaro ah, oo kaalin xus mudan ka qaatay halganka ka hor siman ilaa heer Fulineed (Xoghayaha Xidhiidhka Dibadda).
-jeeda taliska foosha xun ee ka dhisan Soomaaliya. Khaliif Alle ha u Rashiid waa gabay dhaadhi caan ku ah dhadhanniga iyo kala shiilka
-naxariistee wuxuu madax ka ahaa Qaybta Koonfureed ee Ururka SNM, maansade.
-isaga oo dhiif diriraya ayuu ku shahiidey goob dagaal, Gobolka Bakool ee
-Soomaaliya sannadkti 1985kii. Raage - Raage Ugaas Warfaa:
-| Bilowgii Qarnigii 19aad ayuu dhashay. Raage wuxuu ka mid ahaa raggii
-D | ugu horreeyey ee ku caan noqda gabayga.
-Daktoor Baanda - Hastings Banda. Waa i
-Diktaatoorka ka taliya dalka Malaawi (Afrikada Koonfureed). Reegan - Ronald Wilson Reegan: —
-Madaxweynihii dalka Maraykanka (1979 - 1988).
-Dr. Maxamed Saalax -Dr.Maxamed Saalax xasan: i : perder
-Gobolka Sanaag ayuu ku dhashay. Macallinimo ayaa dalka Soomaaliya Riiraash - Maxamed Cabdillaahi Riiraash: ie
-| loogu tababaray oo kulliyadda Macallimiinta ee Lafoole ayuu ka galin waa macallin ka qalin jebiyey kulliyadda Waxbarashada ee Lafoole. Da
-jebiyey. Markii danbena dalkii Jarmalka Dimugqraadiga la odhan jirey Ingiriiska wuxuu ka soo qaatay shahaadada "MA”. |
-. ayuu waxbarashadiisii ka sii watey, halkaasoo uu cilmiga taariikhda
-"Bh.D” kaga soo qaatay. Wakhtigan xaadirka ahna cilma baadhis la Riiraash, waa hal-abuur daneeya suugaanta kana gayb qaatay |
-eee raad-raaca taartikhda Soomaaliyeed ayuu dalka Ingriiska u silsiladdii ”Siinley. |
-| Deegqa - Deega Jaamac Jibriil (Deeqa Colujoog): 2D ; : 5
-|| Aqoonyahanad Soomaaliyeed oo ku takhasustay cilmiga bulshada. Deeqi Saado - Saado Cabdi Muxumed (Cabdi Bacaad):
-sil waxay ahayd Guddoomiyaha Akaademiyada Cilmiga, Fanka iyo Waa marwada Rashiid Sheekh Cabdillaahi, .
-| | | Suugaanta wakhtigii Ilaahay naxariis- tii janno ha ka waraabiyee Muuse
-Ma
+- A -
 
-, 2. Muddo dheer ka horjeedey taliska bahalka ah ee ka dhisan Soomaali
-2 Sabla ri Le ae Hooballada Waaberi.Saado, waa hal- 3.Dhoodaan wuxuu caan kusii yahay gabayada jacburka ah, oe
-Deets gabaat ka qayb gashay silsiladdii ” Deelley”’. |
-abuur
-Pl Gas
-d (Carrabey): Cabbaas - Axmed :
-Salaan Carrabey -Salaan Maxameo ; WhLRE | abbaas med Cabbaas Axmed:
-Wuxuu ahaa gabyaa caana oo ku ahusiia) ee ae ee layiie foe | Dhaqaalayahan, Qoraa kuXeel-dheere cilmiga bulshada. Cabbaas wuxuu
-ayuu ahaa Salaan. Silsiladdii "Guba" gabayaag | ka tirsanaa X ooggaga Mucaaradka ah ilaa sannadkii 1980. Cabbas waa
-jirey. ragga aad u daneeya fanka iyo Suugaanta, waddaniyaduna uraa rugtiisa
-iyo raaskiisa.
-Samoosa - Arestides Samosa: — ;
-i, Diktaatoorkii muddada dheer ka talin Leap BOE IR HE ame Cabdi Qays - Cabal Andan Xana:
-kacdoonka shacbi ee ee Ne b sey cay, dinista, heesaagii Hil pees caan ka ah dalka iyo degaannada Soomaaliya oo dhan.
-hoggaamina- yeen cudammaai ; Cabdi Qays waxaa Ilaahay ku mannays- tay hibooyin fanni ah oo fara
-| caanka ahaa ee Diktaatoorku diley. badan, waxaanu ka mid yahay tira aad u yar 00 awood u leh:- i
-| tant 1. Hal-abuurida iyo tirinta midhaha.
-pine Rashiid Sheekh Cabdillaahi iyo Saado Cabdi Bacaad. 3. Tumidda kamanka iyo qalab kale.
-4. ku luugaynta heesaha.
-Sayid Maxamed - Sayid Maxamed Cabdulle Xasan: 5. Jilidda riwaayadaha.
-} Wuxuu ahaa gabyaa caan ah oo si ba’an ugu tal I Ae Sebel Cabdi Qays wuxuu ka mid yahay suugaan- yahannada heerka koowaad,
-1 Hoggaami- yihii dhaqdhaqaaqit clidammadit ROTCOMUSI IEICE waxaanu ka mid yahay kuwa loogu jecel yahay fankooda. Cabdi Qays
-| hor-jeeday gumaystayaashii Talyaaniga iyo Ingiriiska. | wuxuu ka mid ahaa raggii ay bilowgiiba iska horyimaaddeen askartii
-| xukunka Soomaaliya boobtay, muddadii askartaasi dalka ka talinay- seyna
-Siciid Saalax - Siciid Saalax Axmed: Uh | badankeeda Cabdi Qays wuxuu ku oodnaa xabsi.
-Gobolka Sanaag ayuu ku dhashay. Macallimiintii hore ayuu Sictid ka mid
-yahay, kulliyadda Te ak ion he a cae Jebiyey, waana Cali hum Caliaanenn
-Ger caunT Si Stiaads” Stnleyaa ahayd ka gayb galay. Qarnigii 19aad qaybtiisii danbe ayuu dhashay. Qarnigii 20aad badhtami-
-hit- siina wuu geeriyoodey. Gabyaa caan baxay reer mty ah oo Gobollada
-: - Sh - Woqooyi Barigooda ku xoolo dhaqda buu ahaa.Silsilsddii ”’Guba” la
-Shaah - Maxamed Rida Bahlawi: baxday gabaygay ka unkantay- na isagaa curiyey Cali Dhuux.
-Shaahii, ama bogorkii ka talinayey liraan muddada ku dhow soddonka
-sannadood. Cumar - Cumar Salaad Cilmi:
-| Shaqada dawlada 1964kii ayuu ku biiray. Tan iyo waagaana xilal kala _
-shirwac - Cabdillaahi Maxamed Shirwac: duwan ayuu Cumar dawladihii kala danbeeyey ka soo qabtay. sannadthii |
-Waa Jaamici, indheer-garad ah, leh sifooyin waddaninnimo iyo 1978 - 1980, Cumar wuxuu ahaa X oghayaha X isbiga lyo Guddoomiyaha
-qarannimo. Gobolka Woqooyi Galbeed. Cumar, sannadkii 1981 kii ayuu ku soo biiray
-Xooggaga Mucaaradka Soomaaliy- eed, garabka SSDF oo uu xilal
-Fulineed ka qabtay. Haatana Cumar wuxuu ka tirsan yahay hoggaanka
-| ee an - Cabdillaahi Macalli on
-| oodaan - Cabdillaahi Macallin:
-| 1. Gabyaa ku xeel-dheer maansada Soomaaliyeed. .
-Wt
+Aadan Shiine:- (Aadan Sheekh Maxamuud). Sarkaalka ugu sarreeya ee ciidanka Qaranka Soomaaliyeed, ka dibna ka tirsanaa SNM (Somali National Movement). Wuxuu ahaa Taliye iyo Guddoomiye ku-xigeen 1982-1986, wuxuuna ku shahiiday weerar 31/5/1987.
 
-0 ts - renee
-C . n Bulxan: Waa gabayaa caan ku ah Suugaanta Sarkaal Ingiriis ah oo mar ka talin jirey magaalada Burco wakhiigii
-SU eninest. Oarnigi 20aad bilowgiisit gabyaa ku noolaa Dhagaxbuur elds ! Shs ae markii danbena ciidamadii daraawiishtu 9 dileen
-iyo nawaaxigeeda buu ahaa.Silsiladdii "Guba” ahaydna dood ba an iyo gobotka logdheer, labaatannadii Qarnigan labaatanaad.
-farshaxanimo laysla sheegay buu kaga qayb galay.Tii "Halacna
-gabyaagii isku helay buu safka hore kaga Jirey. Gurxan - Xasan Gurxan Ibraahim:
-| 1.Waddani indheer-garad ah.
-G ae fiahan ku talax tegey siyaasadda.
-| - - .Gurxan wuxuu weligii ka horjeede ] ;
-Garas - Muxumed Carte Jaamac: ; : dheehantahayna ku ae ena tee en a ie ae a
-Waxay isku dugsi iyo isku kacaan ahaayeen hal-abuurka Maxamed caarcaarisay Soomaaliya qaltatada
-Ibraahim Warsame (Magaalada Cadan). Garas wuxuu ka mid yahay : :
-ragga Hadraawiugu jecel yahay saaxtibbadiisii hore. Garas wuxuu markii
-| ugu danbeysey ku sugnaa dalka Imaaraadka Carabta. Gurey- Ibraahim Faarax Dawaarre (1956-1986):
-Vea ka mid aha: horseedkii dhaqdhaqaaqyadii ardayda ee Gobolka
-| ‘eae hi Dhamac: anaag, arrintaas darteed, Gurey wuxuu ku xidhnaa xabsiga weyn ee ku
-Eines ee ry; yaal tuulada Mandheera, degmada Berbera. Muddadii uu Thewintes
-2. Gabyaa, safka hore kaga jira hogaaminta maansada Soomaaliyeed ee ; oe fos : es sei ene ie labaatan jir ah.Gurey wuxuu dagaalka
-, | ib, ama casriga ah. : JAA SERIE
-| Pine ee la Wisden dagaalka hubaysan ee Dhaqdhaqaaqa Gurey I Haak lay naxariistii janno ha ka waraabiyee, wuxuu shahiidey
-Waddaniga Soomaaliyeed, waxaanu Ururka SNM ka soo gabtay xilal kala sannad- kii 1986kii, isaga oo gudanaya waayjibaadkiisii ummadeed. Gurey
-. duwan oo ka mid yahay Xoghayaha Aagga Dhexe. Gaarriye, waa raggit WUXUU intuu noolaa tusaale iyo astaan u ahaa sifooyinka ku aroora
-| gaybta libaax ku lahaa silsiladdii siinley, Gaarriye waa hal-abuurkii ragannimada oo dhan. Waxaanu iftiin iyo ilays lagu hirto iyo hal-haysba
-| bilaabay silsiladdii caanka ahayd ee Deelley. u noqday, guud ahaan dagaalka hubaysan, gaar ahaan dhalinyarada
-| Seomegts yeed. Geeridit SHES) Faarax Dawaare ku timi waxay dad fara
-. Galaal - Muuse Xaaji Ismaaciil Galaal: ARIE B CY CMSUSEY MIATA ROO RTLOO YEE
-(Muuse Galaal), ewan Xidaar, Hoobal, gabyaa iyo caalim ku xeel afkooda wax hadal ihi ka soo bixin in muddo ah.
-dheeraa suugaanta, dhaqanka iyo xiddigiska. Muuse Galaal wuxuu caan
-ku ahaa degaanada Soomaaliyeed oo dhan, waxaana aad looga yiqiiney Guush- Cali Jaamac Basaale:
-| adduunweynaha. Muuse Galaal wuxuu ka mid ahaa tiirarkii budhcadda ka Wuxuu wax ku bartay magaalada Burco. Wuxuu dhaqdhaqaaqyadii |
-talisa Soomaaliya sahayatay, waxaanu Ilaahay naxriistii janno ha ka dhalinyarada ee Gobolka Togdheer ka ahaa xubin firinfiricoon. Guush
-| waraabiyee si dacdarro ah ugu geeriyoodey magaalada Muqdisho wuxuu dagaalka hubaysan, garabka SNM ku soo biiray sannadkii 1983kii.
-sannadkii 1980kit. uush gudashada kaalintii uu ku lahaa halganka ka sokow wuxuu kaalinta
-ugu weyn ka qaatay, ururinta, ilaalinta, faafinta iyo daabacaadda
-| Gammuute - Maxamed Cabdille Cali: suugaanta buugan ku daabacan.
-| Gobolka Togdheer ayuu dabayaagadii Qarnigii 19aad ku dhashay,
-Gabyaa caanah kuna sii Caan baxay maansada geela ayuu ahaa.Waxaanu
-xijaabtay giyaastii afartannadii. - F-
-Faarax- Faarax Axmed Cali (Faarax nya = :
-Gaandi - Mahatma Gaandi: Jaamici, cilmi baadhe iyo qoraa suugaanyahan ah, Faarax wuxuu uaa
-. ny sannadkii 1982kii ka tirsanaa Xooggaga Mucaaradka ah, garabka ),
-. Eun @railnorsecakakachaa haigankit gobannimada datka Hindtya. Dhaqdhaqaaqa Waddaniga Soomaaliyeed (SNM). Waxaanu muddo dheer |
-xubin ka ahaa Golaha Dhexe.
+Af-Qalooc-Xaaji Aadan Axmed:- Waa gabayaa waddani ah oo ka soo jeeda gobolka Sanaag, ka qayb galay silsiladda Siinleyda. Wuxuu noolaa in ka badan boqol sannadood.
 
+Aaminatu Wahab - Aamina Bintu Wahab (Ilaahay raalli ha ka noqdee): Hooyadii Nebi Muxamed.
+
+- I -
+
+Islow - Maxamed Axmed Maxamuud (Islaweyn): Sarkaalkii Ciidanka Cirka ee laga eryay 1973 xilligii Siyaad Barre. Wuxuu ahaa mid ka mid ah aasaasayaashii garabka hubaysan ee SSDF, wuxuuna ku biiray SNM 1984. Wuxuu ku shahiiday dagaal tuulada Balli-Dhiig 12/2/1987. Islaweyn wuxuu ahaa geesi waddani ah oo aad loo jecelyahay iyo aftahan aqoon dheer u leh hiddaha iyo suugaanta Soomaaliyeed.
+
+- B -
+
+Barre- Maxamed Siyaad Barre: keli-taliyihii af-genbiga ku qabsaday dalka Soomaaliya 21/10/1969.
+
+Beeris - Shimon Peres: Ra'iisal Wasaarihii hore, dalka Israa'iil.
+
+Beegan-Manaaxem Beegan: Ra'iisal Wasaare hore, dalka Israa'iil.
+
+Bilaal-Bilaal Bin Xaaris: Wuxuu ahaa Asxaabi madow oo ka mid ah dadkii ugu hor rumeeyey Diinta Islaamka. Bilaal wuxuu caan ku ahaa Addimaadda.
+
+Boobe-Cabdi Yuusuf Ducaali: Mujaahid firinfircoon, ka mid ah dhallinyarada indheer-garadka ah. Boobe wuxuu muddo dheer ka tirsanaa Ururka Dhaqdhaqaaqa Waddaniga Soomaaliyeed. Muddadaas gudaheeda wuxuu Ururka SNM hay'adihiisa sare ka soo qabtay xilal kala duwan sida:
+1. Xoghayaha Golaha Dhexe
+2. Xoghayaha Warfaafinta.
+
+Boota-W.G.Botha: Madaxweynihii hore ee dalka koonfur Afrika ee ku caan-baxay siyaasadaha midab takoorka ah.
+
+Boodhari-Cilmi Boodhari (1908-1941): Waa astaanta iyo halqabsiga Jacaylka iyo Jamashada haweenka. Wuxuu ku noolaa Magaalada Berbera markay Hodan induhuu tuseen qiyaastii 30 nadii. Kalgacalkiisii Hodan ayaa caynka iyo baydda ka gooyey hibadii iyo hantidii Cilmi duunkiisa jiiftay. Laakiin Hodan waxay oori u noqotay Maxamed Shabeele. Waxa la rumeysan yahay in Cilmi Boodhari jacaylkii Hodan dartii u hoydey.
+
+Burhaan-Burhaan Daahir Afrax: Barbaar gabyaa ah oo ka tirsana Xooggaga Mucaaradka ka soo horjeeda nidaamkii foosha xumaa ee ka dhisnaa Soomaaliya.
+
+Bukaasa-Jean Bedel Bukaasa: Keligii taliyihii dalka Afrikada Dhexe, ee af-genbiga kale lagu ridey.
+
+- T -
+
+Taadjar - Margaret Thatcher: Ra'iisal Wasaaradii hore ee dalka Ingiriiska iyo Hogaamiyihii Xisbiga Muxaafidka sannadihii 1979-1990.
+
+- J -
+
+Jacfar- Jacfar Maxamed Numayri: Diktaatoor ka mid ah Diktaatoorada soo maray Afrika, horena muddo dheer uga talin jirey dalka Soodaan.
+
+- X -
+
+Xaamud - Xaamud Ibraahim Yaasiin: Mujaahid ku caan baxay geesinimo iyo xeel dagaal oo ka tirsanaa Ciidammada Xoraynta Ururka SNM. Xaamud Ibraahim naxariistii janno Alle ha ka waraabiyee wuxuu ku shahiidey goob uu mahadho ka geystey oo ka mid ah goobihii cadowga lagaga hor yimi sannadkii 1984kii.
+
+Xasan - is bokhraha dalkaa Moroko.
+
+Xasan Saleebaan - Xasan Saleebaan Maxamed (Ina Saleebaan Weyne): Sarkaalk tirsanaan jirey Xoogga Dalka Soomaaliyeed. Xasan wuxuu shaadhkii Xoogga Dalka Soomaaliyeed isa xayuubiyey ka dib markuu ku qancay in magaca Xoogga Dalku lumiyey kalsoonidii shacbiga. Xasan Saleebaan wuxuu ka mid ahaa saraakiishii dhinaca Ururka SNM ee xabbaddii ugu horraysey ku ridey cadowga xukunka dalka boobay. Xasan ma ahayn sarkaalk ka tirsan ciidammada oo keliya. Xasan Saleebaan wuxuu ahaa geesi keenadiid ah oo leh niyad bir ah. Xasan, naxariistii Janno Alle ha ka waraabiyee wuxuu ku shahiidey goobihii ugu horreeyey ee cadawga lays kaga hor yimi sannadkii 1983kii.
+
+Xasan Ganey - Xasan Xaaji Cabdillaahi: Suugaanyahan aad looga yaqaano dalka Soomaaliya oo dhan, kana mid ah ragga ugu horreeya maansadda xilligan. Xasan Ganey wuxuu ka tirsanaan jirey Xoogga Dalka, gaar ahaan, kooxdii fanniga ahayd, ee loo yiqiin "Jeneral Daa'uud", toddobaatanadii ayuu ku soo wareegey Hooballada Waaberi. Xasan Ganey waa nin ku xeel-dheer Afka Soomaaliga, kuna caan-baxay astaynta farshaxanimo, quruxda iyo adeegsiga sifooyinka dabeecada. Xasan Ganey wuxuu ka mid ahaa raggii kaalinta lama illaa waanka ah ka qaatay silsiladdii Deelley.
+
+Xaliimo - Xaliimatu Sacdiya: Nebi Maxamed iyo Aamina Bintu Wahab.
+
+Xuseen - Xuseen Bin Dalaal Bin Cabdalla: is bokhraha dalka Urdun.
+
+Xusni - Maxamed Xusni Mubaarak: Madaxweynaha dalka Masar.
+
+- KH -
+
+Khaliif - Khaliif Sheekh Axmed: Sarkaalka SNM ee gobolka Bakool 1985.
+
+- D -
+
+Daktoor Baanda - Hastings Banda: Hogaamiyihii dalka Malawi ee Koonfurta Afrika.
+
+Dr. Maxamed Saalax - Dr. Maxamed Saalax Xasan: Macallin ka soo jeeda kulliyadda Macallimiinta ee Lafoole, wuxuu shahaado Bh.D ka qaatay Jarmalka, wuxuuna wax ku bartay Ingriiska.
+
+Deeqa - Deeqa Jaamac Jibriil (Deeqa Colujoog): Ka tirsan Akaademiyada Cilmiga, Fanka iyo Suugaanta, Muuse Galaal.
+
+Dun Carbeed - Cali Sugulle Dun Carbeed: Fanaan caan ah oo saddex ilaa afar toban sannadood ku soo jirey fanka iyo suugaanta Soomaaliyeed.
+
+- R -
+
+Rashiid - Rashiid Sheekh Cabdillaahi Xaaji Axmed: Aqoonyahan ku xeel-dheer cilmiga bulshada, wuxuuna SNM ka soo qabtay xilka Xoghayaha Xidhiidhka Dibadda.
+
+Raage - Raage Ugaas Warfaa: Gabyaa qarnigii 19aad.
+
+Reegan - Ronald Wilson Reegan: Madaxweynihii dalka Maraykanka (1979 - 1988).
+
+Riiraash - Maxamed Cabdillaahi Riiraash: Waxbarashadiisii wuxuu ku qaatay Lafoole, wuxuuna shahaado M.A ka qaatay Ingriiska. Wuxuu ka qayb galay silsiladda Siinley.
+
+- S -
+
+Saado - Saado Cabdi Muxumed (Cabdi Bacaad): Xaaskiisa Rashiid Sheekh Cabdillaahi.
+
+Saado - Saado Cali Warsame: Fanaanad cod baxsan, kana tirsan Hooballada Waaberi. Saado waa hal-abuurad, waana gabadhii ka qayb gashay silsiladdii Deelley.
+
+Salaan Carrabey - Salaan Maxamed (Carrabey): Wuxuu ahaa gabyaa caana oo ku dhashay Gobolka Togdheer, dhulmareen ayuu ahaa Salaan. Silsiladdii Guba gabayaagii ka qayb galay buu ku jirey.
+
+Samoosa - Arestides Samosa: Diktaatoorkii muddada dheer ka talin jirey dalka Nikaraagwa, ee kacdoonka shacbi lagu ridey dabayaaqadii 1970kii.
+
+Sahra - Sahra Rashiid Sheekh Cabdillaahi: Curadda Rashiid Sheekh Cabdillaahi iyo Saado Cabdi Bacaad.
+
+Sayid Maxamed - Sayid Maxamed Cabdulle Xasan: Wuxuu ahaa gabyaa caan ah oo si ba'an ugu talax-tegey afka Soomaaliga, hogaamiyihii dhaqdhaqaaqii ciidammada Daraawiishta ee ka hor-jeeday gumaystayaashii Talyaaniga iyo Ingiriiska.
+
+Siciid Saalax - Siciid Saalax Axmed: Gobolka Sanaag ayuu ku dhashay. Macallimiintii hore ayuu Siciid ka mid yahay, kulliyadda Macallimiinta ee Lafoole ayuu ka qalin jebiyey, waana hal-abuur silsiladdii Siinleyda ahayd ka qayb galay.
+
+- SH -
+
+Shaah - Maxamed Rida Bahlawi: Shaahii, ama boqorkii ka talinayey Iiraan muddada ku dhow soddonka sannadood.
+
+Shirwac - Cabdillaahi Maxamed Shirwac: Waa Jaamici, indheer-garad ah, leh sifooyin waddaninnimo iyo qarannimo.
+
+- DH -
+
+Dhoodaan - Cabdillaahi Macallin:
+1. Gabyaa ku xeel-dheer maansada Soomaaliyeed.
+2. Muddo dheer ka horjeedey taliska bahalka ah ee ka dhisan Soomaaliya.
+3. Dhoodaan wuxuu caan ku yahay gabayada jacburka ah.
+
+- C -
+
+Cabbaas - Axmed Cabbaas Axmed: Dhaqaalayahan, Qoraa ku xeel-dheere cilmiga bulshada. Cabbaas wuxuu ka tirsanaa Xooggaga Mucaaradka ah ilaa sannadkii 1980. Cabbaas waa ragga aad u daneeya fanka iyo Suugaanta, waddaniyaduna uraa rugtiisa iyo raaskiisa.
+
+Cabdi Qays - Cabdi Aadan Xaad: Suugaanyahan caan ka ah dalka iyo degaannada Soomaaliya oo dhan. Cabdi Qays waxaa Ilaahay ku mannaysay hibooyin fanni ah oo fara badan, waxaanu ka mid yahay tira aad u yar oo awood u leh:
+1. Hal-abuurida iyo tirinta midhaha.
+2. Samaynta codka.
+3. Tumidda kamanka iyo qalab kale.
+4. Ku luuqaynta heesaha.
+5. Jilidda riwaayadaha.
+Cabdi Qays wuxuu ka mid yahay suugaanyahannada heerka koowaad, waxaanu ka mid yahay kuwa loogu jecel yahay fankooda. Cabdi Qays wuxuu ka mid ahaa raggii ay bilowgiiba iska horyimaadeen askartii xukunka Soomaaliya boobtay, muddadii askartaasi dalka ka talinayseyna badankeeda Cabdi Qays wuxuu ku oodnaa xabsi.
+
+Cali Dhuux - Cali Aadan: Qarnigii 19aad qaybtiisii danbe ayuu dhashay. Qarnigii 20aad badhtamihiisiina wuu geeriyoodey. Gabyaa caan baxay reer miy ah oo Gobollada Woqooyi Barigooda ku xoolo dhaqda buu ahaa. Silsiladdii Guba la baxday gabaygay ka unkantayna isagaa curiyey Cali Dhuux.
+
+Cumar - Cumar Salaad Cilmi: Shaqada dawlada 1964kii ayuu ku biiray. Tan iyo waagaana xilal kala duwan ayuu Cumar dawladihii kala danbeeyey ka soo qabtay. Sannadihii 1978 - 1980, Cumar wuxuu ahaa Xoghayaha Xisbiga iyo Guddoomiyaha Gobolka Woqooyi Galbeed. Cumar, sannadkii 1981kii ayuu ku soo biiray Xooggaga Mucaaradka Soomaaliyeed, garabka SSDF oo uu xilal fulineed ka qabtay. Haatana Cumar wuxuu ka tirsan yahay hoggaanka Ururka USC.
+
+- Q -
+
+Qammaan - Qammaan Bulxan: Waa gabayaa caan ku ah Suugaanta Soomaaliyeed. Qarnigii 20aad bilowgiisii gabyaa ku noolaa Dhagaxbuur iyo nawaaxigeeda buu ahaa. Silsiladdii Guba ahaydna dood ba'an iyo farshaxanimo laysla sheegay buu kaga qayb galay. Tii Halacna gabyaagii isku helay buu safka hore kaga jirey.
+
+- G -
+
+Garas - Muxumed Carte Jaamac: Waxay isku dugsi iyo isku kacaan ahaayeen hal-abuurka Maxamed Ibraahim Warsame (Magaalada Cadan). Garas wuxuu ka mid yahay ragga Hadraawi ugu jecel yahay saaxiibbadiisii hore. Garas wuxuu markii ugu danbeysey ku sugnaa dalka Imaaraadka Carabta.
+
+Gaarriye- Maxamed Xaashi Dhamac:
+1. Jaamici indheer-garad ah.
+2. Gabyaa, safka hore kaga jira hogaaminta maansada Soomaaliyeed ee wakhtigan cusub, ama casriga ah.
+3. Gaarriye wuxuu la kowsaday dagaalka hubaysan ee Dhaqdhaqaaqa Waddaniga Soomaaliyeed, waxaanu Ururka SNM ka soo qabtay xilal kala duwan oo ka mid yahay Xoghayaha Aagga Dhexe. Gaarriye waa raggii qaybta libaax ku lahaa silsiladdii Siinley, Gaarriye waa hal-abuurkii bilaabay silsiladdii caanka ahayd ee Deelley.
+
+Galaal - Muuse Xaaji Ismaaciil Galaal (Muuse Galaal): Abwaan, Xidaar, Hoobal, gabyaa iyo caalim ku xeel dheeraa suugaanta, dhaqanka iyo xiddigiska. Muuse Galaal wuxuu caan ku ahaa degaanada Soomaaliyeed oo dhan, waxaana aad looga yiqiiney adduunweynaha. Muuse Galaal wuxuu ka mid ahaa tiirarkii budhcadda ka talisa Soomaaliya sahayatay, waxaanu Ilaahay naxariistii janno ha ka waraabiyee si dacdarro ah ugu geeriyoodey magaalada Muqdisho sannadkii 1980kii.
+
+Gammuute - Maxamed Cabdille Cali: Gobolka Togdheer ayuu dabayaaqadii Qarnigii 19aad ku dhashay, gabyaa caanah kuna sii caan baxay maansada geela ayuu ahaa. Waxaanu xijaabtay qiyaastii afartannadii.
+
+Gaandi - Mahatma Gaandi: Halyeygii horseedka ka ahaa halgankii gobannimada dalka Hindiya.
+
+Giib - D.Gibbis: Sarkaalk Ingiriis ah oo mar ka talin jirey magaalada Burco wakhtigii gumaysiga Ingiriiska, markii danbena ciidamadii daraawiishtu ku dileen gobolka Togdheer, labaatannaddii Qarnigan labaatanaad.
+
+Gurxan - Xasan Gurxan Ibraahim:
+1. Waddani indheer-garad ah.
+2. Aftahan ku talax tegey siyaasadda.
+3. Gurxan wuxuu weligii ka horjeedey dagaal siyaasi ah oo aqooni ku dheehan tahayna ku hayey ninka madaxda ka ah dad qalatada caarcaarisay Soomaaliya.
+
+Gurey- Ibraahim Faarax Dawaarre (1956-1986): Wuxuu ka mid ahaa horseedkii dhaqdhaqaaqyadii ardayda ee Gobolka Sanaag, arrintaas darteed, Gurey wuxuu ku xidhnaa xabsiga weyn ee ku yaal tuulada Mandheera, degmada Berbera. Muddadii uu dhaxaysey 1979-1981, isaga oo dhawr iyo labaatan jir ah. Gurey wuxuu dagaalka hubaysan ku soo biiray 1982kii. Gurey Ilaahay naxariistii janno ha ka waraabiyee, wuxuu shahiidey sannadkii 1986kii, isaga oo gudanaya waajibaadkiisii ummadeed. Gurey wuxuu intuu noolaa tusaale iyo astaan u ahaa sifooyinka ku aroora ragannimada oo dhan. Waxaanu iftiin iyo ilays lagu hirto iyo hal-haysba u noqday, guud ahaan dagaalka hubaysan, gaar ahaan dhalinyarada Soomaaliyeed. Geeridii Gurey Faarax Dawaarre ku timi waxay dad fara badan geyneysiiyey inaan hagoog mooyee afkooda wax hadal ihi ka soo bixin in muddo ah.
+
+Guush- Cali Jaamac Basaale: Wuxuu ku bartay magaalada Burco. Wuxuu dhaqdhaqaaqyadii dhalinyarada ee Gobolka Togdheer ka ahaa xubin firinfircoon. Guush wuxuu dagaalka hubaysan, garabka SNM ku soo biiray sannadkii 1983kii. Guush gudashada kaalintii uu ku lahaa halganka ka sokow wuxuu kaalinta ugu weyn ka qaatay, ururinta, ilaalinta, faafinta iyo daabacaadda suugaanta buugan ku daabacan.
+
+- F -
+
+Faarax- Faarax Axmed Cali (Faarax Gamuute): Jaamici, cilmi baadhe iyo qoraa suugaanyahan ah. Faarax wuxuu ilaa sannadkii 1982kii ka tirsanaa Xooggaga Mucaaradka ah, garabka Dhaqdhaqaaqa Waddaniga Soomaaliyeed (SNM). Waxaanu muddo dheer xubin ka ahaa Golaha Dhexe.
+
+Faarax Nuur: Gabyaa caan ah oo ka soo jeeda Woqooyi Galbeed.
+
+Fahad- Fahad Binu Cabdulcasiis: Is-bokhraha dalkaas Sucuudiga.
+
+Kaddare- Xuseen Sheekh Axmed: Cilmi-baade iyo aftahan ku xeel-dheer dhaqanka iyo suugaanta.
+
+Karuur- Cabdi Sheekh Jaamac (Cabdi Karuur): Sarkaalkii Ciidanka Qaranka Soomaaliyeed, ka dibna ka tirsanaa SSDF iyo SNM.
+
+Koosaar- Cabdulqaadir Koosaar Cabdi:
+1. Guddoomiyaha Dhaqdhaqaaqa Waddaniga Soomaaliyeed SNM (1983-1984).
+2. Taliyaha Ciidammada Xoraynta SNM.
 3. Xubin guddida fulinta ah.
-4. Xubin Golaha dhexe.
-Nuur: soit 5. Taliyaha Aagga Koonfureed.
-vai ku noolaan jiray gobolka Woqooyt tinea it spe Tiigees GinlalivaacAd baa ete
-; ) naxariistii Janno ha ka wa iy . .
-ang Rama maa zs Sy ap ah oo farshaxannimada iyo xeel Gr abdulqaadir Koosaar wuxuu ahaa indheer-garad ku xeel-dheer afafka
-ee ea ti iyo aqoon kaabay oo ladhay hibadiisa. Farax una bisil siyaasadda. Cabdulqaadir Koosaar Ilaahay naxariistii janno ha
-| dheerida ku darsaday aias -hayeen iyo abbaan duuleba ka ahaa qaddiyad ka waraabiyee waxaa cadowgu shirqool gaadmo ah ku diley 12/7/1987,
-Nuur wuxuu gaadh haye, Af-hayee! aggii ahaa daafacayeen. Taasa waxay isagoo ku guda jira gudashada waajibaadkiisa ummadeed.
-kaxeel dheer kana xannun badantii raggu ang I or Ae sag
-| ( ij - keliya talo ka gedman weydo sawirka qaddly M
-keentay in mar kelty
-| libdhi waayo. Nix
-rs Ik cuudiea Lixle- Maxamed Xaashi Diiriye:
-| Fahad- Fahad Binu Cabduleasiis: /s-bokhzaha dalkaas su ae Wuxuu ka mid ahaa saraakiisha sare ee Xoogga Dalka Soomaaliyeed,
-waxaana shaqada laga fadhiisiyey 1987kii isaga 00 Gaashaanle Sare ah
-- kh Axmed: keeno- diidnimo awgeed. Lixle, wuxuu ka mid ahaa saraakiishii asaastay
-. ve a ee eee dhaganka iyo suugaanta kana tirsan Ururka Dhaqdhaqaaqa Waddaniga Soomaaliyeed, gaar ahaan garabka
-| Ale haat adda Cilmiga, Fanka iyo Suugaanta. ctidammada xoraynta. Sannadihii 1983- kii iyo 1984kii wuxuu Ururka
-q soa , SNM ka qabtay xilal ay ka mid yihiin Xoghayaha ciidammada Xoraynta
-. Ka Cabdi sheekh Jaamac (Cabdi Karuur): SNM. Hae i ae ahaa calool adayg. geesinimo, hawlkarnimo iyo naf
-| ruur- hurnimo aad loo tebey.
-| re ae a ha pe ii dalku Lixle, Alle naxariistii janno ha ka waraabiyee, wuxuu shahiiday
-i ka tirsan Xoogga Dalka NRE ed ade gaa be eae ris Lawsnday 17/10/1984, isaga oo dagaal-gelinaya ciidan tira yar 00 SNM ah 00 cadow
-psi A sabes Seon a ib aie ity danbeeyey garabka xooggani soo weeraray. Mintidnimada Lixle ayaa keentay in cadowgii aad
-} PE IABR AA GH ant wuxuu ahaa halyey caan ku noqday halganka loo sip Sioa rae pe
-| dhexdiisa iyo dalka Soomaaliyeed oo dhan. Wuxuu ahaa geest ku” Sere he seh 4 ae ae eos a
--dheer d. lka dhuumaalaysiga (Guerrilla), gaadmada tyo is mid tahay
-si ka. Cabdi Karuur, fe sas tyo Sselal joogta ah ku ridey Ha enue eee ae ku
-id. da cadowga ee Gobolka Bakool, Gedo iyo Bay. Cabdi Karuur tayaan taliska Siyaac ; |
-rest anne ran weerar ku qaaday magaalo madaxda M. ugqdisho
-intii dawlad ku sheegta ka talisa Soomaaliya well ar vip ean Vie
-dhaadheer lahayd. Cabdi Karuur Ilaahay naxariistiisa ballaadhan ha t. .
-huwiyee, goob dagaal oo uu ku xarrago qaatay (Washaago, degmada Yeed, Maxamed Mooge Rania a pee ety dined eae
-Gobolka Bakool) ayuu ku shahiidey sannadkii 1987kii. Heesaagii ma dhafaanka ahaa ee Soomaaliya. mee
-ahaa macallin ka tirsanaa Wasaaradda Waxbarashada, a hor in pee
-: . hantiyin dhegaha dadweynaha Soomaaliyeed. Maxamed, ee Pile.
-Kopsaar: Cabduigandix OOS aN Cabal: ace YX, ahaan soo shaac- baxay sannadihit toddobaatanadit. Maxame oe
-Cobmurggadir iain AES ghagmiieysarkaal ka peer b ae i waxaa taliska Soomaaliya ka dhisani shaqadit ka fadhiisiyey aes i
-Diese iarciuikis soo uray Looggaga Mean aga: ah beeen 1971 kii, ka dib markii talisku ku eedeeyey inaanu u Jajabnayn tawlaha
-Dhagqdhaqaaqa Waddaniga Soomaaliyeed sannadkit 1982kii. Muddadaas Dasniniene heegaa boobay taladii dalka. Maxamed, intuu dalka gudihiisa
-Cabdulqaadir Koosaar ka tirsanaa Ururka SNM xilalka uu soo qabtay joogey wuxuu ku heesi jirey heesaha si dad- ban uga soo hor-j eeday tisk |
-waxaa kam id ahaa: : F Maxamed Siyaad Barre. Toddobaatannadii ayuu Maxamed sl eee
-| I. Guddoomiyaha Dhaqdhaqaaga Waddaniga Soomaaliyeed SNM daika kaga baxay, waxaanu in mundo ah ku noolaa dalka Kinnva iv0 alka
-| ieee Ingiriiska, ka dib markuu naftiisa uga maaro waayey inay Ka indha qar. |
-2. Taliyaha Ciidammada Xoraynta SNM. § ?
+4. Xubin Golaha Dhexe.
+5. Taliyaha Aagga Koonfureed.
+6. Taliyaha Aagga Dhexe.
+Koosaar wuxuu ku shahiiday 12/7/1987.
 
-durbaa- nadii beenta ahaa ee loo pan Siyaad pe iyo Gee : Ti y aeatud Xaaji Xasan Muuse:
-abkiyo mashxaradda jeclayd. Dhaqdhaqaaqii ugu horreeyey ee siyaa acallimiintii hore ayuu ka mid ahaa, w in jebi ; |
-dlidka Nir (Jabhadda SSDE) ayuu bilowgiiba Maxamed Moogee ku waxbarashada aia Wuxuu kaalin wernt Pee att ae
-biiray, waxaanu ahaa hoobalkii ugu horreeyey ee qaaday hees cod leh oo Ururrada Macallimiinta gobanimada ka hor iyo ka dib nave b d ie
-si badheedh ah uga soo hor-jeedda taliska Soomaaliya, sida heestii ahayd ayaana lagu xidhay.Markii ugu danbeysey wuxuu dagaal huba 2 Pe
-ee ’Soomaalidu ma huruddaa” iyo ” Lix iyo labaatankii Juun ku lednay, bilaabay buuraleyda Gobolka Sanaag, waxuu ka mid noqda tali ae ha
-| kowdii Luulyo liibaaney kow iyo labaatankii Oktoobar leeleelay”. Ctidammada Xoraynta ee SNM. Laga bilaabo 1983kii ei tanta ha
-Maxamed Mooge, waxaa aad ugu beerayd nacaybka taliska nacabka ah, Golaha Dhexe ee SNM, wuxuu caan ku ahaa hoggaaminta Had oeEnN
-mana jirin heeso kacaan-amaan ah oo uu ku heesay muddadii ka badaer geesinimo iyo aqoonta dhuumaalaysiga ah.
-| kow iyo labaatanka sannadood ee mugdiga ah, xitaa may jirin heeso Hurre, Alle ha u naxariistee, wuxuu ku shahiiday dagaal ku dhex-mara
-Maxamed Mooge ku duubay Idaacadaha Soomaaliyeed, sababtuna waxay Diinle (Gobolka Togdheer) ciidammo SNM lyo ciidammada dadeatioe
-ahayd isaga oo u arkay- ey Idaacado aan ka wakiil ahayn ama ku hadlayn ah taliska Siyaad Barre, isaga oo xubin ka ahaa Guddida Sare ee Dagaal-
-afka shacbiga Soomaaliyeed, sidaas darteed ayaa loo dareemi karaa in gelinta SNM.
-heesaha Maxamed Mooge ku duuban yihiin cajaladaha madaxa bannaan. Geeridii Hurre ku timi waa khasaace ballaadhan oo ku yimi dagaalka hu
-Maxamed Mooge fankiisu wuxuu ka mid yar kuwa ugu mudan fanka loo baysan ee cadowga ka hor jeeda.
-aqaan ”Fadhiga”. Waxaa la rumaysan yahay inaanu jirin guri
-ApSoomaoli ote hadlo oo aanay heesaha Maxamed Mooge oollin. Hurre - Cismaan Ibraahim Warsame:
-Maxamed Mooge Liibaan, wuxuu lahaa cod lab 00 legddan 00 hannaan Waa maanso-yahay ay Hadraawi walaalo yihiin.Heesaa caan ku ah
-| farshaxanimo ku dheehantahay iyo luug aan carjabin oo dhegtu ciyaaraha barbaarta miyiga iyo magaaladaba xilligii dhalin-yara-
-. heellanaan, hanqal-taag lyo halhaleel ku dhegeysato. M axamed Mooge, nimadiisit.Wuxuu ku barbaaray kuna dhagan yahay Gobolka Togdheer.
-. wuxuu ahaa bulshaawi, galanbaawi ah, aad iyo aad ayuu naftiisa ugu Wuxuu leeyahay heeso iyo gabayo badan.
-\ han-weynaa. Wuxuu lahaa hilaad fog iyo hiyi durugsan. Fanka Maxamed Hurre Walanwal wuxuu aad iyo aad ugu xeeldheergahay dhaqanka iyo
-| Mooge ma duugoobi doono inta dad nool yahay. suugaanta Soomaaliyeed.
-H}\\ Ee aon a eee pees kale ee caanka ps
-We ooge Liibaan. Maxamed Mooge Ilaahay naxariistii janno ha ka ‘s s FF ,
-Ward abives wuxuu shahiidey S/6/I 984kii, isagoo hawlihii xoraynta ku Bn vee eee AA NOU Sai .
-pogin Wxuu a qalin jebiyey Kulliyada Macallimiinta ee Lafoole. Yaasiin
-aie e, Ya nade suugaan-yahan, xeel-dheere ka ahaa Akaademiyada
-Cilmiga Fanka iyo Suugaanta, waxaanu ka mid ahaa halganka hubaysan
-Maarkoos - Ferdinando Marcos: ee 5 & ;
-Keli-taliyihii muddada dheer ka talin jirey dalka Filibiin ee lagu ridey Mucaaradka Soomaaliyeed, garabka SNM, muddo dheerna wuxuu ahaa
-kacdoonka shacbi Feberweri 1986kii. Xubin Gole Dhexe. Yaasiin Axmed X. Nuur wuxuu ahaa geesi7 ma daala
-ah oo milgo iyo maamuus ku lahaa dagaalka hubaysan. Yaasiin-Dheere
-H wuxuu caan ku nogon doonaa taartikhda halganka soomaaliyeed.
-"45" Yaasiin-Dheere Ilaahay naxariistii janno ha ka waraabiyee wuxuu
-Hodan -Hodan Cabdille Walanwal: shahiidey badhtamahii sannadka 1991 isaga oo gudanaya waajibkiisii
-Waxay ku noolaan jirtey Hodan magaalada Berbera, waana gabadhii uu qarannimo. |
-Jacaylkeeda Cilmi Boodhari ku mashquulay, maansada badanna ka
-tiriyey. Ismayse calfan oo Maxamed Shabeele ayey oori u nogotay.
-| Sannadihii 60dii ayay Hodan Cabdille Ilaahay naxariistiisa ha ku
-badbaadiyee magaalada Xamar ku geeriyootey.
+- L -
+
+Lixle- Maxamed Xaashi Diiriye: Sarkaalkii sare ee Ciidanka Qaranka Soomaaliyeed ee ku biiray SNM. Wuxuu ku shahiiday dagaal 17/10/1984.
+
+- M -
+
+Maxamed Mooge- Maxamed Mooge Liibaan: Heesaa caan ah oo macallin ahaa, ka soo horjeeday nidaamkii Siyaad Barre. Wuxuu ku biiray SSDF, dabadeedna SNM. Wuxuu ku dhintay 6/5/1984.
+
+Maarkoos - Ferdinando Marcos: Keli-taliyihii muddada dheer ka talin jirey dalka Filibiin ee lagu ridey kacdoonka shacbi Feberweri 1986kii.
+
+- H -
+
+Hodan - Hodan Cabdille Walanwal: Waxay ku noolaan jirtey Hodan magaalada Berbera, waana gabadhii uu jacaylkeeda Cilmi Boodhari ku mashquulay, maansada badanna ka tiriyey. Ismayse calfan oo Maxamed Shabeele ayey oori u noqotay. Sannadihii 60dii ayay Hodan Cabdille Ilaahay naxariistiisa ha ku badbaadiyee magaalada Xamar ku geeriyootey.
+
+Hurre - Maxamuud Xaaji Xasan Muuse: Macallimiintii hore ayuu ka mid ahaa, waxaanu ka qalin jebiyey kulliyadda waxbarashada Lafoole. Wuxuu kaalin weyn ka qaadan jirey abaabulidda Ururrada Macallimiinta gobanimada ka hor iyo ka dib, marar badan ayaana lagu xidhay. Markii ugu danbeysey wuxuu dagaal hubaysan ka bilaabay buuraleyda Gobolka Sanaag, wuxuu ka mid noqday taliyayaasha Ciidammada Xoraynta ee SNM. Laga bilaabo 1983kii wuxuu ka mid ahaa Golaha Dhexe ee SNM, wuxuu caan ku ahaa hoggaaminta, dadwadnimo, geesinimo iyo aqoonta dhuumaalaysiga ah. Hurre, Alle ha u naxariistee, wuxuu ku shahiiday dagaal ku dhex-maray Diinle (Gobolka Togdheer) ciidammo SNM iyo ciidammada abaacadda ah taliska Siyaad Barre, isaga oo xubin ka ahaa Guddida Sare ee Dagaal-gelinta SNM.
+
+Hurre - Cismaan Ibraahim Warsame: Waa maanso-yahay ay Hadraawi walaalo yihiin. Heesaa caan ku ah ciyaaraha barbaarta miyiga iyo magaaladaba xilligii dhalin-yara-nimadiisii. Wuxuu ku barbaaray kuna dhaqan yahay Gobolka Togdheer. Wuxuu leeyahay heeso iyo gabayo badan. Hurre Walanwal wuxuu aad iyo aad ugu xeeldheer yahay dhaqanka iyo suugaanta Soomaaliyeed.
+
+Yaasiin - Yaasiin Axmed Xaaji Nuur: Wuxuu ka qalin jebiyey Kulliyadda Macallimiinta ee Lafoole. Yaasiin Dheere wuxuu ahaa suugaan-yahan, xeel-dheere ka ahaa Akaademiyada Cilmiga Fanka iyo Suugaanta, waxaanu ka mid ahaa halganka hubaysan ee Mucaaradka Soomaaliyeed, garabka SNM, muddo dheerna wuxuu ahaa Xubin Gole Dhexe. Yaasiin Axmed X. Nuur wuxuu ahaa geesi ma daala ah oo milgo iyo maamuus ku lahaa dagaalka hubaysan. Yaasiin-Dheere wuxuu caan ku noqon doonaa taariikhda halganka Soomaaliyeed. Yaasiin-Dheere Ilaahay naxariistii janno ha ka waraabiyee wuxuu shahiidey badhtamihii sannadka 1991 isaga oo gudanaya waajibkiisii qarannimo.

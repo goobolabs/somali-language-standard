@@ -46,7 +46,7 @@ Lifaaqyadu laba hawlood oo waaweyn ayay qabtaan:
 | Farcan | *bar* + *-e* | *bare* |
 
 Faahfaahinta lifaaqyada iyo farcanku waxay ku jirtaa
-[`morphology/03-dhismaha-ereyga.md`](../morphology/03-dhismaha-ereyga.md).
+[`sarfe/03-dhismaha-ereyga.md`](../sarfe/03-dhismaha-ereyga.md).
 
 ## 2. Qaybaha hadalka
 
@@ -94,7 +94,7 @@ magacuyaalka iyo falka, mararka qaarkoodna codkaca:
 
 Qaababka caynka, qodobka iyo wadarta waxaa si faahfaahsan loogu
 taxay [`02-sarfaha-magacyada.md`](02-sarfaha-magacyada.md) iyo
-[`morphology/01-magacyada.md`](../morphology/01-magacyada.md).
+[`sarfe/01-magacyada.md`](../sarfe/01-magacyada.md).
 
 ### 3.2 Magacuyaalka
 
@@ -205,7 +205,7 @@ Qaabka falka oo keliya mar walba ma kala saaro labada cod.
 
 Isrogrogyada falalka waxaa laga heli karaa
 [`07-sarfaha-falalka.md`](07-sarfaha-falalka.md) iyo
-[`morphology/02-falalka.md`](../morphology/02-falalka.md).
+[`sarfe/02-falalka.md`](../sarfe/02-falalka.md).
 
 ## 5. Qurubyada
 
@@ -253,7 +253,7 @@ Habka xeerka loo muujiyo:
 Tusaale: *qaad + tay* → *qaadtay* → *qaadday*.
 
 Xeerarka la xaqiijiyey waxaa lagu ururiyey
-[`morphology/04-isbeddelka-codka.md`](../morphology/04-isbeddelka-codka.md).
+[`sarfe/04-isbeddelka-codka.md`](../sarfe/04-isbeddelka-codka.md).
 
 ## 7. Hababka erey-abuuridda
 
@@ -363,9 +363,9 @@ wuxuu bixiyaa sharraxaad iyo tusaalooyin, mana dejiyo keligiis xeer
 qasab ah.
 
 Faahfaahinta kala duwanaanta dhawaaqa waxay ku jirtaa
-[`phonology/06-lahjadaha.md`](../phonology/06-lahjadaha.md), halka
+[`dhawaaq/06-lahjadaha.md`](../dhawaaq/06-lahjadaha.md), halka
 kala duwanaanta hadalka iyo qoraalku ku jirto
-[`orthography/01-hadal-iyo-qoraal.md`](../orthography/01-hadal-iyo-qoraal.md).
+[`qoraal/01-hadal-iyo-qoraal.md`](../qoraal/01-hadal-iyo-qoraal.md).
 
 ## 9. Xiriirka qaybaha kale ee SLS
 
@@ -376,6 +376,6 @@ kala duwanaanta hadalka iyo qoraalku ku jirto
 | Magacuyaallada | [`04-sarfaha-magacuyaallada.md`](04-sarfaha-magacuyaallada.md) |
 | Falalka | [`07-sarfaha-falalka.md`](07-sarfaha-falalka.md) |
 | Qurubyada iyo iskuxireyaasha | [`06-sarfaha-iskuxireyaasha.md`](06-sarfaha-iskuxireyaasha.md) |
-| Paradigmaha sarfiga | [`../morphology/`](../morphology/) |
-| Codaynta | [`../phonology/`](../phonology/) |
-| Higgaadda iyo kala qoridda | [`../orthography/`](../orthography/) |
+| Paradigmaha sarfiga | [`../sarfe/`](../sarfe/) |
+| Codaynta | [`../dhawaaq/`](../dhawaaq/) |
+| Higgaadda iyo kala qoridda | [`../qoraal/`](../qoraal/) |

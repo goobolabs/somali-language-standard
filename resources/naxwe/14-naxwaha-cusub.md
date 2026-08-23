@@ -16,7 +16,7 @@ Ishu waxay kala saartaa saddex heer oo baaritaan:
 
 | Heer | Qeexidda ilduceedka | Tixraac SLS |
 | --- | --- | --- |
-| Codayn | cilmiga barashada codadka, samaysankooda iyo sida ay codadka kale ula dhaqmaan | [`../phonology/`](../phonology/) |
+| Codayn | cilmiga barashada codadka, samaysankooda iyo sida ay codadka kale ula dhaqmaan | [`../dhawaaq/`](../dhawaaq/) |
 | Ereyeyn | cilmiga barashada dhaqanka iyo dhismaha ereyada | [`01-ereyada.md`](01-ereyada.md) |
 | Weedhayn | cilmiga barashada dhaqanka naxweed ee weedhaha | [`09-weer-fudud.md`](09-weer-fudud.md) |
 
@@ -24,7 +24,7 @@ Ishu waxay codaynta dhexdeeda ku kala saartaa *alifba*, *xaraf* iyo *cod*.
 Alifba'da iyo tirada astaamaheeda ee uu soo jeediyey halkan laguma celin,
 waayo faahfaahinta alifba'da iyo codadka waxa si gaar ah u haya
 [`naxwe/01-ereyada.md`](01-ereyada.md) iyo
-[`phonology/`](../phonology/).
+[`dhawaaq/`](../dhawaaq/).
 
 ## 2. Ereyeynta
 
@@ -209,7 +209,7 @@ Ishu waxay is barbar dhigtay erey sal ah iyo erey kooban:
 | Erey kooban | *waxaan* | *waxa aan* | macnihii hore ayaa jira |
 
 Sharciyadan iyo tusaalooyinkooda la hubiyey waxa si faahfaahsan u haya
-[`../orthography/01-hadal-iyo-qoraal.md`](../orthography/01-hadal-iyo-qoraal.md).
+[`../qoraal/01-hadal-iyo-qoraal.md`](../qoraal/01-hadal-iyo-qoraal.md).
 
 ### 4.2 Koobnaan iyo fidsanaan
 
@@ -232,7 +232,7 @@ isha iyo khayraadka qoraalka ee la hubiyey wada hayaan waa:
 
 Ishu waxay tilmaamaysaa in ereyga kooban *bay* uu yeelan karo fidsanaan dhawr
 siyood ah. Falanqaynta iyo tusaalooyinka la hubiyey waxa haya
-[`../orthography/02-eray-kooban-hadalka.md`](../orthography/02-eray-kooban-hadalka.md).
+[`../qoraal/02-eray-kooban-hadalka.md`](../qoraal/02-eray-kooban-hadalka.md).
 
 ### 4.3 Meelaha fidintu kala duwan tahay
 
@@ -245,9 +245,9 @@ Ishu waxay meelaha fidinta u kala saartaa:
 Jadwalladii ilduceedka ee qaybtani way isku dhex jireen, sidaas darteed halkan
 dib looguma dhisin. Qaababka la hubiyey waxa loo kala ururiyey:
 
-- [`Ereyada afkeenna koobma marka hadalka`](../orthography/02-eray-kooban-hadalka.md)
-- [`Meelaha ay adag tahay kala qoridda`](../orthography/03-kala-qoridda-adag.md)
-- [`Meelaha aanay habboonayn kala qoridda labada erey`](../orthography/04-kala-qoridda-lama-qasban.md)
+- [`Ereyada afkeenna koobma marka hadalka`](../qoraal/02-eray-kooban-hadalka.md)
+- [`Meelaha ay adag tahay kala qoridda`](../qoraal/03-kala-qoridda-adag.md)
+- [`Meelaha aanay habboonayn kala qoridda labada erey`](../qoraal/04-kala-qoridda-lama-qasban.md)
 
 ## 5. Astaamaynta
 
@@ -263,20 +263,20 @@ lahayn:
 
 Qaybta asalka ahi hakadka keliya ayay si kooban u taabatay. Nidaamka
 astaamaynta oo dhan iyo tusaalooyinkiisa la hubiyey waxa haya
-[`../orthography/05-astaamaynta.md`](../orthography/05-astaamaynta.md).
+[`../qoraal/05-astaamaynta.md`](../qoraal/05-astaamaynta.md).
 
 ## 6. Tixraacyada SLS
 
 | Mawduuc | Khayraadka faahfaahsan |
 | --- | --- |
-| Codadka iyo alifba'da | [`01-ereyada.md`](01-ereyada.md); [`../phonology/`](../phonology/) |
+| Codadka iyo alifba'da | [`01-ereyada.md`](01-ereyada.md); [`../dhawaaq/`](../dhawaaq/) |
 | Magacyada | [`02-sarfaha-magacyada.md`](02-sarfaha-magacyada.md) |
 | Tifaftireyaasha iyo qodobka | [`03-sarfaha-tifaftireyaasha.md`](03-sarfaha-tifaftireyaasha.md) |
 | Magacuyaallada | [`04-sarfaha-magacuyaallada.md`](04-sarfaha-magacuyaallada.md) |
 | Xidhiidhiyeyaasha | [`06-sarfaha-iskuxireyaasha.md`](06-sarfaha-iskuxireyaasha.md) |
 | Falalka | [`07-sarfaha-falalka.md`](07-sarfaha-falalka.md); [`08-hogatuska-baradigmaha-falalka.md`](08-hogatuska-baradigmaha-falalka.md) |
 | Weerta fudud | [`09-weer-fudud.md`](09-weer-fudud.md) |
-| Hadal iyo qoraal | [`../orthography/01-hadal-iyo-qoraal.md`](../orthography/01-hadal-iyo-qoraal.md) |
-| Koobnaan iyo fidsanaan | [`../orthography/02-eray-kooban-hadalka.md`](../orthography/02-eray-kooban-hadalka.md)–[`../orthography/04-kala-qoridda-lama-qasban.md`](../orthography/04-kala-qoridda-lama-qasban.md) |
-| Astaamaynta | [`../orthography/05-astaamaynta.md`](../orthography/05-astaamaynta.md) |
+| Hadal iyo qoraal | [`../qoraal/01-hadal-iyo-qoraal.md`](../qoraal/01-hadal-iyo-qoraal.md) |
+| Koobnaan iyo fidsanaan | [`../qoraal/02-eray-kooban-hadalka.md`](../qoraal/02-eray-kooban-hadalka.md)–[`../qoraal/04-kala-qoridda-lama-qasban.md`](../qoraal/04-kala-qoridda-lama-qasban.md) |
+| Astaamaynta | [`../qoraal/05-astaamaynta.md`](../qoraal/05-astaamaynta.md) |
 | Ereybixin naxweed | [`ereyfur.md`](ereyfur.md) |
