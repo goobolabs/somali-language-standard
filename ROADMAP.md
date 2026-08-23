@@ -32,7 +32,7 @@ Resources milestones are **not** the same as implementation phases in
 [`IMPLEMENTATION_PLAN.md`](IMPLEMENTATION_PLAN.md). See
 [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) §4.1.
 
-## Milestone 2 — Core standards *(proposal package complete — target v0.2.0)*
+## Milestone 2 — Core standards *(complete; public review open — target v0.2.0)*
 
 The foundation layer of the standards catalog, drafted and moved into public
 review: the Alphabet Standard (SLS-0001), Orthography Standard (SLS-0002), and
@@ -46,10 +46,11 @@ SLS-0005 (capitalization) are complete and accepted for `Proposed` publication.
 SLS-0005 retains its supplementary-source limitation. The eight SLS-0003 topic
 documents and their formal wrapper are included.
 
-The proposal becomes a public Milestone 2 review when its branch is opened as
-a formal pull request or Discussion. The ≥14-day comment periods and human
-reviewer gates are elapsed-time and external-review work, not repository edits;
-their exact state is tracked in
+The proposal entered public Milestone 2 review in
+[pull request #7](https://github.com/goobolabs/somali-language-standard/pull/7)
+on 2026-08-23. The ≥14-day comment periods cannot close before 2026-09-06,
+and the later human-review gates remain external lifecycle work; their exact
+state is tracked in
 [`docs/standards/MILESTONE-2-READINESS.md`](docs/standards/MILESTONE-2-READINESS.md).
 
 ## Milestone 3 — Schemas *(v0.3)*

@@ -83,8 +83,9 @@ implementation phases in this document. See
 
 ## Phase 2 — Orthography Standard
 
-**Status:** proposal content complete — SLS-0002, SLS-0004, and SLS-0005 were
-accepted for `Proposed` publication on 2026-08-23; public-comment time remains.
+**Status:** proposal published — SLS-0002, SLS-0004, and SLS-0005 entered
+public review in [pull request #7](https://github.com/goobolabs/somali-language-standard/pull/7)
+on 2026-08-23; the comment period cannot close before 2026-09-06.
 
 **Objective:** The spelling layer on top of the alphabet: SLS-0002
 (orthography/spelling rules), plus punctuation (SLS-0004) and capitalization
@@ -114,8 +115,9 @@ insufficient evidence as open questions instead of silently choosing a rule.
 3. SLS-0005 evidence map and capitalization draft, explicitly retaining the
    current primary-source limitation. ✅
 4. Pre-comment decisions recorded and all known drafting questions resolved. ✅
-5. Publish the proposal, complete the public-comment periods, and resolve any
-   new questions raised there.
+5. Publish the proposal for formal public comment. ✅
+6. Complete the public-comment periods and resolve any new questions raised
+   there.
 
 **Completion criteria:** all three documents at `Proposed` or beyond;
 SLS-0001 promoted to at least `Review`; no orthography question raised during
@@ -128,9 +130,9 @@ comment periods left without a written resolution.
 
 ## Phase 3 — Grammar Standard
 
-**Status:** proposal content complete — SLS-0003 and all eight topic documents
-were accepted for `Proposed` publication on 2026-08-23; recurring linguist
-reviewer engagement remains.
+**Status:** proposal published — SLS-0003 and all eight topic documents entered
+public review in [pull request #7](https://github.com/goobolabs/somali-language-standard/pull/7)
+on 2026-08-23; recurring linguist reviewer engagement remains.
 
 **Objective:** The core grammar layer (SLS-0003): parts of speech, noun
 morphology, verb system, pronouns, sentence structure, negation, questions,

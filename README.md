@@ -9,8 +9,9 @@ citable standard that any system, human or machine, can implement against.
 > **Status:** The Milestone 2 proposal package is complete. SLS-0000 through
 > SLS-0005 are represented at `Proposed`, including the eight-topic SLS-0003
 > Grammar set, and the 145-file resources evidence baseline is complete. The
-> SLS-0002 through SLS-0005 public-comment clocks begin when this proposal is
-> published as a pull request or Discussion. No standard is `Stable`. See the
+> SLS-0002 through SLS-0005 public-comment periods opened in
+> [pull request #7](https://github.com/goobolabs/somali-language-standard/pull/7)
+> on 2026-08-23 and cannot close before 2026-09-06. No standard is `Stable`. See the
 > [Roadmap](ROADMAP.md) and [M2 readiness record](docs/standards/MILESTONE-2-READINESS.md).
 
 ---
