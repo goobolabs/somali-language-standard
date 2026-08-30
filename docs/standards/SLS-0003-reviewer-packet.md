@@ -29,9 +29,10 @@ reported error for every user of every tool that adopts it.
 You do not have to do all 42. A verdict on the [priority questions](#priority-questions)
 alone is a complete, citable review.
 
-**Per-rule progress:** 20 of 42 rules have maintainer native-speaker verdicts:
-G10-R1 through G10-R4, G11-R1 through G11-R5, G12-R1 through G12-R5, and
-G13-R1 through G13-R6 were approved on 2026-08-30 as MR-13 through MR-32.
+**Per-rule progress:** 24 of 42 rules have maintainer native-speaker verdicts:
+G10-R1 through G10-R4, G11-R1 through G11-R5, G12-R1 through G12-R5,
+G13-R1 through G13-R6, and G14-R1 through G14-R4 were approved on 2026-08-30
+as MR-13 through MR-36.
 
 ## Conventions used below
 
@@ -86,10 +87,10 @@ G13-R1 through G13-R6 were approved on 2026-08-30 as MR-13 through MR-32.
 
 | Rule | Requirement | Conforming | Non-conforming (`*` = stated reading only) | Verdict |
 | --- | --- | --- | --- | --- |
-| **G14-R1** | A complete independent construction MUST supply the predicate and required participants licensed by that predicate, except where a reviewed imperative or context-dependent omission licenses a shorter form. | Kaaley!<br>Macallinkaa buug i siiyay. | \*Macallinkaa buug i… |  |
-| **G14-R2** | A verb that selects a prepositional relation MUST retain the required preposition and associated clitic material. | Mire baa ku fariistay kursiga. | \*Mire baa fariistay kursiga. |  |
-| **G14-R3** | In the reviewed `baa` or `ayaa` focus construction, the focus particle MUST follow its focused constituent and precede the verbal group. | Wiilkii baa yimid. | \*Wiilkii yimid baa. |  |
-| **G14-R4** | In the reviewed subject–focused-object–verb order, the verbal group MUST contain the agreeing subject clitic; bare `baa` MUST NOT replace that clitic. | Wiilkii moos buu cunay. | \*Wiilkii moos baa cunay. |  |
+| **G14-R1** | A complete independent construction MUST supply the predicate and required participants licensed by that predicate, except where a reviewed imperative or context-dependent omission licenses a shorter form. | Kaaley!<br>Macallinkaa buug i siiyay. | \*Macallinkaa buug i… | **OK — MR-33** |
+| **G14-R2** | A verb that selects a prepositional relation MUST retain the required preposition and associated clitic material. | Mire baa ku fariistay kursiga. | \*Mire baa fariistay kursiga. | **OK — MR-34** |
+| **G14-R3** | In the reviewed `baa` or `ayaa` focus construction, the focus particle MUST follow its focused constituent and precede the verbal group. | Wiilkii baa yimid. | \*Wiilkii yimid baa. | **OK — MR-35** |
+| **G14-R4** | In the reviewed subject–focused-object–verb order, the verbal group MUST contain the agreeing subject clitic; bare `baa` MUST NOT replace that clitic. | Wiilkii moos buu cunay. | \*Wiilkii moos baa cunay. | **OK — MR-36** |
 | **G14-R5** | In an affirmative declarative `waa` construction, `waa` and its subject-clitic realization MUST occur at the beginning of the verbal group rather than between a verb and its selected complement. | Cali Axmed wuu dilay. | \*Cali wuu Axmed dilay. |  |
 | **G14-R6** | When two direct post-nominal modifiers require the linker `ee`, the linker MUST be retained between the modifier units. | dukaanka dharka ee Cali | \*dukaanka dharka Cali |  |
 

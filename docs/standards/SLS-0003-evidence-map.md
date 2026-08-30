@@ -148,6 +148,10 @@ reviewer's complete wording and each written disposition are preserved in the
 | MR-30 | G13-R4 | Native-speaker per-rule approval of required first/second-person object clitics and the reviewed overt/zero third-person contrast | Retain the rule and examples unchanged |
 | MR-31 | G13-R5 | Native-speaker per-rule approval of reflexive and reciprocal `is` and the meaning change caused by replacement with `la` | Retain the rule and examples unchanged |
 | MR-32 | G13-R6 | Native-speaker per-rule approval of impersonal `la` for an unspecified agent and rejection of an explicit-agent reading | Retain the rule and examples unchanged |
+| MR-33 | G14-R1 | Native-speaker per-rule approval of predicate completeness and the complete imperative `Kaaley!` | Retain the rule and examples unchanged |
+| MR-34 | G14-R2 | Native-speaker per-rule approval of selected preposition `ku` with `fariistay` | Retain the rule and examples unchanged |
+| MR-35 | G14-R3 | Native-speaker per-rule approval of focus-particle placement after the focused constituent and before the verbal group | Retain the rule and examples unchanged |
+| MR-36 | G14-R4 | Native-speaker per-rule approval of the required subject clitic in object focus and the meaning change caused by bare `baa` | Retain the rule and examples unchanged |
 
 ## Scope resolutions
 

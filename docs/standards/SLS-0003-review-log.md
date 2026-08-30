@@ -21,10 +21,10 @@ The comment period is open. It cannot close before 2026-09-06. No comment is
 
 **Maintainer review status:** in progress. The three question batches answered
 all twelve packet questions on 2026-08-30 and are recorded below as MR-1 through
-MR-12. The first five per-rule batches approved G10-R1 through G10-R4,
-G11-R1 through G11-R5, G12-R1 through G12-R5, and G13-R1 through G13-R6 as
-written and are recorded as MR-13 through MR-32. Twenty of 42 per-rule verdicts
-are complete; 22 remain. The
+MR-12. The first six per-rule batches approved G10-R1 through G10-R4,
+G11-R1 through G11-R5, G12-R1 through G12-R5, G13-R1 through G13-R6, and
+G14-R1 through G14-R4 as written and are recorded as MR-13 through MR-36.
+Twenty-four of 42 per-rule verdicts are complete; 18 remain. The
 `Review → Candidate` gate in SLS-0000 R9 needs them finished and dispositioned.
 The review is by the maintainer, who is a native speaker; it is not independent,
 and is labelled as such wherever it is cited. The reviewer-facing summary is
@@ -94,6 +94,10 @@ any lifecycle stage, `Stable` included.
 | MR-30 | 2026-08-30 | maintainer review (native speaker) — rule G13-R4 | "**2. G13-R4 — Object clitics and zero third person**<br><br>* **Verdict:** Approve<br>* **Explanation:** The rule is correct. First-person and second-person objects require an object clitic. In *Cali baa adiga kuu soo ordayay*, the second-person clitic *ku* combines with *u* to form *kuu*. Dropping *ku* to write *adiga u* is ungrammatical. For third-person objects, singular forms leave the object pronoun unexpressed (*Cali baa u yeeray*), while plural forms can be explicit (*Cali baa iyaga u yeeray*)." | `accepted` | G13-R4 and its examples are approved as written. No normative change or version bump is required. |
 | MR-31 | 2026-08-30 | maintainer review (native speaker) — rule G13-R5 | "**3. G13-R5 — Reflexive and reciprocal is**<br><br>* **Verdict:** Approve<br>* **Explanation:** The rule is accurate. The word *is* marks reflexive actions (*Ninku wuu is dhaawacay* - The man hurt himself) or reciprocal actions (*Carruurtii way is arkeen* - The children saw each other). Replacing *is* with *la* changes the whole meaning to an action done by an unknown outside person (*Ninku waa la dhaawacay* - The man was hurt)." | `accepted` | G13-R5 and its examples are approved as written. No normative change or version bump is required. |
 | MR-32 | 2026-08-30 | maintainer review (native speaker) — rule G13-R6 | "**4. G13-R6 — Impersonal la**<br><br>* **Verdict:** Approve<br>* **Explanation:** The rule is correct. The word *la* stands for an unspecified human agent (*Tuuggii waa la qabtay* - The thief was caught). It cannot mark a named person as the active agent. Writing *Cali baa la qabtay* means Cali was caught by someone else, not that Cali did the catching." | `accepted` | G13-R6 and its examples are approved as written. No normative change or version bump is required. |
+| MR-33 | 2026-08-30 | maintainer review (native speaker) — rule G14-R1 | "**1. G14-R1 — Complete constructions**<br><br>* **Verdict:** Approve<br>* **Explanation:** A standard independent sentence needs a full predicate to express a complete thought. A fragment like *Macallinkaa buug i...* lacks a verb, so it is incomplete. Short commands like *Kaaley!* are complete on their own because the imperative verb forms a full sentence by itself." | `accepted` | G14-R1 and its examples are approved as written. No normative change or version bump is required. |
+| MR-34 | 2026-08-30 | maintainer review (native speaker) — rule G14-R2 | "**2. G14-R2 — Required prepositions**<br><br>* **Verdict:** Approve<br>* **Explanation:** Many Somali verbs require specific prepositions to connect to their object. The verb *fariistay* needs the preposition *ku* when you mention where someone sits. Leaving out *ku* in *Mire baa fariistay kursiga* breaks the verb structure and is ungrammatical." | `accepted` | G14-R2 and its examples are approved as written. No normative change or version bump is required. |
+| MR-35 | 2026-08-30 | maintainer review (native speaker) — rule G14-R3 | "**3. G14-R3 — Focus-particle position**<br><br>* **Verdict:** Approve<br>* **Explanation:** Focus words like *baa* and *ayaa* must sit right after the focused noun and before the verb group. Placing *baa* after the verb, as in *Wiilkii yimid baa*, breaks standard Somali sentence order." | `accepted` | G14-R3 and its examples are approved as written. No normative change or version bump is required. |
+| MR-36 | 2026-08-30 | maintainer review (native speaker) — rule G14-R4 | "**4. G14-R4 — Subject clitic with object focus**<br><br>* **Verdict:** Approve<br>* **Explanation:** When you focus an object with *baa*, you must add a subject pronoun clitic like *uu* to form *buu*. This clearly shows who performs the action. Using bare *baa* in *Wiilkii moos baa cunay* makes *moos* the subject. That changes the meaning to "A banana ate the boy", which is wrong for the intended meaning." | `accepted` | G14-R4 and its examples are approved as written. No normative change or version bump is required. |
 
 ## Transition record
 
