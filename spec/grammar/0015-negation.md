@@ -60,12 +60,15 @@ forms in `-aan`, nominal-predicate `ma aha`, and prohibitive `ha`.
   suffix substitution.
 - A written `ma` must be interpreted from its construction before it is
   labelled interrogative or negative.
-- Prohibitive `ha` is not the only `ha`.
+- Prohibitive `ha` is not the only `ha`, and the two are distinguished by the
+  person and form of the verb that follows.
   [Verb System](0012-verb-system-tense-aspect-mood.md) G12-R4 licenses the
-  third-person directive `Isagu ha qoro!`, in which `ha` is followed by an
-  affirmative form. G15-R4 governs the negative command only; a checker that
-  treats every `ha` plus affirmative form as a G15-R4 violation will report
-  that licensed construction as an error.
+  third-person directive `Isagu ha qoro!` — `ha` plus an affirmative
+  third-person form, an instruction about someone else. G15-R4 governs the
+  second-person negative command only: `ha` plus the licensed negative form, as
+  in `Waxba ha keenin`. A checker that treats every `ha` plus affirmative form
+  as a G15-R4 violation will report the licensed directive as an error
+  (maintainer review, 2026-08-30).
 - Negative existential and possession constructions require dedicated
   evidence and are outside this core draft unless covered by a cited rule.
 

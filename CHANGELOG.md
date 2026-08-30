@@ -65,6 +65,40 @@ releases, schema versions, and per-standard versions relate.
 
 ### Changed
 
+- **SLS-0003 per-rule review complete: 42 of 42 verdicts, no version bump.**
+  The maintainer native-speaker review approved every displayed rule and
+  example in G10-R1 through G17-R6 as written. The verdicts are recorded as
+  MR-13 through MR-54. Maintainer audit M-4 also synchronized the packet's
+  stale G13-R2 summary with the reviewed normative examples. The review
+  evidence is complete; no normative requirement, example, or version changed.
+- **SLS-0003 → `0.4.0`, third batch of the maintainer native-speaker review.**
+  G13-R4 now distinguishes overt `iyaga` from a recoverable singular
+  third-person zero object. G10-R1's nine primary classes and the `tifaftire`
+  subcategory are confirmed. G17-R1 and G17-R2 add bounded verb, pronoun, and
+  subject-clitic diagnostics while preventing false errors for reduced
+  agreement in plural subject focus and unreviewed relative clauses. The
+  wrapper now names Standard Somali (`Aqoondhari` / `Soomaali Maxaa tiri`) as
+  its target and returns `not covered` for identified Benaadir, Maay, and other
+  regional profiles. Recorded as MR-9 through MR-12 in the review log.
+- **SLS-0003 → `0.3.0`, second batch of the maintainer native-speaker
+  review.** G11-R3 now requires each noun's plural form to be recorded rather
+  than predicted from its singular, while G11-R5 separately enforces regular
+  plural-gender polarity after the plural form and ending class are known.
+  G11-R4 distinguishes an invalid direct mass reading from common contextual
+  unit ellipsis and recommends an explicit measure in formal writing. G16-R2
+  records the two licensed nominal-predicate positions of `miyaa` and the
+  clause-initial `ma ... baa ... ah` alternative. G16-R4 now explicitly reuses
+  definite-article gender classes and consonant allomorphy. Recorded as MR-5
+  through MR-8 in the review log.
+- **SLS-0003 → `0.2.0`, first batch of the maintainer native-speaker review.**
+  G13-R2's inclusive/exclusive rows are replaced by a real sentence pair
+  (`Annaga ayaa baxayna.` / `Innaga ayaa baxayna.`) and the attested
+  neutralization of the contrast in casual writing is recorded; G14-R5 now
+  states clitic-verb adjacency directly; G14-R4 and G14-R5 gain edge cases
+  explaining *why* bare `baa` and an intervening noun fail, which is what an
+  implementer needs for the diagnostic message; the two `ha` constructions are
+  distinguished by the person and form of the following verb. Recorded as
+  MR-1 through MR-4 in the review log; resolves M-3.
 - **SLS-0000 and SLS-0001 promoted `Proposed → Review`.** Their comment periods
   opened 2026-07-10 and the 14-day minimum elapsed 2026-07-24 with no comment
   received and no `open` item; the transitions are recorded with date, approver,

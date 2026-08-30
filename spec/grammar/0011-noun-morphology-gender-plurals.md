@@ -29,15 +29,18 @@ patterns; it does not claim that one ending predicts every noun form.
 - **G11-R2.** A definite article MUST agree with the reviewed gender and
   phonological class of its noun. A masculine article MUST NOT replace a
   required feminine article, or conversely.
-- **G11-R3.** A plural form MUST follow a reviewed paradigm for that noun or
-  noun class. Implementations MUST NOT generate a plural by treating one suffix
-  as universally productive.
+- **G11-R3.** A noun's plural form MUST be recorded in a reviewed lexical entry
+  or paradigm for that noun. Implementations MUST NOT predict the plural form
+  from the singular spelling or treat one plural suffix as universally
+  productive.
 - **G11-R4.** Mass and collective nouns MUST NOT be forced into ordinary
   singular-count interpretation when the intended reading is uncounted or
-  collective.
-- **G11-R5.** Agreement with a plural noun MUST follow the reviewed gender of
-  the plural form, even when that gender differs from the singular noun's
-  gender.
+  collective. A contextual unit reading MAY license an omitted measure word;
+  formal writing SHOULD state the measure or unit explicitly.
+- **G11-R5.** Once a noun's reviewed plural form and ending class are known,
+  agreement MUST follow the regular gender polarity of that plural class, even
+  when the plural gender differs from the singular noun's gender. The plural
+  form itself MUST NOT be predicted from the gender switch.
 
 ## Examples
 
@@ -52,17 +55,26 @@ patterns; it does not claim that one ending predicts every noun form.
 | buug → buugag | `[G11-R3 +]` book → books | Correct reviewed plural. |
 | \*buug → buugyo | `[G11-R3 −]` book → generated-plural | Not accepted here: the form is produced by an unsupported universal suffix rule. |
 | Sonkor badan baan rabaa. | `[G11-R4 +]` sugar much FOC.1SG want | Correct mass-noun reading. |
-| \*hal sonkor | `[G11-R4 −]` one sugar | Incorrect for the intended unmeasured mass reading. |
+| Hal sonkor. | `[G11-R4 +]` one sugar-unit | Common unit ellipsis: context supplies one bag, cup, packet, or other unit. |
+| Hal koob oo sonkor ah. | `[G11-R4 +]` one cup of sugar COP | Preferred formal wording for one cup of sugar. |
+| \*Hal sonkor. — intended: one unmeasured quantity of sugar | `[G11-R4 −]` one sugar | Incorrect only for direct counting of the substance without a recoverable unit. |
 | Inankaas baa dheer; Inamadaas baa dhaadheer. | `[G11-R5 +]` boy-DEM.M FOC tall; boys-DEM.F FOC tall.PL | Correct: the demonstrative and modifier follow the reviewed plural pattern. |
 | \*Inamakaas baa dhaadheer. | `[G11-R5 −]` boys-DEM.M FOC tall.PL | Ungrammatical here: the masculine demonstrative form is imposed on the reviewed feminine plural. |
 
 ## Edge Cases & Common Mistakes
 
-- Article allomorphy and plural formation are lexical and phonological as well
-  as grammatical; a single visible ending is not a complete classifier.
+- Plural formation is lexical: a dictionary must record the plural form for
+  each noun rather than generate it from the singular. Once that form and its
+  ending class are known, plural-gender polarity is regular and enforceable.
+- Article allomorphy remains phonological as well as grammatical; a single
+  isolated spelling is not a complete classifier.
 - A collective form and an ordinary count plural may differ in meaning even
   when both refer to more than one entity.
-- Unlisted or disputed plurals require lexical review before a validator treats them as errors.
+- `Hal sonkor` is wrong for a literal mass reading but common when context
+  supplies one unit. Formal prose should name the measure, as in
+  `hal koob oo sonkor ah`.
+- Unlisted or disputed plurals require lexical review before a validator treats
+  them as errors.
 
 ## Related
 

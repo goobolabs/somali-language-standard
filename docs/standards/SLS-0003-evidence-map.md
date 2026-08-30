@@ -1,8 +1,8 @@
 # SLS-0003 Grammar Evidence Map
 
 - **Status:** reviewed evidence map; approved 2026-08-23 as input to the
-  initial SLS-0003 `Draft` and retained for its `Proposed` review;
-  non-normative
+  initial SLS-0003 `Draft`, retained for its `Proposed` review, and supplemented
+  by recorded maintainer native-speaker review on 2026-08-30; non-normative
 - **Prepared:** 2026-08-23
 - **Target standard:** SLS-0003 Somali Grammar Standard
 - **Normative dependencies:** SLS-0001 and SLS-0002
@@ -36,6 +36,10 @@ sponsors the bounded decisions below under the interim-Council provision in
 6. **Example policy** — positive and negative examples in the first Draft are
    taken from, or narrowly adapted from, reviewed source pairs. English glosses
    are editorial aids and do not add a linguistic rule.
+7. **Review supplements** — a maintainer or public-comment judgment may refine
+   the initial evidence boundary only when its wording, disposition, and
+   resulting change are recorded in the SLS-0003 review log. Independent
+   corroboration remains welcome.
 
 ## Implemented topic set
 
@@ -62,19 +66,23 @@ appears in `resources/`.
 
 The first Draft retains the nine-class school-grammar inventory. Alternative
 linguistic taxonomies may be documented, but implementations of this version
-use the maintained labels for interoperability.
+use the maintained labels for interoperability. Maintainer native-speaker
+review confirms `tifaftire` as a determiner/quantifier subcategory inside the
+`tilmaame` modifier domain rather than a tenth primary class.
 
 ### G3 — Gender and agreement
 
 Somali noun gender is grammatical and applies to inanimate nouns as well as
 animate nouns. Agreement evidence, not natural sex alone, determines the
-normative examples. Reviewed plural gender can differ from singular gender.
+normative examples. Plural formation is lexical and must be recorded per noun;
+once the reviewed plural form and its ending class are known, plural-gender
+polarity follows the regular agreement pattern of that class.
 
 ### G4 — Paradigm boundary
 
 Only reviewed forms and explicitly described classes are normative. Tools must
-not generate a noun plural, verb form, pronoun combination, or sound change by
-analogy outside a documented class.
+not generate a noun plural from a singular, or generate a verb form, pronoun
+combination, or sound change by analogy outside a documented class.
 
 ### G5 — Focus and subject-clitic rules
 
@@ -87,17 +95,81 @@ labeled as limited to one reading remain limited.
 Orthographic surface forms governed by SLS-0002 are not re-segmented. SLS-0003
 defines the grammatical environment of the reviewed negative and question
 forms; it does not turn source-historical decompositions into spelling rules.
+Recorded review further fixes the two nominal-predicate positions of `miyaa`,
+the clause-initial `ma ... baa ... ah` alternative, and the inheritance of
+definite-article allomorphy by the `-kee`/`-tee` interrogative series.
 
 ### G7 — Variation and uncertain forms
 
 Dialect forms and explicitly unresolved resource forms are neither corrected
 nor made errors. A negative example is normative only for the construction and
-reading stated in its rule.
+reading stated in its rule. This version targets Standard Somali
+(`Aqoondhari` / `Soomaali Maxaa tiri`); identified Benaadir, Maay, and other
+regional profiles return `not covered` pending dedicated SLS-0700 standards.
 
 ### G8 — Common mistakes
 
 The common-mistakes file is a cross-reference and correction surface. It must
 not introduce a new rule unsupported by topic evidence.
+
+## Maintainer-review supplements — 2026-08-30
+
+These decisions supplement rather than replace the source families above. The
+reviewer's complete wording and each written disposition are preserved in the
+[SLS-0003 review log](SLS-0003-review-log.md#comments).
+
+| Decision | Rules | Evidence added | Result |
+| --- | --- | --- | --- |
+| MR-5 / Q2 | G11-R3, G11-R5 | Native-speaker judgment that plural formation is lexically unpredictable, while gender polarity is regular after the plural form and ending are known | Record each noun's plural; enforce the reviewed plural class's gender polarity |
+| MR-6 / Q6 | G16-R2 | Native-speaker judgment on nominal-predicate `miyaa` placement | License post-subject and predicate-final `miyaa`; reject it clause-initially for this reading; license clause-initial `ma ... baa ... ah` |
+| MR-7 / Q7 | G16-R4 | Native-speaker judgment that interrogative and definite suffixes share gender classes and consonant changes without exception | Reuse definite-article allomorphy, including `-da → -dee` and `-sha → -shee` |
+| MR-8 / Q8 | G11-R4 | Native-speaker distinction between direct mass counting, contextual unit ellipsis, and formal measure phrases | Reject the direct mass reading; accept contextual unit ellipsis; prefer an explicit formal measure |
+| MR-9 / Q9 | G13-R4 | Native-speaker boundary between overt `iyaga` and a recoverable singular third-person zero object | Preserve an explicit object noun or independent pronoun when it supplies plurality or prevents ambiguity; license zero only without explicit object-noun, first/second-person, or independent-pronoun cues |
+| MR-10 / Q10 | G10-R1 | Native-speaker confirmation of the nine primary classes and traditional treatment of `tifaftire` | Retain the nine-class inventory and keep `tifaftire` within the modifier domain |
+| MR-11 / Q11 | G12-R1, G13-R1, G13-R3, G17-R1, G17-R2 | Native-speaker judgment that agreement errors are diagnosable, with reduced agreement under plural subject focus and in relative clauses | Expand agreement/focus diagnostics; accept `Nimankii baa yimid`; return `not covered` for unreviewed relative-clause patterns |
+| MR-12 / Q12 | SLS-0003 R3, R6 | Native-speaker identification of Benaadir and Maay false-positive risk | Declare the Standard-Somali target; return `not covered` for identified regional profiles and defer them to SLS-0700 |
+| MR-13 | G10-R1 | Native-speaker per-rule approval of the nine primary classes, the `tifaftire` subcategory, and the `qor` classification contrast | Retain the rule and examples unchanged |
+| MR-14 | G10-R2 | Native-speaker per-rule approval of nominal-function and noun-behaviour diagnostics, including `ninka` | Retain the rule and examples unchanged |
+| MR-15 | G10-R3 | Native-speaker per-rule approval of context-sensitive classification, including modifier and independent-pronoun uses of `kan` | Retain the rule and examples unchanged |
+| MR-16 | G10-R4 | Native-speaker per-rule approval of the linker, conjunction, and preposition distinction, including prepositional `ku` | Retain the rule and examples unchanged |
+| MR-17 | G11-R1 | Native-speaker per-rule approval of grammatical gender determined through syntactic agreement, including feminine `deero` | Retain the rule and examples unchanged |
+| MR-18 | G11-R2 | Native-speaker per-rule approval of definite-article gender concord and phonological assimilation | Retain the rule and examples unchanged |
+| MR-19 | G11-R3 | Native-speaker per-rule approval of explicit lexical storage for plural forms that cannot be safely generated from the singular | Retain the rule and examples unchanged |
+| MR-20 | G11-R4 | Native-speaker per-rule approval of the mass, contextual-unit, and explicit-measure distinction for `sonkor` | Retain the rule and examples unchanged |
+| MR-21 | G11-R5 | Native-speaker per-rule approval of plural gender polarity, including `inankaas`, `inamadaas`, and the rejected `inamakaas` | Retain the rule and examples unchanged |
+| MR-22 | G12-R1 | Native-speaker per-rule approval of person, gender, and number agreement together with reviewed reduced agreement under plural `baa` focus | Retain the rule and examples unchanged |
+| MR-23 | G12-R2 | Native-speaker per-rule approval of the `keenay` past and `keenaa` present-habitual tense contrast | Retain the rule and examples unchanged |
+| MR-24 | G12-R3 | Native-speaker per-rule approval of the completed-event and past-progressive contrast between `cunay` and `cunayay` | Retain the rule and examples unchanged |
+| MR-25 | G12-R4 | Native-speaker per-rule approval of second-person imperatives and the third-person `ha` directive construction | Retain the rule and examples unchanged |
+| MR-26 | G12-R5 | Native-speaker per-rule approval of `imow → yimid` and rejection of regularized `imoway` | Retain the rule and examples unchanged |
+| MR-27 | G13-R1 | Native-speaker per-rule approval of independent-pronoun gender agreement for `Faadumo`, `iyada`, and `isaga` | Retain the rule and examples unchanged |
+| MR-28 | G13-R2 | Native-speaker per-rule approval of the `annaga`/`innaga` contrast and its casual-neutralization boundary | Retain the rule, examples, and edge case unchanged |
+| MR-29 | G13-R3 | Native-speaker per-rule approval of second-person subject-clitic agreement in `Adigu moos baad cuntay` | Retain the rule and examples unchanged |
+| MR-30 | G13-R4 | Native-speaker per-rule approval of required first/second-person object clitics and the reviewed overt/zero third-person contrast | Retain the rule and examples unchanged |
+| MR-31 | G13-R5 | Native-speaker per-rule approval of reflexive and reciprocal `is` and the meaning change caused by replacement with `la` | Retain the rule and examples unchanged |
+| MR-32 | G13-R6 | Native-speaker per-rule approval of impersonal `la` for an unspecified agent and rejection of an explicit-agent reading | Retain the rule and examples unchanged |
+| MR-33 | G14-R1 | Native-speaker per-rule approval of predicate completeness and the complete imperative `Kaaley!` | Retain the rule and examples unchanged |
+| MR-34 | G14-R2 | Native-speaker per-rule approval of selected preposition `ku` with `fariistay` | Retain the rule and examples unchanged |
+| MR-35 | G14-R3 | Native-speaker per-rule approval of focus-particle placement after the focused constituent and before the verbal group | Retain the rule and examples unchanged |
+| MR-36 | G14-R4 | Native-speaker per-rule approval of the required subject clitic in object focus and the meaning change caused by bare `baa` | Retain the rule and examples unchanged |
+| MR-37 | G14-R5 | Native-speaker per-rule approval of clitic–verb adjacency in the reviewed `waa` construction | Retain the rule and examples unchanged |
+| MR-38 | G14-R6 | Native-speaker per-rule approval of linker `ee` between two post-nominal modifiers | Retain the rule and examples unchanged |
+| MR-39 | G15-R1 | Native-speaker per-rule approval of preverbal `ma` with the licensed negative verb form | Retain the rule and examples unchanged |
+| MR-40 | G15-R2 | Native-speaker per-rule approval of negative nominal-predicate `ma aha` and rejection of retained affirmative `waa` | Retain the rule and examples unchanged |
+| MR-41 | G15-R3 | Native-speaker per-rule approval of subject agreement in focused negation and the required negative verb form | Retain the rule and examples unchanged |
+| MR-42 | G15-R4 | Native-speaker per-rule approval of prohibitive `ha` with negative imperative `keenin` rather than affirmative `keen` | Retain the rule and examples unchanged |
+| MR-43 | G16-R1 | Native-speaker per-rule approval of aligned interrogative and focus marking and rejection of conflicting `ma` plus `buu` focus | Retain the rule and examples unchanged |
+| MR-44 | G16-R2 | Native-speaker per-rule approval of the reviewed `miyaa` positions and clause-initial `ma ... baa ... ah` alternative | Retain the rule and examples unchanged |
+| MR-45 | G15-R5 | Native-speaker per-rule approval of fused negative-interrogative marking and rejection of doubled `ma ma` | Retain the rule and examples unchanged |
+| MR-46 | G16-R3 | Native-speaker per-rule approval of adjacency between `xaggee` and its focus marker | Retain the rule and examples unchanged |
+| MR-47 | G16-R4 | Native-speaker per-rule approval of definite-article gender and sound rules for `-kee`/`-tee` interrogatives | Retain the rule and examples unchanged |
+| MR-48 | G16-R5 | Native-speaker per-rule approval of integrated `halka` indirect questions and the distinction from direct-question syntax | Retain the rule and examples unchanged |
+| MR-49 | G17-R1 | Native-speaker per-rule approval of the bounded agreement diagnostic, including accepted reduced agreement in `Nimankii baa yimid` | Retain the rule and examples unchanged |
+| MR-50 | G17-R2 | Native-speaker per-rule approval of focus and subject-clitic diagnostics for `buu` and `baad` | Retain the rule and examples unchanged |
+| MR-51 | G17-R3 | Native-speaker per-rule approval of selected-preposition diagnostics limited to reviewed lexical data | Retain the rule and examples unchanged |
+| MR-52 | G17-R4 | Native-speaker per-rule approval of the bounded verbal-group diagnostic and flexible order outside that group | Retain the rule and examples unchanged |
+| MR-53 | G17-R5 | Native-speaker per-rule approval of the missing-`ee` diagnostic in the documented two-modifier construction | Retain the rule and examples unchanged |
+| MR-54 | G17-R6 | Native-speaker per-rule approval of distinguishing interrogative and negative `ma` before diagnosing direct `ma ma` doubling | Retain the rule and examples unchanged |
 
 ## Scope resolutions
 
@@ -106,7 +178,7 @@ not introduce a new rule unsupported by topic evidence.
 | Does SLS-0003 standardize every paradigm in the books? | No. It standardizes reviewed forms/classes and prohibits unsupported generation. |
 | Are dialect differences errors? | No. They require scope labels and future SLS-0700 treatment. |
 | Does word order alone always identify subject and object? | No. Predicate meaning, case, agreement, focus particles, clitics, and order work together. |
-| Are all omitted third-person objects absent? | No. The reviewed analysis permits a zero third-person object interpreted from context. |
+| Are all omitted third-person objects absent? | No. `Cali baa u yeeray.` permits a recoverable singular third-person zero object; `Cali baa iyaga u yeeray.` overtly identifies a plural object. |
 | Are *baa* and *ayaa* universally interchangeable? | The maintained focus constructions treat their function together; no regional or universal distribution rule is invented. |
 | Does one negative suffix cover every tense and verb class? | No. The reviewed paradigm determines the negative form. |
 | Does one question strategy cover every question? | No. The Draft distinguishes yes/no, content, selection, and indirect patterns only where reviewed. |
@@ -132,6 +204,8 @@ through
 and the
 [formal SLS-0003 wrapper](../../spec/grammar/0018-somali-grammar-standard.md).
 The founding maintainer accepted that completed Draft for `Proposed`
-publication as part of Milestone 2. Public comment begins when the proposal
-branch is published; the transition does not replace the required public
-linguistic and technical review.
+publication as part of Milestone 2. Public comment began in
+[pull request #7](https://github.com/goobolabs/somali-language-standard/pull/7)
+on 2026-08-23. Under SLS-0000 0.2.0, the maintainer records lifecycle decisions
+and the correction channel remains open at every stage; independent linguistic
+and technical review is welcome but is not a gate.

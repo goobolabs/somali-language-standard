@@ -34,7 +34,11 @@ exclusive meaning where those distinctions are expressed.
 - **G13-R4.** A first- or second-person object licensed by the verb or
   preposition MUST be represented by the required object clitic; it MUST NOT
   be omitted as though it had the ordinary zero form available to many
-  third-person objects.
+  third-person objects. An overt object noun or independent third-person
+  pronoun MUST be preserved when it supplies plurality or prevents ambiguity.
+  When no explicit object noun, first- or second-person form, or independent
+  object pronoun is present, a recoverable singular third-person object MAY
+  have zero realization.
 - **G13-R5.** `is` MUST be interpreted as reflexive or reciprocal according to
   the clause participants and context; `la` MUST NOT replace it when the
   intended meaning is reflexive or reciprocal.
@@ -48,13 +52,15 @@ exclusive meaning where those distinctions are expressed.
 |---|---|---|
 | Faadumo ayaan la hadlay. = Iyada ayaan la hadlay. | `[G13-R1 +]` Faadumo FOC.1SG with spoke = she FOC.1SG with spoke | Correct feminine-pronoun substitution. |
 | Faadumo ayaan la hadlay. = Isaga ayaan la hadlay. | `[G13-R1 −]` Faadumo FOC.1SG with spoke = he FOC.1SG with spoke | Incorrect for the intended reference to Faadumo. |
-| annaga — dhegeystaha kuma jiro | `[G13-R2 +]` we.EXCL — addressee excluded | Correct exclusive reading. |
-| innaga — dhegeystuhu wuu ku jiraa | `[G13-R2 +]` we.INCL — addressee included | Correct inclusive reading. |
-| annaga — akhris mideeya | `[G13-R2 −]` we.EXCL — inclusive reading | Incorrect when the intended meaning explicitly includes the addressee. |
+| Annaga ayaa baxayna. | `[G13-R2 +]` we.EXCL FOC leave.PROG.1PL | We are leaving, but you are staying. |
+| Innaga ayaa baxayna. | `[G13-R2 +]` we.INCL FOC leave.PROG.1PL | We are leaving, and you are coming too. |
+| \*Annaga ayaa baxayna. — intended: the addressee is included | `[G13-R2 −]` we.EXCL FOC leave.PROG.1PL | Incorrect for the intended inclusive reading; `innaga` carries it. |
 | Adigu moos baad cuntay. | `[G13-R3 +]` you.SG banana FOC.2SG ate | Correct subject-clitic agreement. |
 | \*Adigu moos baa cuntay. | `[G13-R3 −]` you.SG banana FOC.3SG ate | Ungrammatical: the second-person subject clitic is missing. |
 | Cali baa adiga kuu soo ordayay. | `[G13-R4 +]` Cali FOC you to.2SG toward ran.PROG | Correct second-person object clitic with *u*. |
 | \*Cali baa adiga u soo ordayay. | `[G13-R4 −]` Cali FOC you to toward ran.PROG | Ungrammatical in the reviewed construction: the object clitic is omitted. |
+| Cali baa iyaga u yeeray. | `[G13-R4 +]` Cali FOC them to called | The overt third-person plural object prevents ambiguity. |
+| Cali baa u yeeray. | `[G13-R4 +]` Cali FOC to called | Correct zero realization of a recoverable singular third-person object. |
 | Ninku wuu is dhaawacay. | `[G13-R5 +]` man-DEF 3SG.M REFL injured | The man injured himself. |
 | Carruurtii way is arkeen. | `[G13-R5 +]` children-DEF 3PL RECIP saw | The children saw one another. |
 | Ninku waa la dhaawacay. | `[G13-R5 −]` man-DEF IMPERS injured | Grammatical with a passive-like reading, but incorrect for the intended reflexive reading. |
@@ -65,11 +71,19 @@ exclusive meaning where those distinctions are expressed.
 
 - Pronouns and clitics do not occupy identical syntactic positions and are not
   freely interchangeable.
-- Inclusive and exclusive first-person plurals may be neutralized in some
-  usage; a tool must diagnose the distinction only when the intended reading
-  is known.
+- Inclusive and exclusive first-person plurals may be neutralized in practice.
+  Careful writers keep `annaga` and `innaga` distinct, but the two are commonly
+  mixed in modern casual writing, where `annaga` is often generalized to both
+  readings (maintainer review, 2026-08-30). A tool must therefore diagnose the
+  distinction only when the intended reading is known, and must not report
+  `annaga` in casual text as an error on the strength of the form alone.
 - The interpretation of `is` can be ambiguous with plural subjects. Context
   determines reflexive versus reciprocal meaning.
+- For G13-R4, an explicit object noun, visible first- and second-person forms
+  such as `i`, `ku`, `na`, and `idin`, or an independent pronoun such as
+  `iyaga`, block the default singular third-person zero analysis. Without those
+  cues, `Cali baa u yeeray` can carry the reviewed zero-object reading
+  (maintainer native-speaker review, 2026-08-30).
 
 ## Related
 

@@ -136,18 +136,21 @@ comment periods left without a written resolution.
 
 ## Phase 3 — Grammar Standard
 
-**Status:** proposal published — SLS-0003 and all eight topic documents entered
-public review in [pull request #7](https://github.com/goobolabs/somali-language-standard/pull/7)
+**Status:** completion criteria satisfied — SLS-0003 and all eight topic
+documents entered public review in
+[pull request #7](https://github.com/goobolabs/somali-language-standard/pull/7)
 on 2026-08-23; comments are filed on
 [issue #11](https://github.com/goobolabs/somali-language-standard/issues/11) and
 recorded in [`docs/standards/SLS-0003-review-log.md`](docs/standards/SLS-0003-review-log.md).
-The maintainer review is the **only** completion criterion still open: the eight
-topic documents and the wrapper are drafted, and SLS-0003 is at `Proposed`.
+The eight topic documents and wrapper are drafted, SLS-0003 is at `Proposed`,
+and the maintainer native-speaker review is complete.
 [`docs/standards/SLS-0003-reviewer-packet.md`](docs/standards/SLS-0003-reviewer-packet.md)
 puts all 42 rules, their examples, and twelve priority questions on one page,
-which is the working surface for that review and for any outside report. The
-recurring-independent-reviewer gate that previously sat here was removed with the
-2026-08-30 governance change (`SLS-0000` 0.2.0).
+which remains the working surface for outside reports. Three question batches
+answered Q1–Q12 on 2026-08-30; eleven per-rule batches approved all 42 rules
+and their displayed examples by 2026-08-31. The
+recurring-independent-reviewer gate that previously sat here was
+removed with the 2026-08-30 governance change (`SLS-0000` 0.2.0).
 
 **Objective:** The core grammar layer (SLS-0003): parts of speech, noun
 morphology, verb system, pronouns, sentence structure, negation, questions,

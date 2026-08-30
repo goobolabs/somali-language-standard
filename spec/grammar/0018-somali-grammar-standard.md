@@ -2,8 +2,8 @@
 id: "0018"
 sls_id: SLS-0003
 title: Somali Grammar Standard
-version: 0.1.3
-standard_version: 0.1.3
+version: 0.4.0
+standard_version: 0.4.0
 status: Proposed
 category: foundation
 owner: maintainers
@@ -37,6 +37,15 @@ revision_history:
   - version: 0.1.3
     date: 2026-08-30
     change: "Editorial: reworded the reviewer-packet reference after the governance change"
+  - version: 0.2.0
+    date: 2026-08-30
+    change: "Maintainer native-speaker review, first batch: G13-R2 gains a real inclusive/exclusive sentence pair and an attested note on neutralization in casual writing; G14-R5 states clitic-verb adjacency explicitly; G14-R4 and G14-R5 gain edge cases explaining why bare baa and an intervening noun fail; the two ha constructions are distinguished by the person and form of the following verb. MAJOR by SLS-0000 R11 (a MUST-level requirement was sharpened), taken on the minor position because the standard is pre-1.0"
+  - version: 0.3.0
+    date: 2026-08-30
+    change: "Maintainer native-speaker review, second batch: G11-R3 separates lexically recorded plural forms from G11-R5's regular plural-gender polarity; G11-R4 distinguishes a direct mass reading from contextual unit ellipsis and recommends an explicit formal measure; G16-R2 fixes the licensed nominal-predicate positions of miyaa; G16-R4 inherits definite-article allomorphy. MAJOR by SLS-0000 R11 (MUST-level requirements were sharpened), taken on the minor position because the standard is pre-1.0"
+  - version: 0.4.0
+    date: 2026-08-30
+    change: "Maintainer native-speaker review, third batch: G13-R4 distinguishes overt iyaga from a recoverable singular third-person zero object; G10-R1's nine classes and tifaftire grouping are confirmed; G17-R1 and G17-R2 add bounded verb, pronoun, and subject-clitic diagnostics while preserving reduced agreement in plural focus and relative clauses; SLS-0003 explicitly targets Standard Somali and returns not covered for identified regional profiles. MAJOR by SLS-0000 R11 (MUST-level requirements were sharpened), taken on the minor position because the standard is pre-1.0"
 ---
 
 > **Proposed status:** This document and its implemented topic specifications
@@ -61,8 +70,9 @@ turning uncertain, dialectal, or unattested patterns into automatic errors.
 
 ## Scope
 
-**In scope:** the nine maintained parts of speech; reviewed noun gender,
-article, number, and plural behaviour; reviewed verb agreement and
+**In scope:** Standard Somali, identified in maintainer review as `Aqoondhari`
+or `Soomaali Maxaa tiri`; the nine maintained parts of speech; reviewed noun
+gender, article, number, and plural behaviour; reviewed verb agreement and
 tense/aspect/mood contrasts; independent and clitic pronouns; core predicate,
 focus, verbal-group, preposition, and modifier-linking constructions;
 construction-specific negation and questions; and diagnostics that directly
@@ -146,8 +156,9 @@ blocks.
 | `go'aan` | `[R1 −]` ASCII apostrophe substituted | does not conform to SLS-0001 through R1 |
 | `Adigu moos baad cuntay.` | `[R2 +]` topic G13-R3 implemented | conforming subject-clitic agreement |
 | `Adigu moos baa cuntay.` | `[R2 −]` applicable topic rule omitted | cannot support full conformance |
-| `qaab goboleed — not covered` | `[R3 +]` variation withheld from diagnosis | correct when no approved scope rule exists |
-| `qaab goboleed — qalad` | `[R3 −]` unlabeled regional form declared wrong | prohibited without a scope rule |
+| `Ha samaynin. — Benaadir: not covered` | `[R3 +]` regional form withheld from diagnosis | correct outside the Standard-Somali profile |
+| `Mugdi kung kule. — Maay: not covered` | `[R3 +]` regional sentence withheld from diagnosis | correct outside the Standard-Somali profile |
+| `Mugdi kung kule. — qalad` | `[R3 −]` Maay sentence declared wrong under Standard-Somali rules | prohibited without a Maay scope rule |
 | `buug → buugag` | `[R4 +]` reviewed plural | conforming reviewed paradigm use |
 | `buug → buugyo` | `[R4 −]` unsupported generated plural | prohibited automatic generation |
 | `Deeradu biyo bay cabtay.` | `[R5 +]` feminine agreement evidence applied | conforming construction-aware check |
@@ -164,9 +175,10 @@ blocks.
 - **Grammatical sentence, wrong intended reading.** Some negative rows contain a
   form that can be grammatical under another interpretation. The stated
   reading, not the string alone, determines the diagnostic.
-- **Third-person zero object.** The absence of a visible object clitic can be
-  licensed for a reviewed third-person interpretation. It is not automatically
-  a missing-object error.
+- **Third-person zero object.** `Cali baa iyaga u yeeray` overtly identifies the
+  plural third-person object, while `Cali baa u yeeray` licenses a recoverable
+  singular third-person zero object. The absence of a visible object is not
+  automatically an error.
 - **Inclusive and exclusive plural.** A validator can enforce the contrast only
   when the intended inclusion of the addressee is available.
 - **Focus variation.** The Draft covers only the environments supported by
@@ -174,6 +186,11 @@ blocks.
   `baa`, `ayaa`, or every clitic realization.
 - **Unknown forms.** Absence from the Draft means `not covered`, not necessarily
   non-conforming.
+- **Regional profiles.** This standard targets Standard Somali (`Aqoondhari` /
+  `Soomaali Maxaa tiri`). A Standard-Somali checker MUST return `not covered`
+  rather than apply these rules to Benaadir `Ha samaynin.`, Maay
+  `Mugdi kung kule.`, or another identified regional profile. Dedicated
+  regional profiles belong in the SLS-0700 block.
 - **Source quotation.** Faithful quotation may preserve historical, regional,
   or source-specific grammar when clearly marked; it does not create a new
   normative rule.
@@ -220,3 +237,6 @@ support a `Stable` compliance claim.
 | 0.1.1 | 2026-08-30 | Editorial: added a lifecycle banner to topic files 0010–0017; linked the public review log |
 | 0.1.2 | 2026-08-30 | Editorial: cross-referenced the directive `ha` (G12-R4) and the prohibitive `ha` (G15-R4) in both topic files; added the reviewer packet |
 | 0.1.3 | 2026-08-30 | Editorial: reworded the reviewer-packet reference after the governance change |
+| 0.2.0 | 2026-08-30 | Maintainer native-speaker review, first batch: G13-R2 gains a real inclusive/exclusive sentence pair and an attested note on neutralization in casual writing; G14-R5 states clitic-verb adjacency explicitly; G14-R4 and G14-R5 gain edge cases explaining why bare baa and an intervening noun fail; the two ha constructions are distinguished by the person and form of the following verb. MAJOR by SLS-0000 R11 (a MUST-level requirement was sharpened), taken on the minor position because the standard is pre-1.0 |
+| 0.3.0 | 2026-08-30 | Maintainer native-speaker review, second batch: G11-R3 separates lexically recorded plural forms from G11-R5's regular plural-gender polarity; G11-R4 distinguishes a direct mass reading from contextual unit ellipsis and recommends an explicit formal measure; G16-R2 fixes the licensed nominal-predicate positions of miyaa; G16-R4 inherits definite-article allomorphy. MAJOR by SLS-0000 R11 (MUST-level requirements were sharpened), taken on the minor position because the standard is pre-1.0 |
+| 0.4.0 | 2026-08-30 | Maintainer native-speaker review, third batch: G13-R4 distinguishes overt iyaga from a recoverable singular third-person zero object; G10-R1's nine classes and tifaftire grouping are confirmed; G17-R1 and G17-R2 add bounded verb, pronoun, and subject-clitic diagnostics while preserving reduced agreement in plural focus and relative clauses; SLS-0003 explicitly targets Standard Somali and returns not covered for identified regional profiles. MAJOR by SLS-0000 R11 (MUST-level requirements were sharpened), taken on the minor position because the standard is pre-1.0 |

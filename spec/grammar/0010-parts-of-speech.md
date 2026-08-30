@@ -62,6 +62,10 @@ grammatical function in context; spelling alone is not sufficient.
 - A dictionary headword does not by itself establish every syntactic use of that form.
 - Subclasses may be defined in a topic specification, but they do not replace
   the nine primary labels in general inventories.
+- `Tifaftire` is the determiner or quantifier subcategory inside the
+  `tilmaame` modifier domain, not a tenth primary class. Maintainer
+  native-speaker review confirms that this matches traditional Somali grammar
+  teaching (2026-08-30).
 - The examples classify the displayed use, not every possible use of the same written form.
 
 ## Related

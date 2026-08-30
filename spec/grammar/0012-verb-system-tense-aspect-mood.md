@@ -66,8 +66,18 @@ while leaving complete lexical paradigms to reviewed morphological data.
   forms without evidence.
 - The `ha` of the licensed third-person directive in G12-R4 is not the
   prohibitive `ha` of [Negation](0015-negation.md) G15-R4, which requires a
-  negative verb form. The two constructions are distinguished by the form of
-  the verb that follows, not by the particle.
+  second-person negative form. The two are distinguished by the person and form
+  of the verb that follows, never by the particle: `ha` before an affirmative
+  third-person form makes a positive directive (`Isagu ha qoro!`), while `ha`
+  before a licensed negative form makes a prohibition (`Waxba ha keenin`).
+- A plural subject focused with `baa` or `ayaa` can license reduced singular
+  verb agreement. `Nimankii baa yimid` is therefore conforming and MUST NOT be
+  reported as a number mismatch merely because `yimid` is not overtly plural
+  (maintainer native-speaker review, 2026-08-30).
+- Subject relative clauses can also use a neutral or reduced verb form
+  regardless of surface gender or number. Until a relative-clause profile is
+  reviewed, an apparent mismatch there is `not covered`, not an automatic
+  error.
 - A form absent from this summary is not automatically wrong. It is outside
   automatic conformance until its paradigm is reviewed.
 
