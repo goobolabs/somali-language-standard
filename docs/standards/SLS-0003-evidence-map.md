@@ -156,6 +156,10 @@ reviewer's complete wording and each written disposition are preserved in the
 | MR-38 | G14-R6 | Native-speaker per-rule approval of linker `ee` between two post-nominal modifiers | Retain the rule and examples unchanged |
 | MR-39 | G15-R1 | Native-speaker per-rule approval of preverbal `ma` with the licensed negative verb form | Retain the rule and examples unchanged |
 | MR-40 | G15-R2 | Native-speaker per-rule approval of negative nominal-predicate `ma aha` and rejection of retained affirmative `waa` | Retain the rule and examples unchanged |
+| MR-41 | G15-R3 | Native-speaker per-rule approval of subject agreement in focused negation and the required negative verb form | Retain the rule and examples unchanged |
+| MR-42 | G15-R4 | Native-speaker per-rule approval of prohibitive `ha` with negative imperative `keenin` rather than affirmative `keen` | Retain the rule and examples unchanged |
+| MR-43 | G16-R1 | Native-speaker per-rule approval of aligned interrogative and focus marking and rejection of conflicting `ma` plus `buu` focus | Retain the rule and examples unchanged |
+| MR-44 | G16-R2 | Native-speaker per-rule approval of the reviewed `miyaa` positions and clause-initial `ma ... baa ... ah` alternative | Retain the rule and examples unchanged |
 
 ## Scope resolutions
 

@@ -21,11 +21,11 @@ The comment period is open. It cannot close before 2026-09-06. No comment is
 
 **Maintainer review status:** in progress. The three question batches answered
 all twelve packet questions on 2026-08-30 and are recorded below as MR-1 through
-MR-12. The first seven per-rule batches approved G10-R1 through G10-R4,
+MR-12. The first eight per-rule batches approved G10-R1 through G10-R4,
 G11-R1 through G11-R5, G12-R1 through G12-R5, G13-R1 through G13-R6,
-G14-R1 through G14-R6, and G15-R1 through G15-R2 as written and are recorded
-as MR-13 through MR-40. Twenty-eight of 42 per-rule verdicts are complete; 14
-remain. The
+G14-R1 through G14-R6, G15-R1 through G15-R4, and G16-R1 through G16-R2 as
+written and are recorded as MR-13 through MR-44. Thirty-two of 42 per-rule
+verdicts are complete; 10 remain. The
 `Review → Candidate` gate in SLS-0000 R9 needs them finished and dispositioned.
 The review is by the maintainer, who is a native speaker; it is not independent,
 and is labelled as such wherever it is cited. The reviewer-facing summary is
@@ -103,6 +103,10 @@ any lifecycle stage, `Stable` included.
 | MR-38 | 2026-08-30 | maintainer review (native speaker) — rule G14-R6 | "**2. G14-R6 — Modifier linker ee**<br><br>* **Verdict:** Approve<br>* **Explanation:** The rule is correct. When two modifiers follow a noun, you must place the particle *ee* between them. In *dukaanka dharka ee Cali*, *ee* connects the second modifier. Leaving out *ee* in *dukaanka dharka Cali* is an error." | `accepted` | G14-R6 and its examples are approved as written. No normative change or version bump is required. |
 | MR-39 | 2026-08-30 | maintainer review (native speaker) — rule G15-R1 | "**3. G15-R1 — Verbal negation with ma**<br><br>* **Verdict:** Approve<br>* **Explanation:** The rule is correct. The negative word *ma* requires the verb to take its negative form. *Cali hadiyad ma keenin* is correct because *keenin* is negative. Combining *ma* with the affirmative verb form *keenay* is an error." | `accepted` | G15-R1 and its examples are approved as written. No normative change or version bump is required. |
 | MR-40 | 2026-08-30 | maintainer review (native speaker) — rule G15-R2 | "**4. G15-R2 — Negative nominal predicates**<br><br>* **Verdict:** Approve<br>* **Explanation:** The rule is correct. To make a noun predicate negative, you must use *ma aha*. *Muuse macallin ma aha* is correct. You cannot keep the positive marker *waa* and add *ma ah* at the end." | `accepted` | G15-R2 and its examples are approved as written. No normative change or version bump is required. |
+| MR-41 | 2026-08-30 | maintainer review (native speaker) — rule G15-R3 | "**1. G15-R3 — Focused negation**<br><br>* **Verdict:** Approve<br>* **Explanation:** In negative sentences with focus, the focus particle combines with the negative marker *-aan* (as in *buusan* from *baa* + *uu* + *sa* + *aan*), and the verb must take its negative past form. *Cali hadiyad buusan keenin* is correct. Using affirmative focus *baan* with negative verb form *keenin* breaks focus-negation agreement." | `accepted` | G15-R3 and its examples are approved as written. No normative change or version bump is required. |
+| MR-42 | 2026-08-30 | maintainer review (native speaker) — rule G15-R4 | "**2. G15-R4 — Negative commands**<br><br>* **Verdict:** Approve<br>* **Explanation:** Negative commands (prohibitions) require the particle *ha* paired with the negative imperative verb form ending in *-in* for singular (or *-ina* for plural). *Waxba ha keenin* is correct. Placing *ha* directly before the positive imperative form *keen* (*Waxba ha keen*) is ungrammatical." | `accepted` | G15-R4 and its examples are approved as written. No normative change or version bump is required. |
+| MR-43 | 2026-08-30 | maintainer review (native speaker) — rule G16-R1 | "**3. G16-R1 — Yes-or-no questions with ma**<br><br>* **Verdict:** Approve<br>* **Explanation:** The question particle *ma* cannot co-occur with a secondary focused subject pronoun clitic like *buu*. In *Ma Axmed baa hadiyad keenay?*, *ma* sets up the question and *baa* focuses *Axmed*. Doubling this with *buu* in *Ma Axmed hadiyad buu keenay?* creates redundant, conflicting focus structures." | `accepted` | G16-R1 and its examples are approved as written. No normative change or version bump is required. |
+| MR-44 | 2026-08-30 | maintainer review (native speaker) — rule G16-R2 | "**4. G16-R2 — Position of miyaa**<br><br>* **Verdict:** Approve<br>* **Explanation:** The question word *miyaa* can appear after the subject (*Wiilkii miyaa ka tegaya?*), after the nominal predicate (*Cali macallin miyaa?*), or right after the subject in a copular clause (*Cali miyaa macallin ah?*). It cannot start a nominal predicate sentence directly. Placing it clause-initially as in *Miyaa Cali macallin?* is wrong; that question structure requires *ma* instead (*Ma Cali baa macallin ah?*)." | `accepted` | G16-R2 and its examples are approved as written. No normative change or version bump is required. |
 
 ## Transition record
 

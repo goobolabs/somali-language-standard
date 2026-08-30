@@ -29,10 +29,10 @@ reported error for every user of every tool that adopts it.
 You do not have to do all 42. A verdict on the [priority questions](#priority-questions)
 alone is a complete, citable review.
 
-**Per-rule progress:** 28 of 42 rules have maintainer native-speaker verdicts:
+**Per-rule progress:** 32 of 42 rules have maintainer native-speaker verdicts:
 G10-R1 through G10-R4, G11-R1 through G11-R5, G12-R1 through G12-R5,
-G13-R1 through G13-R6, G14-R1 through G14-R6, and G15-R1 through G15-R2 were
-approved on 2026-08-30 as MR-13 through MR-40.
+G13-R1 through G13-R6, G14-R1 through G14-R6, G15-R1 through G15-R4, and
+G16-R1 through G16-R2 were approved on 2026-08-30 as MR-13 through MR-44.
 
 ## Conventions used below
 
@@ -100,16 +100,16 @@ approved on 2026-08-30 as MR-13 through MR-40.
 | --- | --- | --- | --- | --- |
 | **G15-R1** | In the reviewed free-negative verbal construction, `ma` MUST precede the verbal group and the verb MUST use its licensed negative form. | Cali hadiyad ma keenin. | \*Cali hadiyad ma keenay. | **OK — MR-39** |
 | **G15-R2** | A negated nominal predicate using `ah` MUST be expressed with the reviewed form `ma aha`; affirmative `waa` MUST NOT be retained as though it alone carried negation. | Muuse macallin ma aha. | \*Muuse waa macallin ma ah. | **OK — MR-40** |
-| **G15-R3** | In the reviewed focused negative construction, the negative focus form in `-aan` MUST agree with the subject and MUST be followed by the licensed negative verb form. | Cali hadiyad buusan keenin. | \*Cali hadiyad baan keenin. |  |
-| **G15-R4** | A negative command MUST use prohibitive `ha` with the reviewed negative form; it MUST NOT combine `ha` with an affirmative imperative as a mechanically prefixed command. | Waxba ha keenin. | \*Waxba ha keen. |  |
+| **G15-R3** | In the reviewed focused negative construction, the negative focus form in `-aan` MUST agree with the subject and MUST be followed by the licensed negative verb form. | Cali hadiyad buusan keenin. | \*Cali hadiyad baan keenin. | **OK — MR-41** |
+| **G15-R4** | A negative command MUST use prohibitive `ha` with the reviewed negative form; it MUST NOT combine `ha` with an affirmative imperative as a mechanically prefixed command. | Waxba ha keenin. | \*Waxba ha keen. | **OK — MR-42** |
 | **G15-R5** | Interrogative `ma` and negative `ma` MUST NOT be doubled in one construction to express a negative yes-or-no question; the reviewed fused negative interrogative construction MUST be used. | Ma Axmed baan hilibka cunin? | \*Cali hadiyad ma ma keenin? |  |
 
 ## 0016 — Question Formation
 
 | Rule | Requirement | Conforming | Non-conforming (`*` = stated reading only) | Verdict |
 | --- | --- | --- | --- | --- |
-| **G16-R1** | In the reviewed yes-or-no construction with `ma`, the interrogative particle and the focus particle MUST identify the same focused constituent or the licensed verbal focus. | Ma Axmed baa hadiyad keenay?<br>Axmed hadiyad ma keenay? | \*Ma Axmed hadiyad buu keenay? |  |
-| **G16-R2** | `miyaa` MUST occupy the position licensed by the focus and predicate type. In a nominal-predicate question, it MAY follow the subject before a predicate with `ah`, or follow the nominal predicate, but MUST NOT begin the clause; clause-initial questioning uses the reviewed `ma ... baa ... ah` construction. | Wiilkii miyaa ka tegaya?<br>Cali miyaa macallin ah?<br>Cali macallin miyaa?<br>Ma Cali baa macallin ah? | \*Miyaa Cali macallin? |  |
+| **G16-R1** | In the reviewed yes-or-no construction with `ma`, the interrogative particle and the focus particle MUST identify the same focused constituent or the licensed verbal focus. | Ma Axmed baa hadiyad keenay?<br>Axmed hadiyad ma keenay? | \*Ma Axmed hadiyad buu keenay? | **OK — MR-43** |
+| **G16-R2** | `miyaa` MUST occupy the position licensed by the focus and predicate type. In a nominal-predicate question, it MAY follow the subject before a predicate with `ah`, or follow the nominal predicate, but MUST NOT begin the clause; clause-initial questioning uses the reviewed `ma ... baa ... ah` construction. | Wiilkii miyaa ka tegaya?<br>Cali miyaa macallin ah?<br>Cali macallin miyaa?<br>Ma Cali baa macallin ah? | \*Miyaa Cali macallin? | **OK — MR-44** |
 | **G16-R3** | A constituent question MUST use a reviewed interrogative form and MUST keep that interrogative constituent adjacent to its associated focus marking where the construction requires adjacency. | Xaggee baa Axmed aaday? | \*Xaggee Axmed baa aaday? |  |
 | **G16-R4** | The `-kee`/`-tee` interrogative series MUST select exactly the same gender class and consonant allomorph as the head noun's definite article. | Macallinkee baa yimid?<br>Naagtee baa timid?<br>magaalada → magaaladee<br>meesha → meeshee | \*Naagkee baa timid? |  |
 | **G16-R5** | An indirect question with a reviewed `halka` or `goorta` construction MUST be integrated as a subordinate constituent rather than punctuated or ordered as an independent direct question. | Weyddii halkuu tegayo. | Weyddii: “Xaggee buu tegayaa?” |  |
