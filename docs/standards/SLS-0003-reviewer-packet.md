@@ -29,6 +29,9 @@ reported error for every user of every tool that adopts it.
 You do not have to do all 42. A verdict on the [priority questions](#priority-questions)
 alone is a complete, citable review.
 
+**Per-rule progress:** 4 of 42 rules have maintainer native-speaker verdicts:
+G10-R1 through G10-R4 were approved on 2026-08-30 as MR-13 through MR-16.
+
 ## Conventions used below
 
 - `*` marks a form the standard treats as **non-conforming for the stated
@@ -42,10 +45,10 @@ alone is a complete, citable review.
 
 | Rule | Requirement | Conforming | Non-conforming (`*` = stated reading only) | Verdict |
 | --- | --- | --- | --- | --- |
-| **G10-R1** | An analysis MUST use the nine primary classes `magac`, `magacuyaal`, `fal`, `tilmaame`, `falkaab`, `meeleeye`, `xiriiriye`, `qodob`, and `yaab` when one fits. `Tifaftire` MAY name the determiner/quantifier grouping inside the `tilmaame` modifier domain but is not a tenth primary class. | qor — fal | qor — magac |  |
-| **G10-R2** | A noun (`magac`) MUST be identified by its nominal function and available noun behaviour, such as reference, article marking, number, or participation in a noun phrase. | ninka | ninka — fal |  |
-| **G10-R3** | An item whose class changes with syntactic use MUST be classified in its attested context. | qalinkan<br>Kani waa buug. | kan — magacuyaal mar kasta |  |
-| **G10-R4** | Linkers, conjunctions, and prepositions MUST be distinguished by their grammatical relation: a linker connects constituents within a construction, a conjunction coordinates or subordinates units, and a preposition introduces the relation selected by its construction. | dukaanka dharka ee Cali<br>Mire baa ku fariistay kursiga. | ku — xiriiriye |  |
+| **G10-R1** | An analysis MUST use the nine primary classes `magac`, `magacuyaal`, `fal`, `tilmaame`, `falkaab`, `meeleeye`, `xiriiriye`, `qodob`, and `yaab` when one fits. `Tifaftire` MAY name the determiner/quantifier grouping inside the `tilmaame` modifier domain but is not a tenth primary class. | qor — fal | qor — magac | **OK — MR-13** |
+| **G10-R2** | A noun (`magac`) MUST be identified by its nominal function and available noun behaviour, such as reference, article marking, number, or participation in a noun phrase. | ninka | ninka — fal | **OK — MR-14** |
+| **G10-R3** | An item whose class changes with syntactic use MUST be classified in its attested context. | qalinkan<br>Kani waa buug. | kan — magacuyaal mar kasta | **OK — MR-15** |
+| **G10-R4** | Linkers, conjunctions, and prepositions MUST be distinguished by their grammatical relation: a linker connects constituents within a construction, a conjunction coordinates or subordinates units, and a preposition introduces the relation selected by its construction. | dukaanka dharka ee Cali<br>Mire baa ku fariistay kursiga. | ku — xiriiriye | **OK — MR-16** |
 
 ## 0011 — Noun Morphology: Gender and Plurals
 

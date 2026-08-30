@@ -128,6 +128,10 @@ reviewer's complete wording and each written disposition are preserved in the
 | MR-10 / Q10 | G10-R1 | Native-speaker confirmation of the nine primary classes and traditional treatment of `tifaftire` | Retain the nine-class inventory and keep `tifaftire` within the modifier domain |
 | MR-11 / Q11 | G12-R1, G13-R1, G13-R3, G17-R1, G17-R2 | Native-speaker judgment that agreement errors are diagnosable, with reduced agreement under plural subject focus and in relative clauses | Expand agreement/focus diagnostics; accept `Nimankii baa yimid`; return `not covered` for unreviewed relative-clause patterns |
 | MR-12 / Q12 | SLS-0003 R3, R6 | Native-speaker identification of Benaadir and Maay false-positive risk | Declare the Standard-Somali target; return `not covered` for identified regional profiles and defer them to SLS-0700 |
+| MR-13 | G10-R1 | Native-speaker per-rule approval of the nine primary classes, the `tifaftire` subcategory, and the `qor` classification contrast | Retain the rule and examples unchanged |
+| MR-14 | G10-R2 | Native-speaker per-rule approval of nominal-function and noun-behaviour diagnostics, including `ninka` | Retain the rule and examples unchanged |
+| MR-15 | G10-R3 | Native-speaker per-rule approval of context-sensitive classification, including modifier and independent-pronoun uses of `kan` | Retain the rule and examples unchanged |
+| MR-16 | G10-R4 | Native-speaker per-rule approval of the linker, conjunction, and preposition distinction, including prepositional `ku` | Retain the rule and examples unchanged |
 
 ## Scope resolutions
 
