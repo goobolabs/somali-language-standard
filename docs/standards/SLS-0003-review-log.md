@@ -19,14 +19,14 @@ evidenced.
 The comment period is open. It cannot close before 2026-09-06. No comment is
 `open`.
 
-**Maintainer review status:** in progress. The three question batches answered
-all twelve packet questions on 2026-08-30 and are recorded below as MR-1 through
-MR-12. The first ten per-rule batches approved G10-R1 through G10-R4,
-G11-R1 through G11-R5, G12-R1 through G12-R5, G13-R1 through G13-R6,
-G14-R1 through G14-R6, G15-R1 through G15-R5, and G16-R1 through G16-R5 as
-well as G17-R1 through G17-R3. They are recorded as MR-13 through MR-51.
-Thirty-nine of 42 per-rule verdicts are complete; three remain. The
-`Review → Candidate` gate in SLS-0000 R9 needs them finished and dispositioned.
+**Maintainer review status:** complete. The three question batches answered all
+twelve packet questions on 2026-08-30 and are recorded below as MR-1 through
+MR-12. Eleven per-rule batches approved all 42 rules and their displayed
+examples and are recorded as MR-13 through MR-54; the final batch was completed
+on 2026-08-31. The maintainer-review evidence needed for the later
+`Review → Candidate` gate is complete. SLS-0003 remains `Proposed` until its
+public-comment minimum ends and the separate `Proposed → Review` transition is
+recorded.
 The review is by the maintainer, who is a native speaker; it is not independent,
 and is labelled as such wherever it is cited. The reviewer-facing summary is
 [`SLS-0003-reviewer-packet.md`](SLS-0003-reviewer-packet.md); the role is
@@ -114,6 +114,9 @@ any lifecycle stage, `Stable` included.
 | MR-49 | 2026-08-30 | maintainer review (native speaker) — rule G17-R1 | "**1. G17-R1 — Agreement diagnostic**<br><br>* **Verdict:** Approve<br>* **Explanation:** The rule is correct. A diagnostic tool must check noun gender, verb agreement, and pronoun agreement together. It must also recognize valid reduced agreement patterns like *Nimankii baa yimid*. Flagging *Asli baa keenay* while allowing *Nimankii baa yimid* reflects standard Somali grammar rules accurately." | `accepted` | G17-R1 and its examples are approved as written. No normative change or version bump is required. |
 | MR-50 | 2026-08-30 | maintainer review (native speaker) — rule G17-R2 | "**2. G17-R2 — Focus diagnostic**<br><br>* **Verdict:** Approve<br>* **Explanation:** The rule is correct. Focus particles and subject clitics must match the subject in person, number, and gender. Writing *Wiilkii moos baa cunay* changes the subject to the banana, and *Adigu moos baa cuntay* drops the required clitic *-ad*. A diagnostic tool should flag these clear focus errors." | `accepted` | G17-R2 and its examples are approved as written. No normative change or version bump is required. |
 | MR-51 | 2026-08-30 | maintainer review (native speaker) — rule G17-R3 | "**3. G17-R3 — Preposition diagnostic**<br><br>* **Verdict:** Approve<br>* **Explanation:** The rule is correct. Verbs that select specific prepositions, such as *fariistay* needing *ku*, must retain those prepositions. Restricting this check to reviewed lexical data prevents false errors on verbs that do not require prepositions." | `accepted` | G17-R3 and its examples are approved as written. No normative change or version bump is required. |
+| MR-52 | 2026-08-31 | maintainer review (native speaker) — rule G17-R4 | "**1. G17-R4 — Verbal-group diagnostic**<br><br>* **Verdict:** Approve<br>* **Explanation:** The rule is correct. Focus clitics in a *waa* construction must stay right next to the verb. Inserting a noun like *Axmed* between *wuu* and the verb *dilay* breaks the verbal group. A diagnostic tool must flag this error while allowing flexible word order outside the verbal group." | `accepted` | G17-R4 and its examples are approved as written. No normative change or version bump is required. |
+| MR-53 | 2026-08-31 | maintainer review (native speaker) — rule G17-R5 | "**2. G17-R5 — Modifier-linking diagnostic**<br><br>* **Verdict:** Approve<br>* **Explanation:** The rule is correct. When two modifiers follow a noun, you must place the particle *ee* before the second modifier. Leaving out *ee* in *dukaanka dharka Cali* breaks the connection between the words. A checker should flag this missing linker." | `accepted` | G17-R5 and its examples are approved as written. No normative change or version bump is required. |
+| MR-54 | 2026-08-31 | maintainer review (native speaker) — rule G17-R6 | "**3. G17-R6 — Negative-question diagnostic**<br><br>* **Verdict:** Approve<br>* **Explanation:** The rule is correct. Somali does not allow placing the question word *ma* and the negative word *ma* side by side. They must fuse into a single word or sit in separate positions in the sentence. A checker must distinguish between the two uses of *ma* and flag direct doubling like *ma ma*." | `accepted` | G17-R6 and its examples are approved as written. No normative change or version bump is required. |
 
 ## Transition record
 

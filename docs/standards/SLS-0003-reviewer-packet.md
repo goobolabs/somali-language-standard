@@ -29,11 +29,9 @@ reported error for every user of every tool that adopts it.
 You do not have to do all 42. A verdict on the [priority questions](#priority-questions)
 alone is a complete, citable review.
 
-**Per-rule progress:** 39 of 42 rules have maintainer native-speaker verdicts:
-G10-R1 through G10-R4, G11-R1 through G11-R5, G12-R1 through G12-R5,
-G13-R1 through G13-R6, G14-R1 through G14-R6, G15-R1 through G15-R5, and
-G16-R1 through G16-R5, as well as G17-R1 through G17-R3, were approved on
-2026-08-30 as MR-13 through MR-51.
+**Per-rule progress:** complete. All 42 rules have maintainer native-speaker
+verdicts. MR-13 through MR-51 were recorded on 2026-08-30; MR-52 through MR-54
+completed the pass on 2026-08-31.
 
 ## Conventions used below
 
@@ -122,9 +120,9 @@ G16-R1 through G16-R5, as well as G17-R1 through G17-R3, were approved on
 | **G17-R1** | An agreement diagnostic MUST enforce G11-R1, G12-R1, and G13-R1 in reviewed constructions; it MUST NOT diagnose an unreviewed reduced-agreement environment. | Deeradu biyo bay cabtay.<br>Asli baa keentay.<br>Faadumo ayaan la hadlay. = Iyada ayaan la hadlay.<br>Nimankii baa yimid. | \*Deeradu biyo buu cabbay.<br>\*Asli baa keenay.<br>Faadumo ayaan la hadlay. = Isaga ayaan la hadlay. | **OK — MR-49** |
 | **G17-R2** | A focus diagnostic MUST enforce G13-R3, G14-R3, and G14-R4, including the required subject clitic and its person, number, and gender features. | Wiilkii moos buu cunay.<br>Adigu moos baad cuntay. | \*Wiilkii moos baa cunay.<br>\*Adigu moos baa cuntay. | **OK — MR-50** |
 | **G17-R3** | A checker applying the preposition diagnostic MUST enforce G14-R2 only for predicates and relations in its reviewed lexical data. | Mire baa ku fariistay kursiga. | \*Mire baa fariistay kursiga. | **OK — MR-51** |
-| **G17-R4** | A checker applying the verbal-group diagnostic MUST enforce G14-R5 without treating every word order not shown there as an error. | Cali Axmed wuu dilay. | \*Cali wuu Axmed dilay. |  |
-| **G17-R5** | A checker applying the modifier-linking diagnostic MUST enforce G14-R6 in the documented two-modifier construction. | dukaanka dharka ee Cali | \*dukaanka dharka Cali |  |
-| **G17-R6** | A checker applying the negative-question diagnostic MUST enforce G15-R5 and MUST distinguish interrogative `ma` from negative `ma` before reporting duplication. | Ma Axmed baan hilibka cunin? | \*Axmed ma ma imanayo? |  |
+| **G17-R4** | A checker applying the verbal-group diagnostic MUST enforce G14-R5 without treating every word order not shown there as an error. | Cali Axmed wuu dilay. | \*Cali wuu Axmed dilay. | **OK — MR-52** |
+| **G17-R5** | A checker applying the modifier-linking diagnostic MUST enforce G14-R6 in the documented two-modifier construction. | dukaanka dharka ee Cali | \*dukaanka dharka Cali | **OK — MR-53** |
+| **G17-R6** | A checker applying the negative-question diagnostic MUST enforce G15-R5 and MUST distinguish interrogative `ma` from negative `ma` before reporting duplication. | Ma Axmed baan hilibka cunin? | \*Axmed ma ma imanayo? | **OK — MR-54** |
 ## Priority questions
 
 These twelve are where a native-speaker judgment actually changes the

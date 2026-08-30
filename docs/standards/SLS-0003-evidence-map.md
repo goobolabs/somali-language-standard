@@ -167,6 +167,9 @@ reviewer's complete wording and each written disposition are preserved in the
 | MR-49 | G17-R1 | Native-speaker per-rule approval of the bounded agreement diagnostic, including accepted reduced agreement in `Nimankii baa yimid` | Retain the rule and examples unchanged |
 | MR-50 | G17-R2 | Native-speaker per-rule approval of focus and subject-clitic diagnostics for `buu` and `baad` | Retain the rule and examples unchanged |
 | MR-51 | G17-R3 | Native-speaker per-rule approval of selected-preposition diagnostics limited to reviewed lexical data | Retain the rule and examples unchanged |
+| MR-52 | G17-R4 | Native-speaker per-rule approval of the bounded verbal-group diagnostic and flexible order outside that group | Retain the rule and examples unchanged |
+| MR-53 | G17-R5 | Native-speaker per-rule approval of the missing-`ee` diagnostic in the documented two-modifier construction | Retain the rule and examples unchanged |
+| MR-54 | G17-R6 | Native-speaker per-rule approval of distinguishing interrogative and negative `ma` before diagnosing direct `ma ma` doubling | Retain the rule and examples unchanged |
 
 ## Scope resolutions
 

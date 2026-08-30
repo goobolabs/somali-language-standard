@@ -133,7 +133,7 @@ advanced a lifecycle stage.
 | SLS-0000 | `Review` | A recorded maintainer review before `Candidate` |
 | SLS-0001 | `Review` | A recorded maintainer review before `Candidate` |
 | SLS-0002 | `Proposed` | Comment minimum, earliest close 2026-09-06 |
-| SLS-0003 | `Proposed` | Comment minimum; no `open` item; twelve priority questions and 39 of 42 per-rule verdicts complete; three rule verdicts remain for `Candidate` |
+| SLS-0003 | `Proposed` | Comment minimum only; no `open` item; twelve priority questions and all 42 per-rule verdicts complete; review evidence ready for the later `Candidate` gate |
 | SLS-0004 | `Proposed` | Comment minimum; M-2 resolved in 0.2.0, no `open` item |
 | SLS-0005 | `Proposed` | Comment minimum |
 
@@ -144,6 +144,7 @@ Milestone 2 gate is calendar time.
 
 The versioned content, evidence, registry, and `Proposed` transition package
 required for Roadmap Milestone 2 are complete, and the package is publicly
-available for formal comment in PR #7. Implementation Phases 2 and 3 remain
-open for their stricter elapsed-time and reviewer criteria; this record is the
-checklist for closing those gates without overstating their status.
+available for formal comment in PR #7. Phase 3's maintainer-review criterion is
+complete. The remaining lifecycle gate for the `Proposed` standards is the
+comment minimum ending 2026-09-06; this record remains the checklist for
+closing that gate without overstating lifecycle status.
