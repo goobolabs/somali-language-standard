@@ -2,7 +2,7 @@
   "id": "SLS-0003",
   "title": "Somali Grammar Standard",
   "category": "foundation",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "status": "proposed",
   "owner": "maintainers",
   "reviewers": [],
@@ -51,6 +51,11 @@
       "version": "0.3.0",
       "date": "2026-08-30",
       "change": "Maintainer native-speaker review, second batch: G11-R3 separates lexically recorded plural forms from G11-R5's regular plural-gender polarity; G11-R4 distinguishes a direct mass reading from contextual unit ellipsis and recommends an explicit formal measure; G16-R2 fixes the licensed nominal-predicate positions of miyaa; G16-R4 inherits definite-article allomorphy. MAJOR by SLS-0000 R11 (MUST-level requirements were sharpened), taken on the minor position because the standard is pre-1.0"
+    },
+    {
+      "version": "0.4.0",
+      "date": "2026-08-30",
+      "change": "Maintainer native-speaker review, third batch: G13-R4 distinguishes overt iyaga from a recoverable singular third-person zero object; G10-R1's nine classes and tifaftire grouping are confirmed; G17-R1 and G17-R2 add bounded verb, pronoun, and subject-clitic diagnostics while preserving reduced agreement in plural focus and relative clauses; SLS-0003 explicitly targets Standard Somali and returns not covered for identified regional profiles. MAJOR by SLS-0000 R11 (MUST-level requirements were sharpened), taken on the minor position because the standard is pre-1.0"
     }
   ]
 }

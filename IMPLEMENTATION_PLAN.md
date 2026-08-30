@@ -146,9 +146,9 @@ topic documents and the wrapper are drafted, and SLS-0003 is at `Proposed`.
 [`docs/standards/SLS-0003-reviewer-packet.md`](docs/standards/SLS-0003-reviewer-packet.md)
 puts all 42 rules, their examples, and twelve priority questions on one page,
 which is the working surface for that review and for any outside report. The
-first two review batches answered Q1–Q8 on 2026-08-30; Q9–Q12 and the per-rule
-verdicts remain. The recurring-independent-reviewer gate that previously sat
-here was removed with the 2026-08-30 governance change (`SLS-0000` 0.2.0).
+three review batches answered Q1–Q12 on 2026-08-30; only the per-rule verdicts
+remain. The recurring-independent-reviewer gate that previously sat here was
+removed with the 2026-08-30 governance change (`SLS-0000` 0.2.0).
 
 **Objective:** The core grammar layer (SLS-0003): parts of speech, noun
 morphology, verb system, pronouns, sentence structure, negation, questions,

@@ -65,6 +65,15 @@ releases, schema versions, and per-standard versions relate.
 
 ### Changed
 
+- **SLS-0003 → `0.4.0`, third batch of the maintainer native-speaker review.**
+  G13-R4 now distinguishes overt `iyaga` from a recoverable singular
+  third-person zero object. G10-R1's nine primary classes and the `tifaftire`
+  subcategory are confirmed. G17-R1 and G17-R2 add bounded verb, pronoun, and
+  subject-clitic diagnostics while preventing false errors for reduced
+  agreement in plural subject focus and unreviewed relative clauses. The
+  wrapper now names Standard Somali (`Aqoondhari` / `Soomaali Maxaa tiri`) as
+  its target and returns `not covered` for identified Benaadir, Maay, and other
+  regional profiles. Recorded as MR-9 through MR-12 in the review log.
 - **SLS-0003 → `0.3.0`, second batch of the maintainer native-speaker
   review.** G11-R3 now requires each noun's plural form to be recorded rather
   than predicted from its singular, while G11-R5 separately enforces regular

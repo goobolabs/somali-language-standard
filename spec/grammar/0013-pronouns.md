@@ -34,7 +34,11 @@ exclusive meaning where those distinctions are expressed.
 - **G13-R4.** A first- or second-person object licensed by the verb or
   preposition MUST be represented by the required object clitic; it MUST NOT
   be omitted as though it had the ordinary zero form available to many
-  third-person objects.
+  third-person objects. An overt object noun or independent third-person
+  pronoun MUST be preserved when it supplies plurality or prevents ambiguity.
+  When no explicit object noun, first- or second-person form, or independent
+  object pronoun is present, a recoverable singular third-person object MAY
+  have zero realization.
 - **G13-R5.** `is` MUST be interpreted as reflexive or reciprocal according to
   the clause participants and context; `la` MUST NOT replace it when the
   intended meaning is reflexive or reciprocal.
@@ -55,6 +59,8 @@ exclusive meaning where those distinctions are expressed.
 | \*Adigu moos baa cuntay. | `[G13-R3 −]` you.SG banana FOC.3SG ate | Ungrammatical: the second-person subject clitic is missing. |
 | Cali baa adiga kuu soo ordayay. | `[G13-R4 +]` Cali FOC you to.2SG toward ran.PROG | Correct second-person object clitic with *u*. |
 | \*Cali baa adiga u soo ordayay. | `[G13-R4 −]` Cali FOC you to toward ran.PROG | Ungrammatical in the reviewed construction: the object clitic is omitted. |
+| Cali baa iyaga u yeeray. | `[G13-R4 +]` Cali FOC them to called | The overt third-person plural object prevents ambiguity. |
+| Cali baa u yeeray. | `[G13-R4 +]` Cali FOC to called | Correct zero realization of a recoverable singular third-person object. |
 | Ninku wuu is dhaawacay. | `[G13-R5 +]` man-DEF 3SG.M REFL injured | The man injured himself. |
 | Carruurtii way is arkeen. | `[G13-R5 +]` children-DEF 3PL RECIP saw | The children saw one another. |
 | Ninku waa la dhaawacay. | `[G13-R5 −]` man-DEF IMPERS injured | Grammatical with a passive-like reading, but incorrect for the intended reflexive reading. |
@@ -73,6 +79,11 @@ exclusive meaning where those distinctions are expressed.
   `annaga` in casual text as an error on the strength of the form alone.
 - The interpretation of `is` can be ambiguous with plural subjects. Context
   determines reflexive versus reciprocal meaning.
+- For G13-R4, an explicit object noun, visible first- and second-person forms
+  such as `i`, `ku`, `na`, and `idin`, or an independent pronoun such as
+  `iyaga`, block the default singular third-person zero analysis. Without those
+  cues, `Cali baa u yeeray` can carry the reviewed zero-object reading
+  (maintainer native-speaker review, 2026-08-30).
 
 ## Related
 

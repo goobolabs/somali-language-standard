@@ -24,13 +24,18 @@ specification.
 
 ## Rule
 
-- **G17-R1.** A checker applying the gender diagnostic MUST enforce
-  [G11-R1](0011-noun-morphology-gender-plurals.md) and MUST NOT infer agreement
-  from the referent alone.
+- **G17-R1.** A checker applying the agreement diagnostic MUST enforce
+  [G11-R1](0011-noun-morphology-gender-plurals.md),
+  [G12-R1](0012-verb-system-tense-aspect-mood.md), and
+  [G13-R1](0013-pronouns.md) in their reviewed constructions. It MUST NOT infer
+  agreement from the referent alone or diagnose a construction whose reduced
+  agreement pattern has not been reviewed.
 - **G17-R2.** A checker applying the focus diagnostic MUST enforce
+  [G13-R3](0013-pronouns.md),
   [G14-R3](0014-sentence-structure-word-order.md) and
   [G14-R4](0014-sentence-structure-word-order.md), including the required
-  subject clitic in the documented non-subject-focus environment.
+  subject clitic and its person, number, and gender features in the documented
+  focus environments.
 - **G17-R3.** A checker applying the preposition diagnostic MUST enforce
   [G14-R2](0014-sentence-structure-word-order.md) only for predicates and
   relations in its reviewed lexical data.
@@ -50,8 +55,15 @@ specification.
 |---|---|---|
 | Deeradu biyo bay cabtay. | `[G17-R1 +]` gazelle-DEF.F water FOC.3SG.F drank.F | Correct agreement. |
 | \*Deeradu biyo buu cabbay. | `[G17-R1 −]` gazelle-DEF.F water FOC.3SG.M drank.M | Diagnose gender agreement, not natural sex. |
+| Asli baa keentay. | `[G17-R1 +]` Asli FOC brought.3SG.F | Correct feminine verb agreement. |
+| \*Asli baa keenay. | `[G17-R1 −]` Asli FOC brought.3SG.M | Diagnose the masculine verb form in the reviewed feminine-subject construction. |
+| Faadumo ayaan la hadlay. = Iyada ayaan la hadlay. | `[G17-R1 +]` Faadumo FOC.1SG with spoke = she FOC.1SG with spoke | Correct independent-pronoun agreement. |
+| Faadumo ayaan la hadlay. = Isaga ayaan la hadlay. | `[G17-R1 −]` Faadumo FOC.1SG with spoke = he FOC.1SG with spoke | Diagnose the pronoun mismatch for the intended reference to Faadumo. |
+| Nimankii baa yimid. | `[G17-R1 +]` men-DEF FOC came.3SG | Correct reduced agreement with a focused plural subject. |
 | Wiilkii moos buu cunay. | `[G17-R2 +]` boy-DEF banana FOC.3SG.M ate | Correct object focus with subject clitic. |
 | \*Wiilkii moos baa cunay. | `[G17-R2 −]` boy-DEF banana FOC ate | Diagnose the missing subject clitic. |
+| Adigu moos baad cuntay. | `[G17-R2 +]` you.SG banana FOC.2SG ate | Correct second-person subject-clitic agreement. |
+| \*Adigu moos baa cuntay. | `[G17-R2 −]` you.SG banana FOC ate | Diagnose bare `baa` where the reviewed construction requires `baad`. |
 | Mire baa ku fariistay kursiga. | `[G17-R3 +]` Mire FOC PREP sat chair-DEF | Correct selected preposition. |
 | \*Mire baa fariistay kursiga. | `[G17-R3 −]` Mire FOC sat chair-DEF | Diagnose omission only because this lexical construction is reviewed. |
 | Cali Axmed wuu dilay. | `[G17-R4 +]` Cali Axmed 3SG.M killed | Correct reviewed verbal group. |
@@ -68,6 +80,10 @@ specification.
 - Variation, an unattested lexical item, or an unreviewed paradigm is not
   automatically an error. A validator should return “not covered” when its
   evidence is insufficient.
+- `Nimankii baa yimid` MUST NOT be flagged merely because its focused plural
+  subject occurs with reduced singular agreement. Subject relative clauses can
+  also neutralize gender or number marking; without a reviewed relative-clause
+  profile, an apparent mismatch is `not covered`.
 - Error messages should name the violated rule and the relevant feature rather
   than silently rewriting the user's text.
 

@@ -66,7 +66,9 @@ appears in `resources/`.
 
 The first Draft retains the nine-class school-grammar inventory. Alternative
 linguistic taxonomies may be documented, but implementations of this version
-use the maintained labels for interoperability.
+use the maintained labels for interoperability. Maintainer native-speaker
+review confirms `tifaftire` as a determiner/quantifier subcategory inside the
+`tilmaame` modifier domain rather than a tenth primary class.
 
 ### G3 — Gender and agreement
 
@@ -101,7 +103,9 @@ definite-article allomorphy by the `-kee`/`-tee` interrogative series.
 
 Dialect forms and explicitly unresolved resource forms are neither corrected
 nor made errors. A negative example is normative only for the construction and
-reading stated in its rule.
+reading stated in its rule. This version targets Standard Somali
+(`Aqoondhari` / `Soomaali Maxaa tiri`); identified Benaadir, Maay, and other
+regional profiles return `not covered` pending dedicated SLS-0700 standards.
 
 ### G8 — Common mistakes
 
@@ -120,6 +124,10 @@ reviewer's complete wording and each written disposition are preserved in the
 | MR-6 / Q6 | G16-R2 | Native-speaker judgment on nominal-predicate `miyaa` placement | License post-subject and predicate-final `miyaa`; reject it clause-initially for this reading; license clause-initial `ma ... baa ... ah` |
 | MR-7 / Q7 | G16-R4 | Native-speaker judgment that interrogative and definite suffixes share gender classes and consonant changes without exception | Reuse definite-article allomorphy, including `-da → -dee` and `-sha → -shee` |
 | MR-8 / Q8 | G11-R4 | Native-speaker distinction between direct mass counting, contextual unit ellipsis, and formal measure phrases | Reject the direct mass reading; accept contextual unit ellipsis; prefer an explicit formal measure |
+| MR-9 / Q9 | G13-R4 | Native-speaker boundary between overt `iyaga` and a recoverable singular third-person zero object | Preserve an explicit object noun or independent pronoun when it supplies plurality or prevents ambiguity; license zero only without explicit object-noun, first/second-person, or independent-pronoun cues |
+| MR-10 / Q10 | G10-R1 | Native-speaker confirmation of the nine primary classes and traditional treatment of `tifaftire` | Retain the nine-class inventory and keep `tifaftire` within the modifier domain |
+| MR-11 / Q11 | G12-R1, G13-R1, G13-R3, G17-R1, G17-R2 | Native-speaker judgment that agreement errors are diagnosable, with reduced agreement under plural subject focus and in relative clauses | Expand agreement/focus diagnostics; accept `Nimankii baa yimid`; return `not covered` for unreviewed relative-clause patterns |
+| MR-12 / Q12 | SLS-0003 R3, R6 | Native-speaker identification of Benaadir and Maay false-positive risk | Declare the Standard-Somali target; return `not covered` for identified regional profiles and defer them to SLS-0700 |
 
 ## Scope resolutions
 
@@ -128,7 +136,7 @@ reviewer's complete wording and each written disposition are preserved in the
 | Does SLS-0003 standardize every paradigm in the books? | No. It standardizes reviewed forms/classes and prohibits unsupported generation. |
 | Are dialect differences errors? | No. They require scope labels and future SLS-0700 treatment. |
 | Does word order alone always identify subject and object? | No. Predicate meaning, case, agreement, focus particles, clitics, and order work together. |
-| Are all omitted third-person objects absent? | No. The reviewed analysis permits a zero third-person object interpreted from context. |
+| Are all omitted third-person objects absent? | No. `Cali baa u yeeray.` permits a recoverable singular third-person zero object; `Cali baa iyaga u yeeray.` overtly identifies a plural object. |
 | Are *baa* and *ayaa* universally interchangeable? | The maintained focus constructions treat their function together; no regional or universal distribution rule is invented. |
 | Does one negative suffix cover every tense and verb class? | No. The reviewed paradigm determines the negative form. |
 | Does one question strategy cover every question? | No. The Draft distinguishes yes/no, content, selection, and indirect patterns only where reviewed. |
