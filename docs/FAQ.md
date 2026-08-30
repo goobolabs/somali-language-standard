@@ -24,8 +24,9 @@ SLS is different in three ways:
 1. **Provenance over volume** — every record carries contributor, source,
    review status, and license. Smaller and trustworthy beats large and
    unverifiable.
-2. **Governance** — a Language Council and Domain Editors run an RFC-style
-   process, so "standard" means reviewed and ratified, not just published.
+2. **Governance** — an RFC-style lifecycle with public comment periods, a
+   written record for every decision, and an open correction channel, so
+   "standard" means reviewed, dated, and answerable, not just published.
 3. **A compliance surface** — numbered standards (`SLS-XXXX`) with versions
    and checklists, so adopters can make precise, falsifiable claims.
 
@@ -71,12 +72,13 @@ Through a staged, public lifecycle (defined in
 Draft → Proposed → Review → Candidate → Stable
 ```
 
-A proposal gets a public comment period, review by at least one
-native-speaker/linguist and one technical reviewer, then a "soak period" in
-which something real (a schema, a validator, a dataset) must actually
-implement it. Only then can the Language Council ratify it as `Stable` by
-majority vote. Nothing becomes `Stable` while its dependencies are still
-unstable.
+A proposal gets a ≥14-day public comment period, then a recorded maintainer
+review in which every finding is dispositioned, then a "soak period" in which
+something real (a schema, a validator, a dataset) must actually implement it,
+then a second ≥14-day comment period before it can be ratified `Stable`.
+Nothing becomes `Stable` while its dependencies are still unstable. And nothing
+is final: anyone can report an error against a `Stable` standard, and a
+confirmed one that invalidates a requirement returns it to `Review`.
 
 ## Which dialect does SLS describe?
 

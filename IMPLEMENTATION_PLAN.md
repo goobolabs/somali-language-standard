@@ -141,14 +141,13 @@ public review in [pull request #7](https://github.com/goobolabs/somali-language-
 on 2026-08-23; comments are filed on
 [issue #11](https://github.com/goobolabs/somali-language-standard/issues/11) and
 recorded in [`docs/standards/SLS-0003-review-log.md`](docs/standards/SLS-0003-review-log.md).
-Recurring linguist reviewer engagement is the **only** completion criterion
-still open: the eight topic documents and the wrapper are drafted, and SLS-0003
-is at `Proposed`. To make that gate reachable,
-[`docs/REVIEWERS.md`](docs/REVIEWERS.md) defines the role and
+The maintainer review is the **only** completion criterion still open: the eight
+topic documents and the wrapper are drafted, and SLS-0003 is at `Proposed`.
 [`docs/standards/SLS-0003-reviewer-packet.md`](docs/standards/SLS-0003-reviewer-packet.md)
 puts all 42 rules, their examples, and twelve priority questions on one page,
-so a reviewer never has to read the repository. Recruitment runs on calendar
-time and does not block Phase 4.
+which is the working surface for that review and for any outside report. The
+recurring-independent-reviewer gate that previously sat here was removed with the
+2026-08-30 governance change (`SLS-0000` 0.2.0).
 
 **Objective:** The core grammar layer (SLS-0003): parts of speech, noun
 morphology, verb system, pronouns, sentence structure, negation, questions,
@@ -163,7 +162,11 @@ common mistakes.
 - [x] Gloss-table examples (Somali | Gloss | English) for every rule
 
 **Completion criteria:** all eight grammar documents drafted and SLS-0003 at
-`Proposed`; at least one linguist reviewer engaged as a recurring reviewer.
+`Proposed`; a maintainer native-speaker review recorded in
+[`docs/standards/SLS-0003-review-log.md`](docs/standards/SLS-0003-review-log.md)
+covering every topic document, with every finding carrying a disposition and a
+written resolution. Independent review is welcome but is not a gate
+(`SLS-0000` R9); the correction channel (R17) stays open permanently.
 
 **Dependencies:** Phases 1–2 (SLS-0003 depends on SLS-0001, SLS-0002).
 
@@ -211,8 +214,8 @@ entry → schema validation → review gate → merge.
       (definitions, POS, gender, plurals, loanword flags, provenance)
 - [ ] Loanword and morphology file skeletons per the architecture tree
 - [ ] SLS-0100 (Dictionary Standard) drafted
-- [ ] Reviewer workflow exercised: every entry has one linguist + one
-      technical review on record
+- [ ] Review workflow exercised: every entry has a maintainer review on record
+      and passes CI
 
 **Completion criteria:** ≥500 entries merged and schema-valid; zero entries
 without complete provenance; `sls:lex:` ID sequence clean (no gaps created by
@@ -232,11 +235,12 @@ highest-leverage layer of SLS.
 
 - [ ] Pilot domains populated: `artificial-intelligence.jsonl` and
       `computer-science.jsonl` (≥100 terms each, `coinage_type` recorded)
-- [ ] Domain Editors recruited for both pilot domains
+- [ ] Domain Editors recruited for both pilot domains *(optional — domains
+      without an editor are maintained by the maintainers)*
 - [ ] Terminology-proposal issue template exercised by real external
       contributors
 - [ ] First batch of terms promoted `proposed → discussed → standard` by
-      Domain Editor sign-off
+      recorded maintainer decision (or Domain Editor sign-off where one exists)
 - [ ] Remaining 18 domain files created from `_template.jsonl` (may be empty)
 
 **Completion criteria:** at least 25 terms at `status: standard` across the
@@ -277,7 +281,7 @@ hard firewall against training-data contamination.
 
 **Deliverables**
 
-- [ ] `benchmarks/SCORING.md` — methodology ratified by the Council
+- [ ] `benchmarks/SCORING.md` — methodology recorded as a maintainer decision
       (including the public-dev vs. held-out-test policy decision)
 - [ ] Grammar, spelling, and translation eval suites (v1) in the
       benchmark-item schema
@@ -324,8 +328,8 @@ firewall requires Phase 8).
 
 **Deliverables**
 
-- [ ] Language Council formally constituted (3–7 named members) and core
-      standards (SLS-0001, 0002, 0003) ratified `Stable`
+- [ ] Core standards (SLS-0001, 0002, 0003) ratified `Stable`: soak period
+      served, second comment period closed cleanly, dependencies `Stable`
 - [ ] Release tooling: dataset compiler, `manifest.json` with checksums,
       `standards-manifest.json`
 - [ ] `release.yml` implemented: tag-triggered bundle build + GitHub Release
@@ -335,7 +339,7 @@ firewall requires Phase 8).
       SLS as its Somali reference)
 
 **Completion criteria:** `v1.0.0` tagged; every `Stable` standard's
-dependency chain fully `Stable` (or Council-waived with rationale); release
+dependency chain fully `Stable` (or waived with a recorded rationale); release
 bundle downloadable and loadable with standard tooling; compliance claims
 against SLS-0001/0002/0003 possible per the ARCHITECTURE.md §29 model.
 

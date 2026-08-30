@@ -2,8 +2,9 @@
 
 Copy this file to `docs/standards/SLS-NNNN-review-log.md` when a standard
 enters `Proposed`. One log per standard; it is the written record required by
-[`SLS-0000`](../../standards/SLS-0000-standards-process.md) R9 before a
-`Proposed → Review` transition can be recorded.
+[`SLS-0000`](../../standards/SLS-0000-standards-process.md) R17 (every
+substantive error report gets a disposition and a written resolution) and R18
+(every lifecycle transition records its date, approver, and gate evidence).
 
 - **Standard:** SLS-NNNN <title>
 - **Status:** Proposed
@@ -39,4 +40,4 @@ with a disposition; nothing is closed silently.
 
 | Transition | Date | Approver | Gate evidence |
 | --- | --- | --- | --- |
-| Draft → Proposed | YYYY-MM-DD | <approver> | <link> |
+| Draft → Proposed | YYYY-MM-DD | Maintainer | <link> |

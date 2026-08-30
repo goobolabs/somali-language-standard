@@ -1,117 +1,126 @@
-# Reviewers
+# Review and corrections
 
-SLS standards cannot advance on maintainer effort alone. Two independent
-reviewers are required before any standard reaches `Candidate`, and the roles
-are deliberately different people:
+How an SLS standard gets checked, who checks it, and how anyone can correct it.
 
-1. **Native-speaker / linguist reviewer** — is the content correct Somali?
-2. **Technical reviewer** — does it conform to the schemas, identifiers, and
-   formats?
+SLS uses a **maintainer-steward model**: the maintainers review content and
+approve lifecycle transitions, and correctness is defended after publication by
+an open correction channel rather than before publication by appointed
+gatekeepers. The authority for this is [`GOVERNANCE.md`](../GOVERNANCE.md); the
+normative rules are
+[`SLS-0000`](../standards/SLS-0000-standards-process.md) R9, R17, and R18.
 
-This page describes what each role involves, what it does not, and how a
-review is recorded. Governance authority for the roles is defined in
-[`GOVERNANCE.md`](../GOVERNANCE.md); the lifecycle gates they satisfy are in
-[`standards/SLS-0000-standards-process.md`](../standards/SLS-0000-standards-process.md)
-R9.
+This is a deliberate simplification of an earlier model that required an
+independent linguist reviewer and an independent technical reviewer before
+anything could advance. Those people did not exist, and a rule nobody can follow
+is worse than a modest one that everybody can.
 
-## Open positions
+## What this means for a reader of the standards
 
-| Standard | Needs | Status |
-| --- | --- | --- |
-| SLS-0001 Alphabet | linguist + technical | unfilled — blocks `Proposed → Review` |
-| SLS-0002 Orthography | linguist + technical | unfilled |
-| SLS-0003 Grammar | **recurring** linguist + technical | unfilled — blocks Implementation Phase 3 |
-| SLS-0004 Punctuation | linguist + technical | unfilled |
-| SLS-0005 Capitalization | linguist + technical | unfilled; a Somali-primary capitalization source is the top need |
+A `Stable` SLS standard is **not** a claim that a panel of experts signed it off.
+It is a narrower claim, and one the project can actually back:
 
-To volunteer, comment on
-[the call for reviewers](https://github.com/goobolabs/somali-language-standard/issues/16)
-or on the standard's own public-comment issue (linked from
-[`docs/standards/MILESTONE-2-READINESS.md`](standards/MILESTONE-2-READINESS.md)).
-No application, interview, or organizational affiliation is required.
+- every rule traces to cited evidence in an evidence map;
+- every objection raised so far has a written answer in a review log;
+- any new objection will get one, at any stage, including `Stable`.
 
-## Native-speaker / linguist reviewer
+If you need an independent-review signal before adopting SLS, that signal is not
+there yet — read the evidence maps and the review logs and judge for yourself.
+Everything needed to do that is in the repository.
 
-**You judge:** whether each numbered rule states correct Somali; whether the
-examples are natural; and — most valuable — whether a rule that is right about
-its example is stated so broadly that it would flag correct Somali as an error.
+## Reporting an error
 
-**You do not need to:** use git, read JSON, run tooling, or review anything
-outside the standard you accepted. Answers in Somali are welcome.
+Reporting one is a contribution. It needs no git, no JSON, and no pull request.
 
-**What it takes:** the first pass is a reviewer packet — every rule in one
-page with its examples and a verdict column. For SLS-0003 that is
-[`SLS-0003-reviewer-packet.md`](standards/SLS-0003-reviewer-packet.md),
-roughly one to two hours, and a partial answer still counts. After that, you
-are notified only when the standard you signed up for changes.
+1. **Open an issue** naming the standard and the requirement — for example
+   "SLS-0003 G14-R4" — or comment on that standard's public-comment issue. The
+   venues are listed in
+   [`MILESTONE-2-READINESS.md`](standards/MILESTONE-2-READINESS.md).
+2. **Say what is wrong.** The most valuable report is not "this rule is
+   incorrect" but "this rule is right about its own example and wrong in
+   general". These standards drive spellcheckers and grammar checkers: a rule
+   stated too broadly turns correct Somali into a reported error for every user
+   of every tool that adopts it.
+3. **Name your evidence** where you can — attested usage, a dialect, a published
+   grammar, a corpus. Rules change on evidence, including against the
+   maintainers' own drafts. Where the evidence genuinely conflicts, SLS records
+   the conflict and returns `not covered` rather than inventing a rule.
 
-**Verdicts** are `OK`, `Narrow` (right here, stated too broadly), `Wrong`, or
-`Unsure`. `Narrow` and `Unsure` are as useful as `Wrong`: SLS refuses to
-standardize what its evidence does not support, and `not covered` is always a
-valid outcome.
+Somali or English, whichever is easier.
 
-## Recurring reviewer
+### The four verdicts
 
-A **recurring** reviewer is a linguist reviewer who agrees to stay available
-for one domain rather than a single document — the gate Implementation
-Phase 3 requires for Somali grammar. In practice:
+When judging a specific rule, these labels carry the most information:
 
-- you are asked to look at changes in that domain when they are proposed,
-  typically a few times a release cycle;
-- you are not on call, not expected to respond within a fixed time, and not
-  responsible for keeping the standard current;
-- you can step down at any time by saying so in an issue; the roster below is
-  updated and no explanation is required.
+| Verdict | Meaning |
+| --- | --- |
+| **OK** | The rule is right and the examples are natural Somali. |
+| **Narrow** | Right in the example, but stated too broadly — it would flag correct Somali. |
+| **Wrong** | The rule or its example is not correct Somali. |
+| **Unsure** | Genuinely variable, dialectal, or you would want a second opinion. |
 
-## Technical reviewer
+`Narrow` and `Unsure` are as useful as `Wrong`. SLS refuses to standardize what
+its evidence does not support, so "this is real variation" is an outcome the
+process wants to hear, not an inconvenience.
 
-**You judge:** conformance to the formal template and the standards process —
-required front-matter fields, numbered RFC 2119 requirements, compliance rows
-that trace to real rules, registry and `meta/` agreement, `implements` paths
-that resolve, and an acyclic dependency graph. For data records, schema
-validity, identifier discipline (`sls:*` identifiers are permanent and never
-reused), and complete provenance.
+## How a report is handled
 
-Familiarity with JSON Schema and GitHub is enough; no Somali is required.
+Per `SLS-0000` R17, a substantive report **must** be recorded in that standard's
+review log (`docs/standards/SLS-XXXX-review-log.md`) with a disposition and a
+written resolution, and must not be closed without one:
 
-## How a review is recorded
+| Disposition | Meaning |
+| --- | --- |
+| `accepted` | The change was made in the standard. |
+| `accepted-editorial` | Applied as a PATCH-level fix with no normative effect. |
+| `deferred` | Valid, but assigned to a later standard or version; the target is named. |
+| `declined` | Not adopted; the recorded reason states why. |
+| `open` | Under discussion; blocks the `Proposed → Review` transition. |
 
-Nothing is counted unless it is written down:
+A confirmed error that invalidates a MUST-level requirement produces a corrected
+version, or returns the standard to `Review`. A declined report keeps its reason
+on the record, so a later reader can disagree with the reasoning rather than
+guess at it.
 
-1. Your comments are copied into the standard's review log
-   (`docs/standards/SLS-XXXX-review-log.md`) with a disposition — `accepted`,
-   `accepted-editorial`, `deferred`, `declined`, or `open` — and a written
-   resolution. A comment marked `open` blocks the `Proposed → Review`
-   transition.
-2. When you accept a reviewer role, your name or handle — your choice — is
-   added to the `reviewers` array in `standards/meta/SLS-XXXX.json` and to the
-   standard's front matter, and to the roster below.
-3. Reviewer approval is the gate for `Review → Candidate`, and is recorded in
-   the review log's transition table with the date.
+You are credited by the name or handle you choose, and you can ask to be left
+uncredited.
 
-Disagreements escalate the way everything else does: to the Domain Editor,
-then to the Language Council, per [`GOVERNANCE.md`](../GOVERNANCE.md). A
-reviewer who does not want a rule adopted is not overruled silently — the
-objection is recorded with its resolution, or the rule stays `open`.
+## Reviewing a whole standard
+
+To go through an entire standard rather than a single rule, there is a packet for
+that: every rule with its conforming and non-conforming examples in one table,
+plus the questions that most need a native-speaker judgment. The first one is
+[`SLS-0003-reviewer-packet.md`](standards/SLS-0003-reviewer-packet.md) — roughly
+one to two hours, and a partial answer still counts.
+
+## Maintainer review
+
+Every content pull request gets one maintainer review — content correctness and
+schema conformance — plus passing CI. Lifecycle transitions are approved by a
+maintainer and recorded in the standard's review log with date, approver, and the
+evidence satisfying the gate (`SLS-0000` R18).
+
+A maintainer review of the maintainers' own draft is not independent, and the
+review logs label it as what it is — `maintainer audit`, `maintainer review` —
+never dressed up as third-party validation. Where a maintainer is party to a
+disagreement, both sides are recorded verbatim.
+
+## Independent reviewers, if they turn up
+
+Nothing in the process requires them, and no standard's progress waits on
+recruitment. But an independent review is still worth more than a maintainer's,
+and anyone offering one is welcome: say so on the
+[call for reviewers](https://github.com/goobolabs/somali-language-standard/issues/16)
+or on any standard's comment issue. An independent review is recorded as such,
+with the reviewer named in that standard's `reviewers` metadata, so a later
+reader can see which standards have had outside eyes and which have not.
+
+If enough reviewers accumulate to justify a Language Council or per-domain
+editors, those are established through the ordinary change process
+([`GOVERNANCE.md`](../GOVERNANCE.md)). Neither is promised on a schedule.
 
 ## Attribution and licensing
 
-Reviews happen in public issues and pull requests. Linguistic content in this
-repository is licensed CC BY 4.0 and tooling MIT, as described in
+Reviews and error reports happen in public issues and pull requests. Linguistic
+content in this repository is licensed CC BY 4.0 and tooling MIT, as described in
 [`CONTRIBUTING.md`](../CONTRIBUTING.md); by commenting you agree your
-contribution may be incorporated under those terms. You are credited by the
-name or handle you choose, and you may ask to be removed from the roster at
-any time.
-
-Being listed as a reviewer is not an endorsement of the whole repository, and
-it does not make you responsible for what the Council later ratifies.
-
-## Roster
-
-| Standard | Linguist reviewer | Technical reviewer | Since |
-| --- | --- | --- | --- |
-| — | *(none yet)* | *(none yet)* | — |
-
-The Language Council itself is not yet constituted; the founding maintainer
-acts as interim Council until v1.0, as recorded in
-[`GOVERNANCE.md`](../GOVERNANCE.md).
+contribution may be incorporated under those terms.

@@ -76,18 +76,39 @@ docs/<short-desc>                     e.g. docs/faq-licensing
 
 ## Review process
 
-Every content PR requires at minimum:
-
-- **One native-speaker / linguist reviewer** — content correctness.
-- **One technical reviewer** — schema conformance, formatting, IDs.
+Every content PR requires **one maintainer review** — content correctness and
+schema conformance — plus passing CI. The reasoning behind the decision is
+recorded, not left implicit.
 
 Additionally:
 
-- Promoting a terminology entry to `status: standard` requires the relevant
-  **Domain Editor's** sign-off (or the Language Council where no editor
-  exists).
-- Changing a spec document's lifecycle status requires the approvals defined
-  in [GOVERNANCE.md](GOVERNANCE.md).
+- Promoting a terminology entry to `status: standard` is a maintainer decision,
+  recorded with its rationale.
+- Changing a spec document's lifecycle status requires the gates defined in
+  [GOVERNANCE.md](GOVERNANCE.md), and the transition is recorded in that
+  standard's review log.
+
+## Found an error?
+
+Reporting one is a contribution, and it does not require git, JSON, or a pull
+request. This is how SLS stays correct without a panel of appointed reviewers.
+
+1. Open an issue naming the standard and the requirement (for example
+   "SLS-0003 G14-R4"), or comment on that standard's public-comment issue.
+   The venues are listed in
+   [`docs/standards/MILESTONE-2-READINESS.md`](docs/standards/MILESTONE-2-READINESS.md).
+2. Say what is wrong. The most valuable report is that a rule is right about its
+   own example but stated too broadly — an over-broad rule turns correct Somali
+   into a reported error in every tool that adopts SLS.
+3. Name your evidence where you can: attested usage, a dialect, a published
+   grammar, a corpus. Rules change on evidence, including against the
+   maintainers' own drafts.
+
+Every substantive report is copied into that standard's review log with a
+disposition and a written resolution — including the reason when it is
+declined. Reports against `Stable` standards are welcome; no stage is beyond
+correction. See [`docs/REVIEWERS.md`](docs/REVIEWERS.md) for how review works
+end to end.
 
 ## Documentation standards
 
@@ -126,8 +147,9 @@ Additionally:
   (`00xx` orthography, `01xx` grammar, `03xx` style, `05xx` translation).
   Numbers are never reused.
 - Every spec document starts life as `status: Draft` and moves through the
-  lifecycle defined in [GOVERNANCE.md](GOVERNANCE.md). Only the Language
-  Council can ratify a document as `Stable`.
+  lifecycle defined in [GOVERNANCE.md](GOVERNANCE.md). A document reaches
+  `Stable` only after its public comment periods have elapsed with no
+  unresolved objection, and the transition is recorded in its review log.
 - Normative requirements use RFC 2119 keywords (**MUST**, **SHOULD**,
   **MAY**) once a document enters the standards track.
 - Every rule needs canonical examples — positive and negative.

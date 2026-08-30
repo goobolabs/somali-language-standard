@@ -64,13 +64,13 @@ Five principles drive every decision below:
 
 ## 2. Governance Model
 
-A standard without governance turns into an unreviewable pile of PRs. SLS adopts a lightweight **council model**, similar to CPython PEP editors or W3C working groups — enough authority to resolve disputes, not so much that it gates contribution.
+A standard without governance turns into an unreviewable pile of PRs. SLS adopts a **maintainer-steward model**: the people who maintain the repository review and advance its content, and correctness is defended after publication by an open correction channel rather than before publication by appointed gatekeepers. This is the model early PEPs and RFCs ran on, and it is the only model a project can honestly operate before it has a standing body of reviewers.
 
-- **Language Council** — final authority on orthography, grammar, and disputed terminology. Small (3–7 people), named in `GOVERNANCE.md`, term-limited.
-- **Domain Editors** — one per terminology domain (AI/ML, Medicine, Law, etc.), responsible for reviewing that domain's glossary PRs. Can be a single trusted contributor initially; domains without an editor default to Council review.
-- **Maintainers** — own CI, schemas, tooling, releases. Technical, not linguistic, authority.
+- **Maintainers** — own the repository and everything in it: CI, schemas, tooling, releases, *and* the linguistic content. A maintainer reviews contributions, records the reasoning, and approves lifecycle transitions.
+- **The correction channel** — any person may report a suspected error in any standard at any lifecycle stage, `Stable` included, by opening an issue. Every substantive report is recorded in that standard's review log with a disposition and a written resolution; none is closed silently. A confirmed error that invalidates a MUST-level requirement produces a corrected version or returns the standard to `Review`. This is the project's substitute for a reviewer's signature, and it never expires.
+- **Language Council** and **Domain Editors** — optional bodies, not currently constituted and not required by any gate. If the project later wants them, they are added through the ordinary change process and take over the authority named for them at that time.
 
-Every non-trivial change to `spec/` starts as a **Draft** (front-matter `status: Draft`), gets discussed in a GitHub Discussion/issue, and only a Council member can flip it to `status: Stable`. This mirrors RFC/PEP lifecycle and gives the project the "standard" credibility it needs — vendors can point at a `Stable` spec and know it won't shift under them.
+Every non-trivial change to `spec/` starts as a **Draft** (front-matter `status: Draft`), is discussed in a GitHub issue, and reaches `Stable` only after its public comment period has elapsed with no unresolved objection. Credibility here rests on two things a single maintainer can actually deliver: every rule traces to cited evidence, and every objection is answered in writing where anyone can read it.
 
 ---
 
@@ -224,14 +224,14 @@ somali-language-standard/
 
 | Directory | Purpose | Who edits it | Hand-authored or generated |
 |---|---|---|---|
-| `spec/` | Normative prose: the actual rules of Somali orthography, grammar, style, translation. Every AI vendor "implementing SLS" starts here. | Language Council + Domain Editors | Hand-authored |
+| `spec/` | Normative prose: the actual rules of Somali orthography, grammar, style, translation. Every AI vendor "implementing SLS" starts here. | Maintainers | Hand-authored |
 | `schemas/` | JSON Schema contracts every dataset file must satisfy. Change here = potential MAJOR version bump. | Maintainers | Hand-authored |
-| `data/lexicon/` | The dictionary: word, definitions, POS, morphology, frequency, loanword flags. | Contributors + linguist reviewers | Hand-authored |
-| `data/terminology/` | Domain glossaries (AI, medicine, law, etc.) — where most long-term value accrues, since this vocabulary barely exists in Somali today. | Domain Editors | Hand-authored |
+| `data/lexicon/` | The dictionary: word, definitions, POS, morphology, frequency, loanword flags. | Contributors + maintainers | Hand-authored |
+| `data/terminology/` | Domain glossaries (AI, medicine, law, etc.) — where most long-term value accrues, since this vocabulary barely exists in Somali today. | Maintainers | Hand-authored |
 | `data/corpora/` | Example sentences and rights-cleared text used for grounding, RAG, and training context. | Contributors | Hand-authored / curated |
 | `data/translation-pairs/` | Parallel EN↔SO sentence/phrase pairs for MT training and eval. | Contributors + reviewers | Hand-authored |
 | `ai/` | Everything shaped for direct AI consumption: system prompts, instruction/fine-tuning sets, RAG chunks, correction pairs. | Maintainers + contributors | Hand-authored, partly derived from `spec/` + `data/` |
-| `benchmarks/` | Eval suites + scoring methodology, kept separate from training data to avoid contamination. | Maintainers + Council | Hand-authored |
+| `benchmarks/` | Eval suites + scoring methodology, kept separate from training data to avoid contamination. | Maintainers | Hand-authored |
 | `resources/` | The canonical linguistic source library and evidence base. Eight curated collections (qaamuus, naxwe, erey-bixin, suugaan, qoraal, dhawaaq, sarfe) plus derived madax-ereyo. Documented in [`docs/RESOURCES.md`](RESOURCES.md). | Maintainers | Curated source data |
 | `tools/` | Validator/build/export scripts. Empty in the planning phase; scaffolded in Phase 0 implementation. | Maintainers | Code (future) |
 | `docs/` | The public documentation site (built from `spec/` + narrative docs). | Maintainers | Generated + hand-authored |
@@ -418,7 +418,7 @@ Every domain-specific schema is a thin extension of this pattern — same discip
 - **Files**: lower-kebab-case, always `.jsonl` for data, `.md` for prose, `.schema.json` for schemas. Domain glossary files are named after the domain in English kebab-case (`machine-learning.jsonl`), never abbreviated.
 - **IDs**: `sls:<type>:<zero-padded-sequence>`, e.g. `sls:lex:000123`, `sls:term:ai:000045`, `sls:bench:grammar:000012`. IDs are **append-only and permanent** — never renumbered or reused, even on deprecation. This is the single most important rule for long-term stability: external systems will cite `sls_id`s directly.
 - **Language/locale tags**: BCP 47. Standard Somali is `so`. Dialects use private extensions until formally namespaced (§21): `so-x-maay`, `so-x-benadiri`. English targets use `en`.
-- **Domain codes**: short, stable, kebab-case slugs (`ai`, `ml`, `cybersec`, `medicine`, `law`...) defined once in `data/terminology/_domains.json` (a controlled vocabulary — new domains require a Council-approved PR, not an inline string anyone can invent).
+- **Domain codes**: short, stable, kebab-case slugs (`ai`, `ml`, `cybersec`, `medicine`, `law`...) defined once in `data/terminology/_domains.json` (a controlled vocabulary — new domains require a maintainer-approved PR, not an inline string anyone can invent).
 - **Branch/PR naming**: `terminology/<domain>-<short-desc>`, `spec/<category>-<short-desc>`, `fix/<area>-<short-desc>`.
 
 ---
@@ -450,9 +450,9 @@ This is the highest-leverage part of SLS: most of this vocabulary (AI, ML, cyber
 
 `coinage_type` ∈ `{loanword, calque, existing-word-repurposed, neologism}` — this field alone makes SLS more valuable than any prior Somali glossary, because it records *how* a term was decided, not just what it is.
 
-`status` lifecycle: `proposed → discussed → standard` (or `rejected`). Only Domain Editors / Council can promote to `standard`. Multiple `so_term_alternatives` are allowed to persist at `proposed` indefinitely if genuine dialectal or stylistic variation exists — SLS documents real usage, it doesn't force false consensus.
+`status` lifecycle: `proposed → discussed → standard` (or `rejected`). Only a maintainer can promote a term to `standard`, and the promotion is recorded with its rationale. Multiple `so_term_alternatives` are allowed to persist at `proposed` indefinitely if genuine dialectal or stylistic variation exists — SLS documents real usage, it doesn't force false consensus.
 
-**The 20 launch domains** (each its own JSONL file, same schema, one Domain Editor each once available): Artificial Intelligence, Machine Learning, Data Science, Cybersecurity, Computer Science, Software Engineering, Cloud Computing, Networking, Blockchain, Medicine, Law, Government, Finance, Education, Agriculture, Engineering, Mathematics, Physics, Chemistry, Biology.
+**The 20 launch domains** (each its own JSONL file, same schema): Artificial Intelligence, Machine Learning, Data Science, Cybersecurity, Computer Science, Software Engineering, Cloud Computing, Networking, Blockchain, Medicine, Law, Government, Finance, Education, Agriculture, Engineering, Mathematics, Physics, Chemistry, Biology.
 
 ---
 
@@ -493,7 +493,7 @@ Eight registers, one file each under `spec/style/`, each following the same skel
 
 ## 13. Benchmarks & Scoring
 
-Benchmarks live apart from training data specifically to prevent contamination — a `benchmarks/` item must never also appear in `ai/fine-tuning/`. If the project later wants a leaderboard, the underlying policy question (public dev set vs. held-out test set, GLUE/SuperGLUE-style) belongs in `benchmarks/SCORING.md` as a Council decision, not something contributors decide ad hoc.
+Benchmarks live apart from training data specifically to prevent contamination — a `benchmarks/` item must never also appear in `ai/fine-tuning/`. If the project later wants a leaderboard, the underlying policy question (public dev set vs. held-out test set, GLUE/SuperGLUE-style) belongs in `benchmarks/SCORING.md` as a recorded maintainer decision, not something contributors decide ad hoc.
 
 | Suite | Scoring method |
 |---|---|
@@ -533,7 +533,7 @@ Two licenses, matching the two kinds of content:
 | **MIT** | `tools/`, `schemas/`, CI configs, any code | Maximizes ecosystem adoption; no reason to restrict tooling reuse. |
 | **CC BY 4.0** | Everything in `spec/`, `data/`, `ai/`, `benchmarks/` | Permits commercial use *including AI training* with only an attribution requirement. Deliberately **not** CC BY-SA — share-alike is viral and creates real legal friction for commercial model vendors wanting to fine-tune on SLS, which directly works against the "canonical standard every AI model uses" goal. Deliberately **not** CC0 — attribution preserves contributor credit and provenance, which is part of what makes the standard *citable* and *authoritative*. |
 
-Two open governance questions to flag explicitly (Council decision, not a default to silently pick):
+Two open governance questions to flag explicitly (a recorded maintainer decision, not a default to silently pick):
 - Whether held-out benchmark test sets should be gated/unpublished (GLUE-style) to protect leaderboard integrity, vs. fully open under CC BY 4.0 like everything else.
 - **Contribution provenance**: recommend **DCO (sign-off commits)** over a formal CLA — lighter weight, same effect (used by Linux kernel, Kubernetes), and appropriate here since contributors are asserting they have the right to contribute specific language data.
 
@@ -542,8 +542,9 @@ Two open governance questions to flag explicitly (Council decision, not a defaul
 ## 16. Contribution Workflow
 
 1. **Discussion first** for anything structural: new spec doc, new terminology domain, schema change. Opens as a GitHub Discussion or issue using `spec-change-proposal.md`.
-2. **Direct PR** for additive content within existing schemas (a handful of dictionary/terminology entries, example sentences) — must pass CI (§17) and get one linguist + one technical review.
-3. **Review gate**: at minimum one native-speaker/linguist reviewer (content correctness) and one technical reviewer (schema conformance) before merge; Domain Editor sign-off required for `status: standard` terminology promotions.
+2. **Direct PR** for additive content within existing schemas (a handful of dictionary/terminology entries, example sentences) — must pass CI (§17) and one maintainer review.
+3. **Review gate**: one maintainer review (content correctness and schema conformance) plus passing CI before merge. Promotion of a terminology entry to `status: standard` is a maintainer decision, recorded with its rationale.
+3b. **Correction channel**: anyone may report a suspected error in merged content or in a published standard at any stage, by opening an issue. Substantive reports are recorded in the relevant review log with a disposition and a written resolution (§26).
 4. **Sign-off**: DCO (`Signed-off-by:` trailer) required on every commit.
 5. **Attribution**: `CONTRIBUTORS.md` generated from git history plus aggregated `contributor` fields in records — credit is structural, not an afterthought.
 6. **Templates**: issue templates for "propose new terminology" and "propose spec change" keep the *initial* framing consistent (domain, coinage rationale, sources) so review isn't spent re-deriving context.
@@ -638,7 +639,7 @@ etc.) build on the baseline in [`docs/RESOURCES.md`](RESOURCES.md).
 - **Format**: JSONL for all datasets, Markdown+YAML front-matter for spec/prose, no CSV/XML.
 - **IDs**: `sls:<type>:<sequence>`, permanent, append-only, never renumbered.
 - **Licensing**: MIT for code, CC BY 4.0 for content — chosen specifically to make SLS friction-free for commercial AI vendors to adopt.
-- **Governance**: lightweight Council + Domain Editors, RFC-style Draft→Stable lifecycle for spec docs.
+- **Governance**: maintainer-steward model with an open correction channel, RFC-style Draft→Stable lifecycle for spec docs.
 - **Versioning**: three decoupled axes (repo SemVer, per-schema `schema_version`, per-doc spec `status`).
 - **Structure**: hard separation between hand-authored source (`spec/`, `data/`, `ai/`, `benchmarks/`) and generated artifacts (`releases/`, `ai/rag-knowledge/chunks/`) — nothing generated is ever hand-edited.
 
@@ -648,7 +649,7 @@ etc.) build on the baseline in [`docs/RESOURCES.md`](RESOURCES.md).
 # Part II — The SLS Standards Framework
 
 **Status:** Draft v0.1 — extension layer, added 2026-07-02
-**Relationship to Part I:** Nothing above this line changes. Part I already contains the raw material this framework governs — `spec/` holds normative prose, §5 already uses category-numbered documents with a `status` lifecycle, §2 already defines a Council and Domain Editors, §14 already defines versioning axes. The Standards Framework does not replace any of that; it **formalizes it into a numbered, citable, IETF/W3C/ISO-style standards catalog** that sits above every directory in §3 and declares which rules they must satisfy. Where a mechanism already exists (Council, review gates, CI, SemVer), this framework reuses it rather than inventing a parallel one.
+**Relationship to Part I:** Nothing above this line changes. Part I already contains the raw material this framework governs — `spec/` holds normative prose, §5 already uses category-numbered documents with a `status` lifecycle, §2 already defines the maintainer-steward model and the correction channel, §14 already defines versioning axes. The Standards Framework does not replace any of that; it **formalizes it into a numbered, citable, IETF/W3C/ISO-style standards catalog** that sits above every directory in §3 and declares which rules they must satisfy. Where a mechanism already exists (review gates, the correction channel, CI, SemVer), this framework reuses it rather than inventing a parallel one.
 
 ---
 
@@ -684,7 +685,7 @@ Every standard has a permanent ID of the form **`SLS-NNNN`** (four digits, zero-
 | `SLS-0700`–`0799` | *Reserved* — Dialects & Regional Variation | Opens when dialect tagging (§21) begins. |
 | `SLS-0800`–`0899` | *Reserved* — Historical & Alternate Scripts | Osmanya, Wadaad's writing. |
 | `SLS-0900`–`0999` | *Reserved* — Compliance, Certification & Testing | Meta-standards about how conformance itself is measured. |
-| `SLS-1000`+ | *Open allocation* | New macro-categories not yet anticipated; opening one requires a Council-approved `SLS-0000`-governed process change, not a unilateral PR. |
+| `SLS-1000`+ | *Open allocation* | New macro-categories not yet anticipated; opening one requires an `SLS-0000`-governed process change with a recorded rationale, not an undocumented PR. |
 
 This mirrors the block-reservation pattern §5 already uses for `spec/` file numbers (`00xx` orthography, `01xx` grammar, …) but promotes it to the global, cross-directory scale the project needs once "grammar" and "AI resources" and "benchmarks" all need to cite each other by a shared ID space.
 
@@ -701,7 +702,7 @@ title: Somali Grammar Standard
 version: 1.2.0            # independent SemVer — see §27
 status: Stable             # see §25
 category: foundation
-owner: language-council
+owner: maintainers
 reviewers: [name-1, name-2]
 dependencies: [SLS-0001, SLS-0002]
 implements:                 # physical files this standard governs
@@ -771,29 +772,34 @@ Draft → Proposed → Review → Candidate → Stable → Deprecated → Archiv
 
 | Stage | Meaning | Exit condition |
 |---|---|---|
-| **Draft** | Exploratory; author (with a Domain Editor sponsor) may change scope freely. Not binding on any content. | Minimum template sections filled in. |
+| **Draft** | Exploratory; the author may change scope freely. Not binding on any content. | Minimum template sections filled in. |
 | **Proposed** | Opened as a formal PR/Discussion with rationale. Scope is frozen for the comment period. | Minimum 14-day public comment period elapses with no unresolved objection. |
-| **Review** | Assigned reviewers actively evaluate; only refinements allowed, no new scope. | ≥1 native-speaker/linguist reviewer **and** ≥1 technical reviewer approve — the same two-reviewer gate §16 already requires for content PRs. |
+| **Review** | Under active maintainer evaluation; only refinements allowed, no new scope. | A maintainer review is recorded in the standard's review log, with every finding carrying a disposition and a written resolution. |
 | **Candidate** | Reviewers approved; the standard must now prove itself against real content before ratification. | **Soak period**: at least one real artifact (a schema, a validator, a benchmark, a dataset field) actually implements/enforces it for one full release cycle — analogous to W3C's implementation-experience requirement before Recommendation. |
-| **Stable** | Ratified and binding. New content **MUST** conform; non-conforming existing content is flagged for migration, not silently grandfathered. | Council majority vote, **and** every standard listed in its `dependencies` is itself already `Stable` (or the dependency is explicitly waived with documented Council rationale — mirrors IETF's rule that a normative reference can't be less stable than the document citing it). |
-| **Deprecated** | Superseding standard has reached `Stable`, or the Council retires the requirement outright. Still valid for content created before deprecation. | A named successor (`superseded_by`) or an explicit retirement rationale is required — deprecation is never silent. |
+| **Stable** | Ratified and binding. New content **MUST** conform; non-conforming existing content is flagged for migration, not silently grandfathered. | A second public comment period of ≥14 days elapses with no unresolved objection, **and** every standard listed in its `dependencies` is itself already `Stable` (or the dependency is explicitly waived with documented rationale — mirrors IETF's rule that a normative reference can't be less stable than the document citing it). `Stable` is not a lock: a confirmed error reported afterwards is corrected, and one that invalidates a MUST returns the standard to `Review`. |
+| **Deprecated** | Superseding standard has reached `Stable`, or the maintainers retire the requirement outright. Still valid for content created before deprecation. | A named successor (`superseded_by`) or an explicit retirement rationale is required — deprecation is never silent. |
 | **Archived** | Fully retired; kept for historical/audit record only, excluded from active compliance checks. | At least 2 MINOR repository releases have passed since deprecation, per the existing §14 deprecation policy. |
 
 ---
 
 ## 26. Governance & Publication Workflow
 
-No new governance body is created — this reuses the Language Council and Domain Editors from §2, with stage-specific authority:
+No new governance body is created — every transition is approved by a maintainer, and each one is recorded in the standard's review log with its approver, date, and the evidence satisfying the gate:
 
-| Transition | Approver |
-|---|---|
-| — → Draft | Any contributor, with a Domain Editor as sponsor |
-| Draft → Proposed | Domain Editor accepts it for formal comment |
-| Proposed → Review | Domain Editor, once the comment period closes cleanly |
-| Review → Candidate | The two required reviewers (§16 gate) |
-| Candidate → Stable | Language Council, by majority vote |
-| Stable → Deprecated | Language Council only |
-| Deprecated → Archived | Maintainers (mechanical, date-triggered — no vote needed) |
+| Transition | Approver | Gate |
+|---|---|---|
+| — → Draft | Any contributor | Minimum template sections filled |
+| Draft → Proposed | Maintainer | Opens a ≥14-day public comment period |
+| Proposed → Review | Maintainer | Comment period closed with no unresolved objection |
+| Review → Candidate | Maintainer | Maintainer review recorded, every finding dispositioned |
+| Candidate → Stable | Maintainer | Soak period served, second ≥14-day comment period closed cleanly, dependencies `Stable` or waived |
+| Stable → Deprecated | Maintainer | Named `superseded_by` or a documented retirement rationale |
+| Deprecated → Archived | Maintainer | ≥2 MINOR repository releases since deprecation (mechanical) |
+
+The check on a single approver is not a second signature; it is the correction channel
+(§2) plus the public record. Any person may report an error against any standard at any
+stage, the report is answered in writing in that standard's review log, and no stage —
+`Stable` included — is beyond correction.
 
 **Publication workflow** plugs directly into the existing release machinery rather than creating a separate one:
 
@@ -835,7 +841,7 @@ SLS-0001 Alphabet
                          SLS-0505 RAG Knowledge depends on every content standard it indexes)
 ```
 
-**Hard rule** (enforced at `Candidate → Stable`, §25): a standard cannot become `Stable` while any of its declared dependencies are below `Stable`, unless the Council records an explicit waiver and rationale. This is what prevents, for example, an AI Assistant Standard from locking in behavior built on a Grammar standard that's still in `Review` and could still change underneath it.
+**Hard rule** (enforced at `Candidate → Stable`, §25): a standard cannot become `Stable` while any of its declared dependencies are below `Stable`, unless the maintainers record an explicit waiver and rationale. This is what prevents, for example, an AI Assistant Standard from locking in behavior built on a Grammar standard that's still in `Review` and could still change underneath it.
 
 ---
 
@@ -863,7 +869,7 @@ Compliance is claimed **per standard, per version**, never as a blanket "SLS-com
 }
 ```
 
-`verification` starts as `self-declared`; a future `sls-validated` value (Council-issued, after submitting to an audit — the "compliance badge" already flagged as future work in §21) is explicitly deferred rather than designed now, consistent with not over-building ahead of need. Where a standard has a corresponding entry in `benchmarks/`, `Fully Compliant`/`Compliant` can be scored mechanically by running that suite — compliance and evaluation share the same infrastructure rather than duplicating it.
+`verification` starts as `self-declared`; a future `sls-validated` value (issued after submitting to an audit — the "compliance badge" already flagged as future work in §21) is explicitly deferred rather than designed now, consistent with not over-building ahead of need. Where a standard has a corresponding entry in `benchmarks/`, `Fully Compliant`/`Compliant` can be scored mechanically by running that suite — compliance and evaluation share the same infrastructure rather than duplicating it.
 
 ---
 
@@ -937,6 +943,6 @@ This maps directly onto the categories already named in §9 and §11 — no new 
 
 ## 32. Long-Term Scaling Vision
 
-The block-based numbering (§23) is what lets this scale to "hundreds of standards over 10–20 years" without ever renumbering anything: each launch category uses well under half its reserved block (e.g. Foundation uses 5 of 99 slots, Terminology 20 of 100), and four entire blocks (`0600`–`0999`) are reserved but unopened for speech, dialects, historical scripts, and formal compliance/certification standards as those workstreams mature per the §20 roadmap. Opening a genuinely new macro-category beyond `1000` is itself gated through `SLS-0000` (the meta-standard), so the numbering system's own evolution is subject to the same Council governance as everything it numbers — it cannot drift by accretion.
+The block-based numbering (§23) is what lets this scale to "hundreds of standards over 10–20 years" without ever renumbering anything: each launch category uses well under half its reserved block (e.g. Foundation uses 5 of 99 slots, Terminology 20 of 100), and four entire blocks (`0600`–`0999`) are reserved but unopened for speech, dialects, historical scripts, and formal compliance/certification standards as those workstreams mature per the §20 roadmap. Opening a genuinely new macro-category beyond `1000` is itself gated through `SLS-0000` (the meta-standard), so the numbering system's own evolution is subject to the same governance as everything it numbers — it cannot drift by accretion.
 
 The practical payoff of formalizing this now, while the launch set is only 53 standards: it gives SLS the same shape of authority Unicode's UAX series, W3C's Recommendations, and IETF's RFCs have — a versioned, dependency-checked, citable catalog — so that when SLS is presented to a university, a government body, or an AI lab as a partnership, the pitch is not "look at our repository" but **"implement SLS-0003 v1.2.0, and here is exactly how we'll tell you if you did."**

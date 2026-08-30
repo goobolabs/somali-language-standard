@@ -8,7 +8,7 @@ relies on. You do not need to read the repository, run anything, or use git.
 - **Standard:** SLS-0003 Somali Grammar Standard (`Proposed`)
 - **Comment venue:** [issue #11](https://github.com/goobolabs/somali-language-standard/issues/11)
 - **Review log:** [`SLS-0003-review-log.md`](SLS-0003-review-log.md)
-- **Reviewer role:** [`docs/REVIEWERS.md`](../REVIEWERS.md)
+- **How review works:** [`docs/REVIEWERS.md`](../REVIEWERS.md)
 - **Evidence behind each rule:** [`SLS-0003-evidence-map.md`](SLS-0003-evidence-map.md)
 
 ## What we are asking
@@ -197,7 +197,8 @@ resolution, under your name or a handle, whichever you prefer.
 
 ## What a review commits you to
 
-Nothing beyond the response itself. If you are willing to be listed as a
-recurring reviewer for Somali grammar — the gate SLS-0003 currently cannot
-pass — see [`docs/REVIEWERS.md`](../REVIEWERS.md) for what that role does and
-does not involve.
+Nothing beyond the response itself. No standard's progress waits on you, and
+there is no role to accept: SLS is maintainer-reviewed, and an outside response
+is recorded on its own merits (`SLS-0000` R17). If you would like to be named as
+an independent reviewer for Somali grammar, that is welcome and recorded as such
+— see [`docs/REVIEWERS.md`](../REVIEWERS.md).

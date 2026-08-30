@@ -48,8 +48,8 @@ SLS-0000 and SLS-0001 were published as `Proposed` in
 [pull request #1](https://github.com/goobolabs/somali-language-standard/pull/1)
 on 2026-07-10. As of 2026-08-23, the public pull-request history contains no
 comment or review on that proposal and the repository has no public issues.
-The 14-day minimum has elapsed, so SLS-0001 is eligible for a recorded
-`Proposed → Review` transition once active reviewers are assigned.
+The 14-day minimum has elapsed with no unresolved objection, so SLS-0000 and
+SLS-0001 both satisfy the `Proposed → Review` gate in `SLS-0000` R9.
 
 SLS-0002 through SLS-0005 entered formal public review in
 [pull request #7](https://github.com/goobolabs/somali-language-standard/pull/7)
@@ -57,18 +57,26 @@ on 2026-08-23. Their 14-day minimum ends on 2026-09-06. The following gates
 cannot be completed by repository edits alone:
 
 1. Keep each proposal open for at least 14 days and record every substantive
-   comment and its resolution.
-2. Assign at least one native-speaker or linguist reviewer and one technical
-   reviewer before any `Review → Candidate` transition. Implementation Phase 3
-   additionally requires a linguist to be engaged as a recurring reviewer. The
-   role, its commitment, and the open positions are described in
-   [`docs/REVIEWERS.md`](../REVIEWERS.md); the reviewer-facing summary of
-   SLS-0003 is [`SLS-0003-reviewer-packet.md`](SLS-0003-reviewer-packet.md).
-   Recruitment is outreach, not a repository edit, and cannot be completed
-   here.
+   comment and its resolution. This is a calendar gate: it cannot be shortened,
+   and 2026-09-06 is the earliest date the four Milestone 2 standards can close.
+2. Record a maintainer review before any `Review → Candidate` transition, with
+   every finding dispositioned (`SLS-0000` R9, R18). The reviewer-facing summary
+   of SLS-0003 is [`SLS-0003-reviewer-packet.md`](SLS-0003-reviewer-packet.md);
+   how review and error reports work is
+   [`docs/REVIEWERS.md`](../REVIEWERS.md).
 3. Do not mark a standard `Candidate` or `Stable` as part of Milestone 2. Those
-   stages require reviewer approval, implementation experience, dependency
-   maturity, and later Council action.
+   stages require implementation experience (the soak period), dependency
+   maturity, and a second comment period.
+
+**Governance change, 2026-08-30.** The reviewer-assignment gate that previously
+appeared here — one independent linguist plus one independent technical reviewer
+— was removed in `SLS-0000` 0.2.0. Those reviewers did not exist, so finished
+work was blocked on recruitment rather than on content. A maintainer now
+approves every transition, and the external check is the correction channel
+(`SLS-0000` R17): anyone may report an error at any stage, `Stable` included, and
+every substantive report gets a recorded disposition and a written resolution.
+The decision and its trade-off are recorded in
+[`SLS-0000-review-log.md`](SLS-0000-review-log.md) as M-2.
 
 ## Public comment venue
 
