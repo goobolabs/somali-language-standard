@@ -9,9 +9,8 @@ assignees: []
 <!--
 All structural changes start here (see CONTRIBUTING.md — the discussion-first
 track): new spec documents, changes to existing standards, new terminology
-domains, schema changes. A Domain Editor (or the Language Council) must
-sponsor the proposal for it to enter the formal lifecycle:
-Draft → Proposed → Review → Candidate → Stable.
+domains, schema changes. A maintainer accepts the proposal into the formal
+lifecycle: Draft → Proposed → Review → Candidate → Stable.
 -->
 
 ## Type of proposal

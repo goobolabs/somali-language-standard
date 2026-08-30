@@ -4,7 +4,7 @@ title: <Standard Title>
 version: 0.1.0            # independent SemVer — see ARCHITECTURE.md §27
 status: Draft            # Draft | Proposed | Review | Candidate | Stable | Deprecated | Archived (§25)
 category: <meta | foundation | lexicon | terminology | translation | style | ai>
-owner: language-council
+owner: maintainers
 reviewers: []            # [linguist-reviewer, technical-reviewer] — filled in at Review (§25)
 dependencies: []         # [SLS-0001, SLS-0002, ...] — must form a DAG (§28)
 implements:              # physical files this standard governs (§30); paths must exist

@@ -2,9 +2,9 @@
   "id": "SLS-0000",
   "title": "SLS Standards Process Standard",
   "category": "meta",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "status": "proposed",
-  "owner": "language-council",
+  "owner": "maintainers",
   "reviewers": [],
   "dependencies": [],
   "implements": [
@@ -26,6 +26,11 @@
       "version": "0.1.1",
       "date": "2026-08-30",
       "change": "Editorial: added the standard's own normative file to `implements`; linked the public review log"
+    },
+    {
+      "version": "0.2.0",
+      "date": "2026-08-30",
+      "change": "Governance simplification: maintainer approves every lifecycle transition; removed the two-reviewer gate; added R17 (correction channel) and R18 (transition record) and their compliance rows; added a second comment period before Stable. MAJOR by R11 (MUST-level requirements changed), taken on the minor position because the standard is pre-1.0"
     }
   ]
 }

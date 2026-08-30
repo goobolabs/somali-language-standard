@@ -207,7 +207,9 @@ To avoid confusion, it is worth being explicit about what SLS is *not*:
 
 ## 10. A Note on Governance and Trust
 
-Language standards are only as trustworthy as the process that creates them. SLS is governed by a **Language Council** — a small body of named, accountable linguists and community representatives — modeled on how W3C working groups and Python's PEP editors operate. No standard reaches `Stable` status without Council review. Every ratified standard is permanently archived and versioned.
+Language standards are only as trustworthy as the process that creates them, and SLS states its process plainly rather than borrowing the appearance of one. It is governed by a **maintainer-steward model**: the maintainers review content and approve every lifecycle transition, the way early PEPs and RFCs worked before those projects had standing bodies. There is no panel of independent reviewers today, and the documents say so.
+
+What carries the weight instead is the record. Every rule traces to cited evidence in a published evidence map. Every objection is answered in writing in that standard's review log. Anyone may report an error against any standard at any stage — `Stable` included — and a confirmed error that invalidates a requirement forces a correction or sends the standard back to `Review`. A `Stable` SLS standard is not a claim that experts have signed it off; it is a claim that the reasoning is public and the process answers challenges. Every ratified standard is permanently archived and versioned.
 
 The standard is open-source under a **Creative Commons BY 4.0** license for all linguistic content. This means anyone — including commercial AI companies — can freely use and build upon SLS, as long as they credit the source. Fencing off Somali language infrastructure behind proprietary walls is explicitly rejected by the project's design.
 

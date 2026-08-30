@@ -6,7 +6,7 @@ version: 0.1.1
 standard_version: 0.1.1
 status: Proposed
 category: foundation
-owner: language-council
+owner: maintainers
 reviewers: []
 dependencies:
   - SLS-0001

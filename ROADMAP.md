@@ -37,8 +37,9 @@ Resources milestones are **not** the same as implementation phases in
 The foundation layer of the standards catalog, drafted and moved into public
 review: the Alphabet Standard (SLS-0001), Orthography Standard (SLS-0002), and
 the core Grammar Standard (SLS-0003), plus the standards registry
-(`standards/`) that tracks them. Interim governance is replaced by a named
-Language Council before anything is ratified `Stable`.
+(`standards/`) that tracks them. Standards are reviewed and advanced by the
+maintainers; correctness is defended by the correction channel, open to anyone
+at any stage (`SLS-0000` R17).
 
 The evidence maps, normative drafts, compliance surfaces, and registry records
 for SLS-0002 (orthography), SLS-0003 (grammar), SLS-0004 (punctuation), and
@@ -73,8 +74,8 @@ review workflow end-to-end and to power the spellcheck layer of CI.
 
 The neologism governance process live in practice: two pilot domains
 (Artificial Intelligence, Computer Science) populated with proposed and
-discussed terms, Domain Editors recruited, the `coinage_type` and status
-lifecycle exercised on real vocabulary. Remaining launch domains open
+discussed terms, the `coinage_type` and status lifecycle exercised on real
+vocabulary (Domain Editors where volunteers exist; maintainer-run otherwise). Remaining launch domains open
 progressively afterward.
 
 ## Milestone 6 — Translation *(v0.6)*
@@ -86,7 +87,7 @@ sentence-pair schema, tagged literal/natural.
 ## Milestone 7 — Benchmarks *(v0.7)*
 
 First evaluation suites — grammar, spelling, translation — with the scoring
-methodology (`benchmarks/SCORING.md`) ratified by the Council, and the
+methodology (`benchmarks/SCORING.md`) recorded as a maintainer decision, and the
 contamination firewall between `benchmarks/` and training data enforced in CI.
 
 ## Milestone 8 — AI resources *(v0.8)*

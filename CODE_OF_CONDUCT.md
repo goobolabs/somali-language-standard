@@ -45,7 +45,7 @@ Examples of unacceptable behavior:
 
 ## Enforcement Responsibilities
 
-Project Maintainers and the Language Council are responsible for clarifying
+Project Maintainers are responsible for clarifying
 and enforcing our standards of acceptable behavior and will take appropriate
 and fair corrective action in response to any behavior that they deem
 inappropriate, threatening, offensive, or harmful.

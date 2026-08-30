@@ -65,6 +65,22 @@ releases, schema versions, and per-standard versions relate.
 
 ### Changed
 
+- **Governance simplified to a maintainer-steward model.** A maintainer now
+  approves every lifecycle transition, from `Draft` through `Stable`. The
+  correction channel replaces pre-publication gatekeeping: anyone may report an
+  error in any standard at any stage, `Stable` included, and every substantive
+  report gets a recorded disposition and a written resolution. `SLS-0000` gains
+  R17 (correction channel) and R18 (transition record) with their compliance
+  rows, and a second ≥14-day comment period is required before `Stable`.
+  Mirrored in `GOVERNANCE.md`, `CONTRIBUTING.md`, `docs/ARCHITECTURE.md`
+  (§2, §16, §25, §26), `docs/REVIEWERS.md`, the implementation plan, and the
+  roadmap. Rationale and trade-off recorded in
+  [`docs/standards/SLS-0000-review-log.md`](docs/standards/SLS-0000-review-log.md)
+  as M-2.
+- Bumped **SLS-0000** to `0.2.0` — MAJOR by its own R11 (MUST-level requirements
+  changed), taken on the minor position because the standard is pre-1.0.
+- `owner` changed from `language-council` to `maintainers` across the registry,
+  the per-standard meta records, and every standard's front matter.
 - Promoted SLS-0000 and SLS-0001 from `Draft` to `Proposed`, opening their
   public comment period.
 - Completed the SLS-0002 through SLS-0005 proposal package. Their ≥14-day
@@ -90,6 +106,16 @@ releases, schema versions, and per-standard versions relate.
   third-person directive `Isagu ha qoro!` with an affirmative form. Neither
   file mentioned the other, so an implementation reading G15-R4 alone would
   report the licensed directive as an error.
+
+### Removed
+
+- The two-reviewer gate — one independent native-speaker/linguist reviewer plus
+  one independent technical reviewer — previously required before
+  `Review → Candidate`, and the Language Council vote previously required before
+  `Stable`. Neither body existed, so finished standards were blocked on
+  recruitment rather than on content. The Language Council and Domain Editor
+  roles remain documented as optional bodies that may be constituted later
+  through the ordinary change process; no gate depends on them.
 
 ## [0.1.0] - 2026-07-08
 
