@@ -64,6 +64,10 @@ while leaving complete lexical paradigms to reviewed morphological data.
 - Negative paradigms are specified with negation in
   [Negation](0015-negation.md); they must not be reconstructed from affirmative
   forms without evidence.
+- The `ha` of the licensed third-person directive in G12-R4 is not the
+  prohibitive `ha` of [Negation](0015-negation.md) G15-R4, which requires a
+  negative verb form. The two constructions are distinguished by the form of
+  the verb that follows, not by the particle.
 - A form absent from this summary is not automatically wrong. It is outside
   automatic conformance until its paradigm is reviewed.
 

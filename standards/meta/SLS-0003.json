@@ -2,7 +2,7 @@
   "id": "SLS-0003",
   "title": "Somali Grammar Standard",
   "category": "foundation",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "status": "proposed",
   "owner": "language-council",
   "reviewers": [],
@@ -31,6 +31,11 @@
       "version": "0.1.1",
       "date": "2026-08-30",
       "change": "Editorial: added a lifecycle banner to topic files 0010–0017; linked the public review log"
+    },
+    {
+      "version": "0.1.2",
+      "date": "2026-08-30",
+      "change": "Editorial: cross-referenced the directive `ha` (G12-R4) and the prohibitive `ha` (G15-R4) in both topic files; added the reviewer packet"
     }
   ]
 }

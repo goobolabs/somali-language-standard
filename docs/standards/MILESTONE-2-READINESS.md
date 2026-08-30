@@ -60,7 +60,12 @@ cannot be completed by repository edits alone:
    comment and its resolution.
 2. Assign at least one native-speaker or linguist reviewer and one technical
    reviewer before any `Review → Candidate` transition. Implementation Phase 3
-   additionally requires a linguist to be engaged as a recurring reviewer.
+   additionally requires a linguist to be engaged as a recurring reviewer. The
+   role, its commitment, and the open positions are described in
+   [`docs/REVIEWERS.md`](../REVIEWERS.md); the reviewer-facing summary of
+   SLS-0003 is [`SLS-0003-reviewer-packet.md`](SLS-0003-reviewer-packet.md).
+   Recruitment is outreach, not a repository edit, and cannot be completed
+   here.
 3. Do not mark a standard `Candidate` or `Stable` as part of Milestone 2. Those
    stages require reviewer approval, implementation experience, dependency
    maturity, and later Council action.

@@ -49,6 +49,13 @@ releases, schema versions, and per-standard versions relate.
 - A review log per standard (`docs/standards/SLS-000X-review-log.md`) recording
   every substantive comment with a disposition and written resolution, plus
   `docs/standards/REVIEW-LOG-TEMPLATE.md` for future standards.
+- [`docs/REVIEWERS.md`](docs/REVIEWERS.md) — what the native-speaker/linguist
+  and technical reviewer roles involve, what a *recurring* reviewer commits to,
+  how a review is recorded, and the current open positions.
+- [`docs/standards/SLS-0003-reviewer-packet.md`](docs/standards/SLS-0003-reviewer-packet.md)
+  — all 42 grammar rules with their conforming and non-conforming examples in
+  one page, plus twelve priority questions that need a native-speaker
+  judgment. Reviewing SLS-0003 no longer requires reading the repository.
 - A lifecycle banner on grammar topic files `spec/grammar/0010`–`0017` stating
   that they keep the local spec-note status `Draft` while their governing
   standard SLS-0003 is `Proposed` and under comment.
@@ -63,6 +70,7 @@ releases, schema versions, and per-standard versions relate.
 - Completed the SLS-0002 through SLS-0005 proposal package. Their ≥14-day
   public-comment clocks begin when the proposal branch is published.
 - Marked the resources prerequisite complete for normative drafting.
+- Bumped SLS-0003 to `0.1.2` (PATCH — editorial cross-references only).
 - Bumped SLS-0000 through SLS-0005 to `0.1.1` (PATCH — editorial only; no
   requirement, example, or evidence mapping changed, and no standard advanced
   a lifecycle stage).
@@ -77,6 +85,11 @@ releases, schema versions, and per-standard versions relate.
   for released records.
 - **SLS-0004** — repaired an ungrammatical sentence in the long-dash edge
   case.
+- **SLS-0003** — cross-referenced the two `ha` particles. G15-R4 governs
+  prohibitive `ha` with a negative verb form; G12-R4 separately licenses the
+  third-person directive `Isagu ha qoro!` with an affirmative form. Neither
+  file mentioned the other, so an implementation reading G15-R4 alone would
+  report the licensed directive as an error.
 
 ## [0.1.0] - 2026-07-08
 
