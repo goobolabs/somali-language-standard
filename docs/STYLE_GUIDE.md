@@ -50,8 +50,8 @@ appear to disagree, the architecture wins; report the discrepancy.
 - UTF-8 throughout. Somali text is stored as written — never escaped into
   `\uXXXX` sequences where a literal character works.
 - Every record carries the common metadata block (`contributor`, `source`,
-  `date_added`, `review_status`, `license`) as defined by
-  `schemas/metadata-common.schema.json` (once published).
+  `date_added`, `review_status`, `license`, `schema_version`) as defined by
+  `schemas/metadata-common.schema.json`.
 - Records are **append-only**: add new lines at the end of the file;
   deprecate rather than delete; never re-sort a file in the same PR that adds
   content.

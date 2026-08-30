@@ -185,7 +185,7 @@ CI that enforces them — the point where the repository becomes self-checking.
 
 **Deliverables**
 
-- [ ] `schemas/metadata-common.schema.json` (provenance block)
+- [x] `schemas/metadata-common.schema.json` (provenance block)
 - [ ] `schemas/lexicon-entry.schema.json`
 - [ ] `schemas/terminology-entry.schema.json`
 - [ ] `schemas/sentence-pair.schema.json`
@@ -194,6 +194,10 @@ CI that enforces them — the point where the repository becomes self-checking.
 - [ ] `data/terminology/_domains.json` controlled vocabulary
 - [ ] `tools/validators/`: schema validator + cross-reference (duplicate /
       dangling `sls_id`) validator
+  - [x] Rust JSON/JSONL schema-validator foundation with valid and invalid
+        fixtures
+  - [ ] Local schema-reference registry and automatic file-to-schema routing
+  - [ ] Duplicate and dangling `sls_id` validation
 - [ ] `validate.yml` implemented: lint, schema validation, cross-ref checks,
       metadata completeness on every PR
 
@@ -203,6 +207,9 @@ locally with one command.
 
 **Dependencies:** Phase 0; informed by Phases 1–3 (field semantics follow the
 spec drafts).
+
+The initial record-format audit and the routing questions that remain open are
+recorded in [`docs/schema-audit.md`](docs/schema-audit.md).
 
 ---
 

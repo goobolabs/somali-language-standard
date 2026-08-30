@@ -131,8 +131,8 @@ end to end.
   **append-only and permanent** — never renumber, never reuse, even for
   deprecated entries. Take the next available sequence number.
 - **Provenance is mandatory**: every record carries `contributor`, `source`,
-  `date_added`, `review_status`, and `license`. Records without provenance
-  will not be merged.
+  `date_added`, `review_status`, `license`, and `schema_version`. Records
+  without complete metadata will not be merged.
 - **Rights**: only contribute text you have the right to contribute. Corpora
   material must be rights-cleared or permissioned; when in doubt, don't.
 - **Licensing**: all data contributions are made under **CC BY 4.0**.

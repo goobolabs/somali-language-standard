@@ -12,6 +12,14 @@ releases, schema versions, and per-standard versions relate.
 
 ### Added
 
+- Phase 4 record-format audit documenting the current schema surfaces, strict
+  common-metadata decisions, and unresolved dataset-routing differences.
+- `schemas/metadata-common.schema.json` — the first draft 2020-12 machine
+  contract, requiring complete provenance, review, licensing, and schema
+  version metadata.
+- Rust validator workspace under `tools/validators/` with offline JSON and
+  line-by-line JSONL validation, asserted date formats, line-precise
+  diagnostics, and accepted/invalid fixture tests.
 - Standards framework (`standards/`) per ARCHITECTURE.md §30: `TEMPLATE.md`
   (the §24 formal template), `registry.json` (machine-readable source of truth,
   seeded with the full 53-standard launch set), `REGISTRY.md` (human mirror),

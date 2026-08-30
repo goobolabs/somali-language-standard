@@ -57,12 +57,16 @@ and the later human-review gates remain external lifecycle work; their exact
 state is tracked in
 [`docs/standards/MILESTONE-2-READINESS.md`](docs/standards/MILESTONE-2-READINESS.md).
 
-## Milestone 3 — Schemas *(v0.3)*
+## Milestone 3 — Schemas *(in progress — target v0.3)*
 
 The machine-readable contracts everything else validates against:
 `metadata-common`, lexicon entry, terminology entry, sentence pair, grammar
 rule, benchmark item. First version of the CI validation pipeline enforcing
 them on every pull request.
+
+The shared metadata contract and Rust JSON/JSONL validator foundation are now
+implemented. Payload schemas, cross-reference checks, automatic schema routing,
+and CI enforcement remain open.
 
 ## Milestone 4 — Lexicon *(v0.4)*
 

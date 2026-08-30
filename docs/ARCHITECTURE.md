@@ -334,11 +334,13 @@ All schemas share a **common metadata block** via `$ref` to `metadata-common.sch
 
 ```json
 {
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "metadata-common.schema.json",
+  "schema_version": "1.0.0",
   "$defs": {
     "provenance": {
       "type": "object",
-      "required": ["contributor", "date_added", "review_status", "license"],
+      "required": ["contributor", "source", "date_added", "review_status", "license", "schema_version"],
       "properties": {
         "contributor": { "type": "string" },
         "reviewers": { "type": "array", "items": { "type": "string" } },
@@ -346,10 +348,11 @@ All schemas share a **common metadata block** via `$ref` to `metadata-common.sch
         "date_modified": { "type": "string", "format": "date" },
         "review_status": { "enum": ["draft", "reviewed", "verified", "deprecated"] },
         "source": { "type": "string" },
-        "license": { "type": "string" },
+        "license": { "const": "CC BY 4.0" },
         "schema_version": { "type": "string" },
         "since_version": { "type": "string" }
-      }
+      },
+      "additionalProperties": false
     }
   }
 }
