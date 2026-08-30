@@ -10,13 +10,13 @@ evidenced.
 
 - **Standard:** SLS-0004 Somali Punctuation Standard
 - **Status:** Proposed
-- **Version:** 0.1.1
+- **Version:** 0.2.0
 - **Comment period opened:** 2026-08-23 (published in [pull request #7](https://github.com/goobolabs/somali-language-standard/pull/7))
 - **Earliest close (≥14 days):** 2026-09-06
 - **Comment venue:** [issue #12](https://github.com/goobolabs/somali-language-standard/issues/12)
 - **Normative document:** [`spec/orthography/0004-punctuation.md`](../../spec/orthography/0004-punctuation.md)
 
-The comment period is open. It cannot close before 2026-09-06. One comment is `open` and blocks the `Proposed → Review` transition.
+The comment period is open. It cannot close before 2026-09-06. No comment is `open`: the R16 conflict recorded as M-2 was resolved in 0.2.0, and comment on that resolution is invited in issue #12.
 
 ## How to comment
 
@@ -42,7 +42,7 @@ any lifecycle stage, `Stable` included.
 | ID | Date | Source | Comment | Disposition | Resolution |
 | --- | --- | --- | --- | --- | --- |
 | M-1 | 2026-08-30 | maintainer audit | The Edge Cases long-dash bullet was ungrammatical: “Interruption use is attested, but exact Unicode character, and R14–R15 define U+2014…”. | `accepted-editorial` | Rewrote the sentence in 0.1.1 without changing its meaning. |
-| M-2 | 2026-08-30 | maintainer audit | R16 offers `" "` / `' '` as one of three accepted quotation profiles, and its own final sentence states that straight U+0027 MUST NOT be classified as quotation punctuation until SLS-0001 glottal-stop normalization has resolved its lexical use. A conforming writer cannot use the straight single-quote half of the profile the same rule offers. The Edge Cases “Quotation profiles” bullet repeats the offer. | `open` | Not resolved by editorial correction: removing `' '` from the accepted straight profile narrows a MAY-level allowance and is a normative change, not a PATCH. Recommended resolution for the interim Council: restrict the straight profile to `" "` for the outer level and require a curly or guillemet pair for a nested level, keeping U+0027 reserved for glottal-stop normalization. Left open for public comment. |
+| M-2 | 2026-08-30 | maintainer audit | R16 offers `" "` / `' '` as one of three accepted quotation profiles, and its own final sentence states that straight U+0027 MUST NOT be classified as quotation punctuation until SLS-0001 glottal-stop normalization has resolved its lexical use. A conforming writer cannot use the straight single-quote half of the profile the same rule offers. The Edge Cases “Quotation profiles” bullet repeats the offer. | `accepted` | Resolved 2026-08-30 in 0.2.0. R16 now lists curly double/single, straight double (U+0022), and guillemets as the accepted profiles, and excludes straight U+0027 outright: SLS-0001 R7 reserves it as the glottal-stop input alias, and one character cannot be normalized as a letter and read as a delimiter in the same text. Because the straight profile has no second level, R16 requires a curly single or single-guillemet pair for a quotation nested inside a straight-double pair. The Edge Cases quotation-profile bullet, the R16 example row, and compliance row C13 were updated to match. MAJOR by SLS-0000 R11, taken on the minor position pre-1.0. |
 
 ## Transition record
 

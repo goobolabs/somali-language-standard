@@ -21,16 +21,16 @@ drafted.
 
 | ID | Title | Status | Version | Owner |
 |---|---|---|---|---|
-| SLS-0000 | SLS Standards Process Standard | Proposed | 0.2.0 | maintainers |
+| SLS-0000 | SLS Standards Process Standard | Review | 0.2.0 | maintainers |
 
 ## Foundation (`SLS-0001`–`0099`)
 
 | ID | Title | Status | Version | Owner |
 |---|---|---|---|---|
-| SLS-0001 | Somali Alphabet Standard | Proposed | 0.1.1 | maintainers |
+| SLS-0001 | Somali Alphabet Standard | Review | 0.1.1 | maintainers |
 | SLS-0002 | Somali Orthography Standard | Proposed | 0.1.1 | maintainers |
 | SLS-0003 | Somali Grammar Standard | Proposed | 0.1.3 | maintainers |
-| SLS-0004 | Somali Punctuation Standard | Proposed | 0.1.1 | maintainers |
+| SLS-0004 | Somali Punctuation Standard | Proposed | 0.2.0 | maintainers |
 | SLS-0005 | Somali Capitalization Standard | Proposed | 0.1.1 | maintainers |
 
 ## Lexicon (`SLS-0100`–`0199`)
