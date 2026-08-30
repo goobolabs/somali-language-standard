@@ -2,8 +2,8 @@
 id: "0018"
 sls_id: SLS-0003
 title: Somali Grammar Standard
-version: 0.1.1
-standard_version: 0.1.1
+version: 0.1.2
+standard_version: 0.1.2
 status: Proposed
 category: foundation
 owner: language-council
@@ -31,6 +31,9 @@ revision_history:
   - version: 0.1.1
     date: 2026-08-30
     change: "Editorial: added a lifecycle banner to topic files 0010–0017; linked the public review log"
+  - version: 0.1.2
+    date: 2026-08-30
+    change: "Editorial: cross-referenced the directive `ha` (G12-R4) and the prohibitive `ha` (G15-R4) in both topic files; added the reviewer packet"
 ---
 
 > **Proposed status:** This document and its implemented topic specifications
@@ -204,6 +207,7 @@ support a `Stable` compliance claim.
 - Reviewed paradigms curated in
   [`resources/sarfe/`](../../resources/sarfe/).
 - [`SLS-0003 review log`](../../docs/standards/SLS-0003-review-log.md) — the public-comment record for this standard.
+- [`SLS-0003 reviewer packet`](../../docs/standards/SLS-0003-reviewer-packet.md) — every rule and example in one page, for the linguist reviewer.
 
 ## Revision History
 
@@ -211,3 +215,4 @@ support a `Stable` compliance claim.
 | --- | --- | --- |
 | 0.1.0 | 2026-08-23 | Initial evidence-mapped draft |
 | 0.1.1 | 2026-08-30 | Editorial: added a lifecycle banner to topic files 0010–0017; linked the public review log |
+| 0.1.2 | 2026-08-30 | Editorial: cross-referenced the directive `ha` (G12-R4) and the prohibitive `ha` (G15-R4) in both topic files; added the reviewer packet |

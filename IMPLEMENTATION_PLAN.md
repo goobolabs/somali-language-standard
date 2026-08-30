@@ -141,7 +141,14 @@ public review in [pull request #7](https://github.com/goobolabs/somali-language-
 on 2026-08-23; comments are filed on
 [issue #11](https://github.com/goobolabs/somali-language-standard/issues/11) and
 recorded in [`docs/standards/SLS-0003-review-log.md`](docs/standards/SLS-0003-review-log.md).
-Recurring linguist reviewer engagement remains.
+Recurring linguist reviewer engagement is the **only** completion criterion
+still open: the eight topic documents and the wrapper are drafted, and SLS-0003
+is at `Proposed`. To make that gate reachable,
+[`docs/REVIEWERS.md`](docs/REVIEWERS.md) defines the role and
+[`docs/standards/SLS-0003-reviewer-packet.md`](docs/standards/SLS-0003-reviewer-packet.md)
+puts all 42 rules, their examples, and twelve priority questions on one page,
+so a reviewer never has to read the repository. Recruitment runs on calendar
+time and does not block Phase 4.
 
 **Objective:** The core grammar layer (SLS-0003): parts of speech, noun
 morphology, verb system, pronouns, sentence structure, negation, questions,
