@@ -29,10 +29,10 @@ reported error for every user of every tool that adopts it.
 You do not have to do all 42. A verdict on the [priority questions](#priority-questions)
 alone is a complete, citable review.
 
-**Per-rule progress:** 24 of 42 rules have maintainer native-speaker verdicts:
+**Per-rule progress:** 28 of 42 rules have maintainer native-speaker verdicts:
 G10-R1 through G10-R4, G11-R1 through G11-R5, G12-R1 through G12-R5,
-G13-R1 through G13-R6, and G14-R1 through G14-R4 were approved on 2026-08-30
-as MR-13 through MR-36.
+G13-R1 through G13-R6, G14-R1 through G14-R6, and G15-R1 through G15-R2 were
+approved on 2026-08-30 as MR-13 through MR-40.
 
 ## Conventions used below
 
@@ -91,15 +91,15 @@ as MR-13 through MR-36.
 | **G14-R2** | A verb that selects a prepositional relation MUST retain the required preposition and associated clitic material. | Mire baa ku fariistay kursiga. | \*Mire baa fariistay kursiga. | **OK — MR-34** |
 | **G14-R3** | In the reviewed `baa` or `ayaa` focus construction, the focus particle MUST follow its focused constituent and precede the verbal group. | Wiilkii baa yimid. | \*Wiilkii yimid baa. | **OK — MR-35** |
 | **G14-R4** | In the reviewed subject–focused-object–verb order, the verbal group MUST contain the agreeing subject clitic; bare `baa` MUST NOT replace that clitic. | Wiilkii moos buu cunay. | \*Wiilkii moos baa cunay. | **OK — MR-36** |
-| **G14-R5** | In an affirmative declarative `waa` construction, `waa` and its subject-clitic realization MUST occur at the beginning of the verbal group rather than between a verb and its selected complement. | Cali Axmed wuu dilay. | \*Cali wuu Axmed dilay. |  |
-| **G14-R6** | When two direct post-nominal modifiers require the linker `ee`, the linker MUST be retained between the modifier units. | dukaanka dharka ee Cali | \*dukaanka dharka Cali |  |
+| **G14-R5** | In an affirmative declarative `waa` construction, `waa` and its subject-clitic realization MUST occur at the beginning of the verbal group rather than between a verb and its selected complement. | Cali Axmed wuu dilay. | \*Cali wuu Axmed dilay. | **OK — MR-37** |
+| **G14-R6** | When two direct post-nominal modifiers require the linker `ee`, the linker MUST be retained between the modifier units. | dukaanka dharka ee Cali | \*dukaanka dharka Cali | **OK — MR-38** |
 
 ## 0015 — Negation
 
 | Rule | Requirement | Conforming | Non-conforming (`*` = stated reading only) | Verdict |
 | --- | --- | --- | --- | --- |
-| **G15-R1** | In the reviewed free-negative verbal construction, `ma` MUST precede the verbal group and the verb MUST use its licensed negative form. | Cali hadiyad ma keenin. | \*Cali hadiyad ma keenay. |  |
-| **G15-R2** | A negated nominal predicate using `ah` MUST be expressed with the reviewed form `ma aha`; affirmative `waa` MUST NOT be retained as though it alone carried negation. | Muuse macallin ma aha. | \*Muuse waa macallin ma ah. |  |
+| **G15-R1** | In the reviewed free-negative verbal construction, `ma` MUST precede the verbal group and the verb MUST use its licensed negative form. | Cali hadiyad ma keenin. | \*Cali hadiyad ma keenay. | **OK — MR-39** |
+| **G15-R2** | A negated nominal predicate using `ah` MUST be expressed with the reviewed form `ma aha`; affirmative `waa` MUST NOT be retained as though it alone carried negation. | Muuse macallin ma aha. | \*Muuse waa macallin ma ah. | **OK — MR-40** |
 | **G15-R3** | In the reviewed focused negative construction, the negative focus form in `-aan` MUST agree with the subject and MUST be followed by the licensed negative verb form. | Cali hadiyad buusan keenin. | \*Cali hadiyad baan keenin. |  |
 | **G15-R4** | A negative command MUST use prohibitive `ha` with the reviewed negative form; it MUST NOT combine `ha` with an affirmative imperative as a mechanically prefixed command. | Waxba ha keenin. | \*Waxba ha keen. |  |
 | **G15-R5** | Interrogative `ma` and negative `ma` MUST NOT be doubled in one construction to express a negative yes-or-no question; the reviewed fused negative interrogative construction MUST be used. | Ma Axmed baan hilibka cunin? | \*Cali hadiyad ma ma keenin? |  |

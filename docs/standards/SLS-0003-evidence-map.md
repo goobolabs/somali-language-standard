@@ -152,6 +152,10 @@ reviewer's complete wording and each written disposition are preserved in the
 | MR-34 | G14-R2 | Native-speaker per-rule approval of selected preposition `ku` with `fariistay` | Retain the rule and examples unchanged |
 | MR-35 | G14-R3 | Native-speaker per-rule approval of focus-particle placement after the focused constituent and before the verbal group | Retain the rule and examples unchanged |
 | MR-36 | G14-R4 | Native-speaker per-rule approval of the required subject clitic in object focus and the meaning change caused by bare `baa` | Retain the rule and examples unchanged |
+| MR-37 | G14-R5 | Native-speaker per-rule approval of clitic–verb adjacency in the reviewed `waa` construction | Retain the rule and examples unchanged |
+| MR-38 | G14-R6 | Native-speaker per-rule approval of linker `ee` between two post-nominal modifiers | Retain the rule and examples unchanged |
+| MR-39 | G15-R1 | Native-speaker per-rule approval of preverbal `ma` with the licensed negative verb form | Retain the rule and examples unchanged |
+| MR-40 | G15-R2 | Native-speaker per-rule approval of negative nominal-predicate `ma aha` and rejection of retained affirmative `waa` | Retain the rule and examples unchanged |
 
 ## Scope resolutions
 
