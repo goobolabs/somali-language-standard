@@ -10,17 +10,23 @@ evidenced.
 
 - **Standard:** SLS-0003 Somali Grammar Standard
 - **Status:** Proposed
-- **Version:** 0.2.0
+- **Version:** 0.3.0
 - **Comment period opened:** 2026-08-23 (published in [pull request #7](https://github.com/goobolabs/somali-language-standard/pull/7))
 - **Earliest close (≥14 days):** 2026-09-06
 - **Comment venue:** [issue #11](https://github.com/goobolabs/somali-language-standard/issues/11)
 - **Normative document:** [`spec/grammar/0018-somali-grammar-standard.md`](../../spec/grammar/0018-somali-grammar-standard.md)
 
-The comment period is open. It cannot close before 2026-09-06. No comment is `open`.
+The comment period is open. It cannot close before 2026-09-06. No comment is
+`open`.
 
-**Maintainer review status:** in progress. The first batch — packet questions Q1, Q3, Q4, and Q5 — was answered on 2026-08-30 and is recorded below as MR-1 through MR-4. The remaining priority questions (Q2, Q6–Q12) and the per-rule verdicts across all 42 rules are still outstanding; the `Review → Candidate` gate in SLS-0000 R9 needs them finished and dispositioned. The review is by the maintainer, who is a native speaker; it is not independent, and is labelled as such wherever it is cited. One comment is `open`. The reviewer-facing summary of this
-standard is [`SLS-0003-reviewer-packet.md`](SLS-0003-reviewer-packet.md); the
-role is described in [`docs/REVIEWERS.md`](../REVIEWERS.md).
+**Maintainer review status:** in progress. The first two batches answered packet
+questions Q1–Q8 on 2026-08-30 and are recorded below as MR-1 through MR-8.
+Questions Q9–Q12 and the per-rule verdicts across all 42 rules remain; the
+`Review → Candidate` gate in SLS-0000 R9 needs them finished and dispositioned.
+The review is by the maintainer, who is a native speaker; it is not independent,
+and is labelled as such wherever it is cited. The reviewer-facing summary is
+[`SLS-0003-reviewer-packet.md`](SLS-0003-reviewer-packet.md); the role is
+described in [`docs/REVIEWERS.md`](../REVIEWERS.md).
 
 ## How to comment
 
@@ -52,6 +58,10 @@ any lifecycle stage, `Stable` included.
 | MR-2 | 2026-08-30 | maintainer review (native speaker) — packet Q1 | "Yes, it is a clean split. The word *ha* does two very different jobs depending on the person. First, it makes a negative command for the person you are talking to: *Waxba ha keenin* = 'Do not bring anything'. Second, it makes a positive command for someone else: *Isagu ha qoro* = 'Let him write'. A grammar checker reading only the first rule will wrongly flag *ha qoro*. The checker must know that *ha* makes a positive sentence when used with third-person verbs." | `accepted` | Confirms the M-2 finding and sharpens its fix. The cross-references added in 0.1.2 said the two constructions differ by the following verb form; 0.2.0 states the discriminator the reviewer gave — the **person and form** of the following verb — in both `0012` and `0015`. |
 | MR-3 | 2026-08-30 | maintainer review (native speaker) — packet Q4 | "The second sentence is genuinely wrong if you want to say 'The boy ate a banana'. The word *buu* is a mix of *baa* and *uu* (he). You need the pronoun *uu* to show the boy did the eating. If you only use *baa*, it makes the noun right before it the subject. This means *Wiilkii moos baa cunay* literally translates to 'A banana ate the boy'. Native speakers do not write or say this by mistake." | `accepted` | G14-R4 stands as written. 0.2.0 adds the reviewer's explanation as an edge case: the construction is not merely unattested, it asserts something else, because bare `baa` makes the immediately preceding noun the subject. This is what an implementer needs in order to write the diagnostic message. |
 | MR-4 | 2026-08-30 | maintainer review (native speaker) — packet Q5 | "The second sentence is always wrong. In Somali, a focus word like *wuu* must go right next to the verb. *Cali Axmed wuu dilay* is correct because *wuu* is directly in front of the verb *dilay*. You cannot put a noun like *Axmed* between *wuu* and the verb. There is no situation where the second sentence is correct." | `accepted` | G14-R5 is sharpened in 0.2.0 to state the adjacency requirement directly: nominal material MUST NOT intervene between the clitic and its verb. An edge case records that the failure in `*Cali wuu Axmed dilay` is the intervening noun, not the relative order of `Cali` and `Axmed`. |
+| MR-5 | 2026-08-30 | maintainer review (native speaker) — packet Q2 | "Somali nouns often change gender when they become plural. This is a broad and regular rule. But the way a noun forms its plural is not regular. You cannot always guess the plural form from the singular word. You must record the plural form for each word in the dictionary. Once you know the plural form and its ending, the gender flip follows a regular pattern." | `accepted` | G11-R3 now requires the plural form to be recorded per noun rather than predicted from the singular. G11-R5 now separates that lexical step from the regular plural-gender polarity that applies once the reviewed plural form and ending class are known. |
+| MR-6 | 2026-08-30 | maintainer review (native speaker) — packet Q6 | "The word *miyaa* cannot start a sentence with a nominal predicate. The second sentence is completely wrong. You can put *miyaa* at the end of the sentence. You can also put it right after the subject. For example, *Cali miyaa macallin ah?* is correct. If you want to start the sentence with a question word, you must use the word *ma*. For example, you can say *Ma Cali baa macallin ah?*." | `accepted` | G16-R2 now names both licensed nominal-predicate positions and the clause-initial `ma ... baa ... ah` alternative. The example matrix includes all three conforming patterns and retains clause-initial `*Miyaa Cali macallin?` as non-conforming for this reading. |
+| MR-7 | 2026-08-30 | maintainer review (native speaker) — packet Q7 | "Yes, they follow the exact same rules. The question endings *-kee* and *-tee* share the same gender classes and sound changes as the definite articles *-ka* and *-ta*. The consonant in the suffix changes in the exact same way. If a word takes *-da*, it takes *-dee*. For example, *magaalada* becomes *magaaladee*. If a word takes *-sha*, it takes *-shee*. For example, *meesha* becomes *meeshee*. There are no exceptions where the rules split." | `accepted` | G16-R4 now explicitly inherits the definite article's gender classes and consonant allomorphy. The example matrix adds `magaalada → magaaladee` and `meesha → meeshee`; no separate interrogative exception class is licensed. |
+| MR-8 | 2026-08-30 | maintainer review (native speaker) — packet Q8 | "It is flat-out wrong for the mass reading. You cannot count a substance directly. But it is perfectly fine and very common when you mean one unit. People say this in daily life to ask for one bag, one cup, or one packet of sugar. In formal writing, you should add a measure word. You should write something like *hal koob oo sonkor ah* to mean one cup of sugar." | `accepted` | G11-R4 and its examples now distinguish the invalid literal mass reading from common contextual unit ellipsis. Formal prose is directed to state the measure explicitly, with `hal koob oo sonkor ah` as the reviewed example. |
 
 ## Transition record
 

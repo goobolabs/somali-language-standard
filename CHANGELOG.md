@@ -65,6 +65,16 @@ releases, schema versions, and per-standard versions relate.
 
 ### Changed
 
+- **SLS-0003 → `0.3.0`, second batch of the maintainer native-speaker
+  review.** G11-R3 now requires each noun's plural form to be recorded rather
+  than predicted from its singular, while G11-R5 separately enforces regular
+  plural-gender polarity after the plural form and ending class are known.
+  G11-R4 distinguishes an invalid direct mass reading from common contextual
+  unit ellipsis and recommends an explicit measure in formal writing. G16-R2
+  records the two licensed nominal-predicate positions of `miyaa` and the
+  clause-initial `ma ... baa ... ah` alternative. G16-R4 now explicitly reuses
+  definite-article gender classes and consonant allomorphy. Recorded as MR-5
+  through MR-8 in the review log.
 - **SLS-0003 → `0.2.0`, first batch of the maintainer native-speaker review.**
   G13-R2's inclusive/exclusive rows are replaced by a real sentence pair
   (`Annaga ayaa baxayna.` / `Innaga ayaa baxayna.`) and the attested

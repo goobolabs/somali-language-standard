@@ -53,9 +53,9 @@ alone is a complete, citable review.
 | --- | --- | --- | --- | --- |
 | **G11-R1** | A noun's grammatical gender MUST be determined from reviewed agreement behaviour, not inferred only from the natural sex of its referent or the shape of the isolated noun. | Deeradu biyo bay cabtay. | \*Deeradu biyo buu cabbay. |  |
 | **G11-R2** | A definite article MUST agree with the reviewed gender and phonological class of its noun. | Ninka ayaan la hadlay.<br>Naagta ayaan la hadlay. | \*Ninta ayaan la hadlay.<br>\*Naagka ayaan la hadlay. |  |
-| **G11-R3** | A plural form MUST follow a reviewed paradigm for that noun or noun class. | buug → buugag | \*buug → buugyo |  |
-| **G11-R4** | Mass and collective nouns MUST NOT be forced into ordinary singular-count interpretation when the intended reading is uncounted or collective. | Sonkor badan baan rabaa. | \*hal sonkor |  |
-| **G11-R5** | Agreement with a plural noun MUST follow the reviewed gender of the plural form, even when that gender differs from the singular noun's gender. | Inankaas baa dheer; Inamadaas baa dhaadheer. | \*Inamakaas baa dhaadheer. |  |
+| **G11-R3** | A noun's plural form MUST be recorded in a reviewed lexical entry or paradigm for that noun; it MUST NOT be predicted from the singular spelling. | buug → buugag | \*buug → buugyo |  |
+| **G11-R4** | A mass or collective MUST NOT be forced into a singular-count reading when the intended reading is uncounted or collective; contextual unit ellipsis MAY be accepted, while formal writing SHOULD name the measure. | Sonkor badan baan rabaa.<br>Hal sonkor. — one contextual unit<br>Hal koob oo sonkor ah. | \*Hal sonkor. — intended: one unmeasured quantity of sugar |  |
+| **G11-R5** | Once a reviewed plural form and ending class are known, agreement MUST follow that class's regular gender polarity; the plural form itself MUST NOT be predicted from the gender switch. | Inankaas baa dheer; Inamadaas baa dhaadheer. | \*Inamakaas baa dhaadheer. |  |
 
 ## 0012 — Verb System: Tense, Aspect, and Mood
 
@@ -104,9 +104,9 @@ alone is a complete, citable review.
 | Rule | Requirement | Conforming | Non-conforming (`*` = stated reading only) | Verdict |
 | --- | --- | --- | --- | --- |
 | **G16-R1** | In the reviewed yes-or-no construction with `ma`, the interrogative particle and the focus particle MUST identify the same focused constituent or the licensed verbal focus. | Ma Axmed baa hadiyad keenay?<br>Axmed hadiyad ma keenay? | \*Ma Axmed hadiyad buu keenay? |  |
-| **G16-R2** | `miyaa` and its agreement forms MUST occupy the position licensed by the focused constituent and predicate type; they MUST NOT be moved mechanically to clause-initial position. | Wiilkii miyaa ka tegaya?<br>Cali macallin miyaa? | \*Miyaa Cali macallin? |  |
+| **G16-R2** | `miyaa` MUST occupy the position licensed by the focus and predicate type. In a nominal-predicate question, it MAY follow the subject before a predicate with `ah`, or follow the nominal predicate, but MUST NOT begin the clause; clause-initial questioning uses the reviewed `ma ... baa ... ah` construction. | Wiilkii miyaa ka tegaya?<br>Cali miyaa macallin ah?<br>Cali macallin miyaa?<br>Ma Cali baa macallin ah? | \*Miyaa Cali macallin? |  |
 | **G16-R3** | A constituent question MUST use a reviewed interrogative form and MUST keep that interrogative constituent adjacent to its associated focus marking where the construction requires adjacency. | Xaggee baa Axmed aaday? | \*Xaggee Axmed baa aaday? |  |
-| **G16-R4** | The interrogative modifiers `-kee` and `-tee` MUST follow the reviewed gender and phonological class of their head noun. | Macallinkee baa yimid?<br>Naagtee baa timid? | \*Naagkee baa timid? |  |
+| **G16-R4** | The `-kee`/`-tee` interrogative series MUST select exactly the same gender class and consonant allomorph as the head noun's definite article. | Macallinkee baa yimid?<br>Naagtee baa timid?<br>magaalada → magaaladee<br>meesha → meeshee | \*Naagkee baa timid? |  |
 | **G16-R5** | An indirect question with a reviewed `halka` or `goorta` construction MUST be integrated as a subordinate constituent rather than punctuated or ordered as an independent direct question. | Weyddii halkuu tegayo. | Weyddii: “Xaggee buu tegayaa?” |  |
 
 ## 0017 — Common Grammar Mistakes
@@ -131,7 +131,8 @@ where `ha` is followed by an affirmative form. Is that contrast stable enough
 for a checker to apply, and is G15-R4 worded so that it cannot flag a licensed
 `ha qoro`-type directive?
 
-**Q2 — Plural gender polarity (G11-R5).** `Inankaas baa dheer; Inamadaas baa
+**Q2 — Plural gender polarity (G11-R5).** *(Answered 2026-08-30 — MR-5; a
+second opinion is still welcome.)* `Inankaas baa dheer; Inamadaas baa
 dhaadheer.` Is gender switching in the plural regular enough to enforce as a
 rule, or must it be recorded per lexeme in the dictionary instead?
 
@@ -150,17 +151,20 @@ dialects, or speech?
 versus `*Cali wuu Axmed dilay.` Is the second always non-conforming, or is
 there a topicalized or emphatic reading that licenses it?
 
-**Q6 — `miyaa` position (G16-R2).** `*Miyaa Cali macallin?` is marked
-non-conforming for the nominal-predicate reading. Is clause-initial `miyaa`
-ever acceptable there?
+**Q6 — `miyaa` position (G16-R2).** *(Answered 2026-08-30 — MR-6; a second
+opinion is still welcome.)* `*Miyaa Cali macallin?` is marked non-conforming
+for the nominal-predicate reading. Is clause-initial `miyaa` ever acceptable
+there?
 
-**Q7 — `-kee` / `-tee` agreement (G16-R4).** Do the interrogative modifiers
-follow exactly the gender and phonological classes of the definite article, or
-are there noun classes where they diverge?
+**Q7 — `-kee` / `-tee` agreement (G16-R4).** *(Answered 2026-08-30 — MR-7; a
+second opinion is still welcome.)* Do the interrogative modifiers follow
+exactly the gender and phonological classes of the definite article, or are
+there noun classes where they diverge?
 
-**Q8 — `*hal sonkor` (G11-R4).** Is this ungrammatical, or acceptable under a
-unit reading (“one packet of sugar”)? If the latter, the rule needs the
-intended reading stated more tightly.
+**Q8 — `*hal sonkor` (G11-R4).** *(Answered 2026-08-30 — MR-8; a second opinion
+is still welcome.)* Is this ungrammatical, or acceptable under a unit reading
+(“one packet of sugar”)? If the latter, the rule needs the intended reading
+stated more tightly.
 
 **Q9 — Zero third-person object (G13-R4).** The standard requires first- and
 second-person object clitics but allows a zero third-person object. Is the

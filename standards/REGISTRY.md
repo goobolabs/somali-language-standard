@@ -29,7 +29,7 @@ drafted.
 |---|---|---|---|---|
 | SLS-0001 | Somali Alphabet Standard | Review | 0.1.1 | maintainers |
 | SLS-0002 | Somali Orthography Standard | Proposed | 0.1.1 | maintainers |
-| SLS-0003 | Somali Grammar Standard | Proposed | 0.2.0 | maintainers |
+| SLS-0003 | Somali Grammar Standard | Proposed | 0.3.0 | maintainers |
 | SLS-0004 | Somali Punctuation Standard | Proposed | 0.2.0 | maintainers |
 | SLS-0005 | Somali Capitalization Standard | Proposed | 0.1.1 | maintainers |
 

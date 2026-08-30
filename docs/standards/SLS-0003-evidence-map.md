@@ -1,8 +1,8 @@
 # SLS-0003 Grammar Evidence Map
 
 - **Status:** reviewed evidence map; approved 2026-08-23 as input to the
-  initial SLS-0003 `Draft` and retained for its `Proposed` review;
-  non-normative
+  initial SLS-0003 `Draft`, retained for its `Proposed` review, and supplemented
+  by recorded maintainer native-speaker review on 2026-08-30; non-normative
 - **Prepared:** 2026-08-23
 - **Target standard:** SLS-0003 Somali Grammar Standard
 - **Normative dependencies:** SLS-0001 and SLS-0002
@@ -36,6 +36,10 @@ sponsors the bounded decisions below under the interim-Council provision in
 6. **Example policy** — positive and negative examples in the first Draft are
    taken from, or narrowly adapted from, reviewed source pairs. English glosses
    are editorial aids and do not add a linguistic rule.
+7. **Review supplements** — a maintainer or public-comment judgment may refine
+   the initial evidence boundary only when its wording, disposition, and
+   resulting change are recorded in the SLS-0003 review log. Independent
+   corroboration remains welcome.
 
 ## Implemented topic set
 
@@ -68,13 +72,15 @@ use the maintained labels for interoperability.
 
 Somali noun gender is grammatical and applies to inanimate nouns as well as
 animate nouns. Agreement evidence, not natural sex alone, determines the
-normative examples. Reviewed plural gender can differ from singular gender.
+normative examples. Plural formation is lexical and must be recorded per noun;
+once the reviewed plural form and its ending class are known, plural-gender
+polarity follows the regular agreement pattern of that class.
 
 ### G4 — Paradigm boundary
 
 Only reviewed forms and explicitly described classes are normative. Tools must
-not generate a noun plural, verb form, pronoun combination, or sound change by
-analogy outside a documented class.
+not generate a noun plural from a singular, or generate a verb form, pronoun
+combination, or sound change by analogy outside a documented class.
 
 ### G5 — Focus and subject-clitic rules
 
@@ -87,6 +93,9 @@ labeled as limited to one reading remain limited.
 Orthographic surface forms governed by SLS-0002 are not re-segmented. SLS-0003
 defines the grammatical environment of the reviewed negative and question
 forms; it does not turn source-historical decompositions into spelling rules.
+Recorded review further fixes the two nominal-predicate positions of `miyaa`,
+the clause-initial `ma ... baa ... ah` alternative, and the inheritance of
+definite-article allomorphy by the `-kee`/`-tee` interrogative series.
 
 ### G7 — Variation and uncertain forms
 
@@ -98,6 +107,19 @@ reading stated in its rule.
 
 The common-mistakes file is a cross-reference and correction surface. It must
 not introduce a new rule unsupported by topic evidence.
+
+## Maintainer-review supplements — 2026-08-30
+
+These decisions supplement rather than replace the source families above. The
+reviewer's complete wording and each written disposition are preserved in the
+[SLS-0003 review log](SLS-0003-review-log.md#comments).
+
+| Decision | Rules | Evidence added | Result |
+| --- | --- | --- | --- |
+| MR-5 / Q2 | G11-R3, G11-R5 | Native-speaker judgment that plural formation is lexically unpredictable, while gender polarity is regular after the plural form and ending are known | Record each noun's plural; enforce the reviewed plural class's gender polarity |
+| MR-6 / Q6 | G16-R2 | Native-speaker judgment on nominal-predicate `miyaa` placement | License post-subject and predicate-final `miyaa`; reject it clause-initially for this reading; license clause-initial `ma ... baa ... ah` |
+| MR-7 / Q7 | G16-R4 | Native-speaker judgment that interrogative and definite suffixes share gender classes and consonant changes without exception | Reuse definite-article allomorphy, including `-da → -dee` and `-sha → -shee` |
+| MR-8 / Q8 | G11-R4 | Native-speaker distinction between direct mass counting, contextual unit ellipsis, and formal measure phrases | Reject the direct mass reading; accept contextual unit ellipsis; prefer an explicit formal measure |
 
 ## Scope resolutions
 
@@ -132,6 +154,8 @@ through
 and the
 [formal SLS-0003 wrapper](../../spec/grammar/0018-somali-grammar-standard.md).
 The founding maintainer accepted that completed Draft for `Proposed`
-publication as part of Milestone 2. Public comment begins when the proposal
-branch is published; the transition does not replace the required public
-linguistic and technical review.
+publication as part of Milestone 2. Public comment began in
+[pull request #7](https://github.com/goobolabs/somali-language-standard/pull/7)
+on 2026-08-23. Under SLS-0000 0.2.0, the maintainer records lifecycle decisions
+and the correction channel remains open at every stage; independent linguistic
+and technical review is welcome but is not a gate.
