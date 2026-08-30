@@ -133,7 +133,7 @@ advanced a lifecycle stage.
 | SLS-0000 | `Review` | A recorded maintainer review before `Candidate` |
 | SLS-0001 | `Review` | A recorded maintainer review before `Candidate` |
 | SLS-0002 | `Proposed` | Comment minimum, earliest close 2026-09-06 |
-| SLS-0003 | `Proposed` | Comment minimum; no `open` item; twelve priority questions and 12 of 42 per-rule verdicts complete; 30 rule verdicts remain for `Candidate` |
+| SLS-0003 | `Proposed` | Comment minimum; no `open` item; twelve priority questions and 16 of 42 per-rule verdicts complete; 26 rule verdicts remain for `Candidate` |
 | SLS-0004 | `Proposed` | Comment minimum; M-2 resolved in 0.2.0, no `open` item |
 | SLS-0005 | `Proposed` | Comment minimum |
 

@@ -29,9 +29,9 @@ reported error for every user of every tool that adopts it.
 You do not have to do all 42. A verdict on the [priority questions](#priority-questions)
 alone is a complete, citable review.
 
-**Per-rule progress:** 12 of 42 rules have maintainer native-speaker verdicts:
-G10-R1 through G10-R4, G11-R1 through G11-R5, and G12-R1 through G12-R3 were
-approved on 2026-08-30 as MR-13 through MR-24.
+**Per-rule progress:** 16 of 42 rules have maintainer native-speaker verdicts:
+G10-R1 through G10-R4, G11-R1 through G11-R5, G12-R1 through G12-R5, and
+G13-R1 through G13-R2 were approved on 2026-08-30 as MR-13 through MR-28.
 
 ## Conventions used below
 
@@ -68,15 +68,15 @@ approved on 2026-08-30 as MR-13 through MR-24.
 | **G12-R1** | A finite verb MUST use the reviewed person, number, and gender agreement required by its construction; reviewed reduced-agreement environments MUST NOT be diagnosed from surface number alone. | Cali baa keenay.<br>Asli baa keentay.<br>Nimankii baa yimid. | \*Asli baa keenay. | **OK — MR-22** |
 | **G12-R2** | A tense form MUST be selected from a reviewed conjugation and MUST preserve the temporal interpretation licensed by that form and its context. | keen — tagto: keenay | keen — tagto: keenaa | **OK — MR-23** |
 | **G12-R3** | A progressive or habitual construction MUST NOT be substituted silently for a simple completed-event form when the aspectual contrast changes the asserted meaning. | Nuur shalay ayuu cunay mallaay.<br>Nuur shalay buu cunayay mallaay. | cunay → cunayay, isla macne | **OK — MR-24** |
-| **G12-R4** | An imperative form MUST use the reviewed second-person paradigm; a non-second-person command meaning MUST use an independently licensed construction. | Qor!<br>Qora!<br>Isagu ha qoro! | \*Isagu qor! |  |
-| **G12-R5** | A generator or checker MUST NOT infer an unattested stem or ending merely by extending the most common conjugation pattern to an irregular verb. | imow → yimid | imow + -ay → imoway |  |
+| **G12-R4** | An imperative form MUST use the reviewed second-person paradigm; a non-second-person command meaning MUST use an independently licensed construction. | Qor!<br>Qora!<br>Isagu ha qoro! | \*Isagu qor! | **OK — MR-25** |
+| **G12-R5** | A generator or checker MUST NOT infer an unattested stem or ending merely by extending the most common conjugation pattern to an irregular verb. | imow → yimid | imow + -ay → imoway | **OK — MR-26** |
 
 ## 0013 — Pronouns
 
 | Rule | Requirement | Conforming | Non-conforming (`*` = stated reading only) | Verdict |
 | --- | --- | --- | --- | --- |
-| **G13-R1** | An independent third-person singular pronoun MUST agree with the reviewed gender of its antecedent in a context that requires that contrast. | Faadumo ayaan la hadlay. = Iyada ayaan la hadlay. | Faadumo ayaan la hadlay. = Isaga ayaan la hadlay. |  |
-| **G13-R2** | First-person plural `annaga` MUST be used for an exclusive reading and `innaga` for an inclusive reading when the speaker explicitly distinguishes whether the addressee is included. | Annaga ayaa baxayna.<br>Innaga ayaa baxayna. | \*Annaga ayaa baxayna. — intended: the addressee is included |  |
+| **G13-R1** | An independent third-person singular pronoun MUST agree with the reviewed gender of its antecedent in a context that requires that contrast. | Faadumo ayaan la hadlay. = Iyada ayaan la hadlay. | Faadumo ayaan la hadlay. = Isaga ayaan la hadlay. | **OK — MR-27** |
+| **G13-R2** | First-person plural `annaga` MUST be used for an exclusive reading and `innaga` for an inclusive reading when the speaker explicitly distinguishes whether the addressee is included. | Annaga ayaa baxayna.<br>Innaga ayaa baxayna. | \*Annaga ayaa baxayna. — intended: the addressee is included | **OK — MR-28** |
 | **G13-R3** | A subject clitic in a reviewed focus construction MUST agree with the subject in person, number, and gender. | Adigu moos baad cuntay. | \*Adigu moos baa cuntay. |  |
 | **G13-R4** | A first- or second-person object MUST use its required clitic. An overt object noun or independent third-person pronoun MUST be preserved when it supplies plurality or prevents ambiguity; without an explicit object noun, first/second-person form, or independent object pronoun, a recoverable singular third-person object MAY be zero. | Cali baa adiga kuu soo ordayay.<br>Cali baa iyaga u yeeray.<br>Cali baa u yeeray. | \*Cali baa adiga u soo ordayay. |  |
 | **G13-R5** | `is` MUST be interpreted as reflexive or reciprocal according to the clause participants and context; `la` MUST NOT replace it when the intended meaning is reflexive or reciprocal. | Ninku wuu is dhaawacay.<br>Carruurtii way is arkeen. | Ninku waa la dhaawacay. |  |

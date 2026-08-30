@@ -140,6 +140,10 @@ reviewer's complete wording and each written disposition are preserved in the
 | MR-22 | G12-R1 | Native-speaker per-rule approval of person, gender, and number agreement together with reviewed reduced agreement under plural `baa` focus | Retain the rule and examples unchanged |
 | MR-23 | G12-R2 | Native-speaker per-rule approval of the `keenay` past and `keenaa` present-habitual tense contrast | Retain the rule and examples unchanged |
 | MR-24 | G12-R3 | Native-speaker per-rule approval of the completed-event and past-progressive contrast between `cunay` and `cunayay` | Retain the rule and examples unchanged |
+| MR-25 | G12-R4 | Native-speaker per-rule approval of second-person imperatives and the third-person `ha` directive construction | Retain the rule and examples unchanged |
+| MR-26 | G12-R5 | Native-speaker per-rule approval of `imow → yimid` and rejection of regularized `imoway` | Retain the rule and examples unchanged |
+| MR-27 | G13-R1 | Native-speaker per-rule approval of independent-pronoun gender agreement for `Faadumo`, `iyada`, and `isaga` | Retain the rule and examples unchanged |
+| MR-28 | G13-R2 | Native-speaker per-rule approval of the `annaga`/`innaga` contrast and its casual-neutralization boundary | Retain the rule, examples, and edge case unchanged |
 
 ## Scope resolutions
 
