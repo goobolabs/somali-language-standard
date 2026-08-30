@@ -164,6 +164,9 @@ reviewer's complete wording and each written disposition are preserved in the
 | MR-46 | G16-R3 | Native-speaker per-rule approval of adjacency between `xaggee` and its focus marker | Retain the rule and examples unchanged |
 | MR-47 | G16-R4 | Native-speaker per-rule approval of definite-article gender and sound rules for `-kee`/`-tee` interrogatives | Retain the rule and examples unchanged |
 | MR-48 | G16-R5 | Native-speaker per-rule approval of integrated `halka` indirect questions and the distinction from direct-question syntax | Retain the rule and examples unchanged |
+| MR-49 | G17-R1 | Native-speaker per-rule approval of the bounded agreement diagnostic, including accepted reduced agreement in `Nimankii baa yimid` | Retain the rule and examples unchanged |
+| MR-50 | G17-R2 | Native-speaker per-rule approval of focus and subject-clitic diagnostics for `buu` and `baad` | Retain the rule and examples unchanged |
+| MR-51 | G17-R3 | Native-speaker per-rule approval of selected-preposition diagnostics limited to reviewed lexical data | Retain the rule and examples unchanged |
 
 ## Scope resolutions
 
