@@ -136,6 +136,10 @@ reviewer's complete wording and each written disposition are preserved in the
 | MR-18 | G11-R2 | Native-speaker per-rule approval of definite-article gender concord and phonological assimilation | Retain the rule and examples unchanged |
 | MR-19 | G11-R3 | Native-speaker per-rule approval of explicit lexical storage for plural forms that cannot be safely generated from the singular | Retain the rule and examples unchanged |
 | MR-20 | G11-R4 | Native-speaker per-rule approval of the mass, contextual-unit, and explicit-measure distinction for `sonkor` | Retain the rule and examples unchanged |
+| MR-21 | G11-R5 | Native-speaker per-rule approval of plural gender polarity, including `inankaas`, `inamadaas`, and the rejected `inamakaas` | Retain the rule and examples unchanged |
+| MR-22 | G12-R1 | Native-speaker per-rule approval of person, gender, and number agreement together with reviewed reduced agreement under plural `baa` focus | Retain the rule and examples unchanged |
+| MR-23 | G12-R2 | Native-speaker per-rule approval of the `keenay` past and `keenaa` present-habitual tense contrast | Retain the rule and examples unchanged |
+| MR-24 | G12-R3 | Native-speaker per-rule approval of the completed-event and past-progressive contrast between `cunay` and `cunayay` | Retain the rule and examples unchanged |
 
 ## Scope resolutions
 

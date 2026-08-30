@@ -29,9 +29,9 @@ reported error for every user of every tool that adopts it.
 You do not have to do all 42. A verdict on the [priority questions](#priority-questions)
 alone is a complete, citable review.
 
-**Per-rule progress:** 8 of 42 rules have maintainer native-speaker verdicts:
-G10-R1 through G10-R4 and G11-R1 through G11-R4 were approved on 2026-08-30
-as MR-13 through MR-20.
+**Per-rule progress:** 12 of 42 rules have maintainer native-speaker verdicts:
+G10-R1 through G10-R4, G11-R1 through G11-R5, and G12-R1 through G12-R3 were
+approved on 2026-08-30 as MR-13 through MR-24.
 
 ## Conventions used below
 
@@ -59,15 +59,15 @@ as MR-13 through MR-20.
 | **G11-R2** | A definite article MUST agree with the reviewed gender and phonological class of its noun. | Ninka ayaan la hadlay.<br>Naagta ayaan la hadlay. | \*Ninta ayaan la hadlay.<br>\*Naagka ayaan la hadlay. | **OK — MR-18** |
 | **G11-R3** | A noun's plural form MUST be recorded in a reviewed lexical entry or paradigm for that noun; it MUST NOT be predicted from the singular spelling. | buug → buugag | \*buug → buugyo | **OK — MR-19** |
 | **G11-R4** | A mass or collective MUST NOT be forced into a singular-count reading when the intended reading is uncounted or collective; contextual unit ellipsis MAY be accepted, while formal writing SHOULD name the measure. | Sonkor badan baan rabaa.<br>Hal sonkor. — one contextual unit<br>Hal koob oo sonkor ah. | \*Hal sonkor. — intended: one unmeasured quantity of sugar | **OK — MR-20** |
-| **G11-R5** | Once a reviewed plural form and ending class are known, agreement MUST follow that class's regular gender polarity; the plural form itself MUST NOT be predicted from the gender switch. | Inankaas baa dheer; Inamadaas baa dhaadheer. | \*Inamakaas baa dhaadheer. |  |
+| **G11-R5** | Once a reviewed plural form and ending class are known, agreement MUST follow that class's regular gender polarity; the plural form itself MUST NOT be predicted from the gender switch. | Inankaas baa dheer; Inamadaas baa dhaadheer. | \*Inamakaas baa dhaadheer. | **OK — MR-21** |
 
 ## 0012 — Verb System: Tense, Aspect, and Mood
 
 | Rule | Requirement | Conforming | Non-conforming (`*` = stated reading only) | Verdict |
 | --- | --- | --- | --- | --- |
-| **G12-R1** | A finite verb MUST use the reviewed person, number, and gender agreement required by its construction; reviewed reduced-agreement environments MUST NOT be diagnosed from surface number alone. | Cali baa keenay.<br>Asli baa keentay.<br>Nimankii baa yimid. | \*Asli baa keenay. |  |
-| **G12-R2** | A tense form MUST be selected from a reviewed conjugation and MUST preserve the temporal interpretation licensed by that form and its context. | keen — tagto: keenay | keen — tagto: keenaa |  |
-| **G12-R3** | A progressive or habitual construction MUST NOT be substituted silently for a simple completed-event form when the aspectual contrast changes the asserted meaning. | Nuur shalay ayuu cunay mallaay.<br>Nuur shalay buu cunayay mallaay. | cunay → cunayay, isla macne |  |
+| **G12-R1** | A finite verb MUST use the reviewed person, number, and gender agreement required by its construction; reviewed reduced-agreement environments MUST NOT be diagnosed from surface number alone. | Cali baa keenay.<br>Asli baa keentay.<br>Nimankii baa yimid. | \*Asli baa keenay. | **OK — MR-22** |
+| **G12-R2** | A tense form MUST be selected from a reviewed conjugation and MUST preserve the temporal interpretation licensed by that form and its context. | keen — tagto: keenay | keen — tagto: keenaa | **OK — MR-23** |
+| **G12-R3** | A progressive or habitual construction MUST NOT be substituted silently for a simple completed-event form when the aspectual contrast changes the asserted meaning. | Nuur shalay ayuu cunay mallaay.<br>Nuur shalay buu cunayay mallaay. | cunay → cunayay, isla macne | **OK — MR-24** |
 | **G12-R4** | An imperative form MUST use the reviewed second-person paradigm; a non-second-person command meaning MUST use an independently licensed construction. | Qor!<br>Qora!<br>Isagu ha qoro! | \*Isagu qor! |  |
 | **G12-R5** | A generator or checker MUST NOT infer an unattested stem or ending merely by extending the most common conjugation pattern to an irregular verb. | imow → yimid | imow + -ay → imoway |  |
 
@@ -76,7 +76,7 @@ as MR-13 through MR-20.
 | Rule | Requirement | Conforming | Non-conforming (`*` = stated reading only) | Verdict |
 | --- | --- | --- | --- | --- |
 | **G13-R1** | An independent third-person singular pronoun MUST agree with the reviewed gender of its antecedent in a context that requires that contrast. | Faadumo ayaan la hadlay. = Iyada ayaan la hadlay. | Faadumo ayaan la hadlay. = Isaga ayaan la hadlay. |  |
-| **G13-R2** | First-person plural `annaga` MUST be used for an exclusive reading and `innaga` for an inclusive reading when the speaker explicitly distinguishes whether the addressee is included. | annaga — dhegeystaha kuma jiro<br>innaga — dhegeystuhu wuu ku jiraa | annaga — akhris mideeya |  |
+| **G13-R2** | First-person plural `annaga` MUST be used for an exclusive reading and `innaga` for an inclusive reading when the speaker explicitly distinguishes whether the addressee is included. | Annaga ayaa baxayna.<br>Innaga ayaa baxayna. | \*Annaga ayaa baxayna. — intended: the addressee is included |  |
 | **G13-R3** | A subject clitic in a reviewed focus construction MUST agree with the subject in person, number, and gender. | Adigu moos baad cuntay. | \*Adigu moos baa cuntay. |  |
 | **G13-R4** | A first- or second-person object MUST use its required clitic. An overt object noun or independent third-person pronoun MUST be preserved when it supplies plurality or prevents ambiguity; without an explicit object noun, first/second-person form, or independent object pronoun, a recoverable singular third-person object MAY be zero. | Cali baa adiga kuu soo ordayay.<br>Cali baa iyaga u yeeray.<br>Cali baa u yeeray. | \*Cali baa adiga u soo ordayay. |  |
 | **G13-R5** | `is` MUST be interpreted as reflexive or reciprocal according to the clause participants and context; `la` MUST NOT replace it when the intended meaning is reflexive or reciprocal. | Ninku wuu is dhaawacay.<br>Carruurtii way is arkeen. | Ninku waa la dhaawacay. |  |
