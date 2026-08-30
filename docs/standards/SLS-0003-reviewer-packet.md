@@ -29,8 +29,9 @@ reported error for every user of every tool that adopts it.
 You do not have to do all 42. A verdict on the [priority questions](#priority-questions)
 alone is a complete, citable review.
 
-**Per-rule progress:** 4 of 42 rules have maintainer native-speaker verdicts:
-G10-R1 through G10-R4 were approved on 2026-08-30 as MR-13 through MR-16.
+**Per-rule progress:** 8 of 42 rules have maintainer native-speaker verdicts:
+G10-R1 through G10-R4 and G11-R1 through G11-R4 were approved on 2026-08-30
+as MR-13 through MR-20.
 
 ## Conventions used below
 
@@ -54,10 +55,10 @@ G10-R1 through G10-R4 were approved on 2026-08-30 as MR-13 through MR-16.
 
 | Rule | Requirement | Conforming | Non-conforming (`*` = stated reading only) | Verdict |
 | --- | --- | --- | --- | --- |
-| **G11-R1** | A noun's grammatical gender MUST be determined from reviewed agreement behaviour, not inferred only from the natural sex of its referent or the shape of the isolated noun. | Deeradu biyo bay cabtay. | \*Deeradu biyo buu cabbay. |  |
-| **G11-R2** | A definite article MUST agree with the reviewed gender and phonological class of its noun. | Ninka ayaan la hadlay.<br>Naagta ayaan la hadlay. | \*Ninta ayaan la hadlay.<br>\*Naagka ayaan la hadlay. |  |
-| **G11-R3** | A noun's plural form MUST be recorded in a reviewed lexical entry or paradigm for that noun; it MUST NOT be predicted from the singular spelling. | buug → buugag | \*buug → buugyo |  |
-| **G11-R4** | A mass or collective MUST NOT be forced into a singular-count reading when the intended reading is uncounted or collective; contextual unit ellipsis MAY be accepted, while formal writing SHOULD name the measure. | Sonkor badan baan rabaa.<br>Hal sonkor. — one contextual unit<br>Hal koob oo sonkor ah. | \*Hal sonkor. — intended: one unmeasured quantity of sugar |  |
+| **G11-R1** | A noun's grammatical gender MUST be determined from reviewed agreement behaviour, not inferred only from the natural sex of its referent or the shape of the isolated noun. | Deeradu biyo bay cabtay. | \*Deeradu biyo buu cabbay. | **OK — MR-17** |
+| **G11-R2** | A definite article MUST agree with the reviewed gender and phonological class of its noun. | Ninka ayaan la hadlay.<br>Naagta ayaan la hadlay. | \*Ninta ayaan la hadlay.<br>\*Naagka ayaan la hadlay. | **OK — MR-18** |
+| **G11-R3** | A noun's plural form MUST be recorded in a reviewed lexical entry or paradigm for that noun; it MUST NOT be predicted from the singular spelling. | buug → buugag | \*buug → buugyo | **OK — MR-19** |
+| **G11-R4** | A mass or collective MUST NOT be forced into a singular-count reading when the intended reading is uncounted or collective; contextual unit ellipsis MAY be accepted, while formal writing SHOULD name the measure. | Sonkor badan baan rabaa.<br>Hal sonkor. — one contextual unit<br>Hal koob oo sonkor ah. | \*Hal sonkor. — intended: one unmeasured quantity of sugar | **OK — MR-20** |
 | **G11-R5** | Once a reviewed plural form and ending class are known, agreement MUST follow that class's regular gender polarity; the plural form itself MUST NOT be predicted from the gender switch. | Inankaas baa dheer; Inamadaas baa dhaadheer. | \*Inamakaas baa dhaadheer. |  |
 
 ## 0012 — Verb System: Tense, Aspect, and Mood

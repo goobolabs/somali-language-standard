@@ -132,6 +132,10 @@ reviewer's complete wording and each written disposition are preserved in the
 | MR-14 | G10-R2 | Native-speaker per-rule approval of nominal-function and noun-behaviour diagnostics, including `ninka` | Retain the rule and examples unchanged |
 | MR-15 | G10-R3 | Native-speaker per-rule approval of context-sensitive classification, including modifier and independent-pronoun uses of `kan` | Retain the rule and examples unchanged |
 | MR-16 | G10-R4 | Native-speaker per-rule approval of the linker, conjunction, and preposition distinction, including prepositional `ku` | Retain the rule and examples unchanged |
+| MR-17 | G11-R1 | Native-speaker per-rule approval of grammatical gender determined through syntactic agreement, including feminine `deero` | Retain the rule and examples unchanged |
+| MR-18 | G11-R2 | Native-speaker per-rule approval of definite-article gender concord and phonological assimilation | Retain the rule and examples unchanged |
+| MR-19 | G11-R3 | Native-speaker per-rule approval of explicit lexical storage for plural forms that cannot be safely generated from the singular | Retain the rule and examples unchanged |
+| MR-20 | G11-R4 | Native-speaker per-rule approval of the mass, contextual-unit, and explicit-measure distinction for `sonkor` | Retain the rule and examples unchanged |
 
 ## Scope resolutions
 

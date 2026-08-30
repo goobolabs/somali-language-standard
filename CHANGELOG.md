@@ -65,10 +65,11 @@ releases, schema versions, and per-standard versions relate.
 
 ### Changed
 
-- **SLS-0003 per-rule review: 4 of 42 verdicts complete, no version bump.**
+- **SLS-0003 per-rule review: 8 of 42 verdicts complete, no version bump.**
   The maintainer native-speaker review approved G10-R1 through G10-R4 and
-  their examples as written. The verdicts are recorded as MR-13 through MR-16;
-  no normative requirement, example, or version changed.
+  G11-R1 through G11-R4 with their examples as written. The verdicts are
+  recorded as MR-13 through MR-20; no normative requirement, example, or
+  version changed.
 - **SLS-0003 → `0.4.0`, third batch of the maintainer native-speaker review.**
   G13-R4 now distinguishes overt `iyaga` from a recoverable singular
   third-person zero object. G10-R1's nine primary classes and the `tifaftire`
