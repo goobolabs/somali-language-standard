@@ -144,6 +144,10 @@ reviewer's complete wording and each written disposition are preserved in the
 | MR-26 | G12-R5 | Native-speaker per-rule approval of `imow → yimid` and rejection of regularized `imoway` | Retain the rule and examples unchanged |
 | MR-27 | G13-R1 | Native-speaker per-rule approval of independent-pronoun gender agreement for `Faadumo`, `iyada`, and `isaga` | Retain the rule and examples unchanged |
 | MR-28 | G13-R2 | Native-speaker per-rule approval of the `annaga`/`innaga` contrast and its casual-neutralization boundary | Retain the rule, examples, and edge case unchanged |
+| MR-29 | G13-R3 | Native-speaker per-rule approval of second-person subject-clitic agreement in `Adigu moos baad cuntay` | Retain the rule and examples unchanged |
+| MR-30 | G13-R4 | Native-speaker per-rule approval of required first/second-person object clitics and the reviewed overt/zero third-person contrast | Retain the rule and examples unchanged |
+| MR-31 | G13-R5 | Native-speaker per-rule approval of reflexive and reciprocal `is` and the meaning change caused by replacement with `la` | Retain the rule and examples unchanged |
+| MR-32 | G13-R6 | Native-speaker per-rule approval of impersonal `la` for an unspecified agent and rejection of an explicit-agent reading | Retain the rule and examples unchanged |
 
 ## Scope resolutions
 

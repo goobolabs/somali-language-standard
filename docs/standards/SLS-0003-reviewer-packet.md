@@ -29,9 +29,9 @@ reported error for every user of every tool that adopts it.
 You do not have to do all 42. A verdict on the [priority questions](#priority-questions)
 alone is a complete, citable review.
 
-**Per-rule progress:** 16 of 42 rules have maintainer native-speaker verdicts:
+**Per-rule progress:** 20 of 42 rules have maintainer native-speaker verdicts:
 G10-R1 through G10-R4, G11-R1 through G11-R5, G12-R1 through G12-R5, and
-G13-R1 through G13-R2 were approved on 2026-08-30 as MR-13 through MR-28.
+G13-R1 through G13-R6 were approved on 2026-08-30 as MR-13 through MR-32.
 
 ## Conventions used below
 
@@ -77,10 +77,10 @@ G13-R1 through G13-R2 were approved on 2026-08-30 as MR-13 through MR-28.
 | --- | --- | --- | --- | --- |
 | **G13-R1** | An independent third-person singular pronoun MUST agree with the reviewed gender of its antecedent in a context that requires that contrast. | Faadumo ayaan la hadlay. = Iyada ayaan la hadlay. | Faadumo ayaan la hadlay. = Isaga ayaan la hadlay. | **OK — MR-27** |
 | **G13-R2** | First-person plural `annaga` MUST be used for an exclusive reading and `innaga` for an inclusive reading when the speaker explicitly distinguishes whether the addressee is included. | Annaga ayaa baxayna.<br>Innaga ayaa baxayna. | \*Annaga ayaa baxayna. — intended: the addressee is included | **OK — MR-28** |
-| **G13-R3** | A subject clitic in a reviewed focus construction MUST agree with the subject in person, number, and gender. | Adigu moos baad cuntay. | \*Adigu moos baa cuntay. |  |
-| **G13-R4** | A first- or second-person object MUST use its required clitic. An overt object noun or independent third-person pronoun MUST be preserved when it supplies plurality or prevents ambiguity; without an explicit object noun, first/second-person form, or independent object pronoun, a recoverable singular third-person object MAY be zero. | Cali baa adiga kuu soo ordayay.<br>Cali baa iyaga u yeeray.<br>Cali baa u yeeray. | \*Cali baa adiga u soo ordayay. |  |
-| **G13-R5** | `is` MUST be interpreted as reflexive or reciprocal according to the clause participants and context; `la` MUST NOT replace it when the intended meaning is reflexive or reciprocal. | Ninku wuu is dhaawacay.<br>Carruurtii way is arkeen. | Ninku waa la dhaawacay. |  |
-| **G13-R6** | Impersonal `la` MUST be used only where the human participant is left general or unspecified; it MUST NOT replace an explicitly identified subject without changing the construction. | Tuuggii waa la qabtay. | Cali baa la qabtay. |  |
+| **G13-R3** | A subject clitic in a reviewed focus construction MUST agree with the subject in person, number, and gender. | Adigu moos baad cuntay. | \*Adigu moos baa cuntay. | **OK — MR-29** |
+| **G13-R4** | A first- or second-person object MUST use its required clitic. An overt object noun or independent third-person pronoun MUST be preserved when it supplies plurality or prevents ambiguity; without an explicit object noun, first/second-person form, or independent object pronoun, a recoverable singular third-person object MAY be zero. | Cali baa adiga kuu soo ordayay.<br>Cali baa iyaga u yeeray.<br>Cali baa u yeeray. | \*Cali baa adiga u soo ordayay. | **OK — MR-30** |
+| **G13-R5** | `is` MUST be interpreted as reflexive or reciprocal according to the clause participants and context; `la` MUST NOT replace it when the intended meaning is reflexive or reciprocal. | Ninku wuu is dhaawacay.<br>Carruurtii way is arkeen. | Ninku waa la dhaawacay. | **OK — MR-31** |
+| **G13-R6** | Impersonal `la` MUST be used only where the human participant is left general or unspecified; it MUST NOT replace an explicitly identified subject without changing the construction. | Tuuggii waa la qabtay. | Cali baa la qabtay. | **OK — MR-32** |
 
 ## 0014 — Sentence Structure and Word Order
 

@@ -146,9 +146,9 @@ topic documents and the wrapper are drafted, and SLS-0003 is at `Proposed`.
 [`docs/standards/SLS-0003-reviewer-packet.md`](docs/standards/SLS-0003-reviewer-packet.md)
 puts all 42 rules, their examples, and twelve priority questions on one page,
 which is the working surface for that review and for any outside report. The
-three review batches answered Q1–Q12 on 2026-08-30. The first four per-rule
+three review batches answered Q1–Q12 on 2026-08-30. The first five per-rule
 batches approved G10-R1 through G10-R4, G11-R1 through G11-R5, G12-R1 through
-G12-R5, and G13-R1 through G13-R2; 16 of 42 verdicts are complete and 26
+G12-R5, and G13-R1 through G13-R6; 20 of 42 verdicts are complete and 22
 remain. The
 recurring-independent-reviewer gate that previously sat here was
 removed with the 2026-08-30 governance change (`SLS-0000` 0.2.0).
