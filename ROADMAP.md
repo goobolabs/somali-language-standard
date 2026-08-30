@@ -48,7 +48,10 @@ documents and their formal wrapper are included.
 
 The proposal entered public Milestone 2 review in
 [pull request #7](https://github.com/goobolabs/somali-language-standard/pull/7)
-on 2026-08-23. The ≥14-day comment periods cannot close before 2026-09-06,
+on 2026-08-23. Each `Proposed` standard now has a comment venue —
+issues [#8–#13](https://github.com/goobolabs/somali-language-standard/issues) —
+and a review log under `docs/standards/`. The ≥14-day comment periods cannot
+close before 2026-09-06,
 and the later human-review gates remain external lifecycle work; their exact
 state is tracked in
 [`docs/standards/MILESTONE-2-READINESS.md`](docs/standards/MILESTONE-2-READINESS.md).

@@ -2,8 +2,8 @@
 id: "0003"
 sls_id: SLS-0005
 title: Somali Capitalization Standard
-version: 0.1.0
-standard_version: 0.1.0
+version: 0.1.1
+standard_version: 0.1.1
 status: Proposed
 category: foundation
 owner: language-council
@@ -19,6 +19,9 @@ revision_history:
   - version: 0.1.0
     date: 2026-08-23
     change: Initial evidence-mapped draft
+  - version: 0.1.1
+    date: 2026-08-30
+    change: "Editorial: linked the public review log"
 ---
 
 > **Proposed status and evidence limitation:** This document is accepted for
@@ -228,9 +231,11 @@ not support a `Stable` compliance claim.
   [`resources/qoraal/06-xarafka-weyn.md`](../../resources/qoraal/06-xarafka-weyn.md).
 - Proper-noun evidence curated in
   [`resources/naxwe/13-aasaaska-naxwaha.md`](../../resources/naxwe/13-aasaaska-naxwaha.md).
+- [`SLS-0005 review log`](../../docs/standards/SLS-0005-review-log.md) — the public-comment record for this standard.
 
 ## Revision History
 
 | Version | Date | Change |
 | --- | --- | --- |
 | 0.1.0 | 2026-08-23 | Initial evidence-mapped draft with explicit supplementary-source limitation |
+| 0.1.1 | 2026-08-30 | Editorial: linked the public review log |

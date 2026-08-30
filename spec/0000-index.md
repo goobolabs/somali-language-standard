@@ -10,6 +10,10 @@ identifier are tracked in the standards catalog
 Numbering blocks are append-only: a number, once used, is never reused or
 renumbered.
 
+A standard at `Proposed` has an open public-comment period with a tracking
+issue and a review log; both are listed in
+[`docs/standards/MILESTONE-2-READINESS.md`](../docs/standards/MILESTONE-2-READINESS.md).
+
 ## Category blocks
 
 | Block | Category | Directory |

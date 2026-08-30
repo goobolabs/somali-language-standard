@@ -43,6 +43,15 @@ releases, schema versions, and per-standard versions relate.
 - Four evidence maps and the Milestone 2 lifecycle-readiness record under
   `docs/standards/`.
 - `VERSION` set to the Milestone 2 target repository version `0.2.0`.
+- One public-comment tracking issue per `Proposed` standard (#8–#13), giving
+  each comment period a venue; previously the periods ran with nowhere to file
+  a comment that would be counted.
+- A review log per standard (`docs/standards/SLS-000X-review-log.md`) recording
+  every substantive comment with a disposition and written resolution, plus
+  `docs/standards/REVIEW-LOG-TEMPLATE.md` for future standards.
+- A lifecycle banner on grammar topic files `spec/grammar/0010`–`0017` stating
+  that they keep the local spec-note status `Draft` while their governing
+  standard SLS-0003 is `Proposed` and under comment.
 - Completed eight-collection resources evidence baseline: 145 files audited,
   cleaned, maintainer-approved, and documented with 501 approved provenance
   records.
@@ -54,6 +63,20 @@ releases, schema versions, and per-standard versions relate.
 - Completed the SLS-0002 through SLS-0005 proposal package. Their ≥14-day
   public-comment clocks begin when the proposal branch is published.
 - Marked the resources prerequisite complete for normative drafting.
+- Bumped SLS-0000 through SLS-0005 to `0.1.1` (PATCH — editorial only; no
+  requirement, example, or evidence mapping changed, and no standard advanced
+  a lifecycle stage).
+
+### Fixed
+
+- **SLS-0000** — added the standard's own normative file to its front-matter
+  `implements` array; without it the document did not satisfy its own R7.
+- **SLS-0001** — corrected the Scope cross-reference for digraph case pairing
+  from R11 to R12, and rewrote the glottal stop in the Definitions and Edge
+  Cases prose as canonical U+02BC, which R6 requires and R7 makes mandatory
+  for released records.
+- **SLS-0004** — repaired an ungrammatical sentence in the long-dash edge
+  case.
 
 ## [0.1.0] - 2026-07-08
 

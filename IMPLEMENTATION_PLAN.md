@@ -85,7 +85,13 @@ implementation phases in this document. See
 
 **Status:** proposal published — SLS-0002, SLS-0004, and SLS-0005 entered
 public review in [pull request #7](https://github.com/goobolabs/somali-language-standard/pull/7)
-on 2026-08-23; the comment period cannot close before 2026-09-06.
+on 2026-08-23; the comment period cannot close before 2026-09-06. Comments are
+filed on issues [#10](https://github.com/goobolabs/somali-language-standard/issues/10),
+[#12](https://github.com/goobolabs/somali-language-standard/issues/12), and
+[#13](https://github.com/goobolabs/somali-language-standard/issues/13) and
+recorded in the matching review logs under `docs/standards/`. One SLS-0004
+question (R16's straight quotation profile versus U+0027) is `open` and blocks
+that standard's `Proposed → Review` transition.
 
 **Objective:** The spelling layer on top of the alphabet: SLS-0002
 (orthography/spelling rules), plus punctuation (SLS-0004) and capitalization
@@ -132,7 +138,10 @@ comment periods left without a written resolution.
 
 **Status:** proposal published — SLS-0003 and all eight topic documents entered
 public review in [pull request #7](https://github.com/goobolabs/somali-language-standard/pull/7)
-on 2026-08-23; recurring linguist reviewer engagement remains.
+on 2026-08-23; comments are filed on
+[issue #11](https://github.com/goobolabs/somali-language-standard/issues/11) and
+recorded in [`docs/standards/SLS-0003-review-log.md`](docs/standards/SLS-0003-review-log.md).
+Recurring linguist reviewer engagement remains.
 
 **Objective:** The core grammar layer (SLS-0003): parts of speech, noun
 morphology, verb system, pronouns, sentence structure, negation, questions,

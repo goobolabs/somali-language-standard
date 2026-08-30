@@ -9,6 +9,12 @@ supersedes: null
 
 # Question Formation
 
+> **Lifecycle:** this topic specification keeps its local spec-note status
+> `Draft`. It is implemented by **SLS-0003 Somali Grammar Standard**, which is
+> `Proposed` and inside its public comment period. Comments on this document
+> are recorded in the
+> [SLS-0003 review log](../../docs/standards/SLS-0003-review-log.md).
+
 ## Summary
 
 Somali distinguishes yes-or-no questions from questions that request a

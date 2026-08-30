@@ -2,7 +2,7 @@
   "id": "SLS-0003",
   "title": "Somali Grammar Standard",
   "category": "foundation",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "status": "proposed",
   "owner": "language-council",
   "reviewers": [],
@@ -26,6 +26,11 @@
       "version": "0.1.0",
       "date": "2026-08-23",
       "change": "Initial evidence-mapped draft"
+    },
+    {
+      "version": "0.1.1",
+      "date": "2026-08-30",
+      "change": "Editorial: added a lifecycle banner to topic files 0010–0017; linked the public review log"
     }
   ]
 }

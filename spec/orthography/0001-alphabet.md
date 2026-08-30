@@ -2,8 +2,8 @@
 id: "0001"
 sls_id: SLS-0001
 title: Somali Alphabet Standard
-version: 0.1.0
-standard_version: 0.1.0
+version: 0.1.1
+standard_version: 0.1.1
 status: Proposed
 category: foundation
 owner: language-council
@@ -18,6 +18,9 @@ revision_history:
   - version: 0.1.0
     date: 2026-07-10
     change: Initial draft — letter inventory, collation order, digraphs, glottal stop, vowel length, exclusions
+  - version: 0.1.1
+    date: 2026-08-30
+    change: "Editorial: corrected the Scope cross-reference to R12; wrote the glottal stop as canonical U+02BC in prose; linked the public review log"
 ---
 
 <!--
@@ -66,7 +69,7 @@ letters excluded from native orthography; and the Unicode code points used.
 - **Spelling rules** — which letter to write in a given word (gemination,
   assimilation, vowel harmony spelling) is governed by SLS-0002.
 - **Capitalization and punctuation rules** — governed by SLS-0005 and SLS-0004
-  respectively; this standard fixes only the *case pairing* of digraphs (R11).
+  respectively; this standard fixes only the *case pairing* of digraphs (R12).
 - **Non-Latin scripts** — Osmanya, Wadaad, and Borama writing are reserved for
   the Historical & Alternate Scripts block (`SLS-0800`).
 - **Dialectal inventories** — Maay and other varieties are reserved for the
@@ -78,7 +81,7 @@ letters excluded from native orthography; and the Unicode code points used.
   single character or one of the three digraphs.
 - **Digraph** — a letter written with two characters (`kh`, `dh`, `sh`) that
   represents a single sound and collates as a single unit.
-- **Glottal stop (hamza)** — the consonant /ʔ/, written `'`; see R6–R7.
+- **Glottal stop (hamza)** — the consonant /ʔ/, written `ʼ`; see R6–R7.
 - **Collation** — the canonical sort order of letters (R3).
 - **Vowel length** — the short/long distinction, written by doubling the vowel
   letter (R8).
@@ -244,9 +247,9 @@ words, not between them.
   the default and any true sequence must be resolvable from morphology (SLS-0003)
   — flagged here as a known ambiguity for SLS-0002 to address in spelling rules.
 - **Word-initial glottal stop.** Vowel-initial words phonetically begin with a
-  glottal onset; the standard orthography does **not** write an initial `'`
-  (e.g. `af`, not `'af`). The `'` is written only where contrastive intervocalic
-  or coda glottal stops occur (e.g. `su'aal`).
+  glottal onset; the standard orthography does **not** write an initial `ʼ`
+  (e.g. `af`, not `ʼaf`). The `ʼ` is written only where contrastive intervocalic
+  or coda glottal stops occur (e.g. `suʼaal`).
 - **`kh` in native words.** `kh` occurs almost exclusively in Arabic loanwords;
   its presence is a useful loanword signal but does not change its status as a
   full alphabet letter (R2).
@@ -278,9 +281,11 @@ words, not between them.
 - BCP 47 — language tags (`so` for standard Somali).
 - The Unicode Standard — code point references (Basic Latin; U+02BC).
 - Republic of Somalia, official adoption of the Latin script for Somali, 1972.
+- [`SLS-0001 review log`](../../docs/standards/SLS-0001-review-log.md) — the public-comment record for this standard.
 
 ## Revision History
 
 | Version | Date | Change |
 |---|---|---|
 | 0.1.0 | 2026-07-10 | Initial draft — inventory, collation, digraphs, glottal stop, vowel length, exclusions |
+| 0.1.1 | 2026-08-30 | Editorial: corrected the Scope cross-reference to R12; wrote the glottal stop as canonical U+02BC in prose; linked the public review log |

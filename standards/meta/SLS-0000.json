@@ -2,7 +2,7 @@
   "id": "SLS-0000",
   "title": "SLS Standards Process Standard",
   "category": "meta",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "status": "proposed",
   "owner": "language-council",
   "reviewers": [],
@@ -21,6 +21,11 @@
       "version": "0.1.0",
       "date": "2026-07-10",
       "change": "Initial draft — distilled from ARCHITECTURE.md Part II (§22–§32)"
+    },
+    {
+      "version": "0.1.1",
+      "date": "2026-08-30",
+      "change": "Editorial: added the standard's own normative file to `implements`; linked the public review log"
     }
   ]
 }

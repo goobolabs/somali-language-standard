@@ -2,8 +2,8 @@
 id: "0004"
 sls_id: SLS-0004
 title: Somali Punctuation Standard
-version: 0.1.0
-standard_version: 0.1.0
+version: 0.1.1
+standard_version: 0.1.1
 status: Proposed
 category: foundation
 owner: language-council
@@ -19,6 +19,9 @@ revision_history:
   - version: 0.1.0
     date: 2026-08-23
     change: Initial evidence-mapped draft
+  - version: 0.1.1
+    date: 2026-08-30
+    change: "Editorial: repaired the long-dash edge-case sentence; linked the public review log"
 ---
 
 > **Proposed status:** This document is accepted for formal public comment.
@@ -260,9 +263,10 @@ combined marks, dialogue turns, and punctuation in numeric or date formats.
 - **Semicolon.** The principal source names and describes the semicolon but
   supplies no distinct positive Somali examples. No compliance rule is adopted
   in this draft.
-- **Long dash.** Interruption use is attested, but exact Unicode character,
-  and R14–R15 define U+2014 with one surrounding space on each side for
-  ordinary output. Other source glyphs require a source-faithful label.
+- **Long dash.** Interruption use is attested, but the exact Unicode character
+  varies across sources; R14–R15 define U+2014 with one surrounding space on
+  each side for ordinary output. Other source glyphs require a source-faithful
+  label.
 - **Ellipsis and repeated marks.** Literature contains ellipses and combinations
   such as `?!`, but the primary source does not define their complete
   functions. They are not normalized by this draft.
@@ -315,9 +319,11 @@ not support a `Stable` compliance claim.
   Punctuation](https://www.unicode.org/versions/Unicode17.0.0/core-spec/chapter-6/)
   — character identities and distinctions among hyphens, dashes, and
   quotation marks.
+- [`SLS-0004 review log`](../../docs/standards/SLS-0004-review-log.md) — the public-comment record for this standard.
 
 ## Revision History
 
 | Version | Date | Change |
 | --- | --- | --- |
 | 0.1.0 | 2026-08-23 | Initial evidence-mapped draft |
+| 0.1.1 | 2026-08-30 | Editorial: repaired the long-dash edge-case sentence; linked the public review log |
