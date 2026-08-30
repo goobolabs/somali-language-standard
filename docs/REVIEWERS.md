@@ -24,10 +24,11 @@ R9.
 | SLS-0004 Punctuation | linguist + technical | unfilled |
 | SLS-0005 Capitalization | linguist + technical | unfilled; a Somali-primary capitalization source is the top need |
 
-To volunteer, say so on the standard's public-comment issue (linked from
-[`docs/standards/MILESTONE-2-READINESS.md`](standards/MILESTONE-2-READINESS.md))
-or open an issue. No application, interview, or organizational affiliation is
-required.
+To volunteer, comment on
+[the call for reviewers](https://github.com/goobolabs/somali-language-standard/issues/16)
+or on the standard's own public-comment issue (linked from
+[`docs/standards/MILESTONE-2-READINESS.md`](standards/MILESTONE-2-READINESS.md)).
+No application, interview, or organizational affiliation is required.
 
 ## Native-speaker / linguist reviewer
 
