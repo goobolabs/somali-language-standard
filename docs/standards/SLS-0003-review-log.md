@@ -21,11 +21,11 @@ The comment period is open. It cannot close before 2026-09-06. No comment is
 
 **Maintainer review status:** in progress. The three question batches answered
 all twelve packet questions on 2026-08-30 and are recorded below as MR-1 through
-MR-12. The first eight per-rule batches approved G10-R1 through G10-R4,
+MR-12. The first nine per-rule batches approved G10-R1 through G10-R4,
 G11-R1 through G11-R5, G12-R1 through G12-R5, G13-R1 through G13-R6,
-G14-R1 through G14-R6, G15-R1 through G15-R4, and G16-R1 through G16-R2 as
-written and are recorded as MR-13 through MR-44. Thirty-two of 42 per-rule
-verdicts are complete; 10 remain. The
+G14-R1 through G14-R6, G15-R1 through G15-R5, and G16-R1 through G16-R5 as
+written and are recorded as MR-13 through MR-48. Thirty-six of 42 per-rule
+verdicts are complete; six remain. The
 `Review → Candidate` gate in SLS-0000 R9 needs them finished and dispositioned.
 The review is by the maintainer, who is a native speaker; it is not independent,
 and is labelled as such wherever it is cited. The reviewer-facing summary is
@@ -107,6 +107,10 @@ any lifecycle stage, `Stable` included.
 | MR-42 | 2026-08-30 | maintainer review (native speaker) — rule G15-R4 | "**2. G15-R4 — Negative commands**<br><br>* **Verdict:** Approve<br>* **Explanation:** Negative commands (prohibitions) require the particle *ha* paired with the negative imperative verb form ending in *-in* for singular (or *-ina* for plural). *Waxba ha keenin* is correct. Placing *ha* directly before the positive imperative form *keen* (*Waxba ha keen*) is ungrammatical." | `accepted` | G15-R4 and its examples are approved as written. No normative change or version bump is required. |
 | MR-43 | 2026-08-30 | maintainer review (native speaker) — rule G16-R1 | "**3. G16-R1 — Yes-or-no questions with ma**<br><br>* **Verdict:** Approve<br>* **Explanation:** The question particle *ma* cannot co-occur with a secondary focused subject pronoun clitic like *buu*. In *Ma Axmed baa hadiyad keenay?*, *ma* sets up the question and *baa* focuses *Axmed*. Doubling this with *buu* in *Ma Axmed hadiyad buu keenay?* creates redundant, conflicting focus structures." | `accepted` | G16-R1 and its examples are approved as written. No normative change or version bump is required. |
 | MR-44 | 2026-08-30 | maintainer review (native speaker) — rule G16-R2 | "**4. G16-R2 — Position of miyaa**<br><br>* **Verdict:** Approve<br>* **Explanation:** The question word *miyaa* can appear after the subject (*Wiilkii miyaa ka tegaya?*), after the nominal predicate (*Cali macallin miyaa?*), or right after the subject in a copular clause (*Cali miyaa macallin ah?*). It cannot start a nominal predicate sentence directly. Placing it clause-initially as in *Miyaa Cali macallin?* is wrong; that question structure requires *ma* instead (*Ma Cali baa macallin ah?*)." | `accepted` | G16-R2 and its examples are approved as written. No normative change or version bump is required. |
+| MR-45 | 2026-08-30 | maintainer review (native speaker) — rule G15-R5 | "**1. G15-R5 — Negative yes-or-no questions**<br><br>* **Verdict:** Approve<br>* **Explanation:** You cannot double the word *ma* to make a negative question. Standard Somali fuses the question marker and the negative marker into combined forms like *maan*, *miyaan*, or *ma... baan*. Writing *Cali hadiyad ma ma keenin* is grammatically wrong." | `accepted` | G15-R5 and its examples are approved as written. No normative change or version bump is required. |
+| MR-46 | 2026-08-30 | maintainer review (native speaker) — rule G16-R3 | "**2. G16-R3 — Constituent questions**<br><br>* **Verdict:** Approve<br>* **Explanation:** A question word must sit right next to its focus marker. In *Xaggee baa Axmed aaday?*, the focus word *baa* follows *xaggee* directly. Placing the noun *Axmed* between the question word and the focus particle (*Xaggee Axmed baa aaday*) breaks sentence structure." | `accepted` | G16-R3 and its examples are approved as written. No normative change or version bump is required. |
+| MR-47 | 2026-08-30 | maintainer review (native speaker) — rule G16-R4 | "**3. G16-R4 — Interrogative -kee/-tee forms**<br><br>* **Verdict:** Approve<br>* **Explanation:** The question endings *-kee* and *-tee* follow the exact same gender and sound rules as the definite articles *-ka* and *-ta*. The noun *naag* is feminine, so it must take the feminine suffix *-tee* (*naagtee*). Writing *Naagkee* violates gender agreement." | `accepted` | G16-R4 and its examples are approved as written. No normative change or version bump is required. |
+| MR-48 | 2026-08-30 | maintainer review (native speaker) — rule G16-R5 | "**4. G16-R5 — Indirect questions**<br><br>* **Verdict:** Approve<br>* **Explanation:** Indirect questions use relative conjunctions or location words like *halka* together with subordinate verb forms like *tegayo*. They integrate directly into the main sentence (*Weyddii halkuu tegayo*). A direct question structure like *Xaggee buu tegayaa?* uses main clause verbs and cannot function as an embedded indirect clause." | `accepted` | G16-R5 and its examples are approved as written. No normative change or version bump is required. |
 
 ## Transition record
 

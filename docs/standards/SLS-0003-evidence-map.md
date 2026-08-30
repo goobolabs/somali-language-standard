@@ -160,6 +160,10 @@ reviewer's complete wording and each written disposition are preserved in the
 | MR-42 | G15-R4 | Native-speaker per-rule approval of prohibitive `ha` with negative imperative `keenin` rather than affirmative `keen` | Retain the rule and examples unchanged |
 | MR-43 | G16-R1 | Native-speaker per-rule approval of aligned interrogative and focus marking and rejection of conflicting `ma` plus `buu` focus | Retain the rule and examples unchanged |
 | MR-44 | G16-R2 | Native-speaker per-rule approval of the reviewed `miyaa` positions and clause-initial `ma ... baa ... ah` alternative | Retain the rule and examples unchanged |
+| MR-45 | G15-R5 | Native-speaker per-rule approval of fused negative-interrogative marking and rejection of doubled `ma ma` | Retain the rule and examples unchanged |
+| MR-46 | G16-R3 | Native-speaker per-rule approval of adjacency between `xaggee` and its focus marker | Retain the rule and examples unchanged |
+| MR-47 | G16-R4 | Native-speaker per-rule approval of definite-article gender and sound rules for `-kee`/`-tee` interrogatives | Retain the rule and examples unchanged |
+| MR-48 | G16-R5 | Native-speaker per-rule approval of integrated `halka` indirect questions and the distinction from direct-question syntax | Retain the rule and examples unchanged |
 
 ## Scope resolutions
 
