@@ -1,13 +1,14 @@
 ---
 sls_id: SLS-0000
 title: SLS Standards Process Standard
-version: 0.1.0
+version: 0.1.1
 status: Proposed
 category: meta
 owner: language-council
 reviewers: []
 dependencies: []
 implements:
+  - standards/SLS-0000-standards-process.md
   - standards/TEMPLATE.md
   - standards/registry.json
   - standards/REGISTRY.md
@@ -18,6 +19,9 @@ revision_history:
   - version: 0.1.0
     date: 2026-07-10
     change: Initial draft — distilled from ARCHITECTURE.md Part II (§22–§32)
+  - version: 0.1.1
+    date: 2026-08-30
+    change: "Editorial: added the standard's own normative file to `implements`; linked the public review log"
 ---
 
 <!--
@@ -226,9 +230,11 @@ its dependency `SLS-0002` is still in `Review` (violates R10).
   self-describing process standard).
 - W3C Process Document — Recommendation-track maturity stages.
 - IETF RFC 2119 — normative keyword definitions.
+- [`SLS-0000 review log`](../docs/standards/SLS-0000-review-log.md) — the public-comment record for this standard.
 
 ## Revision History
 
 | Version | Date | Change |
 |---|---|---|
 | 0.1.0 | 2026-07-10 | Initial draft — distilled from ARCHITECTURE.md Part II (§22–§32) |
+| 0.1.1 | 2026-08-30 | Editorial: added the standard's own normative file to `implements`; linked the public review log |

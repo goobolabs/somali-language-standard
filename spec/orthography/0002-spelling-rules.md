@@ -2,8 +2,8 @@
 id: "0002"
 sls_id: SLS-0002
 title: Somali Orthography Standard
-version: 0.1.0
-standard_version: 0.1.0
+version: 0.1.1
+standard_version: 0.1.1
 status: Proposed
 category: foundation
 owner: language-council
@@ -19,6 +19,9 @@ revision_history:
   - version: 0.1.0
     date: 2026-08-23
     change: Initial evidence-mapped draft
+  - version: 0.1.1
+    date: 2026-08-30
+    change: "Editorial: linked the public review log"
 ---
 
 > **Proposed status:** This document is accepted for formal public comment.
@@ -274,9 +277,11 @@ not support a `Stable` compliance claim.
 - Maxamed Xaaji Xuseen Raabi, *Codaynta Af Soomaaliga* (1977), curated as
   supporting phonological evidence in
   [`resources/dhawaaq/`](../../resources/dhawaaq/).
+- [`SLS-0002 review log`](../../docs/standards/SLS-0002-review-log.md) — the public-comment record for this standard.
 
 ## Revision History
 
 | Version | Date | Change |
 | --- | --- | --- |
 | 0.1.0 | 2026-08-23 | Initial evidence-mapped draft |
+| 0.1.1 | 2026-08-30 | Editorial: linked the public review log |

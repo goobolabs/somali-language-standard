@@ -1,6 +1,6 @@
 # Milestone 2 Review Readiness
 
-- **Verified:** 2026-08-23
+- **Verified:** 2026-08-23; re-verified 2026-08-30 (maintainer audit)
 - **Scope:** Roadmap Milestone 2 and Implementation Phases 2–3
 - **State:** Roadmap Milestone 2 complete and public review open; time-based
   and human-review gates remain for later lifecycle transitions
@@ -34,7 +34,11 @@ SLS-0005.
 - the SLS-0003 wrapper implements all eight topic files and itself;
 - `VERSION` records the Milestone 2 target repository version `0.2.0`;
 - `registry.json`, `REGISTRY.md`, standard front matter, and per-standard meta
-  agree on identifier, title, version, and lifecycle state;
+  agree on identifier, title, version, and lifecycle state. Grammar topic files
+  `spec/grammar/0010`–`0017` deliberately keep the local spec-note status
+  `Draft` while their governing standard SLS-0003 is `Proposed`
+  ([`spec/0000-index.md`](../../spec/0000-index.md)); each now carries a
+  lifecycle banner saying so;
 - every `implements` path exists and the dependency graph is acyclic;
 - JSON parses, local Markdown links resolve, and `git diff --check` passes.
 
@@ -60,6 +64,53 @@ cannot be completed by repository edits alone:
 3. Do not mark a standard `Candidate` or `Stable` as part of Milestone 2. Those
    stages require reviewer approval, implementation experience, dependency
    maturity, and later Council action.
+
+## Public comment venue
+
+Until 2026-08-30 the comment periods had no venue: the proposals were published
+in merged pull requests and the repository had no issues, so a reader had
+nowhere to file a comment that would be counted. One tracking issue per
+standard now carries each period, and one review log per standard records every
+substantive comment with a written disposition.
+
+| Standard | Comment venue | Review log | Earliest close |
+| --- | --- | --- | --- |
+| SLS-0000 | [#8](https://github.com/goobolabs/somali-language-standard/issues/8) | [`SLS-0000-review-log.md`](SLS-0000-review-log.md) | 2026-07-24 (elapsed) |
+| SLS-0001 | [#9](https://github.com/goobolabs/somali-language-standard/issues/9) | [`SLS-0001-review-log.md`](SLS-0001-review-log.md) | 2026-07-24 (elapsed) |
+| SLS-0002 | [#10](https://github.com/goobolabs/somali-language-standard/issues/10) | [`SLS-0002-review-log.md`](SLS-0002-review-log.md) | 2026-09-06 |
+| SLS-0003 | [#11](https://github.com/goobolabs/somali-language-standard/issues/11) | [`SLS-0003-review-log.md`](SLS-0003-review-log.md) | 2026-09-06 |
+| SLS-0004 | [#12](https://github.com/goobolabs/somali-language-standard/issues/12) | [`SLS-0004-review-log.md`](SLS-0004-review-log.md) | 2026-09-06 |
+| SLS-0005 | [#13](https://github.com/goobolabs/somali-language-standard/issues/13) | [`SLS-0005-review-log.md`](SLS-0005-review-log.md) | 2026-09-06 |
+
+New logs are copied from
+[`REVIEW-LOG-TEMPLATE.md`](REVIEW-LOG-TEMPLATE.md) when a standard enters
+`Proposed`.
+
+## Maintainer audit, 2026-08-30
+
+A structural and cross-document audit of the six `Proposed` standards produced
+five findings. Four were applied as PATCH-level editorial corrections
+(version `0.1.0` → `0.1.1` for SLS-0000 through SLS-0005) and are recorded in
+the review logs:
+
+- **SLS-0000** — the front-matter `implements` array omitted the standard's own
+  normative file, so the document did not satisfy its own R7.
+- **SLS-0001** — the Scope section cited R11 for digraph case pairing, which is
+  R12; and the Definitions and Edge Cases prose wrote the glottal stop as
+  U+0027, which R6 and R7 forbid in released records.
+- **SLS-0003** — the eight topic files gave no indication that they were under
+  public comment; each now carries a lifecycle banner.
+- **SLS-0004** — an ungrammatical sentence in the long-dash edge case.
+
+One finding is **open** and blocks SLS-0004's `Proposed → Review` transition:
+R16 offers a straight `" "` / `' '` quotation profile while its own final
+sentence forbids classifying straight U+0027 as quotation punctuation. The
+resolution is a normative decision, not an editorial fix; it is recorded in
+[`SLS-0004-review-log.md`](SLS-0004-review-log.md) and posted for comment in
+[issue #12](https://github.com/goobolabs/somali-language-standard/issues/12).
+
+No verified requirement, example, or evidence mapping changed. No standard
+advanced a lifecycle stage.
 
 ## Completion interpretation
 
