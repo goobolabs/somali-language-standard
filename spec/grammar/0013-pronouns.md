@@ -48,9 +48,9 @@ exclusive meaning where those distinctions are expressed.
 |---|---|---|
 | Faadumo ayaan la hadlay. = Iyada ayaan la hadlay. | `[G13-R1 +]` Faadumo FOC.1SG with spoke = she FOC.1SG with spoke | Correct feminine-pronoun substitution. |
 | Faadumo ayaan la hadlay. = Isaga ayaan la hadlay. | `[G13-R1 −]` Faadumo FOC.1SG with spoke = he FOC.1SG with spoke | Incorrect for the intended reference to Faadumo. |
-| annaga — dhegeystaha kuma jiro | `[G13-R2 +]` we.EXCL — addressee excluded | Correct exclusive reading. |
-| innaga — dhegeystuhu wuu ku jiraa | `[G13-R2 +]` we.INCL — addressee included | Correct inclusive reading. |
-| annaga — akhris mideeya | `[G13-R2 −]` we.EXCL — inclusive reading | Incorrect when the intended meaning explicitly includes the addressee. |
+| Annaga ayaa baxayna. | `[G13-R2 +]` we.EXCL FOC leave.PROG.1PL | We are leaving, but you are staying. |
+| Innaga ayaa baxayna. | `[G13-R2 +]` we.INCL FOC leave.PROG.1PL | We are leaving, and you are coming too. |
+| \*Annaga ayaa baxayna. — intended: the addressee is included | `[G13-R2 −]` we.EXCL FOC leave.PROG.1PL | Incorrect for the intended inclusive reading; `innaga` carries it. |
 | Adigu moos baad cuntay. | `[G13-R3 +]` you.SG banana FOC.2SG ate | Correct subject-clitic agreement. |
 | \*Adigu moos baa cuntay. | `[G13-R3 −]` you.SG banana FOC.3SG ate | Ungrammatical: the second-person subject clitic is missing. |
 | Cali baa adiga kuu soo ordayay. | `[G13-R4 +]` Cali FOC you to.2SG toward ran.PROG | Correct second-person object clitic with *u*. |
@@ -65,9 +65,12 @@ exclusive meaning where those distinctions are expressed.
 
 - Pronouns and clitics do not occupy identical syntactic positions and are not
   freely interchangeable.
-- Inclusive and exclusive first-person plurals may be neutralized in some
-  usage; a tool must diagnose the distinction only when the intended reading
-  is known.
+- Inclusive and exclusive first-person plurals may be neutralized in practice.
+  Careful writers keep `annaga` and `innaga` distinct, but the two are commonly
+  mixed in modern casual writing, where `annaga` is often generalized to both
+  readings (maintainer review, 2026-08-30). A tool must therefore diagnose the
+  distinction only when the intended reading is known, and must not report
+  `annaga` in casual text as an error on the strength of the form alone.
 - The interpretation of `is` can be ambiguous with plural subjects. Context
   determines reflexive versus reciprocal meaning.
 

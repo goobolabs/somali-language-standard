@@ -37,7 +37,9 @@ reduce all Somali clauses to one fixed surface order.
   rule.
 - **G14-R5.** In an affirmative declarative `waa` construction, `waa` and its
   subject-clitic realization MUST occur at the beginning of the verbal group
-  rather than between a verb and its selected complement.
+  rather than between a verb and its selected complement. Nominal material MUST
+  NOT intervene between the clitic and its verb: in `Cali Axmed wuu dilay`,
+  `wuu` stands immediately before `dilay`.
 - **G14-R6.** When two direct post-nominal modifiers require the linker `ee`,
   the linker MUST be retained between the modifier units.
 
@@ -66,6 +68,17 @@ reduce all Somali clauses to one fixed surface order.
 - `baa`, `ayaa`, and their clitic realizations require construction-specific
   analysis. A checker must not replace one mechanically without identifying
   the focused constituent.
+- **Why bare `baa` fails in G14-R4.** `buu` is `baa` plus the subject clitic
+  `uu`, which is what identifies the boy as the eater. With bare `baa`, the
+  noun immediately before it is read as the subject, so `Wiilkii moos baa
+  cunay` says that the banana ate the boy rather than the reverse. The
+  construction is not merely unattested: it asserts something else, and native
+  speakers do not produce it for the intended reading (maintainer review,
+  2026-08-30).
+- **Adjacency in G14-R5.** The failure in `*Cali wuu Axmed dilay` is the
+  intervening noun, not the word order of `Cali` and `Axmed`. A subject clitic
+  such as `wuu` sits immediately before its verb, and no reading licenses
+  material between the two (maintainer review, 2026-08-30).
 - The linker `ee` has uses beyond the noun-phrase pattern shown here; those
   uses require their own reviewed rules.
 

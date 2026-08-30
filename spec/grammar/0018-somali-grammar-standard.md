@@ -2,8 +2,8 @@
 id: "0018"
 sls_id: SLS-0003
 title: Somali Grammar Standard
-version: 0.1.3
-standard_version: 0.1.3
+version: 0.2.0
+standard_version: 0.2.0
 status: Proposed
 category: foundation
 owner: maintainers
@@ -37,6 +37,9 @@ revision_history:
   - version: 0.1.3
     date: 2026-08-30
     change: "Editorial: reworded the reviewer-packet reference after the governance change"
+  - version: 0.2.0
+    date: 2026-08-30
+    change: "Maintainer native-speaker review, first batch: G13-R2 gains a real inclusive/exclusive sentence pair and an attested note on neutralization in casual writing; G14-R5 states clitic-verb adjacency explicitly; G14-R4 and G14-R5 gain edge cases explaining why bare baa and an intervening noun fail; the two ha constructions are distinguished by the person and form of the following verb. MAJOR by SLS-0000 R11 (a MUST-level requirement was sharpened), taken on the minor position because the standard is pre-1.0"
 ---
 
 > **Proposed status:** This document and its implemented topic specifications
@@ -220,3 +223,4 @@ support a `Stable` compliance claim.
 | 0.1.1 | 2026-08-30 | Editorial: added a lifecycle banner to topic files 0010–0017; linked the public review log |
 | 0.1.2 | 2026-08-30 | Editorial: cross-referenced the directive `ha` (G12-R4) and the prohibitive `ha` (G15-R4) in both topic files; added the reviewer packet |
 | 0.1.3 | 2026-08-30 | Editorial: reworded the reviewer-packet reference after the governance change |
+| 0.2.0 | 2026-08-30 | Maintainer native-speaker review, first batch: G13-R2 gains a real inclusive/exclusive sentence pair and an attested note on neutralization in casual writing; G14-R5 states clitic-verb adjacency explicitly; G14-R4 and G14-R5 gain edge cases explaining why bare baa and an intervening noun fail; the two ha constructions are distinguished by the person and form of the following verb. MAJOR by SLS-0000 R11 (a MUST-level requirement was sharpened), taken on the minor position because the standard is pre-1.0 |

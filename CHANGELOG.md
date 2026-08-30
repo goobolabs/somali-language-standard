@@ -65,6 +65,15 @@ releases, schema versions, and per-standard versions relate.
 
 ### Changed
 
+- **SLS-0003 → `0.2.0`, first batch of the maintainer native-speaker review.**
+  G13-R2's inclusive/exclusive rows are replaced by a real sentence pair
+  (`Annaga ayaa baxayna.` / `Innaga ayaa baxayna.`) and the attested
+  neutralization of the contrast in casual writing is recorded; G14-R5 now
+  states clitic-verb adjacency directly; G14-R4 and G14-R5 gain edge cases
+  explaining *why* bare `baa` and an intervening noun fail, which is what an
+  implementer needs for the diagnostic message; the two `ha` constructions are
+  distinguished by the person and form of the following verb. Recorded as
+  MR-1 through MR-4 in the review log; resolves M-3.
 - **SLS-0000 and SLS-0001 promoted `Proposed → Review`.** Their comment periods
   opened 2026-07-10 and the 14-day minimum elapsed 2026-07-24 with no comment
   received and no `open` item; the transitions are recorded with date, approver,

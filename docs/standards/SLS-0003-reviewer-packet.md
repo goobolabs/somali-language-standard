@@ -124,7 +124,7 @@ alone is a complete, citable review.
 These twelve are where a native-speaker judgment actually changes the
 standard. Each names the rule it would move.
 
-**Q1 — Two different `ha` (G12-R4, G15-R4).** G15-R4 requires prohibitive `ha`
+**Q1 — Two different `ha` (G12-R4, G15-R4).** *(Answered 2026-08-30 — MR-2 in the [review log](SLS-0003-review-log.md); a second opinion is still welcome.)* G15-R4 requires prohibitive `ha`
 with a negative form: `Waxba ha keenin.` is conforming, `*Waxba ha keen.` is
 not. G12-R4 separately licenses the third-person directive `Isagu ha qoro!`,
 where `ha` is followed by an affirmative form. Is that contrast stable enough
@@ -135,18 +135,18 @@ for a checker to apply, and is G15-R4 worded so that it cannot flag a licensed
 dhaadheer.` Is gender switching in the plural regular enough to enforce as a
 rule, or must it be recorded per lexeme in the dictionary instead?
 
-**Q3 — Inclusive vs exclusive `annaga` / `innaga` (G13-R2).** The current rows
+**Q3 — Inclusive vs exclusive `annaga` / `innaga` (G13-R2).** *(Answered 2026-08-30 — MR-1; a second opinion is still welcome.)* The current rows
 describe the contrast rather than showing it. Please supply a minimal Somali
 sentence pair where the choice changes the meaning — and say whether the
 contrast is consistently observed in modern written Somali or often
 neutralized.
 
-**Q4 — Bare `baa` in object focus (G14-R4).** `Wiilkii moos buu cunay.` is
+**Q4 — Bare `baa` in object focus (G14-R4).** *(Answered 2026-08-30 — MR-3; a second opinion is still welcome.)* `Wiilkii moos buu cunay.` is
 conforming; `*Wiilkii moos baa cunay.` is not. Is bare `baa` genuinely
 ungrammatical here for all speakers, or acceptable in some registers,
 dialects, or speech?
 
-**Q5 — Interrupting the verbal group (G14-R5).** `Cali Axmed wuu dilay.`
+**Q5 — Interrupting the verbal group (G14-R5).** *(Answered 2026-08-30 — MR-4; a second opinion is still welcome.)* `Cali Axmed wuu dilay.`
 versus `*Cali wuu Axmed dilay.` Is the second always non-conforming, or is
 there a topicalized or emphatic reading that licenses it?
 
