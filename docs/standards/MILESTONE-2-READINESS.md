@@ -18,10 +18,10 @@ SLS-0005.
 
 | Standard | Proposal content | Evidence decision record | Registry/meta | Proposal state |
 | --- | --- | --- | --- | --- |
-| SLS-0001 Alphabet | [`0001-alphabet.md`](../../spec/orthography/0001-alphabet.md) | incorporated in the standard and source library | synchronized | `Proposed` since 2026-07-10 |
+| SLS-0001 Alphabet | [`0001-alphabet.md`](../../spec/orthography/0001-alphabet.md) | incorporated in the standard and source library | synchronized | `Review` since 2026-08-30 (`Proposed` 2026-07-10) |
 | SLS-0002 Orthography | [`0002-spelling-rules.md`](../../spec/orthography/0002-spelling-rules.md) | [`SLS-0002-evidence-map.md`](SLS-0002-evidence-map.md) | synchronized | `Proposed` in PR #7 since 2026-08-23 |
 | SLS-0003 Grammar | [`0018-somali-grammar-standard.md`](../../spec/grammar/0018-somali-grammar-standard.md) plus topic files 0010–0017 | [`SLS-0003-evidence-map.md`](SLS-0003-evidence-map.md) | synchronized | `Proposed` in PR #7 since 2026-08-23 |
-| SLS-0004 Punctuation | [`0004-punctuation.md`](../../spec/orthography/0004-punctuation.md) | [`SLS-0004-evidence-map.md`](SLS-0004-evidence-map.md) | synchronized | `Proposed` in PR #7 since 2026-08-23 |
+| SLS-0004 Punctuation | [`0004-punctuation.md`](../../spec/orthography/0004-punctuation.md) | [`SLS-0004-evidence-map.md`](SLS-0004-evidence-map.md) | synchronized | `Proposed` in PR #7 since 2026-08-23; R16 narrowed in 0.2.0 |
 | SLS-0005 Capitalization | [`0003-capitalization.md`](../../spec/orthography/0003-capitalization.md) | [`SLS-0005-evidence-map.md`](SLS-0005-evidence-map.md) | synchronized | `Proposed` in PR #7 since 2026-08-23; supplementary-source limitation retained |
 
 ## Repository checks completed
@@ -48,8 +48,9 @@ SLS-0000 and SLS-0001 were published as `Proposed` in
 [pull request #1](https://github.com/goobolabs/somali-language-standard/pull/1)
 on 2026-07-10. As of 2026-08-23, the public pull-request history contains no
 comment or review on that proposal and the repository has no public issues.
-The 14-day minimum has elapsed with no unresolved objection, so SLS-0000 and
-SLS-0001 both satisfy the `Proposed → Review` gate in `SLS-0000` R9.
+The 14-day minimum elapsed with no unresolved objection, so both standards
+satisfied the `Proposed → Review` gate in `SLS-0000` R9; the transition was
+recorded on 2026-08-30 in their review logs, and both are now at `Review`.
 
 SLS-0002 through SLS-0005 entered formal public review in
 [pull request #7](https://github.com/goobolabs/somali-language-standard/pull/7)
@@ -124,6 +125,20 @@ resolution is a normative decision, not an editorial fix; it is recorded in
 
 No verified requirement, example, or evidence mapping changed. No standard
 advanced a lifecycle stage.
+
+## State after the 2026-08-30 governance change
+
+| Standard | Stage | What it is waiting on |
+| --- | --- | --- |
+| SLS-0000 | `Review` | A recorded maintainer review before `Candidate` |
+| SLS-0001 | `Review` | A recorded maintainer review before `Candidate` |
+| SLS-0002 | `Proposed` | Comment minimum, earliest close 2026-09-06 |
+| SLS-0003 | `Proposed` | Comment minimum; one `open` item (M-3, the `annaga`/`innaga` minimal pair) |
+| SLS-0004 | `Proposed` | Comment minimum; M-2 resolved in 0.2.0, no `open` item |
+| SLS-0005 | `Proposed` | Comment minimum |
+
+No standard is waiting on a person who has not been recruited. The remaining
+Milestone 2 gate is calendar time.
 
 ## Completion interpretation
 

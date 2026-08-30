@@ -2,7 +2,7 @@
   "id": "SLS-0004",
   "title": "Somali Punctuation Standard",
   "category": "foundation",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "status": "proposed",
   "owner": "maintainers",
   "reviewers": [],
@@ -23,6 +23,11 @@
       "version": "0.1.1",
       "date": "2026-08-30",
       "change": "Editorial: repaired the long-dash edge-case sentence; linked the public review log"
+    },
+    {
+      "version": "0.2.0",
+      "date": "2026-08-30",
+      "change": "R16 narrowed: the straight quotation profile is restricted to U+0022 and straight U+0027 is excluded as a quotation mark, resolving the conflict with its SLS-0001 R7 role as the glottal-stop input alias; nesting inside a straight-double pair uses a curly single or single-guillemet pair. MAJOR by SLS-0000 R11 (a MUST-level option was removed), taken on the minor position because the standard is pre-1.0"
     }
   ]
 }

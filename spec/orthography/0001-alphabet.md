@@ -4,7 +4,7 @@ sls_id: SLS-0001
 title: Somali Alphabet Standard
 version: 0.1.1
 standard_version: 0.1.1
-status: Proposed
+status: Review
 category: foundation
 owner: maintainers
 reviewers: []

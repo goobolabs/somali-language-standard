@@ -29,7 +29,7 @@ issue and a review log; both are listed in
 
 | ID | Title | Standard | Status | File |
 |---|---|---|---|---|
-| 0001 | Somali Alphabet | SLS-0001 | Proposed | [`orthography/0001-alphabet.md`](orthography/0001-alphabet.md) |
+| 0001 | Somali Alphabet | SLS-0001 | Review | [`orthography/0001-alphabet.md`](orthography/0001-alphabet.md) |
 | 0002 | Somali Orthography | SLS-0002 | Proposed | [`orthography/0002-spelling-rules.md`](orthography/0002-spelling-rules.md) |
 | 0003 | Somali Capitalization | SLS-0005 | Proposed | [`orthography/0003-capitalization.md`](orthography/0003-capitalization.md) |
 | 0004 | Somali Punctuation | SLS-0004 | Proposed | [`orthography/0004-punctuation.md`](orthography/0004-punctuation.md) |

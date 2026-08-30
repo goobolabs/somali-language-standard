@@ -9,14 +9,14 @@ error report to be answered here in writing. This file is where all of that is
 evidenced.
 
 - **Standard:** SLS-0000 SLS Standards Process Standard
-- **Status:** Proposed
+- **Status:** Review
 - **Version:** 0.2.0
 - **Comment period opened:** 2026-07-10 (published in [pull request #1](https://github.com/goobolabs/somali-language-standard/pull/1))
 - **Earliest close (≥14 days):** 2026-07-24
 - **Comment venue:** [issue #8](https://github.com/goobolabs/somali-language-standard/issues/8)
 - **Normative document:** [`standards/SLS-0000-standards-process.md`](../../standards/SLS-0000-standards-process.md)
 
-The 14-day minimum elapsed on 2026-07-24 with no public comment recorded, so the `Proposed → Review` gate in SLS-0000 R9 is satisfied.
+The 14-day minimum elapsed on 2026-07-24 with no public comment recorded, satisfying the `Proposed → Review` gate in SLS-0000 R9. The transition was approved on 2026-08-30 and is recorded below. Comment remains open: under SLS-0000 R17 an error report is accepted at any stage, and the next gate (`Review → Candidate`) needs a recorded maintainer review with every finding dispositioned.
 
 ## How to comment
 
@@ -49,4 +49,5 @@ any lifecycle stage, `Stable` included.
 | Transition | Date | Approver | Gate evidence |
 | --- | --- | --- | --- |
 | Draft → Proposed | 2026-07-10 | Founding maintainer, acting as interim Council | [pull request #1](https://github.com/goobolabs/somali-language-standard/pull/1) |
-| Proposed → Review | *not recorded* | Maintainer | Requires the comment period closed with no `open` comment (SLS-0000 R9) |
+| Proposed → Review | 2026-08-30 | Maintainer (sharafdin) | Comment period opened 2026-07-10 in [pull request #1](https://github.com/goobolabs/somali-language-standard/pull/1), 14-day minimum elapsed 2026-07-24; no comment received and no `open` item in this log |
+| Review → Candidate | *not recorded* | Maintainer | Requires a recorded maintainer review with every finding dispositioned (SLS-0000 R9) |

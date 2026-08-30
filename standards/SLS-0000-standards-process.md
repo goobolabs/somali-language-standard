@@ -2,7 +2,7 @@
 sls_id: SLS-0000
 title: SLS Standards Process Standard
 version: 0.2.0
-status: Proposed
+status: Review
 category: meta
 owner: maintainers
 reviewers: []

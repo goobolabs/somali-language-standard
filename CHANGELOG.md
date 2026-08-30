@@ -65,6 +65,18 @@ releases, schema versions, and per-standard versions relate.
 
 ### Changed
 
+- **SLS-0000 and SLS-0001 promoted `Proposed → Review`.** Their comment periods
+  opened 2026-07-10 and the 14-day minimum elapsed 2026-07-24 with no comment
+  received and no `open` item; the transitions are recorded with date, approver,
+  and gate evidence per `SLS-0000` R18.
+- **SLS-0004 R16 narrowed** (→ `0.2.0`). The rule offered `" "` / `' '` as an
+  accepted straight quotation profile while its own final sentence forbade
+  classifying straight U+0027 as quotation punctuation — U+0027 is the
+  glottal-stop input alias under SLS-0001 R7, and one character cannot be
+  normalized as a letter and read as a delimiter in the same text. The straight
+  profile is now U+0022 only, U+0027 is excluded as a quotation mark, and a
+  quotation nested inside a straight-double pair uses a curly single or
+  single-guillemet pair. Resolves review-log item M-2.
 - **Governance simplified to a maintainer-steward model.** A maintainer now
   approves every lifecycle transition, from `Draft` through `Stable`. The
   correction channel replaces pre-publication gatekeeping: anyone may report an

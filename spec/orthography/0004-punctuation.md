@@ -2,8 +2,8 @@
 id: "0004"
 sls_id: SLS-0004
 title: Somali Punctuation Standard
-version: 0.1.1
-standard_version: 0.1.1
+version: 0.2.0
+standard_version: 0.2.0
 status: Proposed
 category: foundation
 owner: maintainers
@@ -22,6 +22,9 @@ revision_history:
   - version: 0.1.1
     date: 2026-08-30
     change: "Editorial: repaired the long-dash edge-case sentence; linked the public review log"
+  - version: 0.2.0
+    date: 2026-08-30
+    change: "R16 narrowed: the straight quotation profile is restricted to U+0022 and straight U+0027 is excluded as a quotation mark, resolving the conflict with its SLS-0001 R7 role as the glottal-stop input alias; nesting inside a straight-double pair uses a curly single or single-guillemet pair. MAJOR by SLS-0000 R11 (a MUST-level option was removed), taken on the minor position because the standard is pre-1.0"
 ---
 
 > **Proposed status:** This document is accepted for formal public comment.
@@ -182,10 +185,14 @@ combined marks, dialogue turns, and punctuation in numeric or date formats.
   a sentence-level U+2014 long dash **MUST** have one space on each side.
   Labeled source-faithful text is exempt from normalization.
 - **R16.** Inline quotation marks **MUST** use one internally consistent paired
-  profile: curly double/single (`“ ”`, `‘ ’`), straight double/single (`" "`,
-  `' '`), or double/single guillemets (`« »`, `‹ ›`). Straight U+0027 **MUST
-  NOT** be classified as quotation punctuation until SLS-0001 glottal-stop
-  normalization has resolved its lexical use.
+  profile: curly double/single (`“ ”`, `‘ ’`), straight double (`" "`, U+0022),
+  or double/single guillemets (`« »`, `‹ ›`). Straight U+0027 **MUST NOT** be
+  used as a quotation mark or classified as quotation punctuation: SLS-0001 R7
+  reserves it as an input alias for the glottal-stop letter, and a text cannot
+  normalize that alias and read the same character as a quotation delimiter at
+  the same time. Because the straight profile therefore has no second level, a
+  quotation nested inside a straight-double pair **MUST** use a curly single
+  pair (`‘ ’`) or single guillemets (`‹ ›`), as R11 requires.
 - **R17.** A sentence-final mark that belongs to quoted or parenthetical
   material **MUST** occur inside its closing delimiter. A mark that belongs to
   the containing sentence **MUST** occur outside. When a quotation ending the
@@ -244,7 +251,7 @@ combined marks, dialogue turns, and punctuation in numeric or date formats.
 | R13 | `xeer-ilaaliye` preserves the reviewed internal hyphen. | `xeer—ilaaliye` substitutes a sentence-level long dash. |
 | R14 | `Cali — Faarax` uses U+2014 for the long dash. | `Cali -- Faarax` substitutes two hyphen-minus characters. |
 | R15 | `Cali, Faarax`; `xeer-ilaaliye`; `Cali — Faarax` follow the spacing profile. | `Cali ,Faarax`; `xeer - ilaaliye`; `Cali—Faarax` violate it. |
-| R16 | `“hadal”` and `«hadal»` each use a consistent accepted pair. | `“hadal»` mixes unrelated opening and closing profiles. |
+| R16 | `“hadal”`, `"hadal"`, and `«hadal»` each use a consistent accepted pair. | `“hadal»` mixes unrelated opening and closing profiles; `'hadal'` uses the reserved glottal-stop character as a quotation mark. |
 | R17 | `Waxay tidhi, “Ma timid?”` places the question mark inside its quote. | `Waxay tidhi, “Ma timid”?` places the quoted question mark outside. |
 
 ## Edge Cases
@@ -253,8 +260,12 @@ combined marks, dialogue turns, and punctuation in numeric or date formats.
   inside or outside the closing quotation depends on what material it governs;
   R17 applies the semantic-scope decision.
 - **Quotation profiles.** Straight quotes, curly quotation marks, and
-  guillemets occur in the evidence library. R16 accepts all three paired
-  profiles and requires internal consistency rather than choosing one winner.
+  guillemets all occur in the evidence library, and R16 accepts all three
+  families rather than choosing one winner. The single exception is the straight
+  single quote U+0027, which SLS-0001 R7 reserves as a glottal-stop input alias;
+  a straight-double outer quotation borrows a curly single or single-guillemet
+  pair for its nested level. Source-faithful fields may preserve U+0027 as it
+  appears in the source, labelled as such.
 - **Glottal stop and straight apostrophe.** U+0027 can represent legacy input
   for the Somali glottal stop or act as punctuation. Tools must apply SLS-0001
   normalization with lexical context before punctuation replacement.
@@ -297,7 +308,7 @@ not support a `Stable` compliance claim.
 | C10 | A reviewed compound hyphen is preserved and not replaced by a long dash | R13 | MUST |
 | C11 | Fixed punctuation functions use the ordinary code-point profile unless source fidelity is explicit | R14 | MUST |
 | C12 | Ordinary punctuation, hyphen, and long-dash spacing follows the digital profile | R15 | MUST |
-| C13 | Inline quotations use a consistent accepted pair and preserve glottal-stop identity | R16 | MUST |
+| C13 | Inline quotations use a consistent accepted pair, never U+0027, and preserve glottal-stop identity | R16 | MUST |
 | C14 | Final marks are placed according to quoted, parenthetical, or containing-sentence scope | R17 | MUST |
 
 ## References
@@ -327,3 +338,4 @@ not support a `Stable` compliance claim.
 | --- | --- | --- |
 | 0.1.0 | 2026-08-23 | Initial evidence-mapped draft |
 | 0.1.1 | 2026-08-30 | Editorial: repaired the long-dash edge-case sentence; linked the public review log |
+| 0.2.0 | 2026-08-30 | R16 narrowed: the straight quotation profile is restricted to U+0022 and straight U+0027 is excluded as a quotation mark, resolving the conflict with its SLS-0001 R7 role as the glottal-stop input alias; nesting inside a straight-double pair uses a curly single or single-guillemet pair. MAJOR by SLS-0000 R11 (a MUST-level option was removed), taken on the minor position because the standard is pre-1.0 |
