@@ -1,0 +1,35 @@
+{
+  "sls_id": "sls:lex:000123",
+  "word": "baabuur",
+  "part_of_speech": "magac",
+  "gender": "masculine",
+  "plural": "baabuurro",
+  "ipa": "baːbuːr",
+  "dialect": "so",
+  "definitions": [
+    {
+      "sense": 1,
+      "en": "vehicle, car",
+      "so_gloss": "gaari lagu safro"
+    }
+  ],
+  "synonyms": [
+    "gaari"
+  ],
+  "antonyms": [],
+  "is_loanword": true,
+  "loan_origin": "Italian (vapore)",
+  "example_sentences": [
+    "sls:sent:004421"
+  ],
+  "frequency_rank": 812,
+  "metadata": {
+    "contributor": "SLS maintainers",
+    "source": "Somali Language Standard curated evidence library",
+    "date_added": "2026-08-31",
+    "review_status": "reviewed",
+    "license": "CC BY 4.0",
+    "schema_version": "1.0.0",
+    "since_version": "0.3.0"
+  }
+}

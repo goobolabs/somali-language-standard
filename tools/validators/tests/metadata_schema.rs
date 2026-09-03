@@ -81,3 +81,27 @@ fn blank_jsonl_lines_are_rejected() {
         diagnostic.line == Some(2) && diagnostic.message.contains("blank lines")
     }));
 }
+
+#[test]
+fn schema_versions_must_be_semver() {
+    let result = validate_path(
+        &repository_path("tools/validators/tests/fixtures/invalid-schema-version.schema.json"),
+        &repository_path("tools/validators/tests/fixtures/valid-metadata.json"),
+    );
+
+    let error = result.expect_err("an invalid schema version must be rejected");
+    assert!(error.contains("invalid schema_version"), "{error}");
+}
+
+#[test]
+fn duplicate_schema_ids_are_rejected() {
+    let result = validate_path(
+        &repository_path("tools/validators/tests/fixtures/duplicate-schemas/first.schema.json"),
+        &repository_path("tools/validators/tests/fixtures/duplicate-schemas/input.json"),
+    );
+
+    let error = result.expect_err("duplicate schema IDs must be rejected");
+    assert!(error.contains("duplicate schema $id"), "{error}");
+    assert!(error.contains("first.schema.json"), "{error}");
+    assert!(error.contains("second.schema.json"), "{error}");
+}

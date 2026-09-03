@@ -186,7 +186,7 @@ CI that enforces them — the point where the repository becomes self-checking.
 **Deliverables**
 
 - [x] `schemas/metadata-common.schema.json` (provenance block)
-- [ ] `schemas/lexicon-entry.schema.json`
+- [x] `schemas/lexicon-entry.schema.json`
 - [ ] `schemas/terminology-entry.schema.json`
 - [ ] `schemas/sentence-pair.schema.json`
 - [ ] `schemas/grammar-rule.schema.json`, `benchmark-item.schema.json`,
@@ -196,7 +196,8 @@ CI that enforces them — the point where the repository becomes self-checking.
       dangling `sls_id`) validator
   - [x] Rust JSON/JSONL schema-validator foundation with valid and invalid
         fixtures
-  - [ ] Local schema-reference registry and automatic file-to-schema routing
+  - [x] Local schema-reference registry
+  - [ ] Automatic file-to-schema routing
   - [ ] Duplicate and dangling `sls_id` validation
 - [ ] `validate.yml` implemented: lint, schema validation, cross-ref checks,
       metadata completeness on every PR

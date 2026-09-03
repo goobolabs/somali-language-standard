@@ -66,7 +66,7 @@ ai/
   prompts/        System prompts and prompt templates
   datasets/       Instruction, fine-tuning, and correction datasets
 benchmarks/       Evaluation suites (kept separate from training data)
-tools/            Validators, compilers, exporters (implemented later)
+tools/            Rust validators; future compilers and exporters
 examples/         Integration guides for developers
 ```
 

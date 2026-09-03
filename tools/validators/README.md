@@ -16,6 +16,9 @@ cargo run -p sls-validators -- validate \
 The command exits with status 0 only when the schema is valid and every input
 record conforms. Validation is offline, JSON Schema `format` assertions are
 enabled, and JSONL diagnostics include the failing record's line number.
+Sibling `*.schema.json` files are loaded into a local registry, allowing shared
+references such as `metadata-common.schema.json` without network access. Every
+loaded schema must have a unique `$id` and a SemVer `schema_version`.
 
 ## Test
 

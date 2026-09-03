@@ -1,0 +1,178 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "lexicon-entry.schema.json",
+  "title": "SLS Lexicon Entry",
+  "description": "A Somali headword, its lexical properties, definitions, references, and provenance.",
+  "schema_version": "1.0.0",
+  "type": "object",
+  "required": [
+    "sls_id",
+    "word",
+    "part_of_speech",
+    "dialect",
+    "definitions",
+    "is_loanword",
+    "metadata"
+  ],
+  "properties": {
+    "sls_id": {
+      "type": "string",
+      "pattern": "^sls:lex:[0-9]{6}$",
+      "description": "Permanent SLS lexicon identifier."
+    },
+    "word": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Canonical headword written in Somali orthography."
+    },
+    "part_of_speech": {
+      "type": "string",
+      "enum": [
+        "magac",
+        "magacuyaal",
+        "fal",
+        "tilmaame",
+        "falkaab",
+        "meeleeye",
+        "xiriiriye",
+        "qodob",
+        "yaab"
+      ],
+      "description": "Primary word class from SLS-0003 G10-R1; tifaftire remains a tilmaame subcategory."
+    },
+    "gender": {
+      "type": "string",
+      "enum": [
+        "masculine",
+        "feminine"
+      ],
+      "description": "Grammatical gender established by agreement evidence."
+    },
+    "plural": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Attested lexical plural form; it must not be guessed from the singular."
+    },
+    "ipa": {
+      "type": "string",
+      "minLength": 1,
+      "description": "International Phonetic Alphabet transcription."
+    },
+    "dialect": {
+      "type": "string",
+      "pattern": "^so(?:-x(?:-[a-z0-9]{1,8})+)?$",
+      "description": "Lowercase BCP 47 language tag: so for Standard Somali or an approved private-use Somali extension."
+    },
+    "definitions": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "sense",
+          "en",
+          "so_gloss"
+        ],
+        "properties": {
+          "sense": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "en": {
+            "type": "string",
+            "minLength": 1
+          },
+          "so_gloss": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "synonyms": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "antonyms": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "is_loanword": {
+      "type": "boolean"
+    },
+    "loan_origin": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Source language or etymological note for a loanword."
+    },
+    "example_sentences": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^sls:sent:[0-9]{6}$"
+      },
+      "uniqueItems": true
+    },
+    "frequency_rank": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "metadata": {
+      "$ref": "metadata-common.schema.json#/$defs/provenance"
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "part_of_speech": {
+            "const": "magac"
+          }
+        },
+        "required": [
+          "part_of_speech"
+        ]
+      },
+      "then": {
+        "required": [
+          "gender",
+          "plural"
+        ]
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "is_loanword": {
+            "const": true
+          }
+        },
+        "required": [
+          "is_loanword"
+        ]
+      },
+      "then": {
+        "required": [
+          "loan_origin"
+        ]
+      },
+      "else": {
+        "not": {
+          "required": [
+            "loan_origin"
+          ]
+        }
+      }
+    }
+  ],
+  "additionalProperties": false
+}

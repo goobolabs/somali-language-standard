@@ -160,18 +160,20 @@ somali-language-standard/
 │   │   ├── example-sentences.jsonl
 │   │   ├── literature-excerpts/     # rights-cleared only
 │   │   └── news-samples/            # rights-cleared / permissioned only
-│   └── translation-pairs/
+│   └── translation/
 │       ├── general/en-so.jsonl
 │       ├── technical/en-so-tech.jsonl
 │       └── idioms/idioms-en-so.jsonl
 │
 ├── ai/
-│   ├── system-prompts/somali-assistant-persona.md
-│   ├── instruction-datasets/instructions-v1.jsonl
-│   ├── fine-tuning/sft-somali-v1.jsonl
-│   ├── rag-knowledge/chunks/        # pre-chunked spec + lexicon for retrieval
-│   ├── prompt-templates/templates.yaml
-│   └── correction-datasets/grammar-correction-pairs.jsonl
+│   ├── prompts/
+│   │   ├── somali-assistant-persona.md
+│   │   └── templates.yaml
+│   ├── datasets/
+│   │   ├── instructions-v1.jsonl
+│   │   ├── sft-somali-v1.jsonl
+│   │   └── grammar-correction-pairs.jsonl
+│   └── rag-knowledge/chunks/        # generated from spec + data
 │
 ├── benchmarks/
 │   ├── grammar/grammar-eval-v1.jsonl
@@ -229,11 +231,11 @@ somali-language-standard/
 | `data/lexicon/` | The dictionary: word, definitions, POS, morphology, frequency, loanword flags. | Contributors + maintainers | Hand-authored |
 | `data/terminology/` | Domain glossaries (AI, medicine, law, etc.) — where most long-term value accrues, since this vocabulary barely exists in Somali today. | Maintainers | Hand-authored |
 | `data/corpora/` | Example sentences and rights-cleared text used for grounding, RAG, and training context. | Contributors | Hand-authored / curated |
-| `data/translation-pairs/` | Parallel EN↔SO sentence/phrase pairs for MT training and eval. | Contributors + reviewers | Hand-authored |
+| `data/translation/` | Parallel EN↔SO sentence/phrase pairs for MT training and eval. | Contributors + reviewers | Hand-authored |
 | `ai/` | Everything shaped for direct AI consumption: system prompts, instruction/fine-tuning sets, RAG chunks, correction pairs. | Maintainers + contributors | Hand-authored, partly derived from `spec/` + `data/` |
 | `benchmarks/` | Eval suites + scoring methodology, kept separate from training data to avoid contamination. | Maintainers | Hand-authored |
 | `resources/` | The canonical linguistic source library and evidence base. Eight curated collections (qaamuus, naxwe, erey-bixin, suugaan, qoraal, dhawaaq, sarfe) plus derived madax-ereyo. Documented in [`docs/RESOURCES.md`](RESOURCES.md). | Maintainers | Curated source data |
-| `tools/` | Validator/build/export scripts. Empty in the planning phase; scaffolded in Phase 0 implementation. | Maintainers | Code (future) |
+| `tools/` | Rust validators plus future build and export tools. Validator implementation began in Phase 4. | Maintainers | Hand-authored code |
 | `docs/` | The public documentation site (built from `spec/` + narrative docs). | Maintainers | Generated + hand-authored |
 | `releases/` | Compiled, versioned, distributable bundles — the thing most consumers actually download. | CI only | Generated |
 
@@ -320,7 +322,7 @@ Numbering blocks are reserved by category (`00xx` orthography, `01xx` grammar, `
 | Format | Used for | Why |
 |---|---|---|
 | **JSON Lines (`.jsonl`)** | All datasets: lexicon, terminology, corpora, translation pairs, benchmarks, fine-tuning data | Streams line-by-line, diffs cleanly in git (one entry = one line = one diff hunk), is the native format of every ML data pipeline (HF `datasets`, JAX/PyTorch loaders). |
-| **JSON** | Schemas, manifests, config, small fixed structures (e.g. `prompt-templates`) | Universally parseable, no ambiguity. |
+| **JSON** | Schemas, manifests, config, small fixed structures (e.g. prompt configuration) | Universally parseable, no ambiguity. |
 | **Markdown + YAML front-matter** | `spec/`, style guides, docs site | Human-readable normative prose; front-matter makes status/version machine-extractable without parsing prose. |
 | **YAML** | `templates.yaml`, CI config | Used only where a human is expected to hand-edit config; never for datasets (indentation-sensitivity is a liability at scale). |
 
@@ -364,11 +366,11 @@ All schemas share a **common metadata block** via `$ref` to `metadata-common.sch
 {
   "sls_id": "sls:lex:000123",
   "word": "baabuur",
-  "part_of_speech": "noun",
+  "part_of_speech": "magac",
   "gender": "masculine",
   "plural": "baabuurro",
   "ipa": "baːbuːr",
-  "dialect": "standard",
+  "dialect": "so",
   "definitions": [
     { "sense": 1, "en": "vehicle, car", "so_gloss": "gaari lagu safro" }
   ],
@@ -382,9 +384,16 @@ All schemas share a **common metadata block** via `$ref` to `metadata-common.sch
 }
 ```
 
+`part_of_speech` uses the nine canonical Somali labels required by SLS-0003
+G10-R1. `dialect` uses lowercase BCP 47 tags: `so` identifies Standard Somali,
+while an approved regional profile can use a private-use extension such as
+`so-x-maay`. A `magac` entry must record its reviewed grammatical gender and
+lexical plural under SLS-0003 G11-R1 and G11-R3. An entry marked
+`is_loanword: true` must record `loan_origin`.
+
 **Terminology entry** (`terminology-entry.schema.json`) — see §9 for the full field rationale.
 
-**Sentence pair** (`sentence-pair.schema.json`) — used by `translation-pairs/` and `corpora/example-sentences.jsonl`:
+**Sentence pair** (`sentence-pair.schema.json`) — used by `data/translation/` and selected corpus records:
 
 ```json
 {
@@ -461,7 +470,7 @@ This is the highest-leverage part of SLS: most of this vocabulary (AI, ML, cyber
 
 ## 10. Translation Standards
 
-`spec/translation/` holds the normative guidance; `data/translation-pairs/` holds the evidence (parallel sentence pairs tagged by the same categories):
+`spec/translation/` holds the normative guidance; `data/translation/` holds the evidence (parallel sentence pairs tagged by the same categories):
 
 - **EN→SO / SO→EN guidelines** — directionality matters: Somali VSO/SOV flexibility, waxaa-focus constructions, and evidentiality markers don't map 1:1 onto English syntax, so each direction gets its own document rather than one "translation guide."
 - **Idioms & expressions** — stored as *pairs*, never literal glosses, with a `literalness` field so training pipelines can choose to exclude idioms if they only want literal-pair data.
@@ -483,12 +492,9 @@ Eight registers, one file each under `spec/style/`, each following the same skel
 
 | Subfolder | Contents | Derived from |
 |---|---|---|
-| `system-prompts/` | Ready-to-use persona/system prompts for "a Somali-fluent assistant that follows SLS conventions" | `spec/` |
-| `instruction-datasets/` | Instruction→response pairs in Somali for SFT | `data/`, `spec/`, native contribution |
-| `fine-tuning/` | Larger curated SFT sets, versioned like model checkpoints | `instruction-datasets/` + review |
+| `prompts/` | Ready-to-use system prompts and parameterized templates for translation, grammar checking, and terminology lookup | `spec/` |
+| `datasets/` | Reviewed instruction, fine-tuning, and correction records shaped for model training | `data/`, `spec/`, native contribution |
 | `rag-knowledge/chunks/` | Pre-chunked (~512 token), embedding-ready fragments of `spec/` + `lexicon/` + `terminology/`, each chunk carrying its source `sls_id`s for citation | Automated build from `spec/` + `data/` |
-| `prompt-templates/` | Parameterized templates (translation, grammar-check, terminology lookup) any app can drop in | Hand-authored |
-| `correction-datasets/` | (bad, corrected, explanation) triples for grammar/spelling correction models | Contributor-submitted + benchmark overlap |
 
 `rag-knowledge/` is intentionally a **build artifact**, not hand-edited — regenerated by tooling whenever `spec/` or `data/` changes, so it never drifts out of sync with the source of truth.
 
@@ -496,7 +502,7 @@ Eight registers, one file each under `spec/style/`, each following the same skel
 
 ## 13. Benchmarks & Scoring
 
-Benchmarks live apart from training data specifically to prevent contamination — a `benchmarks/` item must never also appear in `ai/fine-tuning/`. If the project later wants a leaderboard, the underlying policy question (public dev set vs. held-out test set, GLUE/SuperGLUE-style) belongs in `benchmarks/SCORING.md` as a recorded maintainer decision, not something contributors decide ad hoc.
+Benchmarks live apart from training data specifically to prevent contamination — a `benchmarks/` item must never also appear in `ai/datasets/`. If the project later wants a leaderboard, the underlying policy question (public dev set vs. held-out test set, GLUE/SuperGLUE-style) belongs in `benchmarks/SCORING.md` as a recorded maintainer decision, not something contributors decide ad hoc.
 
 | Suite | Scoring method |
 |---|---|

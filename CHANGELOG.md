@@ -12,6 +12,11 @@ releases, schema versions, and per-standard versions relate.
 
 ### Added
 
+- `schemas/lexicon-entry.schema.json` — the SLS-0003-aligned headword contract,
+  using permanent lexicon IDs, the nine reviewed word classes, BCP 47 Somali
+  tags, explicit loanword origins, definition senses, and shared provenance.
+- An offline local-schema registry in the Rust validator, including duplicate
+  schema-ID detection and SemVer validation for every `schema_version`.
 - Phase 4 record-format audit documenting the current schema surfaces, strict
   common-metadata decisions, and unresolved dataset-routing differences.
 - `schemas/metadata-common.schema.json` — the first draft 2020-12 machine
@@ -73,6 +78,9 @@ releases, schema versions, and per-standard versions relate.
 
 ### Changed
 
+- Reconciled the architecture's stale `data/translation-pairs/` and split AI
+  subdirectory names with the implemented `data/translation/`, `ai/prompts/`,
+  and `ai/datasets/` layout.
 - **SLS-0003 per-rule review complete: 42 of 42 verdicts, no version bump.**
   The maintainer native-speaker review approved every displayed rule and
   example in G10-R1 through G17-R6 as written. The verdicts are recorded as

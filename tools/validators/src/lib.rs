@@ -1,3 +1,4 @@
+use std::collections::BTreeMap;
 use std::fmt;
 use std::fs;
 use std::io::{BufRead, BufReader};
@@ -42,8 +43,10 @@ impl ValidationReport {
 pub fn validate_path(schema_path: &Path, input_path: &Path) -> Result<ValidationReport, String> {
     let schema = read_json(schema_path, "schema")?;
     validate_schema_contract(schema_path, &schema)?;
+    let registry = load_schema_registry(schema_path)?;
 
     let validator = jsonschema::options()
+        .with_registry(&registry)
         .should_validate_formats(true)
         .should_ignore_unknown_formats(false)
         .offline()
@@ -82,19 +85,101 @@ fn read_json(path: &Path, kind: &str) -> Result<Value, String> {
 }
 
 fn validate_schema_contract(schema_path: &Path, schema: &Value) -> Result<(), String> {
-    let schema_version = schema.get("schema_version").and_then(Value::as_str);
-    if schema_version.is_none_or(str::is_empty) {
-        return Err(format!(
-            "schema {} must carry a non-empty top-level schema_version",
+    let schema_version = schema
+        .get("schema_version")
+        .and_then(Value::as_str)
+        .ok_or_else(|| {
+            format!(
+                "schema {} must carry a string top-level schema_version",
+                schema_path.display()
+            )
+        })?;
+    semver::Version::parse(schema_version).map_err(|error| {
+        format!(
+            "schema {} has invalid schema_version {schema_version:?}: {error}",
             schema_path.display()
-        ));
-    }
+        )
+    })?;
 
     jsonschema::meta::validate(schema).map_err(|error| {
         format!(
             "schema {} does not conform to its declared meta-schema at {}: {error}",
             schema_path.display(),
             error.instance_path()
+        )
+    })
+}
+
+fn load_schema_registry(schema_path: &Path) -> Result<jsonschema::Registry<'static>, String> {
+    let schema_directory = schema_path.parent().unwrap_or_else(|| Path::new("."));
+    let directory = fs::read_dir(schema_directory).map_err(|error| {
+        format!(
+            "could not read schema directory {}: {error}",
+            schema_directory.display()
+        )
+    })?;
+    let mut schema_paths = Vec::new();
+    for entry in directory {
+        let entry = entry.map_err(|error| {
+            format!(
+                "could not read schema directory entry in {}: {error}",
+                schema_directory.display()
+            )
+        })?;
+        let file_type = entry.file_type().map_err(|error| {
+            format!(
+                "could not inspect schema candidate {}: {error}",
+                entry.path().display()
+            )
+        })?;
+        if file_type.is_file()
+            && entry
+                .file_name()
+                .to_str()
+                .is_some_and(|name| name.ends_with(".schema.json"))
+        {
+            schema_paths.push(entry.path());
+        }
+    }
+    schema_paths.sort();
+
+    let mut ids = BTreeMap::new();
+    let mut registry = jsonschema::Registry::new();
+    for candidate_path in schema_paths {
+        let candidate = read_json(&candidate_path, "schema")?;
+        validate_schema_contract(&candidate_path, &candidate)?;
+        let schema_id = candidate
+            .get("$id")
+            .and_then(Value::as_str)
+            .filter(|id| !id.is_empty())
+            .ok_or_else(|| {
+                format!(
+                    "schema {} must carry a non-empty string $id",
+                    candidate_path.display()
+                )
+            })?
+            .to_owned();
+
+        if let Some(first_path) = ids.insert(schema_id.clone(), candidate_path.clone()) {
+            return Err(format!(
+                "duplicate schema $id {schema_id:?} in {} and {}",
+                first_path.display(),
+                candidate_path.display()
+            ));
+        }
+
+        registry = registry.add(&schema_id, candidate).map_err(|error| {
+            format!(
+                "could not register schema {} with $id {schema_id:?}: {error}",
+                candidate_path.display()
+            )
+        })?;
+    }
+
+    registry.prepare().map_err(|error| {
+        format!(
+            "could not prepare local schema registry from {}: {error}",
+            schema_directory.display()
         )
     })
 }
