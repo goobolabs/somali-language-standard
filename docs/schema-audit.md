@@ -23,7 +23,7 @@ for the individual record types.
 | `metadata-common.schema.json` | The `metadata` object in every linguistic JSONL record | Implemented as the shared Phase 4 foundation |
 | `lexicon-entry.schema.json` | `data/lexicon/**/*.jsonl` | Implemented; no data records yet |
 | `terminology-entry.schema.json` | Domain files under `data/terminology/` | Implemented; no terminology data records yet |
-| `sentence-pair.schema.json` | `data/translation/**/*.jsonl` and selected corpus records | Translation path resolved; corpus profile still open |
+| `sentence-pair.schema.json` | `data/translation/**/*.jsonl` | Implemented; no translation data records yet |
 | `grammar-rule.schema.json` | Machine-readable grammar requirements | No canonical record path is defined yet |
 | `style-example.schema.json` | Structured style-guide examples | No canonical record path is defined yet |
 | `benchmark-item.schema.json` | `benchmarks/**/*.jsonl` | Placeholder path exists; no records yet |
@@ -110,20 +110,33 @@ English and Somali examples are optional but must occur as a pair. Reviewers
 are recorded only in shared metadata. Validator fixtures are explicitly marked
 as synthetic structural records and are not terminology evidence.
 
+### Sentence-pair contract
+
+Bilingual translation records use permanent `sls:pair:NNNNNN` identifiers and
+require non-empty English and Standard Somali text, a register label, an
+explicit `literal` or `natural` translation type, and shared provenance. A
+terminology domain is optional, because general and idiom pairs need not be
+domain-specific; when present, it uses a slug from `_domains.json` and will be
+checked by the cross-reference validator.
+
+The register remains a lower-kebab-case label until the planned style
+standards establish a controlled vocabulary. Validator fixtures are synthetic
+structural records and make no claim about Somali translation quality.
+
 ## Resolved routing decisions
 
 1. Parallel translation data uses the implemented `data/translation/` path.
 2. AI prompts use `ai/prompts/`; instruction, fine-tuning, and correction
    records use `ai/datasets/`. Generated RAG chunks remain separate under
    `ai/rag-knowledge/chunks/` when that build phase begins.
+3. `sentence-pair.schema.json` governs bilingual records under
+   `data/translation/`. Monolingual corpus examples need a separate future
+   profile rather than optionalizing one bilingual contract into ambiguity.
 
 ## Remaining routing decisions
 
 1. Grammar-rule and style-example schemas need canonical hand-authored or
    generated record locations before file-to-schema routing can be enforced.
-2. Sentence pairs used as standalone corpus examples may need a distinct
-   schema profile from bilingual translation pairs.
-
-These questions must be resolved before the corresponding payload schemas and
-automatic directory routing are marked complete. They do not weaken the common
+This question must be resolved before the corresponding payload schemas and
+automatic directory routing are marked complete. It does not weaken the common
 metadata contract.

@@ -12,6 +12,10 @@ releases, schema versions, and per-standard versions relate.
 
 ### Added
 
+- `schemas/sentence-pair.schema.json` — the bilingual translation-record
+  contract, with permanent pair IDs, English and Standard Somali text,
+  register, literal/natural classification, optional terminology domain, and
+  shared provenance.
 - `schemas/terminology-entry.schema.json` and the supporting terminology-domain
   schema, with governed coinage/status values, paired bilingual examples, and
   shared provenance.

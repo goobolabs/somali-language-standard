@@ -188,7 +188,7 @@ CI that enforces them — the point where the repository becomes self-checking.
 - [x] `schemas/metadata-common.schema.json` (provenance block)
 - [x] `schemas/lexicon-entry.schema.json`
 - [x] `schemas/terminology-entry.schema.json`
-- [ ] `schemas/sentence-pair.schema.json`
+- [x] `schemas/sentence-pair.schema.json`
 - [ ] `schemas/grammar-rule.schema.json`, `benchmark-item.schema.json`,
       `style-example.schema.json`, `correction-pair.schema.json`
 - [x] `data/terminology/_domains.json` controlled vocabulary

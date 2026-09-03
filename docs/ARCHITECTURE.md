@@ -394,7 +394,8 @@ lexical plural under SLS-0003 G11-R1 and G11-R3. An entry marked
 
 **Terminology entry** (`terminology-entry.schema.json`) — see §9 for the full field rationale.
 
-**Sentence pair** (`sentence-pair.schema.json`) — used by `data/translation/` and selected corpus records:
+**Sentence pair** (`sentence-pair.schema.json`) — used by bilingual records in
+`data/translation/`:
 
 ```json
 {
@@ -422,7 +423,15 @@ lexical plural under SLS-0003 G11-R1 and G11-R3. An entry marked
 }
 ```
 
-Every domain-specific schema is a thin extension of this pattern — same discipline, different payload fields. Full schema files are written in the implementation phase, not in this planning document; the shapes above are the contract they must satisfy.
+Every record-specific schema follows this pattern: the same metadata discipline
+with different payload fields. The schema files implement the shapes summarized
+above and are the machine-readable source of truth for their exact constraints.
+
+`register` remains an open lower-kebab-case label until the style standards
+define its controlled vocabulary. `domain` is optional for general and idiom
+pairs; when present, it names a slug from `data/terminology/_domains.json`.
+Monolingual corpus examples use a separate future record profile rather than
+being forced into this bilingual contract.
 
 ---
 
@@ -482,7 +491,9 @@ the registry does not introduce undocumented abbreviations.
 `spec/translation/` holds the normative guidance; `data/translation/` holds the evidence (parallel sentence pairs tagged by the same categories):
 
 - **EN→SO / SO→EN guidelines** — directionality matters: Somali VSO/SOV flexibility, waxaa-focus constructions, and evidentiality markers don't map 1:1 onto English syntax, so each direction gets its own document rather than one "translation guide."
-- **Idioms & expressions** — stored as *pairs*, never literal glosses, with a `literalness` field so training pipelines can choose to exclude idioms if they only want literal-pair data.
+- **Idioms & expressions** — stored as *pairs*, never as standalone literal
+  glosses, with `translation_type` so training pipelines can select literal or
+  natural pairs explicitly.
 - **False friends** — an explicit dataset (`sls:falsefriend:*`) of lookalike words that mislead (e.g. loanwords that shifted meaning), because these are exactly what breaks naive MT and what a spellchecker/grammar checker needs to flag.
 - **Technical translation** — governed by whatever `data/terminology/*` says is `status: standard`; a translation-consistency benchmark (§13) checks compliance automatically.
 - **Literal vs. natural** — every `sentence-pair` record carries `translation_type: literal|natural` so downstream consumers (MT training vs. gloss-learning tools) can filter appropriately instead of guessing.
