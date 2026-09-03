@@ -1,0 +1,22 @@
+{
+  "sls_id": "sls:term:AI:1",
+  "domain": "Artificial Intelligence",
+  "en_term": "fixture-en-term",
+  "so_term": "fixture-so-term",
+  "so_term_alternatives": [
+    "duplicate",
+    "duplicate"
+  ],
+  "definition_en": "Synthetic validator fixture; not terminology data.",
+  "part_of_speech": "noun",
+  "coinage_type": "translation",
+  "status": "approved",
+  "example_en": "Unpaired synthetic fixture.",
+  "metadata": {
+    "contributor": "SLS maintainers",
+    "date_added": "2026-09-04",
+    "review_status": "draft",
+    "license": "CC BY 4.0",
+    "schema_version": "1.0.0"
+  }
+}

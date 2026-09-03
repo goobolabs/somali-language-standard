@@ -135,6 +135,7 @@ somali-language-standard/
 ├── schemas/                         # JSON Schema (2020-12) — one per record type
 │   ├── metadata-common.schema.json  # shared $defs: provenance, license, review_status
 │   ├── lexicon-entry.schema.json
+│   ├── terminology-domains.schema.json
 │   ├── terminology-entry.schema.json
 │   ├── sentence-pair.schema.json
 │   ├── grammar-rule.schema.json
@@ -450,13 +451,12 @@ This is the highest-leverage part of SLS: most of this vocabulary (AI, ML, cyber
   "so_term_alternatives": ["shabakad dareen-jir ah"],
   "definition_en": "A computing system inspired by biological neural networks.",
   "definition_so": "...",
-  "part_of_speech": "noun phrase",
+  "part_of_speech": "magac",
   "coinage_type": "calque",          
   "status": "proposed",              
   "example_en": "The neural network was trained on images.",
   "example_so": "Shabakadda neerawiga ah waxaa lagu tababaray sawirro.",
-  "reviewers": [],
-  "metadata": { "...": "..." }
+  "metadata": { "reviewers": [], "...": "..." }
 }
 ```
 
@@ -464,7 +464,16 @@ This is the highest-leverage part of SLS: most of this vocabulary (AI, ML, cyber
 
 `status` lifecycle: `proposed → discussed → standard` (or `rejected`). Only a maintainer can promote a term to `standard`, and the promotion is recorded with its rationale. Multiple `so_term_alternatives` are allowed to persist at `proposed` indefinitely if genuine dialectal or stylistic variation exists — SLS documents real usage, it doesn't force false consensus.
 
+`part_of_speech` records the primary class of the term or its phrase head using
+the same nine SLS-0003 labels as lexicon entries. Reviewers live once in the
+shared `metadata` object rather than being duplicated at the record root.
+
 **The 20 launch domains** (each its own JSONL file, same schema): Artificial Intelligence, Machine Learning, Data Science, Cybersecurity, Computer Science, Software Engineering, Cloud Computing, Networking, Blockchain, Medicine, Law, Government, Finance, Education, Agriculture, Engineering, Mathematics, Physics, Chemistry, Biology.
+
+`data/terminology/_domains.json` maps each domain's permanent code and file slug
+to its reserved SLS-0200–SLS-0219 standard. The already documented `ai`, `ml`,
+and `cybersec` codes are retained; other launch domains use their full slug so
+the registry does not introduce undocumented abbreviations.
 
 ---
 

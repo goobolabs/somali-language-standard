@@ -1,0 +1,125 @@
+{
+  "schema_version": "1.0.0",
+  "domains": [
+    {
+      "code": "ai",
+      "slug": "artificial-intelligence",
+      "name": "Artificial Intelligence",
+      "standard_id": "SLS-0200"
+    },
+    {
+      "code": "ml",
+      "slug": "machine-learning",
+      "name": "Machine Learning",
+      "standard_id": "SLS-0201"
+    },
+    {
+      "code": "data-science",
+      "slug": "data-science",
+      "name": "Data Science",
+      "standard_id": "SLS-0202"
+    },
+    {
+      "code": "cybersec",
+      "slug": "cybersecurity",
+      "name": "Cybersecurity",
+      "standard_id": "SLS-0203"
+    },
+    {
+      "code": "computer-science",
+      "slug": "computer-science",
+      "name": "Computer Science",
+      "standard_id": "SLS-0204"
+    },
+    {
+      "code": "software-engineering",
+      "slug": "software-engineering",
+      "name": "Software Engineering",
+      "standard_id": "SLS-0205"
+    },
+    {
+      "code": "cloud-computing",
+      "slug": "cloud-computing",
+      "name": "Cloud Computing",
+      "standard_id": "SLS-0206"
+    },
+    {
+      "code": "networking",
+      "slug": "networking",
+      "name": "Networking",
+      "standard_id": "SLS-0207"
+    },
+    {
+      "code": "blockchain",
+      "slug": "blockchain",
+      "name": "Blockchain",
+      "standard_id": "SLS-0208"
+    },
+    {
+      "code": "medicine",
+      "slug": "medicine",
+      "name": "Medicine",
+      "standard_id": "SLS-0209"
+    },
+    {
+      "code": "law",
+      "slug": "law",
+      "name": "Law",
+      "standard_id": "SLS-0210"
+    },
+    {
+      "code": "government",
+      "slug": "government",
+      "name": "Government",
+      "standard_id": "SLS-0211"
+    },
+    {
+      "code": "finance",
+      "slug": "finance",
+      "name": "Finance",
+      "standard_id": "SLS-0212"
+    },
+    {
+      "code": "education",
+      "slug": "education",
+      "name": "Education",
+      "standard_id": "SLS-0213"
+    },
+    {
+      "code": "agriculture",
+      "slug": "agriculture",
+      "name": "Agriculture",
+      "standard_id": "SLS-0214"
+    },
+    {
+      "code": "engineering",
+      "slug": "engineering",
+      "name": "Engineering",
+      "standard_id": "SLS-0215"
+    },
+    {
+      "code": "mathematics",
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "standard_id": "SLS-0216"
+    },
+    {
+      "code": "physics",
+      "slug": "physics",
+      "name": "Physics",
+      "standard_id": "SLS-0217"
+    },
+    {
+      "code": "chemistry",
+      "slug": "chemistry",
+      "name": "Chemistry",
+      "standard_id": "SLS-0218"
+    },
+    {
+      "code": "biology",
+      "slug": "biology",
+      "name": "Biology",
+      "standard_id": "SLS-0219"
+    }
+  ]
+}

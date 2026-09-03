@@ -187,11 +187,11 @@ CI that enforces them — the point where the repository becomes self-checking.
 
 - [x] `schemas/metadata-common.schema.json` (provenance block)
 - [x] `schemas/lexicon-entry.schema.json`
-- [ ] `schemas/terminology-entry.schema.json`
+- [x] `schemas/terminology-entry.schema.json`
 - [ ] `schemas/sentence-pair.schema.json`
 - [ ] `schemas/grammar-rule.schema.json`, `benchmark-item.schema.json`,
       `style-example.schema.json`, `correction-pair.schema.json`
-- [ ] `data/terminology/_domains.json` controlled vocabulary
+- [x] `data/terminology/_domains.json` controlled vocabulary
 - [ ] `tools/validators/`: schema validator + cross-reference (duplicate /
       dangling `sls_id`) validator
   - [x] Rust JSON/JSONL schema-validator foundation with valid and invalid

@@ -12,6 +12,12 @@ releases, schema versions, and per-standard versions relate.
 
 ### Added
 
+- `schemas/terminology-entry.schema.json` and the supporting terminology-domain
+  schema, with governed coinage/status values, paired bilingual examples, and
+  shared provenance.
+- `data/terminology/_domains.json` — the 20-domain controlled vocabulary mapped
+  to reserved standards SLS-0200–SLS-0219, with an integrity test against the
+  standards registry.
 - `schemas/lexicon-entry.schema.json` — the SLS-0003-aligned headword contract,
   using permanent lexicon IDs, the nine reviewed word classes, BCP 47 Somali
   tags, explicit loanword origins, definition senses, and shared provenance.
