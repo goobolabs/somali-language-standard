@@ -27,6 +27,9 @@ releases, schema versions, and per-standard versions relate.
   non-loanword claim.
 - Opened SLS-0100 at `Draft` 0.1.0 in the standards registry and marked Phase 5
   / Milestone 4 as in progress.
+- Added the first four maintainer-reviewed pilot records to the lexicon core,
+  including a reviewed loan origin for `baabuur`, three reviewed senses for
+  `nin`, and the `middi` variant of `mindi`.
 
 ## [0.3.0] - 2026-09-04
 

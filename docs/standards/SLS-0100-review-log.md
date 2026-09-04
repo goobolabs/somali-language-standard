@@ -49,13 +49,15 @@ as linguistically reviewed unless its entry-level decision is recorded.
 
 ## Entry-review record
 
-No pilot entry has been approved or assigned an `sls:lex:` identifier. Answers
-to the pilot packet will be recorded here verbatim before corresponding data is
-created.
+Batch 1 is complete. The four answers below are copied verbatim from the
+maintainer's native-speaker review. Batch 2 and Batch 3 remain unanswered.
 
 | Entry decision | Date | Source | Maintainer answer | Disposition | Data effect |
 |---|---|---|---|---|---|
-| — | — | — | *(none recorded yet)* | — | — |
+| MR-1 | 2026-09-04 | maintainer review (native speaker) — packet LQ1 | Gender and Plural: Both are correct. It is masculine (*baabuurka*) and its plural is *baabuurro*.<br><br>Somali Gloss: The gloss "Gaadiid matoor ku socda oo rakaab ama xamuul qaada" is clear and accurate.<br><br>Loanword Status: Yes, it is a known loanword. It comes from Arabic (*bābūr*), which originally comes from Italian (*vapore*). | accepted | Add reviewed entry `sls:lex:000001` with `is_loanword: true` and the recorded Arabic/Italian origin. |
+| MR-2 | 2026-09-04 | maintainer review (native speaker) — packet LQ2 | Senses: The two senses are correct and distinct. Sense 1 refers to an adult female human (*qof dumar ah*). Sense 2 refers to a wife or female spouse (*xaas*).<br><br>Plural and Loanword Status: Yes, *naago* is the correct lexical plural. It is safe to mark *naag* as a native Somali word and not a loanword. | accepted | Add reviewed entry `sls:lex:000002` with two senses, plural `naago`, and `is_loanword: false`. |
+| MR-3 | 2026-09-04 | maintainer review (native speaker) — packet LQ3 | Commendatory Sense: Yes, you should include the commendatory sense as a third sense. In Somali lexicography and daily speech, *nin* is often used to describe a brave, honorable, or capable man (*nin rag ah*).<br><br>Confirmations:<br>Plural: *niman* (Correct).<br>Gender: Masculine singular (*ninka*) (Correct).<br>Loanword Status: Native Somali word (not a loanword) (Correct). | accepted | Add reviewed entry `sls:lex:000003` with three senses, plural `niman`, and `is_loanword: false`. |
+| MR-4 | 2026-09-04 | maintainer review (native speaker) — packet LQ4 | Somali Gloss: The gloss "Qalab gacan-qabsi iyo af wax gooya leh" works well. But it can also apply to tools like axes. To make it more precise, you can add how it is used, such as "oo loo isticmaalo jarista cuntada ama walxaha yaryar" (used for cutting food or small items).<br><br>Treatment of middi: Treat *middi* as a phonetic variant of *mindi*. You should keep *mindi* as the main entry and list *middi* as a variant form pointing back to *mindi*. Do not create a separate full entry for it initially. | accepted | Add reviewed entry `sls:lex:000004` with the narrower gloss and `variants: ["middi"]`; add the reviewed variant field to the schema and R8. |
 
 ## Transition record
 

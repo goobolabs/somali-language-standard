@@ -146,9 +146,9 @@ The first review packet deliberately includes easy and difficult cases:
 | `macallin` | multiple plurals and a source definition that is too narrow for direct reuse |
 
 The detailed questions are in
-[`SLS-0100-reviewer-packet.md`](SLS-0100-reviewer-packet.md). None of these
-candidates is yet assigned an SLS lexicon ID or counted as a reviewed data
-record.
+[`SLS-0100-reviewer-packet.md`](SLS-0100-reviewer-packet.md). Batch 1 is now
+assigned IDs `sls:lex:000001`–`sls:lex:000004` and counted as four reviewed
+records. Batch 2 and Batch 3 remain candidates without IDs.
 
 ## Draft decisions
 
@@ -171,6 +171,11 @@ record.
 - each approved record identifies its exact source and reviewer;
 - the assigned ID is the next unused permanent lexicon ID;
 - the JSONL file passes local repository validation.
+
+Batch 1 evidence outcome: the four reviewed records are in
+`data/lexicon/core/batch-1.jsonl`; `baabuur` has reviewed Arabic/Italian loan
+origin, `naag` and `nin` have reviewed non-loanword status, and `mindi` records
+`middi` as a reviewed variant.
 
 ## Lifecycle handoff
 

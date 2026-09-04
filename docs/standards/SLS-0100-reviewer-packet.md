@@ -1,7 +1,7 @@
 # SLS-0100 Pilot Reviewer Packet
 
 - **Prepared:** 2026-09-04
-- **Status:** unanswered Draft pilot; no entry below is approved data
+- **Status:** Batch 1 answered and recorded; Batch 2–3 remain unanswered Draft pilot questions
 - **Standard:** [SLS-0100 Dictionary Standard](../../spec/lexicon/0100-dictionary-standard.md)
 - **Evidence map:** [SLS-0100 Dictionary Evidence Map](SLS-0100-evidence-map.md)
 - **Decision record:** [SLS-0100 Review Log](SLS-0100-review-log.md)
@@ -22,7 +22,7 @@ Review three or four candidates at a time. For each candidate:
    because it looks predictable;
 4. say “defer” when the evidence is insufficient.
 
-## Batch 1 — straightforward noun forms
+## Batch 1 — straightforward noun forms (answered; MR-1–MR-4)
 
 ### LQ1 — `baabuur`
 
@@ -41,6 +41,10 @@ people and goods. The paired headword occurs in
 - English definition: `A motor vehicle used to transport people or goods.`
 - dialect: `so`
 - loanword status: unresolved (`null`)
+
+**Recorded decision:** `is_loanword: true`; origin reviewed as Arabic (*bābūr*),
+ultimately Italian (*vapore*). Entry `sls:lex:000001` is now in the reviewed
+pilot seed.
 
 **Decision needed:** Are all proposed values correct? If you know the
 loanword status and origin from reliable evidence, state them; otherwise leave
@@ -65,6 +69,9 @@ adult woman and the female spouse in a married pair.
 - dialect: `so`
 - loanword status: `false`
 
+**Recorded decision:** approved as proposed. Entry `sls:lex:000002` is now in
+the reviewed pilot seed.
+
 **Decision needed:** Are both senses correct and distinct? Is `naago` the
 lexical plural for this entry, and is the non-loanword decision safe?
 
@@ -87,6 +94,9 @@ character reading, and a male-spouse reading.
 - dialect: `so`
 - loanword status: `false`
 
+**Recorded decision:** include the commendatory sense as a third sense. Entry
+`sls:lex:000003` is now in the reviewed pilot seed.
+
 **Decision needed:** Should the source's commendatory sense be included as a
 third dictionary sense? Confirm the plural, singular gender, and loanword
 status.
@@ -108,6 +118,10 @@ handle, and gives `middi` after `ld`.
 - dialect: `so`
 - loanword status: unresolved (`null`)
 - `middi`: retained for later variant review, not added as a synonym
+
+**Recorded decision:** narrow the gloss with the cutting-use phrase and record
+`middi` as a reviewed phonetic variant. Entry `sls:lex:000004` is now in the
+reviewed pilot seed.
 
 **Decision needed:** Is the proposed gloss broad enough to mean “knife” and
 not every handled cutting tool? Should `middi` be a spelling variant, a

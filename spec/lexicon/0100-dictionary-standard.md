@@ -114,7 +114,7 @@ status.
   `null`. `null` means unresolved and **MUST NOT** be interpreted as `false`.
   An entry set to `true` **MUST** include an evidence-backed `loan_origin`; an
   origin **MUST NOT** be inferred from spelling similarity alone.
-- **R8. Optional fields.** `ipa`, `synonyms`, `antonyms`,
+- **R8. Optional fields.** `ipa`, `synonyms`, `antonyms`, reviewed `variants`,
   `example_sentences`, and `frequency_rank` **MUST** be omitted unless their
   values come from an identified, applicable method or reviewed source. An
   omitted optional field **MUST NOT** be filled with generated or placeholder
@@ -174,7 +174,7 @@ sentences. Source-derived forms remain subject to entry-level review.
 | R5 | `"plural":null` after review finds no ordinary plural for the recorded mass reading | Using `null` merely because nobody checked | `null` records a reviewed absence, not missing work. |
 | R6 | Holding `sonkor ld sokor` for relationship review | Automatically inserting `"synonyms":["sokor"]` | `ld` does not by itself settle canonicality or sense identity. |
 | R7 | `"is_loanword":null` when etymology is unresolved | `"is_loanword":false` used as a default | Unknown is not evidence of non-borrowing. |
-| R8 | Omitting `ipa` and `frequency_rank` where no method supplies them | Inventing an IPA string or rank to complete the object | Optional fields still require evidence. |
+| R8 | Omitting `ipa` and `frequency_rank` where no method supplies them; recording a reviewed variant as `variants` | Inventing an IPA string or rank to complete the object, or treating a variant as an unreviewed synonym | Optional fields still require evidence and relation types must remain distinct. |
 | R9 | A source pointer naming the collection file and headword, plus the origin of newly written glosses | `"source":"curated evidence library"` | The generic label is not independently auditable. |
 | R10 | `review_status: reviewed` with a named maintainer reviewer | `review_status: reviewed` with no reviewer record | Review must be attributable and inspectable. |
 | R11 | Two records with different IDs and the same canonical `"word":"qor"` | Canonical words `qor¹` and `qor²` copied from source numbering | Editorial homograph numbers are not letters in the headword. |

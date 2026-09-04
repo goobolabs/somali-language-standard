@@ -98,6 +98,15 @@
       },
       "uniqueItems": true
     },
+    "variants": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true,
+      "description": "Reviewed orthographic or phonetic variants pointing to this canonical headword."
+    },
     "antonyms": {
       "type": "array",
       "items": {
