@@ -144,6 +144,7 @@ The first review packet deliberately includes easy and difficult cases:
 | `hooyo¹` / `hooyo²` | cross-reference-only versus independent entry |
 | `kab¹` / `kab²` / `kab³` | three word-class and sense distinctions under one spelling |
 | `macallin` | multiple plurals and a source definition that is too narrow for direct reuse |
+| `baab`, `baac`, `baabbul`, `baaf` | first unreviewed `b`-initial noun batch; plural, sense, and etymology decisions |
 
 The detailed questions are in
 [`SLS-0100-reviewer-packet.md`](SLS-0100-reviewer-packet.md). Batch 1 is now

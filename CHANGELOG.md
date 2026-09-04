@@ -36,6 +36,9 @@ releases, schema versions, and per-standard versions relate.
 - Added the third pilot batch: reviewed `guri` homographs, `hooyo`, `kab`
   homographs, and the broadened Arabic loan entry `macallin`; the specialized
   splint noun remains deferred.
+- Prepared Batch 4 of the SLS-0100 maintainer packet for four additional
+  source-grounded `b`-initial noun candidates; no IDs or records are assigned
+  before review.
 
 ## [0.3.0] - 2026-09-04
 

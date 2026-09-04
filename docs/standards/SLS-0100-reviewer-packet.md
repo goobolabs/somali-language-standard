@@ -284,6 +284,66 @@ Which plural should the core record use, and how should the other listed forms
 be represented? Confirm whether the neutral definition changes the source
 meaning correctly for present Standard Somali.
 
+## Batch 4 — initial `b` nouns
+
+These four candidates are drawn from the next unreviewed entries in the
+principal dictionary source. Their bilingual glosses are provisional Draft
+wording, not approved data.
+
+### LQ13 — `baab`
+
+**Source evidence:** [`qaamuus/01-b.md`](../../resources/qaamuus/01-b.md)
+records `baab m.l (-bab, m.l)` with book-section and topic senses.
+
+**Proposed record values:** masculine `magac`, plural `bab`, dialect `so`, and
+loanword status unresolved (`null`). Proposed Somali gloss: `Qayb buug ka mid
+ah ama mawduuc gaar ah.` Proposed English definition: `A section of a book or a
+topic about a particular matter.`
+
+**Decision needed:** Confirm gender, plural, senses, gloss, dialect, and
+loanword status. Should `isku baab` be a separate sense or deferred?
+
+### LQ14 — `baac`
+
+**Source evidence:** [`qaamuus/01-b.md`](../../resources/qaamuus/01-b.md)
+records `baac m.l (-cyo, m.dh)` for a measure between outstretched hands and a
+related body-distance sense.
+
+**Proposed record values:** masculine `magac`, plural `baacyo`, dialect `so`,
+and loanword status unresolved (`null`). Proposed Somali gloss: `Cabbir u dhexeeya
+labada gacmood marka la kala fidiyo.` Proposed English definition: `A measure of
+length equal to the distance between outstretched hands.`
+
+**Decision needed:** Are the two source meanings one sense or two? Confirm the
+plural, gender, bilingual wording, and loanword status.
+
+### LQ15 — `baabbul`
+
+**Source evidence:** [`qaamuus/01-b.md`](../../resources/qaamuus/01-b.md)
+records `baabbul m.dh (-lo, m.l)` with a lion's mane and long soft hair
+readings.
+
+**Proposed record values:** feminine `magac`, plural `baabbulo`, dialect `so`,
+and loanword status unresolved (`null`). Proposed Somali glosses: `Dhogor cufan
+oo ka baxda qaarka hore ee libaaxa` and `Timo jilicsan oo dheer.` Proposed
+English definitions: `A lion's mane` and `Long, soft hair.`
+
+**Decision needed:** Confirm the plural form and whether these are two senses
+of one entry. Confirm the gender, definitions, dialect, and loanword status.
+
+### LQ16 — `baaf`
+
+**Source evidence:** [`qaamuus/01-b.md`](../../resources/qaamuus/01-b.md)
+records `baaf m.l (-faf, m.l)` as a large metal basin used for washing clothes.
+
+**Proposed record values:** masculine `magac`, plural `baafaf`, dialect `so`,
+and loanword status unresolved (`null`). Proposed Somali gloss: `Weel weyn oo
+bir ah oo dharka lagu dhaqo.` Proposed English definition: `A large metal basin
+used for washing clothes.`
+
+**Decision needed:** Confirm all proposed values and whether this is the only
+core sense for the first seed.
+
 ## Approval effect
 
 An approved answer does not modify the source files. It authorizes a newly
