@@ -221,6 +221,10 @@ valid and invalid records), and the repository-wide schema/reference check.
 
 ## Phase 5 — Lexicon
 
+**Status:** in progress — [issue #24](https://github.com/goobolabs/somali-language-standard/issues/24)
+tracks the SLS-0100 Draft, source-field audit, maintainer-reviewed pilot, and
+the later 500-entry completion gate.
+
 **Objective:** The seed dictionary proving the data pipeline end-to-end:
 entry → schema validation → review gate → merge.
 
@@ -229,13 +233,15 @@ entry → schema validation → review gate → merge.
 - [ ] `data/lexicon/core/` seeded with ~500–1,000 curated entries
       (definitions, POS, gender, plurals, loanword flags, provenance)
 - [ ] Loanword and morphology file skeletons per the architecture tree
-- [ ] SLS-0100 (Dictionary Standard) drafted
+- [x] SLS-0100 (Dictionary Standard) initial evidence-mapped Draft and pilot
+      review packet prepared
 - [ ] Review workflow exercised: every entry has a maintainer review on record
       and passes CI
 
-**Completion criteria:** ≥500 entries merged and schema-valid; zero entries
-without complete provenance; `sls:lex:` ID sequence clean (no gaps created by
-renumbering, no duplicates).
+**Completion criteria:** ≥500 maintainer-reviewed entries merged and
+schema-valid; zero entries without complete provenance; every noun carries a
+reviewed gender and either an attested plural or a reviewed non-plural value;
+`sls:lex:` ID sequence clean (no gaps created by renumbering, no duplicates).
 
 **Dependencies:** Phase 4 (schemas + CI); Phase 3 recommended (POS values
 should match the grammar spec).

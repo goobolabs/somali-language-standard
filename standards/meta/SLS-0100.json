@@ -1,0 +1,23 @@
+{
+  "id": "SLS-0100",
+  "title": "Dictionary Standard",
+  "category": "lexicon",
+  "version": "0.1.0",
+  "status": "draft",
+  "owner": "maintainers",
+  "reviewers": [],
+  "dependencies": ["SLS-0001", "SLS-0002", "SLS-0003"],
+  "implements": [
+    "spec/lexicon/0100-dictionary-standard.md"
+  ],
+  "publication_date": null,
+  "supersedes": null,
+  "superseded_by": null,
+  "revision_history": [
+    {
+      "version": "0.1.0",
+      "date": "2026-09-04",
+      "change": "Initial evidence-mapped draft"
+    }
+  ]
+}

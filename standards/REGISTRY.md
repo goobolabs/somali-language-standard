@@ -37,7 +37,7 @@ drafted.
 
 | ID | Title | Status | Version | Owner |
 |---|---|---|---|---|
-| SLS-0100 | Dictionary Standard | planned | — | maintainers |
+| SLS-0100 | Dictionary Standard | Draft | 0.1.0 | maintainers |
 | SLS-0101 | Definition Standard | planned | — | maintainers |
 | SLS-0102 | Synonym & Antonym Standard | planned | — | maintainers |
 | SLS-0103 | Loanword Standard | planned | — | maintainers |

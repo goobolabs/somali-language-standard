@@ -6,16 +6,19 @@ SLS defines grammar, orthography, terminology, translation guidance, style
 conventions, and AI/benchmark resources for Somali — as a versioned, normative,
 citable standard that any system, human or machine, can implement against.
 
-> **Status:** The Milestone 2 proposal package is complete. SLS-0000 through
-> SLS-0005 are represented at `Proposed`, including the eight-topic SLS-0003
-> Grammar set, and the 145-file resources evidence baseline is complete. The
+> **Status:** The Milestone 2 proposal package is complete. SLS-0000 and
+> SLS-0001 are at `Review`; SLS-0002 through SLS-0005 are at `Proposed`,
+> including the eight-topic SLS-0003 Grammar set, and the 145-file resources
+> evidence baseline is complete. The
 > SLS-0002 through SLS-0005 public-comment periods opened in
 > [pull request #7](https://github.com/goobolabs/somali-language-standard/pull/7)
 > on 2026-08-23 and cannot close before 2026-09-06. No standard is `Stable`. See the
 > [Roadmap](ROADMAP.md) and [M2 readiness record](docs/standards/MILESTONE-2-READINESS.md).
 > Milestone 3 schema implementation is also complete: all record contracts,
 > the Rust repository validator, and pull-request validation workflow are in
-> place in v0.3.0.
+> place in v0.3.0. Milestone 4 is in progress with the evidence-mapped
+> SLS-0100 Dictionary Standard Draft; no pilot lexicon entry is counted as
+> reviewed before its maintainer decision is recorded.
 
 ---
 

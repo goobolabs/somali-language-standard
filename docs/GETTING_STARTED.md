@@ -56,13 +56,15 @@ Two structural rules to internalize early:
 
 **If you are a native speaker or linguist** — you are the most valuable
 contributor this project can have. Read the [FAQ](FAQ.md) and
-[CONTRIBUTING.md](../CONTRIBUTING.md), then watch for lexicon and terminology
-work opening up in Phases 5–6 of the
+[CONTRIBUTING.md](../CONTRIBUTING.md), then review the active
+[SLS-0100 lexicon pilot](standards/SLS-0100-reviewer-packet.md). Lexicon work is
+open in Phase 5; terminology follows in Phase 6 of the
 [implementation plan](../IMPLEMENTATION_PLAN.md).
 
 **If you are a developer** — read [ARCHITECTURE.md](ARCHITECTURE.md) §6–§8
 (formats, schemas, naming) and §17–§19 (CI, tooling, API surface). Tooling
-work begins in Phase 4.
+began in Phase 4; the Rust validator and active validation workflow now enforce
+the released schema foundation.
 
 **If you are an AI/NLP researcher** — read ARCHITECTURE.md §12–§13 (AI
 resources, benchmarks). The `ai/` and `benchmarks/` layers are designed for

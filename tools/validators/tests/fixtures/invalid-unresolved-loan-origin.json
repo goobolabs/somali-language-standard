@@ -1,21 +1,22 @@
 {
-  "sls_id": "sls:lex:000123",
-  "word": "baabuur",
+  "sls_id": "sls:lex:000126",
+  "word": "sonkor",
   "part_of_speech": "magac",
-  "gender": "masculine",
-  "plural": "baabuurro",
+  "gender": "feminine",
+  "plural": null,
   "dialect": "so",
   "definitions": [
     {
       "sense": 1,
-      "en": "vehicle, car",
-      "so_gloss": "gaari matoor leh"
+      "en": "sugar",
+      "so_gloss": "walax macaan"
     }
   ],
   "is_loanword": null,
+  "loan_origin": "Unsupported origin",
   "metadata": {
     "contributor": "SLS maintainers",
-    "source": "Synthetic schema fixture; not a reviewed lexicon record",
+    "source": "Synthetic invalid fixture",
     "date_added": "2026-09-04",
     "review_status": "draft",
     "license": "CC BY 4.0",

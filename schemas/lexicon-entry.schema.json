@@ -3,7 +3,7 @@
   "$id": "lexicon-entry.schema.json",
   "title": "SLS Lexicon Entry",
   "description": "A Somali headword, its lexical properties, definitions, references, and provenance.",
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "type": "object",
   "required": [
     "sls_id",
@@ -49,9 +49,9 @@
       "description": "Grammatical gender established by agreement evidence."
     },
     "plural": {
-      "type": "string",
+      "type": ["string", "null"],
       "minLength": 1,
-      "description": "Attested lexical plural form; it must not be guessed from the singular."
+      "description": "Attested lexical plural form, or null when review establishes that no ordinary plural applies to the recorded reading. Null must not mean unchecked or unknown."
     },
     "ipa": {
       "type": "string",
@@ -107,7 +107,8 @@
       "uniqueItems": true
     },
     "is_loanword": {
-      "type": "boolean"
+      "type": ["boolean", "null"],
+      "description": "True for a reviewed loanword, false for a reviewed non-loanword, or null when status is unresolved."
     },
     "loan_origin": {
       "type": "string",
