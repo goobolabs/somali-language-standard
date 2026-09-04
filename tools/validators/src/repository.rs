@@ -308,30 +308,31 @@ fn check_cross_references(
     let mut seen_ids: BTreeMap<&str, (&Path, Option<usize>)> = BTreeMap::new();
     let mut rule_refs = BTreeSet::new();
     for record in records {
-        if let Some(sls_id) = record.value.get("sls_id").and_then(Value::as_str)
-            && let Some((first_path, first_line)) =
+        if let Some(sls_id) = record.value.get("sls_id").and_then(Value::as_str) {
+            if let Some((first_path, first_line)) =
                 seen_ids.insert(sls_id, (&record.input, record.line))
-        {
-            let first_location = match first_line {
-                Some(line) => format!("{}:{line}", first_path.display()),
-                None => first_path.display().to_string(),
-            };
-            push_diagnostic(
-                diagnostics,
-                record,
-                "/sls_id".to_owned(),
-                format!("duplicate sls_id {sls_id:?}; first defined at {first_location}"),
-            );
+            {
+                let first_location = match first_line {
+                    Some(line) => format!("{}:{line}", first_path.display()),
+                    None => first_path.display().to_string(),
+                };
+                push_diagnostic(
+                    diagnostics,
+                    record,
+                    "/sls_id".to_owned(),
+                    format!("duplicate sls_id {sls_id:?}; first defined at {first_location}"),
+                );
+            }
         }
 
-        if record.kind == RecordKind::GrammarRule
-            && let (Some(rule_id), Some(standard_id)) = (
+        if record.kind == RecordKind::GrammarRule {
+            if let (Some(rule_id), Some(standard_id)) = (
                 record.value.get("rule_id").and_then(Value::as_str),
                 record.value.get("standard_id").and_then(Value::as_str),
-            )
-        {
-            rule_refs.insert(rule_id.to_owned());
-            rule_refs.insert(format!("{standard_id}:{rule_id}"));
+            ) {
+                rule_refs.insert(rule_id.to_owned());
+                rule_refs.insert(format!("{standard_id}:{rule_id}"));
+            }
         }
     }
 
@@ -370,15 +371,15 @@ fn check_sls_id_references(
 ) {
     if let Some(values) = record.value.get(field).and_then(Value::as_array) {
         for (index, value) in values.iter().enumerate() {
-            if let Some(reference) = value.as_str()
-                && !ids.contains_key(reference)
-            {
-                push_diagnostic(
-                    diagnostics,
-                    record,
-                    format!("/{field}/{index}"),
-                    format!("unknown sls_id reference {reference:?}"),
-                );
+            if let Some(reference) = value.as_str() {
+                if !ids.contains_key(reference) {
+                    push_diagnostic(
+                        diagnostics,
+                        record,
+                        format!("/{field}/{index}"),
+                        format!("unknown sls_id reference {reference:?}"),
+                    );
+                }
             }
         }
     }
@@ -405,15 +406,15 @@ fn check_domain(
     domains: &BTreeMap<String, String>,
     diagnostics: &mut Vec<Diagnostic>,
 ) {
-    if let Some(domain) = record.value.get("domain").and_then(Value::as_str)
-        && !domains.contains_key(domain)
-    {
-        push_diagnostic(
-            diagnostics,
-            record,
-            "/domain".to_owned(),
-            format!("unknown terminology domain {domain:?}"),
-        );
+    if let Some(domain) = record.value.get("domain").and_then(Value::as_str) {
+        if !domains.contains_key(domain) {
+            push_diagnostic(
+                diagnostics,
+                record,
+                "/domain".to_owned(),
+                format!("unknown terminology domain {domain:?}"),
+            );
+        }
     }
 }
 
@@ -424,15 +425,15 @@ fn check_domains(
 ) {
     if let Some(values) = record.value.get("domains").and_then(Value::as_array) {
         for (index, value) in values.iter().enumerate() {
-            if let Some(domain) = value.as_str()
-                && !domains.contains_key(domain)
-            {
-                push_diagnostic(
-                    diagnostics,
-                    record,
-                    format!("/domains/{index}"),
-                    format!("unknown terminology domain {domain:?}"),
-                );
+            if let Some(domain) = value.as_str() {
+                if !domains.contains_key(domain) {
+                    push_diagnostic(
+                        diagnostics,
+                        record,
+                        format!("/domains/{index}"),
+                        format!("unknown terminology domain {domain:?}"),
+                    );
+                }
             }
         }
     }
@@ -474,28 +475,28 @@ fn check_standard(
     standards: &BTreeSet<String>,
     diagnostics: &mut Vec<Diagnostic>,
 ) {
-    if let Some(standard_id) = record.value.get("standard_id").and_then(Value::as_str)
-        && !standards.contains(standard_id)
-    {
-        push_diagnostic(
-            diagnostics,
-            record,
-            "/standard_id".to_owned(),
-            format!("unknown standard reference {standard_id:?}"),
-        );
+    if let Some(standard_id) = record.value.get("standard_id").and_then(Value::as_str) {
+        if !standards.contains(standard_id) {
+            push_diagnostic(
+                diagnostics,
+                record,
+                "/standard_id".to_owned(),
+                format!("unknown standard reference {standard_id:?}"),
+            );
+        }
     }
 }
 
 fn check_spec_path(root: &Path, record: &Record, diagnostics: &mut Vec<Diagnostic>) {
-    if let Some(spec_path) = record.value.get("spec_path").and_then(Value::as_str)
-        && !root.join(spec_path).is_file()
-    {
-        push_diagnostic(
-            diagnostics,
-            record,
-            "/spec_path".to_owned(),
-            format!("specification path does not exist: {spec_path}"),
-        );
+    if let Some(spec_path) = record.value.get("spec_path").and_then(Value::as_str) {
+        if !root.join(spec_path).is_file() {
+            push_diagnostic(
+                diagnostics,
+                record,
+                "/spec_path".to_owned(),
+                format!("specification path does not exist: {spec_path}"),
+            );
+        }
     }
 }
 
@@ -507,16 +508,15 @@ fn check_rule_refs(
 ) {
     if let Some(values) = record.value.get("rule_refs").and_then(Value::as_array) {
         for (index, value) in values.iter().enumerate() {
-            if let Some(reference) = value.as_str()
-                && !standards.contains(reference)
-                && !rules.contains(reference)
-            {
-                push_diagnostic(
-                    diagnostics,
-                    record,
-                    format!("/rule_refs/{index}"),
-                    format!("unknown rule or standard reference {reference:?}"),
-                );
+            if let Some(reference) = value.as_str() {
+                if !standards.contains(reference) && !rules.contains(reference) {
+                    push_diagnostic(
+                        diagnostics,
+                        record,
+                        format!("/rule_refs/{index}"),
+                        format!("unknown rule or standard reference {reference:?}"),
+                    );
+                }
             }
         }
     }

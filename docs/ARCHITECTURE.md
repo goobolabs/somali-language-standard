@@ -623,6 +623,13 @@ GitHub Actions, staged so cheap checks fail fast:
 8. **Docs deploy** — builds and publishes the documentation site on merge to `main`.
 9. **Release** — on `vX.Y.Z` tag push: package `releases/vX.Y.Z/*`, generate changelog from conventional commits, publish a GitHub Release, optionally mirror to a Hugging Face Hub dataset repo for direct `datasets.load_dataset()` access.
 
+The initial active `validate.yml` implements the Phase 4 enforcement surface:
+Rust formatting and linting, validator tests, schema and metadata validation,
+and cross-reference integrity on pull requests and pushes to `main`. Markdown
+front-matter linting, Somali spellcheck, compilation, documentation deploys,
+and release publishing remain later pipeline stages in the phases that own
+those artifacts.
+
 ---
 
 ## 18. Validation & Automation Tools

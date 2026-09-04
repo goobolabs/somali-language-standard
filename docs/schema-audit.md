@@ -1,6 +1,6 @@
 # Phase 4 Record-Format Audit
 
-- **Status:** Active implementation record
+- **Status:** Phase 4 implementation complete; first hosted run pending
 - **Last updated:** 2026-09-04
 - **Scope:** Milestone 3 / Phase 4 machine-readable schemas and validators
 
@@ -183,3 +183,16 @@ synthetic structural data.
 No payload-routing question remains open. Automatic file-to-schema routing and
 the first cross-record integrity checks are implemented by `sls-validate
 check`; future record families will extend its route table with their schemas.
+
+## CI enforcement
+
+`.github/workflows/validate.yml` is active for pull requests and pushes to
+`main`. It pins the repository's Rust 1.85.0 minimum, checks formatting, treats
+all Clippy warnings as errors, runs the complete validator test suite, and runs
+the repository-wide check. The tests contain both accepted and deliberately
+malformed records, so the workflow exercises success and failure paths without
+committing invented linguistic content.
+
+The first hosted workflow result can only be observed after this branch is
+pushed. Until then, the workflow is implementation-complete and locally
+verified, but not yet confirmed on a GitHub runner.

@@ -101,8 +101,8 @@ surface is the Rust schema validator under `tools/validators/`.
    ```
 5. **Commit with a DCO sign-off**: `git commit -s`.
 6. **Open a pull request** and fill in the template.
-7. The repository checker already performs schema and cross-reference
-   validation locally. GitHub CI enforcement is the remaining Phase 4 step.
+7. The active GitHub workflow runs the same formatting, lint, test, schema, and
+   cross-reference checks on pull requests and pushes to `main`.
 
 Structural changes (new spec docs, new domains, schema changes) must start as
 a GitHub Discussion or issue — see the

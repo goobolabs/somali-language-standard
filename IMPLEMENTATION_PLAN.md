@@ -200,7 +200,7 @@ CI that enforces them — the point where the repository becomes self-checking.
   - [x] Local schema-reference registry
   - [x] Automatic file-to-schema routing
   - [x] Duplicate and dangling `sls_id` validation
-- [ ] `validate.yml` implemented: lint, schema validation, cross-ref checks,
+- [x] `validate.yml` implemented: lint, schema validation, cross-ref checks,
       metadata completeness on every PR
 
 **Completion criteria:** CI fails a deliberately malformed test record and
@@ -210,8 +210,12 @@ locally with one command.
 **Dependencies:** Phase 0; informed by Phases 1–3 (field semantics follow the
 spec drafts).
 
-The initial record-format audit and the routing questions that remain open are
+The record-format audit, routing decisions, and validation coverage are
 recorded in [`docs/schema-audit.md`](docs/schema-audit.md).
+
+**Status:** Phase 4 implementation is complete. The active workflow runs
+Rust formatting and lint checks, all validator tests (including deliberately
+valid and invalid records), and the repository-wide schema/reference check.
 
 ---
 

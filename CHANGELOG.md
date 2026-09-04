@@ -12,6 +12,9 @@ releases, schema versions, and per-standard versions relate.
 
 ### Added
 
+- Active `.github/workflows/validate.yml` enforcement on pull requests and
+  `main`, pinned to Rust 1.85.0 and running formatting, strict Clippy, all
+  validator tests, and the repository-wide record/reference check.
 - Repository-wide `sls-validate check` routing and integrity validation for all
   implemented record paths, including duplicate IDs, domain membership,
   terminology ID/domain agreement, standard and rule references, and grammar

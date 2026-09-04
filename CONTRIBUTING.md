@@ -68,8 +68,8 @@ docs/<short-desc>                     e.g. docs/faq-licensing
 
 1. One logical change per PR. Do not mix spec changes with data changes.
 2. Fill in the PR template completely, including the licensing declaration.
-3. CI must pass (schema validation, linting, cross-reference checks — once
-   implemented).
+3. CI must pass (formatting, strict Rust linting, schema validation, and
+   cross-reference checks).
 4. The **review gate** must be satisfied (see below).
 5. A Maintainer merges. Squash-merge is the default; the squashed commit keeps
    the DCO sign-off.
