@@ -21,6 +21,32 @@ fn valid_lexicon_entry_passes_with_local_metadata_reference() {
 }
 
 #[test]
+fn mass_nouns_and_unresolved_loanword_status_are_explicit() {
+    let report = validate_path(
+        &repository_path("schemas/lexicon-entry.schema.json"),
+        &repository_path("tools/validators/tests/fixtures/valid-mass-lexicon-entry.json"),
+    )
+    .expect("schemas and fixture should be readable");
+
+    assert!(report.is_valid(), "{:?}", report.diagnostics);
+    assert_eq!(report.records_checked, 1);
+
+    let invalid_report = validate_path(
+        &repository_path("schemas/lexicon-entry.schema.json"),
+        &repository_path("tools/validators/tests/fixtures/invalid-unresolved-loan-origin.json"),
+    )
+    .expect("schemas and fixture should be readable");
+
+    assert!(!invalid_report.is_valid());
+    assert!(
+        invalid_report
+            .diagnostics
+            .iter()
+            .any(|diagnostic| diagnostic.message.contains("loan_origin"))
+    );
+}
+
+#[test]
 fn invalid_lexicon_entry_fails_bounded_contracts() {
     let report = validate_path(
         &repository_path("schemas/lexicon-entry.schema.json"),

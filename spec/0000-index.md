@@ -1,10 +1,12 @@
 # Specification Index
 
-This is the index of SLS normative specification documents. Every document in
-`spec/` is numbered within a reserved category block (see
-[`docs/ARCHITECTURE.md`](../docs/ARCHITECTURE.md) §5) and carries a lifecycle
-`status` in its front-matter. Documents that also hold a global `SLS-XXXX`
-identifier are tracked in the standards catalog
+This is the index of SLS normative specification documents. Ordinary topic
+documents are numbered within a reserved local category block (see
+[`docs/ARCHITECTURE.md`](../docs/ARCHITECTURE.md) §5); a global standard with
+no earlier local block uses its `SLS-XXXX` number under the nearest category
+directory (§30). Every document carries a lifecycle `status` in its
+front-matter. Documents that also hold a global `SLS-XXXX` identifier are
+tracked in the standards catalog
 ([`standards/REGISTRY.md`](../standards/REGISTRY.md)).
 
 Numbering blocks are append-only: a number, once used, is never reused or
@@ -50,6 +52,16 @@ global numbered standard lifecycle is carried by the SLS-0003 wrapper (0018).
 | 0016 | Question Formation | SLS-0003 | Draft | [`grammar/0016-question-formation.md`](grammar/0016-question-formation.md) |
 | 0017 | Common Grammar Mistakes | SLS-0003 | Draft | [`grammar/0017-common-mistakes.md`](grammar/0017-common-mistakes.md) |
 | 0018 | Somali Grammar Standard | SLS-0003 | Proposed | [`grammar/0018-somali-grammar-standard.md`](grammar/0018-somali-grammar-standard.md) |
+
+### Lexicon (`SLS-0100`–`0199`)
+
+Lexicon standards that had no earlier local specification block use their
+global standard number in `spec/lexicon/`, following
+[`docs/ARCHITECTURE.md`](../docs/ARCHITECTURE.md) §30.
+
+| ID | Title | Standard | Status | File |
+|---|---|---|---|---|
+| 0100 | Dictionary Standard | SLS-0100 | Draft | [`lexicon/0100-dictionary-standard.md`](lexicon/0100-dictionary-standard.md) |
 
 ### Style (`03xx`)
 

@@ -74,11 +74,17 @@ main-branch workflow enforces formatting, strict Rust linting, all validator
 tests, and the repository-wide record check. The hosted workflow passed on the
 implementation PR before the v0.3.0 release.
 
-## Milestone 4 — Lexicon *(v0.4)*
+## Milestone 4 — Lexicon *(in progress — target v0.4.0)*
 
 The seed dictionary: ~500–1,000 curated core entries with part of speech,
 gender, plurals, definitions, and provenance — enough to prove the schema and
 review workflow end-to-end and to power the spellcheck layer of CI.
+
+The initial evidence-mapped SLS-0100 Draft and twelve-candidate maintainer
+review packet are tracked in
+[issue #24](https://github.com/goobolabs/somali-language-standard/issues/24).
+No candidate counts toward the seed until its required lexical fields and new
+bilingual glosses are approved.
 
 ## Milestone 5 — Terminology *(v0.5)*
 

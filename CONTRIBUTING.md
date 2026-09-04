@@ -133,6 +133,11 @@ end to end.
 - **Provenance is mandatory**: every record carries `contributor`, `source`,
   `date_added`, `review_status`, `license`, and `schema_version`. Records
   without complete metadata will not be merged.
+- **Lexicon review is lexical, not mechanical**: follow
+  [`SLS-0100`](spec/lexicon/0100-dictionary-standard.md). Do not infer a word
+  class from an ambiguous source code, guess a noun plural, treat an unresolved
+  loanword as a non-loanword, or copy a rights-unclear definition into CC BY
+  data. A `reviewed` or `verified` lexicon record names its reviewer.
 - **Rights**: only contribute text you have the right to contribute. Corpora
   material must be rights-cleared or permissioned; when in doubt, don't.
 - **Licensing**: all data contributions are made under **CC BY 4.0**.
@@ -143,8 +148,10 @@ end to end.
 
 ## Spec contribution rules
 
-- Spec documents live in `spec/`, numbered within reserved category blocks
-  (`00xx` orthography, `01xx` grammar, `03xx` style, `05xx` translation).
+- Ordinary topic specs use the reserved local category blocks (`00xx`
+  orthography, `01xx` grammar, `03xx` style, `05xx` translation). A numbered
+  standard without a prior local block uses its global number in the nearest
+  category directory, such as `spec/lexicon/0100-dictionary-standard.md`.
   Numbers are never reused.
 - Every spec document starts life as `status: Draft` and moves through the
   lifecycle defined in [GOVERNANCE.md](GOVERNANCE.md). A document reaches

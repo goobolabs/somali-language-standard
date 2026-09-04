@@ -10,6 +10,33 @@ releases, schema versions, and per-standard versions relate.
 
 ## [Unreleased]
 
+### Added
+
+- Initial evidence-mapped SLS-0100 Dictionary Standard Draft, review log, and
+  twelve-candidate maintainer packet for the Milestone 4 lexicon pilot.
+- Milestone 4 tracking issue and documented source-to-record boundaries for
+  dictionary codes, homographs, definitions, cross-references, and optional
+  lexical fields.
+
+### Changed
+
+- Expanded `lexicon-entry.schema.json` to version 1.1.0: noun `plural` can be
+  JSON `null` only for a reviewed absence of an ordinary plural, and
+  `is_loanword` can be `null` when etymological status is unresolved. This
+  prevents missing evidence from being encoded as an invented form or a false
+  non-loanword claim.
+- Opened SLS-0100 at `Draft` 0.1.0 in the standards registry and marked Phase 5
+  / Milestone 4 as in progress.
+- Added the first four maintainer-reviewed pilot records to the lexicon core,
+  including a reviewed loan origin for `baabuur`, three reviewed senses for
+  `nin`, and the `middi` variant of `mindi`.
+- Added the second four maintainer-reviewed pilot records, covering plural
+  variants, a reviewed Arabic loan origin for `qalin`, the mass reading of
+  `sonkor`, and two reviewed senses for plural-only `biyo`.
+- Added the third pilot batch: reviewed `guri` homographs, `hooyo`, `kab`
+  homographs, and the broadened Arabic loan entry `macallin`; the specialized
+  splint noun remains deferred.
+
 ## [0.3.0] - 2026-09-04
 
 ### Added

@@ -115,6 +115,8 @@ somali-language-standard/
 │   │   ├── 0015-negation.md
 │   │   ├── 0016-question-formation.md
 │   │   └── 0017-common-mistakes.md
+│   ├── lexicon/
+│   │   └── 0100-dictionary-standard.md
 │   ├── style/
 │   │   ├── 0030-formal-writing.md
 │   │   ├── 0031-government-documents.md
@@ -146,7 +148,7 @@ somali-language-standard/
 │
 ├── data/
 │   ├── lexicon/
-│   │   ├── core/                    # a.jsonl … z.jsonl, curated dictionary
+│   │   ├── core/                    # Somali initial files: b.jsonl, dh.jsonl, …
 │   │   ├── loanwords.jsonl
 │   │   ├── morphology/
 │   │   │   ├── noun-paradigms.jsonl
@@ -322,6 +324,11 @@ The actual rule(s), numbered, with canonical examples.
 
 Numbering blocks are reserved by category (`00xx` orthography, `01xx` grammar, `03xx` style, `05xx` translation) so new categories (e.g. `07xx` phonology, `08xx` dialects) can be added later without renumbering anything — an append-only ID space, same discipline as the dataset IDs in §7.
 
+A global `SLS-XXXX` standard with no earlier local specification block uses
+its global number under the nearest category directory, as defined in §30.
+SLS-0100 therefore lives at `spec/lexicon/0100-dictionary-standard.md`; this
+does not allocate or rename one of the earlier local blocks.
+
 ---
 
 ## 6. Data Formats
@@ -376,17 +383,11 @@ All schemas share a **common metadata block** via `$ref` to `metadata-common.sch
   "part_of_speech": "magac",
   "gender": "masculine",
   "plural": "baabuurro",
-  "ipa": "baːbuːr",
   "dialect": "so",
   "definitions": [
     { "sense": 1, "en": "vehicle, car", "so_gloss": "gaari lagu safro" }
   ],
-  "synonyms": ["gaari"],
-  "antonyms": [],
-  "is_loanword": true,
-  "loan_origin": "Italian (vapore)",
-  "example_sentences": ["sls:sent:004421"],
-  "frequency_rank": 812,
+  "is_loanword": null,
   "metadata": { "...": "see metadata-common" }
 }
 ```
@@ -394,9 +395,13 @@ All schemas share a **common metadata block** via `$ref` to `metadata-common.sch
 `part_of_speech` uses the nine canonical Somali labels required by SLS-0003
 G10-R1. `dialect` uses lowercase BCP 47 tags: `so` identifies Standard Somali,
 while an approved regional profile can use a private-use extension such as
-`so-x-maay`. A `magac` entry must record its reviewed grammatical gender and
-lexical plural under SLS-0003 G11-R1 and G11-R3. An entry marked
-`is_loanword: true` must record `loan_origin`.
+`so-x-maay`. A `magac` entry must record its reviewed grammatical gender and a
+reviewed `plural` value under SLS-0003 G11-R1 and G11-R3. That value is an
+attested form, or JSON `null` where review establishes that no ordinary plural
+applies to the recorded reading. `is_loanword` is `true`, `false`, or JSON
+`null` for unresolved status; a `true` value requires `loan_origin`. These
+nullable values were added in lexicon schema 1.1.0 during the SLS-0100 Draft
+audit so missing evidence is not converted into a false lexical claim.
 
 **Terminology entry** (`terminology-entry.schema.json`) — see §9 for the full field rationale.
 

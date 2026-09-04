@@ -1,0 +1,84 @@
+# SLS-0100 Review Log
+
+The decision and correction record for **SLS-0100 Dictionary Standard**.
+[`SLS-0000`](../../standards/SLS-0000-standards-process.md) R17 requires every
+substantive error report to receive a written disposition at every lifecycle
+stage, and R18 requires every lifecycle transition to record its date,
+approver, and gate evidence.
+
+- **Standard:** SLS-0100 Dictionary Standard
+- **Status:** Draft
+- **Version:** 0.1.0
+- **Draft opened:** 2026-09-04
+- **Formal comment period:** not opened
+- **Draft venue:** [Milestone 4 issue #24](https://github.com/goobolabs/somali-language-standard/issues/24)
+- **Normative document:** [`spec/lexicon/0100-dictionary-standard.md`](../../spec/lexicon/0100-dictionary-standard.md)
+- **Evidence map:** [`SLS-0100-evidence-map.md`](SLS-0100-evidence-map.md)
+- **Pilot packet:** [`SLS-0100-reviewer-packet.md`](SLS-0100-reviewer-packet.md)
+
+This log does not claim that public comment has begun. Issue #24 is the
+structural drafting venue. If SLS-0100 later moves to `Proposed`, this file will
+record the publication date, dedicated comment venue, and earliest permitted
+close date.
+
+## How to report a finding
+
+Comment on issue #24 while the standard is in Draft, or open a pull request
+against the normative document. Every substantive finding is copied into the
+table below and resolved in writing. A schema-valid pilot entry is not treated
+as linguistically reviewed unless its entry-level decision is recorded.
+
+## Dispositions
+
+| Disposition | Meaning |
+|---|---|
+| `accepted` | The change was made in the standard or pilot policy. |
+| `accepted-editorial` | Applied as a PATCH-level correction with no normative effect. |
+| `deferred` | Valid, but assigned to a named later standard, version, or review batch. |
+| `declined` | Not adopted; the recorded reason explains why. |
+| `open` | Not resolved; blocks the affected transition or data approval. |
+
+## Findings
+
+| ID | Date | Source | Finding | Disposition | Resolution |
+|---|---|---|---|---|---|
+| D-1 | 2026-09-04 | maintainer audit — source/schema comparison | Requiring a non-empty plural string for every noun would force an invented form for a reviewed mass or non-plural reading. | accepted | Expand the schema to allow JSON `null` only for a reviewed absence of an ordinary plural; missing review is not encoded as `null`. |
+| D-2 | 2026-09-04 | maintainer audit — source/schema comparison | A required Boolean loanword flag forces `false` where the principal source gives no etymology. | accepted | Expand `is_loanword` to allow JSON `null` for unresolved status; `null` is not interpreted as non-loanword. |
+| D-3 | 2026-09-04 | maintainer audit — source-rights comparison | The dictionary's compiler, edition, and republication rights remain incomplete, while SLS data is licensed CC BY 4.0. | accepted | Use the source for factual checking and write new bilingual glosses; do not copy source definitions into SLS data without compatible rights and explicit provenance. |
+| D-4 | 2026-09-04 | maintainer audit — category comparison | Dictionary grammatical codes do not all map one-to-one onto the nine SLS-0003 primary word classes. | accepted | Publish only reviewed mappings; ambiguous codes such as general `qr` stay out of automated conversion. |
+
+## Entry-review record
+
+Batch 1 is complete. Batch 2 answers are recorded below; required field
+confirmations remain open for follow-up. Batch 3 remains unanswered.
+
+| Entry decision | Date | Source | Maintainer answer | Disposition | Data effect |
+|---|---|---|---|---|---|
+| MR-1 | 2026-09-04 | maintainer review (native speaker) — packet LQ1 | Gender and Plural: Both are correct. It is masculine (*baabuurka*) and its plural is *baabuurro*.<br><br>Somali Gloss: The gloss "Gaadiid matoor ku socda oo rakaab ama xamuul qaada" is clear and accurate.<br><br>Loanword Status: Yes, it is a known loanword. It comes from Arabic (*bābūr*), which originally comes from Italian (*vapore*). | accepted | Add reviewed entry `sls:lex:000001` with `is_loanword: true` and the recorded Arabic/Italian origin. |
+| MR-2 | 2026-09-04 | maintainer review (native speaker) — packet LQ2 | Senses: The two senses are correct and distinct. Sense 1 refers to an adult female human (*qof dumar ah*). Sense 2 refers to a wife or female spouse (*xaas*).<br><br>Plural and Loanword Status: Yes, *naago* is the correct lexical plural. It is safe to mark *naag* as a native Somali word and not a loanword. | accepted | Add reviewed entry `sls:lex:000002` with two senses, plural `naago`, and `is_loanword: false`. |
+| MR-3 | 2026-09-04 | maintainer review (native speaker) — packet LQ3 | Commendatory Sense: Yes, you should include the commendatory sense as a third sense. In Somali lexicography and daily speech, *nin* is often used to describe a brave, honorable, or capable man (*nin rag ah*).<br><br>Confirmations:<br>Plural: *niman* (Correct).<br>Gender: Masculine singular (*ninka*) (Correct).<br>Loanword Status: Native Somali word (not a loanword) (Correct). | accepted | Add reviewed entry `sls:lex:000003` with three senses, plural `niman`, and `is_loanword: false`. |
+| MR-4 | 2026-09-04 | maintainer review (native speaker) — packet LQ4 | Somali Gloss: The gloss "Qalab gacan-qabsi iyo af wax gooya leh" works well. But it can also apply to tools like axes. To make it more precise, you can add how it is used, such as "oo loo isticmaalo jarista cuntada ama walxaha yaryar" (used for cutting food or small items).<br><br>Treatment of middi: Treat *middi* as a phonetic variant of *mindi*. You should keep *mindi* as the main entry and list *middi* as a variant form pointing back to *mindi*. Do not create a separate full entry for it initially. | accepted | Add reviewed entry `sls:lex:000004` with the narrower gloss and `variants: ["middi"]`; add the reviewed variant field to the schema and R8. |
+| MR-5 | 2026-09-04 | maintainer review (native speaker) — packet LQ5 | Plural: Keep `buugag` as the primary core plural. Treat `buugaag` as a valid standard variant.<br><br>Senses: Treat "printed book" and "blank notebook" as two distinct senses. They refer to different physical objects in daily use. | open | Record the approved plural and two senses after gender, loanword status, and exact gloss confirmations are supplied; no ID assigned yet. |
+| MR-6 | 2026-09-04 | maintainer review (native speaker) — packet LQ6 | Plural: The primary plural forms are `qalammo` or `qalinno`. Do not set the plural to `null` because this noun can be counted directly.<br><br>Senses: Include all three senses:<br>1. Writing instrument (pen or pencil).<br>2. Silver or metallic money/coins.<br>3. Identification mark cut or branded on livestock. | deferred | Two plural forms were supplied without a selected canonical value. Hold the entry until the maintainer selects the primary stored plural and identifies any plural variant. Gender, exact glosses, and loanword status also remain open. |
+| MR-7 | 2026-09-04 | maintainer review (native speaker) — packet LQ7 | Canonical Form: `sonkor` should be the canonical headword.<br><br>Variant: `sokor` is a valid Standard Somali phonetic variant.<br><br>Plural: Confirmed. The mass reading uses `null` for the plural because mass nouns are uncounted. | open | Record the canonical/variant relationship and reviewed mass plural null after gender, exact gloss, and loanword status are confirmed; no ID assigned yet. |
+| MR-8 | 2026-09-04 | maintainer review (native speaker) — packet LQ8 | Senses: Group general water and the chemical substance into one primary sense. Treat reproductive or bodily fluid as a separate second sense.<br><br>Grammatical Class and Behavior: It is a noun (*magac*). It is a plural-only noun (*plurale tantum*) and takes plural agreement (*biyaha* / *biyuhu*).<br><br>Definitions:<br>Sense 1 (Water): *Dareere aan midab iyo carfaba lahayn oo nooluhu cabbaan.* (Clear liquid with no color or smell that living things drink.)<br>Sense 2 (Reproductive fluid): *Dareeraha taranka ee ka yimaada noolaha.* (Reproductive fluid from a living body.) | open | Record the two reviewed senses and plural-only behavior after gender and loanword status are confirmed; no ID assigned yet. |
+
+| MR-9 | 2026-09-04 | maintainer review (native speaker) — follow-up to packet LQ5 | Gender: Masculine (*buugga*). Dialect: `so` (Standard Somali). Loanword Status: `null` (unresolved). Glosses: Approved. Sense 1 (Printed book): Somali: *Buug daabacan oo maaddo ama sheeko ku qoran tahay.* / English: *Printed book.* Sense 2 (Notebook): Somali: *Xaashiyo maran oo wax lagu qorto.* / English: *Blank notebook.* | accepted | Complete `sls:lex:000005` and record `buugaag` as a reviewed variant. |
+| MR-10 | 2026-09-04 | maintainer review (native speaker) — follow-up to packet LQ6 | Canonical Plural: Choose `qalammo` as the canonical plural. Keep `qalinno` as a valid variant. Gender: Masculine (*qalinka*). Loanword Status: `true` (borrowed from Arabic *qalam*). Glosses: Sense 1: Somali: *Qalab loo isticmaalo wax qorista.* / English: *Writing instrument (pen or pencil).* Sense 2: Somali: *Lacag bir ah.* / English: *Coin or metallic money.* Sense 3: Somali: *Calaamad ama astaan lagu dhigo xoolaha.* / English: *Identification mark on livestock.* | accepted | Complete `sls:lex:000006` with Arabic loan origin and the reviewed plural variant. |
+| MR-11 | 2026-09-04 | maintainer review (native speaker) — follow-up to packet LQ7 | Gender: Feminine (*sonkorta*). Loanword Status: `null` (unresolved). Gloss: Approved. Somali: *Maaddo macaan oo cuntada ama cabitaanka lagu macaneeyo.* English: *Sugar.* | accepted | Complete `sls:lex:000007` with feminine gender, reviewed mass plural `null`, and variant `sokor`. |
+| MR-12 | 2026-09-04 | maintainer review (native speaker) — follow-up to packet LQ8 | Grammatical Gender: Masculine plural (*biyaha*). Loanword Status: `null` (unresolved). Definitions: Use the exact two definitions supplied in the previous turn. Sense 1 (Water): Somali: *Dareere aan midab iyo carfaba lahayn oo nooluhu cabbaan.* / English: *Clear liquid with no color or smell that living things drink.* Sense 2 (Reproductive fluid): Somali: *Dareeraha taranka ee ka yimaada noolaha.* / English: *Reproductive fluid from a living body.* | accepted | Complete `sls:lex:000008` as a masculine plural-only noun; encode lexical form `biyo` and retain plural agreement in the source/provenance note. |
+| MR-13 | 2026-09-04 | maintainer review (native speaker) — packet LQ9 | Homograph Approval: Yes, approve two separate homograph entries (one noun and one verb) with different permanent IDs.<br><br>Noun Entry: Gender: Masculine (*guriga*). Plural: Use `guriyo` as the primary plural, with `guryo` as a valid variant. Definition: Somali: *Dhisme ama meel ay dadku ku nool yihiin.* / English: *House, home, or dwelling.*<br><br>Verb Entry: The meaning "to gather, pick, or harvest" (*ururin ama soo goyn*) should lead the verb seed entry. | open | Homograph split and noun morphology are approved; loanword status and the verb's exact bilingual definition remain open before IDs are assigned. |
+| MR-14 | 2026-09-04 | maintainer review (native speaker) — packet LQ10 | Primary Definition: Yes, "female parent; mother" (*qof dumar ah oo ubad dhashay*) is sufficient for the primary sense.<br><br>Affectionate Sense: Include the address/endearment sense now as a second sense. This covers a mother addressing her child or an elder addressing a young girl.<br><br>hooyo¹ → hoy: This represents the underlying root link to *hoy* (shelter or home). Defer this etymological link for now to keep the seed clean. | open | Record the two senses after gender, plural, loanword status, and exact bilingual wording are confirmed; defer the root link. |
+| MR-15 | 2026-09-04 | maintainer review (native speaker) — packet LQ11 | First Seed Entry: The feminine noun meaning "shoe" or "footwear" (*kabta*, plural *kabo*) should enter as the first seed.<br><br>Treatment of Other Entries: The verb meaning "to mend, repair, or set a broken bone" (*kabin*) should enter as a second separate homograph entry. Specialized noun senses, such as a splint, should be included as a secondary sense of the verb or deferred. | open | Seed order and homograph treatment are approved; exact bilingual definitions and loanword statuses remain open. The splint treatment needs a final choice. |
+| MR-16 | 2026-09-04 | maintainer review (native speaker) — packet LQ12 | Canonical Plural: Use `macallimiin` as the primary canonical plural.<br><br>Gender: Masculine (*macallinka*).<br><br>Core Sense: Broaden the definition to cover any teacher or educator (*qof dadka wax bara ama cashar siiya*). Do not limit it to traditional or religious instructors. | open | Record the reviewed plural and broad sense after exact Somali/English definitions and loanword status are confirmed. |
+| MR-17 | 2026-09-04 | maintainer review (native speaker) — follow-up to packet LQ9 | Loanword Status: `false` (native Somali word for both noun and verb). Verb Definition: Somali: *Ururinta ama soo goynta miraha, dalagga, ama alaabta.* English: *To gather, harvest, or pick fruits or crops.* | accepted | Complete the two `guri` homographs as `sls:lex:000009` (noun) and `sls:lex:000010` (verb); noun morphology was approved in MR-13. |
+| MR-18 | 2026-09-04 | maintainer review (native speaker) — follow-up to packet LQ10 | Gender: Feminine (*hooyada*). Plural: `hooyooyin`. Loanword Status: `false` (native Somali word). Affectionate/Address Sense Wording: Somali: *Eray kalgacal leh oo ay hooyadu ugu yeerto ubadkeeda ama lagu muujiyo xiriir dhow.* English: *A term of endearment used by a mother to address her child, or used affectionately toward a young person.* | accepted | Complete `sls:lex:000011` with the two approved senses and defer `hooyo¹ → hoy`. |
+| MR-19 | 2026-09-04 | maintainer review (native speaker) — follow-up to packet LQ11 | Shoe Noun (Homograph 1): Gender: Feminine (*kabta*). Plural: `kabo`. Loanword Status: `false` (native Somali word). Definition: Somali: *Aalad laga xasho cagaha oo ka ilaalisa dhibka.* / English: *Shoe or footwear.* Repair Verb (Homograph 2): Loanword Status: `false` (native Somali word). Definition: Somali: *Hagaajinta ama kafeeyinta wax jabay ama xumaaday, sida laf ama alaab.* / English: *To mend, repair, or set a broken bone or damaged object.* Splint Sense: Defer the specialized splint noun entry for now to keep the initial entries simple. | accepted | Complete `sls:lex:000012` (shoe noun) and `sls:lex:000013` (repair verb); defer the specialized splint noun. |
+| MR-20 | 2026-09-04 | maintainer review (native speaker) — follow-up to packet LQ12 | Broadened Teacher Definition Wording: Approved. Somali: *Qof dadka wax bara ama cashar siiya.* English: *A teacher, instructor, or educator.* Loanword Status: `true` (borrowed from Arabic *muʻallim*). | accepted | Complete `sls:lex:000014` with masculine gender, plural `macallimiin`, and the reviewed Arabic loan origin. |
+
+## Transition record
+
+| Transition | Date | Approver | Gate evidence |
+|---|---|---|---|
+| planned → Draft | 2026-09-04 | Maintainer | [Issue #24](https://github.com/goobolabs/somali-language-standard/issues/24); formal template completed; [evidence map](SLS-0100-evidence-map.md) and pilot boundaries recorded |
+| Draft → Proposed | *not recorded* | Maintainer | Requires resolved Draft findings and an explicitly opened ≥14-day public-comment period |

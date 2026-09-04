@@ -1,7 +1,7 @@
 {
   "$comment": "Machine-readable source of truth for the SLS standards catalog. Governed by SLS-0000. status 'draft' entries are authored; 'planned' entries are reserved identifiers from ARCHITECTURE.md §31 not yet drafted (version null, implements []). IDs are permanent and never reused.",
   "registry_version": "0.1.0",
-  "updated": "2026-08-30",
+  "updated": "2026-09-04",
   "standards": [
     {
       "id": "SLS-0000",
@@ -90,11 +90,13 @@
       "id": "SLS-0100",
       "title": "Dictionary Standard",
       "category": "lexicon",
-      "status": "planned",
-      "version": null,
+      "status": "draft",
+      "version": "0.1.0",
       "owner": "maintainers",
       "dependencies": ["SLS-0001", "SLS-0002", "SLS-0003"],
-      "implements": []
+      "implements": [
+        "spec/lexicon/0100-dictionary-standard.md"
+      ]
     },
     {
       "id": "SLS-0101",
