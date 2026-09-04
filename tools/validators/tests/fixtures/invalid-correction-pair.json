@@ -1,0 +1,16 @@
+{
+  "sls_id": "sls:corr:Grammar:1",
+  "category": "Grammar Correction",
+  "incorrect": "",
+  "corrected": "",
+  "explanation": "",
+  "rule_refs": [],
+  "register": "Formal Writing",
+  "metadata": {
+    "contributor": "SLS maintainers",
+    "date_added": "2026-09-04",
+    "review_status": "draft",
+    "license": "CC BY 4.0",
+    "schema_version": "1.0.0"
+  }
+}

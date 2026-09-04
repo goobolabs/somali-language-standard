@@ -185,16 +185,22 @@ CI that enforces them — the point where the repository becomes self-checking.
 
 **Deliverables**
 
-- [ ] `schemas/metadata-common.schema.json` (provenance block)
-- [ ] `schemas/lexicon-entry.schema.json`
-- [ ] `schemas/terminology-entry.schema.json`
-- [ ] `schemas/sentence-pair.schema.json`
-- [ ] `schemas/grammar-rule.schema.json`, `benchmark-item.schema.json`,
+- [x] `schemas/metadata-common.schema.json` (provenance block)
+- [x] `schemas/lexicon-entry.schema.json`
+- [x] `schemas/terminology-entry.schema.json`
+- [x] `schemas/example-sentence.schema.json` (supports lexicon references)
+- [x] `schemas/sentence-pair.schema.json`
+- [x] `schemas/grammar-rule.schema.json`, `benchmark-item.schema.json`,
       `style-example.schema.json`, `correction-pair.schema.json`
-- [ ] `data/terminology/_domains.json` controlled vocabulary
-- [ ] `tools/validators/`: schema validator + cross-reference (duplicate /
+- [x] `data/terminology/_domains.json` controlled vocabulary
+- [x] `tools/validators/`: schema validator + cross-reference (duplicate /
       dangling `sls_id`) validator
-- [ ] `validate.yml` implemented: lint, schema validation, cross-ref checks,
+  - [x] Rust JSON/JSONL schema-validator foundation with valid and invalid
+        fixtures
+  - [x] Local schema-reference registry
+  - [x] Automatic file-to-schema routing
+  - [x] Duplicate and dangling `sls_id` validation
+- [x] `validate.yml` implemented: lint, schema validation, cross-ref checks,
       metadata completeness on every PR
 
 **Completion criteria:** CI fails a deliberately malformed test record and
@@ -203,6 +209,13 @@ locally with one command.
 
 **Dependencies:** Phase 0; informed by Phases 1–3 (field semantics follow the
 spec drafts).
+
+The record-format audit, routing decisions, and validation coverage are
+recorded in [`docs/schema-audit.md`](docs/schema-audit.md).
+
+**Status:** Phase 4 implementation is complete. The active workflow runs
+Rust formatting and lint checks, all validator tests (including deliberately
+valid and invalid records), and the repository-wide schema/reference check.
 
 ---
 

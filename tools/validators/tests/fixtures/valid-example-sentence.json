@@ -1,0 +1,16 @@
+{
+  "sls_id": "sls:sent:000001",
+  "so": "synthetic-so-example",
+  "en": "Synthetic English gloss.",
+  "dialect": "so",
+  "register": "general",
+  "metadata": {
+    "contributor": "SLS maintainers",
+    "source": "Synthetic structural fixture; not language data",
+    "date_added": "2026-09-04",
+    "review_status": "draft",
+    "license": "CC BY 4.0",
+    "schema_version": "1.0.0",
+    "since_version": "0.3.0"
+  }
+}

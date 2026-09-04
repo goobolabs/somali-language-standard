@@ -36,7 +36,7 @@ The **Somali Language Standard (SLS)** is an open, machine-readable, and version
 Think of it like an **RFC series** (such as those that define how the internet works), or a **Unicode Technical Report**, but applied to the Somali language. It is not a dictionary you look up words in. It is a specification that systems and humans implement *against*. When a software company builds a Somali spellchecker, a hospital builds a Somali patient portal, or an AI lab trains a Somali language model, they need an authoritative reference to rely on. SLS is that reference.
 
 Every fact SLS asserts — a word, a grammar rule, a technical term — is:
-- **Numbered** with a permanent, unique identifier (e.g., `sls:lex:0042`).
+- **Numbered** with a permanent, unique identifier (e.g., `sls:lex:000042`).
 - **Versioned**, so adopters can precisely cite which version of a rule they are implementing.
 - **Sourced**, with full provenance back to original Somali publications.
 - **Validated**, through an automated CI pipeline that rejects incorrect or incomplete records.
@@ -187,7 +187,7 @@ the rule.
 
 **For AI training:** Fine-tuning datasets in `ai/datasets/` allow any lab or researcher to improve their model's Somali capability against a known, contamination-audited benchmark.
 
-**For terminology:** When a Somali-language government publication needs the word for "artificial intelligence," there is a standard answer: `SLS-0200-AI-0001 — garaad gacmeed` (or whichever term is ratified), citable and permanently versioned.
+**For terminology:** When a Somali-language government publication needs the word for "artificial intelligence," there is a standard answer: `sls:term:ai:000001 — garaad gacmeed` (or whichever term is ratified), citable and permanently versioned.
 
 **For the global NLP community:** SLS becomes a reference in academic papers, dataset cards, and model cards — establishing Somali as a language with a proper, citable infrastructure, comparable in rigor (if smaller in scope) to what Unicode and CLDR provide for writing systems generally.
 

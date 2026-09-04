@@ -1,0 +1,18 @@
+[package]
+name = "sls-validators"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.85"
+license = "MIT"
+repository = "https://github.com/goobolabs/somali-language-standard"
+description = "Offline JSON and JSONL validators for Somali Language Standard records"
+publish = false
+
+[[bin]]
+name = "sls-validate"
+path = "src/main.rs"
+
+[dependencies]
+jsonschema = { version = "0.52.1", default-features = false }
+semver = "1.0.28"
+serde_json = "1.0.150"

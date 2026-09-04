@@ -13,6 +13,9 @@ citable standard that any system, human or machine, can implement against.
 > [pull request #7](https://github.com/goobolabs/somali-language-standard/pull/7)
 > on 2026-08-23 and cannot close before 2026-09-06. No standard is `Stable`. See the
 > [Roadmap](ROADMAP.md) and [M2 readiness record](docs/standards/MILESTONE-2-READINESS.md).
+> Milestone 3 schema implementation is also complete: all record contracts,
+> the Rust repository validator, and pull-request validation workflow are in
+> place for the v0.3 release line.
 
 ---
 
@@ -66,7 +69,7 @@ ai/
   prompts/        System prompts and prompt templates
   datasets/       Instruction, fine-tuning, and correction datasets
 benchmarks/       Evaluation suites (kept separate from training data)
-tools/            Validators, compilers, exporters (implemented later)
+tools/            Rust validators; future compilers and exporters
 examples/         Integration guides for developers
 ```
 

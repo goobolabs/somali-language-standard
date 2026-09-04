@@ -1,0 +1,23 @@
+{
+  "sls_id": "sls:term:ai:000001",
+  "domain": "artificial-intelligence",
+  "en_term": "fixture-en-term",
+  "so_term": "fixture-so-term",
+  "so_term_alternatives": [],
+  "definition_en": "Synthetic validator fixture; not terminology data.",
+  "definition_so": "synthetic-validator-fixture",
+  "part_of_speech": "magac",
+  "coinage_type": "neologism",
+  "status": "proposed",
+  "example_en": "Synthetic English fixture.",
+  "example_so": "synthetic-so-fixture",
+  "metadata": {
+    "contributor": "SLS maintainers",
+    "source": "Synthetic structural fixture; not language data",
+    "date_added": "2026-09-04",
+    "review_status": "draft",
+    "license": "CC BY 4.0",
+    "schema_version": "1.0.0",
+    "since_version": "0.3.0"
+  }
+}

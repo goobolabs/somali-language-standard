@@ -1,0 +1,58 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "style-example.schema.json",
+  "title": "SLS Style Example",
+  "description": "A paired preferred/avoid example for a governed Somali writing register.",
+  "schema_version": "1.0.0",
+  "type": "object",
+  "required": [
+    "sls_id",
+    "standard_id",
+    "register",
+    "preferred",
+    "avoid",
+    "rationale",
+    "metadata"
+  ],
+  "properties": {
+    "sls_id": {
+      "type": "string",
+      "pattern": "^sls:style:[0-9]{6}$",
+      "description": "Permanent SLS style-example identifier."
+    },
+    "standard_id": {
+      "type": "string",
+      "pattern": "^SLS-04[0-9]{2}$",
+      "description": "Writing-and-style standard that governs the example."
+    },
+    "register": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "preferred": {
+      "type": "string",
+      "minLength": 1
+    },
+    "avoid": {
+      "type": "string",
+      "minLength": 1
+    },
+    "rationale": {
+      "type": "string",
+      "minLength": 1
+    },
+    "domains": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+      },
+      "uniqueItems": true,
+      "description": "Optional terminology-domain slugs relevant to the example."
+    },
+    "metadata": {
+      "$ref": "metadata-common.schema.json#/$defs/provenance"
+    }
+  },
+  "additionalProperties": false
+}

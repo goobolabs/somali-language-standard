@@ -1,0 +1,102 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "grammar-rule.schema.json",
+  "title": "SLS Grammar Rule",
+  "description": "A machine-readable companion to a normative Somali grammar rule.",
+  "schema_version": "1.0.0",
+  "type": "object",
+  "required": [
+    "sls_id",
+    "rule_id",
+    "standard_id",
+    "spec_path",
+    "requirement",
+    "normative_terms",
+    "positive_examples",
+    "negative_examples",
+    "metadata"
+  ],
+  "properties": {
+    "sls_id": {
+      "type": "string",
+      "pattern": "^sls:rule:grammar:[0-9]{6}$",
+      "description": "Permanent machine-readable grammar-rule identifier."
+    },
+    "rule_id": {
+      "type": "string",
+      "pattern": "^(?:G[0-9]{2}-)?R[0-9]+$",
+      "description": "Rule label used by the governing grammar specification."
+    },
+    "standard_id": {
+      "type": "string",
+      "pattern": "^SLS-[0-9]{4}$",
+      "description": "Numbered standard that governs the rule."
+    },
+    "spec_path": {
+      "type": "string",
+      "pattern": "^spec/grammar/[0-9]{4}-[a-z0-9]+(?:-[a-z0-9]+)*\\.md$",
+      "description": "Repository-relative path to the authoritative normative prose."
+    },
+    "requirement": {
+      "type": "string",
+      "minLength": 1
+    },
+    "normative_terms": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "enum": [
+          "MUST",
+          "MUST NOT",
+          "SHOULD",
+          "SHOULD NOT",
+          "MAY"
+        ]
+      },
+      "uniqueItems": true
+    },
+    "scope": {
+      "type": "string",
+      "minLength": 1
+    },
+    "positive_examples": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/example"
+      }
+    },
+    "negative_examples": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/example"
+      }
+    },
+    "metadata": {
+      "$ref": "metadata-common.schema.json#/$defs/provenance"
+    }
+  },
+  "$defs": {
+    "example": {
+      "type": "object",
+      "required": [
+        "text",
+        "explanation"
+      ],
+      "properties": {
+        "text": {
+          "type": "string",
+          "minLength": 1
+        },
+        "explanation": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

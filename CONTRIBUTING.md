@@ -68,8 +68,8 @@ docs/<short-desc>                     e.g. docs/faq-licensing
 
 1. One logical change per PR. Do not mix spec changes with data changes.
 2. Fill in the PR template completely, including the licensing declaration.
-3. CI must pass (schema validation, linting, cross-reference checks — once
-   implemented).
+3. CI must pass (formatting, strict Rust linting, schema validation, and
+   cross-reference checks).
 4. The **review gate** must be satisfied (see below).
 5. A Maintainer merges. Squash-merge is the default; the squashed commit keeps
    the DCO sign-off.
@@ -131,8 +131,8 @@ end to end.
   **append-only and permanent** — never renumber, never reuse, even for
   deprecated entries. Take the next available sequence number.
 - **Provenance is mandatory**: every record carries `contributor`, `source`,
-  `date_added`, `review_status`, and `license`. Records without provenance
-  will not be merged.
+  `date_added`, `review_status`, `license`, and `schema_version`. Records
+  without complete metadata will not be merged.
 - **Rights**: only contribute text you have the right to contribute. Corpora
   material must be rights-cleared or permissioned; when in doubt, don't.
 - **Licensing**: all data contributions are made under **CC BY 4.0**.

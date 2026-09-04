@@ -1,0 +1,109 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "terminology-entry.schema.json",
+  "title": "SLS Terminology Entry",
+  "description": "A governed English-Somali terminology record with definitions, lifecycle state, and provenance.",
+  "schema_version": "1.0.0",
+  "type": "object",
+  "required": [
+    "sls_id",
+    "domain",
+    "en_term",
+    "so_term",
+    "definition_en",
+    "definition_so",
+    "part_of_speech",
+    "coinage_type",
+    "status",
+    "metadata"
+  ],
+  "properties": {
+    "sls_id": {
+      "type": "string",
+      "pattern": "^sls:term:[a-z0-9]+(?:-[a-z0-9]+)*:[0-9]{6}$",
+      "description": "Permanent terminology ID containing a controlled domain code."
+    },
+    "domain": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "description": "Controlled domain slug from data/terminology/_domains.json."
+    },
+    "en_term": {
+      "type": "string",
+      "minLength": 1
+    },
+    "so_term": {
+      "type": "string",
+      "minLength": 1
+    },
+    "so_term_alternatives": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "definition_en": {
+      "type": "string",
+      "minLength": 1
+    },
+    "definition_so": {
+      "type": "string",
+      "minLength": 1
+    },
+    "part_of_speech": {
+      "type": "string",
+      "enum": [
+        "magac",
+        "magacuyaal",
+        "fal",
+        "tilmaame",
+        "falkaab",
+        "meeleeye",
+        "xiriiriye",
+        "qodob",
+        "yaab"
+      ],
+      "description": "Primary word class of the term or its phrase head under SLS-0003 G10-R1."
+    },
+    "coinage_type": {
+      "type": "string",
+      "enum": [
+        "loanword",
+        "calque",
+        "existing-word-repurposed",
+        "neologism"
+      ]
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "proposed",
+        "discussed",
+        "standard",
+        "rejected"
+      ]
+    },
+    "example_en": {
+      "type": "string",
+      "minLength": 1
+    },
+    "example_so": {
+      "type": "string",
+      "minLength": 1
+    },
+    "metadata": {
+      "$ref": "metadata-common.schema.json#/$defs/provenance"
+    }
+  },
+  "dependentRequired": {
+    "example_en": [
+      "example_so"
+    ],
+    "example_so": [
+      "example_en"
+    ]
+  },
+  "additionalProperties": false
+}

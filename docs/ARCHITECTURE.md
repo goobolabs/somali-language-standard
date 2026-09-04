@@ -135,7 +135,9 @@ somali-language-standard/
 ├── schemas/                         # JSON Schema (2020-12) — one per record type
 │   ├── metadata-common.schema.json  # shared $defs: provenance, license, review_status
 │   ├── lexicon-entry.schema.json
+│   ├── terminology-domains.schema.json
 │   ├── terminology-entry.schema.json
+│   ├── example-sentence.schema.json
 │   ├── sentence-pair.schema.json
 │   ├── grammar-rule.schema.json
 │   ├── style-example.schema.json
@@ -156,22 +158,27 @@ somali-language-standard/
 │   │   ├── machine-learning.jsonl
 │   │   ├── ... (20 domains total)
 │   │   └── _template.jsonl
+│   ├── grammar/
+│   │   └── rules.jsonl              # machine-readable companions to normative rules
+│   ├── style/                        # register-specific preferred/avoid examples
 │   ├── corpora/
 │   │   ├── example-sentences.jsonl
 │   │   ├── literature-excerpts/     # rights-cleared only
 │   │   └── news-samples/            # rights-cleared / permissioned only
-│   └── translation-pairs/
+│   └── translation/
 │       ├── general/en-so.jsonl
 │       ├── technical/en-so-tech.jsonl
 │       └── idioms/idioms-en-so.jsonl
 │
 ├── ai/
-│   ├── system-prompts/somali-assistant-persona.md
-│   ├── instruction-datasets/instructions-v1.jsonl
-│   ├── fine-tuning/sft-somali-v1.jsonl
-│   ├── rag-knowledge/chunks/        # pre-chunked spec + lexicon for retrieval
-│   ├── prompt-templates/templates.yaml
-│   └── correction-datasets/grammar-correction-pairs.jsonl
+│   ├── prompts/
+│   │   ├── somali-assistant-persona.md
+│   │   └── templates.yaml
+│   ├── datasets/
+│   │   ├── instructions-v1.jsonl
+│   │   ├── sft-somali-v1.jsonl
+│   │   └── grammar-correction-pairs.jsonl
+│   └── rag-knowledge/chunks/        # generated from spec + data
 │
 ├── benchmarks/
 │   ├── grammar/grammar-eval-v1.jsonl
@@ -228,12 +235,14 @@ somali-language-standard/
 | `schemas/` | JSON Schema contracts every dataset file must satisfy. Change here = potential MAJOR version bump. | Maintainers | Hand-authored |
 | `data/lexicon/` | The dictionary: word, definitions, POS, morphology, frequency, loanword flags. | Contributors + maintainers | Hand-authored |
 | `data/terminology/` | Domain glossaries (AI, medicine, law, etc.) — where most long-term value accrues, since this vocabulary barely exists in Somali today. | Maintainers | Hand-authored |
+| `data/grammar/` | Machine-readable companions to normative grammar rules; `spec/grammar/` remains authoritative. | Maintainers | Hand-authored from reviewed specs |
+| `data/style/` | Register-specific preferred/avoid examples governed by `spec/style/`. | Maintainers + contributors | Hand-authored |
 | `data/corpora/` | Example sentences and rights-cleared text used for grounding, RAG, and training context. | Contributors | Hand-authored / curated |
-| `data/translation-pairs/` | Parallel EN↔SO sentence/phrase pairs for MT training and eval. | Contributors + reviewers | Hand-authored |
+| `data/translation/` | Parallel EN↔SO sentence/phrase pairs for MT training and eval. | Contributors + reviewers | Hand-authored |
 | `ai/` | Everything shaped for direct AI consumption: system prompts, instruction/fine-tuning sets, RAG chunks, correction pairs. | Maintainers + contributors | Hand-authored, partly derived from `spec/` + `data/` |
 | `benchmarks/` | Eval suites + scoring methodology, kept separate from training data to avoid contamination. | Maintainers | Hand-authored |
 | `resources/` | The canonical linguistic source library and evidence base. Eight curated collections (qaamuus, naxwe, erey-bixin, suugaan, qoraal, dhawaaq, sarfe) plus derived madax-ereyo. Documented in [`docs/RESOURCES.md`](RESOURCES.md). | Maintainers | Curated source data |
-| `tools/` | Validator/build/export scripts. Empty in the planning phase; scaffolded in Phase 0 implementation. | Maintainers | Code (future) |
+| `tools/` | Rust validators plus future build and export tools. Validator implementation began in Phase 4. | Maintainers | Hand-authored code |
 | `docs/` | The public documentation site (built from `spec/` + narrative docs). | Maintainers | Generated + hand-authored |
 | `releases/` | Compiled, versioned, distributable bundles — the thing most consumers actually download. | CI only | Generated |
 
@@ -320,7 +329,7 @@ Numbering blocks are reserved by category (`00xx` orthography, `01xx` grammar, `
 | Format | Used for | Why |
 |---|---|---|
 | **JSON Lines (`.jsonl`)** | All datasets: lexicon, terminology, corpora, translation pairs, benchmarks, fine-tuning data | Streams line-by-line, diffs cleanly in git (one entry = one line = one diff hunk), is the native format of every ML data pipeline (HF `datasets`, JAX/PyTorch loaders). |
-| **JSON** | Schemas, manifests, config, small fixed structures (e.g. `prompt-templates`) | Universally parseable, no ambiguity. |
+| **JSON** | Schemas, manifests, config, small fixed structures (e.g. prompt configuration) | Universally parseable, no ambiguity. |
 | **Markdown + YAML front-matter** | `spec/`, style guides, docs site | Human-readable normative prose; front-matter makes status/version machine-extractable without parsing prose. |
 | **YAML** | `templates.yaml`, CI config | Used only where a human is expected to hand-edit config; never for datasets (indentation-sensitivity is a liability at scale). |
 
@@ -334,11 +343,13 @@ All schemas share a **common metadata block** via `$ref` to `metadata-common.sch
 
 ```json
 {
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "metadata-common.schema.json",
+  "schema_version": "1.0.0",
   "$defs": {
     "provenance": {
       "type": "object",
-      "required": ["contributor", "date_added", "review_status", "license"],
+      "required": ["contributor", "source", "date_added", "review_status", "license", "schema_version"],
       "properties": {
         "contributor": { "type": "string" },
         "reviewers": { "type": "array", "items": { "type": "string" } },
@@ -346,10 +357,11 @@ All schemas share a **common metadata block** via `$ref` to `metadata-common.sch
         "date_modified": { "type": "string", "format": "date" },
         "review_status": { "enum": ["draft", "reviewed", "verified", "deprecated"] },
         "source": { "type": "string" },
-        "license": { "type": "string" },
+        "license": { "const": "CC BY 4.0" },
         "schema_version": { "type": "string" },
         "since_version": { "type": "string" }
-      }
+      },
+      "additionalProperties": false
     }
   }
 }
@@ -361,11 +373,11 @@ All schemas share a **common metadata block** via `$ref` to `metadata-common.sch
 {
   "sls_id": "sls:lex:000123",
   "word": "baabuur",
-  "part_of_speech": "noun",
+  "part_of_speech": "magac",
   "gender": "masculine",
   "plural": "baabuurro",
   "ipa": "baːbuːr",
-  "dialect": "standard",
+  "dialect": "so",
   "definitions": [
     { "sense": 1, "en": "vehicle, car", "so_gloss": "gaari lagu safro" }
   ],
@@ -379,9 +391,22 @@ All schemas share a **common metadata block** via `$ref` to `metadata-common.sch
 }
 ```
 
+`part_of_speech` uses the nine canonical Somali labels required by SLS-0003
+G10-R1. `dialect` uses lowercase BCP 47 tags: `so` identifies Standard Somali,
+while an approved regional profile can use a private-use extension such as
+`so-x-maay`. A `magac` entry must record its reviewed grammatical gender and
+lexical plural under SLS-0003 G11-R1 and G11-R3. An entry marked
+`is_loanword: true` must record `loan_origin`.
+
 **Terminology entry** (`terminology-entry.schema.json`) — see §9 for the full field rationale.
 
-**Sentence pair** (`sentence-pair.schema.json`) — used by `translation-pairs/` and `corpora/example-sentences.jsonl`:
+**Example sentence** (`example-sentence.schema.json`) — a citable Somali
+corpus sentence under `data/corpora/example-sentences.jsonl`, using the
+`sls:sent:NNNNNN` IDs referenced by lexicon entries. Its English gloss and
+register are optional; its Somali dialect tag and provenance are required.
+
+**Sentence pair** (`sentence-pair.schema.json`) — used by bilingual records in
+`data/translation/`:
 
 ```json
 {
@@ -409,14 +434,40 @@ All schemas share a **common metadata block** via `$ref` to `metadata-common.sch
 }
 ```
 
-Every domain-specific schema is a thin extension of this pattern — same discipline, different payload fields. Full schema files are written in the implementation phase, not in this planning document; the shapes above are the contract they must satisfy.
+**Grammar rules**, **style examples**, and **correction pairs** use the same
+permanent-ID and metadata discipline. Grammar records point back to the
+authoritative rule in `spec/grammar/` and require both conforming and
+non-conforming examples. Style records pair a preferred form with a form to
+avoid and name the governing SLS-04xx standard. Correction records preserve the
+incorrect input, corrected output, explanation, and rule references required
+to justify the change. Benchmark suites keep specialized fields inside
+`task_data`, where a future suite schema can narrow them without adding
+uncontrolled top-level keys.
+
+Every record-specific schema follows this pattern: the same metadata discipline
+with different payload fields. The schema files implement the shapes summarized
+above and are the machine-readable source of truth for their exact constraints.
+
+`register` remains an open lower-kebab-case label until the style standards
+define its controlled vocabulary. `domain` is optional for general and idiom
+pairs; when present, it names a slug from `data/terminology/_domains.json`.
+Monolingual corpus examples use a separate future record profile rather than
+being forced into this bilingual contract.
 
 ---
 
 ## 8. Naming Conventions
 
 - **Files**: lower-kebab-case, always `.jsonl` for data, `.md` for prose, `.schema.json` for schemas. Domain glossary files are named after the domain in English kebab-case (`machine-learning.jsonl`), never abbreviated.
-- **IDs**: `sls:<type>:<zero-padded-sequence>`, e.g. `sls:lex:000123`, `sls:term:ai:000045`, `sls:bench:grammar:000012`. IDs are **append-only and permanent** — never renumbered or reused, even on deprecation. This is the single most important rule for long-term stability: external systems will cite `sls_id`s directly.
+- **IDs**: `sls:<type>:<zero-padded-sequence>`, with a stable category segment
+  where its schema requires one. Examples: `sls:lex:000123`,
+  `sls:term:ai:000045`, `sls:pair:001987`,
+  `sls:sent:004421`,
+  `sls:rule:grammar:000001`, `sls:style:000001`,
+  `sls:bench:grammar:000012`, and `sls:corr:grammar:000001`. Sequence fields
+  are six digits. IDs are **append-only and permanent** — never renumbered or
+  reused, even on deprecation. This is the single most important rule for
+  long-term stability: external systems will cite `sls_id`s directly.
 - **Language/locale tags**: BCP 47. Standard Somali is `so`. Dialects use private extensions until formally namespaced (§21): `so-x-maay`, `so-x-benadiri`. English targets use `en`.
 - **Domain codes**: short, stable, kebab-case slugs (`ai`, `ml`, `cybersec`, `medicine`, `law`...) defined once in `data/terminology/_domains.json` (a controlled vocabulary — new domains require a maintainer-approved PR, not an inline string anyone can invent).
 - **Branch/PR naming**: `terminology/<domain>-<short-desc>`, `spec/<category>-<short-desc>`, `fix/<area>-<short-desc>`.
@@ -438,13 +489,12 @@ This is the highest-leverage part of SLS: most of this vocabulary (AI, ML, cyber
   "so_term_alternatives": ["shabakad dareen-jir ah"],
   "definition_en": "A computing system inspired by biological neural networks.",
   "definition_so": "...",
-  "part_of_speech": "noun phrase",
+  "part_of_speech": "magac",
   "coinage_type": "calque",          
   "status": "proposed",              
   "example_en": "The neural network was trained on images.",
   "example_so": "Shabakadda neerawiga ah waxaa lagu tababaray sawirro.",
-  "reviewers": [],
-  "metadata": { "...": "..." }
+  "metadata": { "reviewers": [], "...": "..." }
 }
 ```
 
@@ -452,16 +502,27 @@ This is the highest-leverage part of SLS: most of this vocabulary (AI, ML, cyber
 
 `status` lifecycle: `proposed → discussed → standard` (or `rejected`). Only a maintainer can promote a term to `standard`, and the promotion is recorded with its rationale. Multiple `so_term_alternatives` are allowed to persist at `proposed` indefinitely if genuine dialectal or stylistic variation exists — SLS documents real usage, it doesn't force false consensus.
 
+`part_of_speech` records the primary class of the term or its phrase head using
+the same nine SLS-0003 labels as lexicon entries. Reviewers live once in the
+shared `metadata` object rather than being duplicated at the record root.
+
 **The 20 launch domains** (each its own JSONL file, same schema): Artificial Intelligence, Machine Learning, Data Science, Cybersecurity, Computer Science, Software Engineering, Cloud Computing, Networking, Blockchain, Medicine, Law, Government, Finance, Education, Agriculture, Engineering, Mathematics, Physics, Chemistry, Biology.
+
+`data/terminology/_domains.json` maps each domain's permanent code and file slug
+to its reserved SLS-0200–SLS-0219 standard. The already documented `ai`, `ml`,
+and `cybersec` codes are retained; other launch domains use their full slug so
+the registry does not introduce undocumented abbreviations.
 
 ---
 
 ## 10. Translation Standards
 
-`spec/translation/` holds the normative guidance; `data/translation-pairs/` holds the evidence (parallel sentence pairs tagged by the same categories):
+`spec/translation/` holds the normative guidance; `data/translation/` holds the evidence (parallel sentence pairs tagged by the same categories):
 
 - **EN→SO / SO→EN guidelines** — directionality matters: Somali VSO/SOV flexibility, waxaa-focus constructions, and evidentiality markers don't map 1:1 onto English syntax, so each direction gets its own document rather than one "translation guide."
-- **Idioms & expressions** — stored as *pairs*, never literal glosses, with a `literalness` field so training pipelines can choose to exclude idioms if they only want literal-pair data.
+- **Idioms & expressions** — stored as *pairs*, never as standalone literal
+  glosses, with `translation_type` so training pipelines can select literal or
+  natural pairs explicitly.
 - **False friends** — an explicit dataset (`sls:falsefriend:*`) of lookalike words that mislead (e.g. loanwords that shifted meaning), because these are exactly what breaks naive MT and what a spellchecker/grammar checker needs to flag.
 - **Technical translation** — governed by whatever `data/terminology/*` says is `status: standard`; a translation-consistency benchmark (§13) checks compliance automatically.
 - **Literal vs. natural** — every `sentence-pair` record carries `translation_type: literal|natural` so downstream consumers (MT training vs. gloss-learning tools) can filter appropriately instead of guessing.
@@ -480,12 +541,9 @@ Eight registers, one file each under `spec/style/`, each following the same skel
 
 | Subfolder | Contents | Derived from |
 |---|---|---|
-| `system-prompts/` | Ready-to-use persona/system prompts for "a Somali-fluent assistant that follows SLS conventions" | `spec/` |
-| `instruction-datasets/` | Instruction→response pairs in Somali for SFT | `data/`, `spec/`, native contribution |
-| `fine-tuning/` | Larger curated SFT sets, versioned like model checkpoints | `instruction-datasets/` + review |
+| `prompts/` | Ready-to-use system prompts and parameterized templates for translation, grammar checking, and terminology lookup | `spec/` |
+| `datasets/` | Reviewed instruction, fine-tuning, and correction records shaped for model training | `data/`, `spec/`, native contribution |
 | `rag-knowledge/chunks/` | Pre-chunked (~512 token), embedding-ready fragments of `spec/` + `lexicon/` + `terminology/`, each chunk carrying its source `sls_id`s for citation | Automated build from `spec/` + `data/` |
-| `prompt-templates/` | Parameterized templates (translation, grammar-check, terminology lookup) any app can drop in | Hand-authored |
-| `correction-datasets/` | (bad, corrected, explanation) triples for grammar/spelling correction models | Contributor-submitted + benchmark overlap |
 
 `rag-knowledge/` is intentionally a **build artifact**, not hand-edited — regenerated by tooling whenever `spec/` or `data/` changes, so it never drifts out of sync with the source of truth.
 
@@ -493,7 +551,7 @@ Eight registers, one file each under `spec/style/`, each following the same skel
 
 ## 13. Benchmarks & Scoring
 
-Benchmarks live apart from training data specifically to prevent contamination — a `benchmarks/` item must never also appear in `ai/fine-tuning/`. If the project later wants a leaderboard, the underlying policy question (public dev set vs. held-out test set, GLUE/SuperGLUE-style) belongs in `benchmarks/SCORING.md` as a recorded maintainer decision, not something contributors decide ad hoc.
+Benchmarks live apart from training data specifically to prevent contamination — a `benchmarks/` item must never also appear in `ai/datasets/`. If the project later wants a leaderboard, the underlying policy question (public dev set vs. held-out test set, GLUE/SuperGLUE-style) belongs in `benchmarks/SCORING.md` as a recorded maintainer decision, not something contributors decide ad hoc.
 
 | Suite | Scoring method |
 |---|---|
@@ -565,14 +623,24 @@ GitHub Actions, staged so cheap checks fail fast:
 8. **Docs deploy** — builds and publishes the documentation site on merge to `main`.
 9. **Release** — on `vX.Y.Z` tag push: package `releases/vX.Y.Z/*`, generate changelog from conventional commits, publish a GitHub Release, optionally mirror to a Hugging Face Hub dataset repo for direct `datasets.load_dataset()` access.
 
+The initial active `validate.yml` implements the Phase 4 enforcement surface:
+Rust formatting and linting, validator tests, schema and metadata validation,
+and cross-reference integrity on pull requests and pushes to `main`. Markdown
+front-matter linting, Somali spellcheck, compilation, documentation deploys,
+and release publishing remain later pipeline stages in the phases that own
+those artifacts.
+
 ---
 
 ## 18. Validation & Automation Tools
 
-Described here for the implementation phase (Phase 0, §20) — not built yet:
+The first two tools are implemented in Rust; the remaining tools are planned:
 
-- **Schema validator** — walks every data file, validates against its schema, reports line-precise errors.
-- **Cross-reference validator** — builds an in-memory ID graph, flags dangling/duplicate `sls_id`s.
+- **Schema validator** — `sls-validate check` walks every implemented record
+  path, validates against its schema, and reports line-precise errors.
+- **Cross-reference validator** — the same command builds an in-memory ID
+  graph and flags duplicate `sls_id`s, unknown domains, mismatched terminology
+  ID codes, and dangling standard, rule, and grammar-spec references.
 - **Orthography compliance checker** — flags characters/sequences outside the `spec/orthography/0001-alphabet.md` inventory.
 - **Dataset compiler** — merges per-domain/per-letter fragments into `releases/vX.Y.Z/` bundles + a `manifest.json` (checksums, counts, schema versions).
 - **Stats generator** — coverage per domain, entries per review_status, growth-over-time — feeds a badge/dashboard on the docs site.

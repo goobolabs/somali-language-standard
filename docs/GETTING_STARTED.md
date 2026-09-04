@@ -40,7 +40,7 @@ somali-language-standard/
 │   └── datasets/              Instruction / fine-tuning / correction data
 │
 ├── benchmarks/                Evaluation suites (never mixed with training data)
-├── tools/                     Validators, compilers, exporters (later phase)
+├── tools/                     Rust validators; future compilers and exporters
 └── examples/                  Integration guides for developers
 ```
 
@@ -86,17 +86,23 @@ catalog and the compliance model you would implement against.
 
 ## Development workflow
 
-The project is documentation- and data-first; there is no build step yet.
+The project remains documentation- and data-first. Its first executable build
+surface is the Rust schema validator under `tools/validators/`.
 
 1. **Fork and clone** the repository.
 2. **Create a branch** using the naming convention in
    [CONTRIBUTING.md](../CONTRIBUTING.md#branch-naming).
 3. **Make your change** following the [Style Guide](STYLE_GUIDE.md).
-4. **Commit with a DCO sign-off**: `git commit -s`.
-5. **Open a pull request** and fill in the template.
-6. CI validation (schema checks, linting, cross-reference integrity) will run
-   automatically once implemented in Phase 4; until then, reviewers check
-   these manually.
+4. **Run the current local checks**:
+
+   ```bash
+   cargo test --workspace --offline
+   cargo run --offline -p sls-validators -- check --root .
+   ```
+5. **Commit with a DCO sign-off**: `git commit -s`.
+6. **Open a pull request** and fill in the template.
+7. The active GitHub workflow runs the same formatting, lint, test, schema, and
+   cross-reference checks on pull requests and pushes to `main`.
 
 Structural changes (new spec docs, new domains, schema changes) must start as
 a GitHub Discussion or issue — see the

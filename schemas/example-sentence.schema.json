@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "example-sentence.schema.json",
+  "title": "SLS Example Sentence",
+  "description": "A citable Somali corpus sentence that lexicon entries may reference.",
+  "schema_version": "1.0.0",
+  "type": "object",
+  "required": [
+    "sls_id",
+    "so",
+    "dialect",
+    "metadata"
+  ],
+  "properties": {
+    "sls_id": {
+      "type": "string",
+      "pattern": "^sls:sent:[0-9]{6}$",
+      "description": "Permanent SLS example-sentence identifier."
+    },
+    "so": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Somali example sentence."
+    },
+    "en": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Optional English translation or gloss."
+    },
+    "dialect": {
+      "type": "string",
+      "pattern": "^so(?:-x(?:-[a-z0-9]{1,8})+)?$",
+      "description": "Lowercase BCP 47 Somali language tag."
+    },
+    "register": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "metadata": {
+      "$ref": "metadata-common.schema.json#/$defs/provenance"
+    }
+  },
+  "additionalProperties": false
+}

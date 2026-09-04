@@ -1,0 +1,20 @@
+{
+  "sls_id": "sls:corr:grammar:000001",
+  "category": "grammar",
+  "incorrect": "synthetic-incorrect-example",
+  "corrected": "synthetic-corrected-example",
+  "explanation": "Synthetic validator explanation; not a language correction.",
+  "rule_refs": [
+    "G10-R1"
+  ],
+  "register": "formal",
+  "metadata": {
+    "contributor": "SLS maintainers",
+    "source": "Synthetic structural fixture; not language data",
+    "date_added": "2026-09-04",
+    "review_status": "draft",
+    "license": "CC BY 4.0",
+    "schema_version": "1.0.0",
+    "since_version": "0.3.0"
+  }
+}

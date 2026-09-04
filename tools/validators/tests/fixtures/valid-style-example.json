@@ -1,0 +1,20 @@
+{
+  "sls_id": "sls:style:000001",
+  "standard_id": "SLS-0400",
+  "register": "formal",
+  "preferred": "synthetic-preferred-example",
+  "avoid": "synthetic-avoid-example",
+  "rationale": "Synthetic validator rationale; not style guidance.",
+  "domains": [
+    "government"
+  ],
+  "metadata": {
+    "contributor": "SLS maintainers",
+    "source": "Synthetic structural fixture; not language data",
+    "date_added": "2026-09-04",
+    "review_status": "draft",
+    "license": "CC BY 4.0",
+    "schema_version": "1.0.0",
+    "since_version": "0.3.0"
+  }
+}

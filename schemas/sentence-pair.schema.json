@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "sentence-pair.schema.json",
+  "title": "SLS Sentence Pair",
+  "description": "A reviewed English-Somali translation pair with register, translation type, and provenance.",
+  "schema_version": "1.0.0",
+  "type": "object",
+  "required": [
+    "sls_id",
+    "en",
+    "so",
+    "register",
+    "translation_type",
+    "metadata"
+  ],
+  "properties": {
+    "sls_id": {
+      "type": "string",
+      "pattern": "^sls:pair:[0-9]{6}$",
+      "description": "Permanent SLS sentence-pair identifier."
+    },
+    "en": {
+      "type": "string",
+      "minLength": 1,
+      "description": "English side of the pair."
+    },
+    "so": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Standard Somali side of the pair."
+    },
+    "register": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "description": "Lower-kebab-case register label; it remains open until the style standards define a controlled vocabulary."
+    },
+    "translation_type": {
+      "type": "string",
+      "enum": [
+        "literal",
+        "natural"
+      ],
+      "description": "Whether the pair preserves close form correspondence or an idiomatic natural translation."
+    },
+    "domain": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "description": "Optional controlled terminology-domain slug from data/terminology/_domains.json."
+    },
+    "metadata": {
+      "$ref": "metadata-common.schema.json#/$defs/provenance"
+    }
+  },
+  "additionalProperties": false
+}

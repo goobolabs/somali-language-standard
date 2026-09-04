@@ -1,0 +1,15 @@
+{
+  "sls_id": "sls:lex:123",
+  "word": "baabuur",
+  "part_of_speech": "noun",
+  "dialect": "standard",
+  "definitions": [],
+  "is_loanword": true,
+  "metadata": {
+    "contributor": "SLS maintainers",
+    "date_added": "2026-08-31",
+    "review_status": "reviewed",
+    "license": "CC BY 4.0",
+    "schema_version": "1.0.0"
+  }
+}

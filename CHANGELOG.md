@@ -12,6 +12,42 @@ releases, schema versions, and per-standard versions relate.
 
 ### Added
 
+- Active `.github/workflows/validate.yml` enforcement on pull requests and
+  `main`, pinned to Rust 1.85.0 and running formatting, strict Clippy, all
+  validator tests, and the repository-wide record/reference check.
+- Repository-wide `sls-validate check` routing and integrity validation for all
+  implemented record paths, including duplicate IDs, domain membership,
+  terminology ID/domain agreement, standard and rule references, and grammar
+  specification paths.
+- `schemas/example-sentence.schema.json` and repository checks for lexicon
+  `sls:sent:*` references, closing the previously unvalidated dangling-ID path.
+- Grammar-rule, style-example, benchmark-item, and correction-pair schemas,
+  with permanent IDs, strict record envelopes, shared provenance, and
+  synthetic valid/invalid fixtures. Machine-readable grammar companions route
+  to `data/grammar/`; structured style examples route to `data/style/`.
+- `schemas/sentence-pair.schema.json` — the bilingual translation-record
+  contract, with permanent pair IDs, English and Standard Somali text,
+  register, literal/natural classification, optional terminology domain, and
+  shared provenance.
+- `schemas/terminology-entry.schema.json` and the supporting terminology-domain
+  schema, with governed coinage/status values, paired bilingual examples, and
+  shared provenance.
+- `data/terminology/_domains.json` — the 20-domain controlled vocabulary mapped
+  to reserved standards SLS-0200–SLS-0219, with an integrity test against the
+  standards registry.
+- `schemas/lexicon-entry.schema.json` — the SLS-0003-aligned headword contract,
+  using permanent lexicon IDs, the nine reviewed word classes, BCP 47 Somali
+  tags, explicit loanword origins, definition senses, and shared provenance.
+- An offline local-schema registry in the Rust validator, including duplicate
+  schema-ID detection and SemVer validation for every `schema_version`.
+- Phase 4 record-format audit documenting the current schema surfaces, strict
+  common-metadata decisions, and unresolved dataset-routing differences.
+- `schemas/metadata-common.schema.json` — the first draft 2020-12 machine
+  contract, requiring complete provenance, review, licensing, and schema
+  version metadata.
+- Rust validator workspace under `tools/validators/` with offline JSON and
+  line-by-line JSONL validation, asserted date formats, line-precise
+  diagnostics, and accepted/invalid fixture tests.
 - Standards framework (`standards/`) per ARCHITECTURE.md §30: `TEMPLATE.md`
   (the §24 formal template), `registry.json` (machine-readable source of truth,
   seeded with the full 53-standard launch set), `REGISTRY.md` (human mirror),
@@ -65,6 +101,9 @@ releases, schema versions, and per-standard versions relate.
 
 ### Changed
 
+- Reconciled the architecture's stale `data/translation-pairs/` and split AI
+  subdirectory names with the implemented `data/translation/`, `ai/prompts/`,
+  and `ai/datasets/` layout.
 - **SLS-0003 per-rule review complete: 42 of 42 verdicts, no version bump.**
   The maintainer native-speaker review approved every displayed rule and
   example in G10-R1 through G17-R6 as written. The verdicts are recorded as

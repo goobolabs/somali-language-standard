@@ -1,0 +1,58 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "correction-pair.schema.json",
+  "title": "SLS Correction Pair",
+  "description": "A reviewed incorrect/corrected Somali pair for model training, with an explicit explanation and rule trace.",
+  "schema_version": "1.0.0",
+  "type": "object",
+  "required": [
+    "sls_id",
+    "category",
+    "incorrect",
+    "corrected",
+    "explanation",
+    "rule_refs",
+    "metadata"
+  ],
+  "properties": {
+    "sls_id": {
+      "type": "string",
+      "pattern": "^sls:corr:[a-z0-9]+(?:-[a-z0-9]+)*:[0-9]{6}$",
+      "description": "Permanent correction-pair identifier containing its category code."
+    },
+    "category": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "incorrect": {
+      "type": "string",
+      "minLength": 1
+    },
+    "corrected": {
+      "type": "string",
+      "minLength": 1
+    },
+    "explanation": {
+      "type": "string",
+      "minLength": 1
+    },
+    "rule_refs": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true,
+      "description": "Rules or standards that justify the correction."
+    },
+    "register": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "metadata": {
+      "$ref": "metadata-common.schema.json#/$defs/provenance"
+    }
+  },
+  "additionalProperties": false
+}

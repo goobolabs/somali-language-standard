@@ -1,0 +1,20 @@
+{
+  "sls_id": "sls:bench:Grammar:1",
+  "task": "Grammar Correction",
+  "input": "",
+  "expected_output": "",
+  "explanation": "",
+  "difficulty": "medium",
+  "rule_refs": [
+    "duplicate",
+    "duplicate"
+  ],
+  "task_data": {},
+  "metadata": {
+    "contributor": "SLS maintainers",
+    "date_added": "2026-09-04",
+    "review_status": "draft",
+    "license": "CC BY 4.0",
+    "schema_version": "1.0.0"
+  }
+}

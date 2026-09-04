@@ -1,0 +1,19 @@
+{
+  "sls_id": "sls:style:1",
+  "standard_id": "SLS-0300",
+  "register": "Formal Writing",
+  "preferred": "",
+  "avoid": "",
+  "rationale": "",
+  "domains": [
+    "Government Law",
+    "Government Law"
+  ],
+  "metadata": {
+    "contributor": "SLS maintainers",
+    "date_added": "2026-09-04",
+    "review_status": "draft",
+    "license": "CC BY 4.0",
+    "schema_version": "1.0.0"
+  }
+}

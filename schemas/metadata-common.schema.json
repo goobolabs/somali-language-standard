@@ -1,0 +1,77 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "metadata-common.schema.json",
+  "title": "SLS Common Record Metadata",
+  "description": "Shared provenance, review, licensing, and schema-version metadata for SLS linguistic records.",
+  "schema_version": "1.0.0",
+  "$ref": "#/$defs/provenance",
+  "$defs": {
+    "provenance": {
+      "type": "object",
+      "required": [
+        "contributor",
+        "source",
+        "date_added",
+        "review_status",
+        "license",
+        "schema_version"
+      ],
+      "properties": {
+        "contributor": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Person or organization responsible for adding the record."
+        },
+        "reviewers": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true,
+          "description": "People who reviewed the linguistic record."
+        },
+        "source": {
+          "type": "string",
+          "minLength": 1,
+          "description": "A citable source or an explicit description of the record's origin."
+        },
+        "date_added": {
+          "type": "string",
+          "format": "date",
+          "description": "ISO 8601 calendar date on which the record entered the repository."
+        },
+        "date_modified": {
+          "type": "string",
+          "format": "date",
+          "description": "ISO 8601 calendar date of the record's latest substantive change."
+        },
+        "review_status": {
+          "type": "string",
+          "enum": [
+            "draft",
+            "reviewed",
+            "verified",
+            "deprecated"
+          ],
+          "description": "The record's current review lifecycle state."
+        },
+        "license": {
+          "const": "CC BY 4.0",
+          "description": "License applied to SLS linguistic data records."
+        },
+        "schema_version": {
+          "type": "string",
+          "pattern": "^(0|[1-9][0-9]*)\\.(0|[1-9][0-9]*)\\.(0|[1-9][0-9]*)(?:-[0-9A-Za-z-]+(?:\\.[0-9A-Za-z-]+)*)?(?:\\+[0-9A-Za-z-]+(?:\\.[0-9A-Za-z-]+)*)?$",
+          "description": "Version of the record schema used to encode this record."
+        },
+        "since_version": {
+          "type": "string",
+          "pattern": "^(0|[1-9][0-9]*)\\.(0|[1-9][0-9]*)\\.(0|[1-9][0-9]*)(?:-[0-9A-Za-z-]+(?:\\.[0-9A-Za-z-]+)*)?(?:\\+[0-9A-Za-z-]+(?:\\.[0-9A-Za-z-]+)*)?$",
+          "description": "First repository release containing the record."
+        }
+      },
+      "additionalProperties": false
+    }
+  }
+}

@@ -29,6 +29,9 @@ htmlcov/
 .nox/
 .python-version
 
+# --- Rust ---
+target/
+
 # --- OCR / curation tooling ---
 .cache/
 .tesseract/
