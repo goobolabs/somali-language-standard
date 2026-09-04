@@ -32,7 +32,7 @@ Resources milestones are **not** the same as implementation phases in
 [`IMPLEMENTATION_PLAN.md`](IMPLEMENTATION_PLAN.md). See
 [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) §4.1.
 
-## Milestone 2 — Core standards *(complete; public review open — target v0.2.0)*
+## Milestone 2 — Core standards *(v0.2.0; public review open)*
 
 The foundation layer of the standards catalog, drafted and moved into public
 review: the Alphabet Standard (SLS-0001), Orthography Standard (SLS-0002), and
@@ -57,7 +57,7 @@ and the later human-review gates remain external lifecycle work; their exact
 state is tracked in
 [`docs/standards/MILESTONE-2-READINESS.md`](docs/standards/MILESTONE-2-READINESS.md).
 
-## Milestone 3 — Schemas *(implementation complete — target v0.3)*
+## Milestone 3 — Schemas *(v0.3.0)*
 
 The machine-readable contracts everything else validates against:
 `metadata-common`, lexicon entry, terminology entry, sentence pair, grammar
@@ -71,8 +71,8 @@ corpus example-sentence contract. The Rust
 JSON/JSONL validator now provides automatic repository routing, duplicate-ID
 detection, and bounded dangling-reference checks. The active pull-request and
 main-branch workflow enforces formatting, strict Rust linting, all validator
-tests, and the repository-wide record check. The first hosted run and v0.3
-release remain release operations rather than implementation work.
+tests, and the repository-wide record check. The hosted workflow passed on the
+implementation PR before the v0.3.0 release.
 
 ## Milestone 4 — Lexicon *(v0.4)*
 

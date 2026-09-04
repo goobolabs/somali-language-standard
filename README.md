@@ -15,7 +15,7 @@ citable standard that any system, human or machine, can implement against.
 > [Roadmap](ROADMAP.md) and [M2 readiness record](docs/standards/MILESTONE-2-READINESS.md).
 > Milestone 3 schema implementation is also complete: all record contracts,
 > the Rust repository validator, and pull-request validation workflow are in
-> place for the v0.3 release line.
+> place in v0.3.0.
 
 ---
 
