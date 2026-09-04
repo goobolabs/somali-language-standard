@@ -66,9 +66,10 @@ them on every pull request.
 
 All planned shared and payload schemas are now implemented: metadata, lexicon,
 terminology and its domain vocabulary, bilingual sentence pairs, grammar
-rules, style examples, benchmark items, and correction pairs. The Rust
-JSON/JSONL validator foundation is also implemented. Cross-reference checks,
-automatic schema routing, and CI enforcement remain open.
+rules, style examples, benchmark items, correction pairs, and the supporting
+corpus example-sentence contract. The Rust
+JSON/JSONL validator now provides automatic repository routing, duplicate-ID
+detection, and bounded dangling-reference checks. CI enforcement remains open.
 
 ## Milestone 4 — Lexicon *(v0.4)*
 

@@ -7,6 +7,10 @@ use std::path::{Path, PathBuf};
 use jsonschema::Validator;
 use serde_json::Value;
 
+mod repository;
+
+pub use repository::check_repository;
+
 #[derive(Debug, Clone, PartialEq, Eq)]
 pub struct Diagnostic {
     pub input: PathBuf,

@@ -137,6 +137,7 @@ somali-language-standard/
 │   ├── lexicon-entry.schema.json
 │   ├── terminology-domains.schema.json
 │   ├── terminology-entry.schema.json
+│   ├── example-sentence.schema.json
 │   ├── sentence-pair.schema.json
 │   ├── grammar-rule.schema.json
 │   ├── style-example.schema.json
@@ -399,6 +400,11 @@ lexical plural under SLS-0003 G11-R1 and G11-R3. An entry marked
 
 **Terminology entry** (`terminology-entry.schema.json`) — see §9 for the full field rationale.
 
+**Example sentence** (`example-sentence.schema.json`) — a citable Somali
+corpus sentence under `data/corpora/example-sentences.jsonl`, using the
+`sls:sent:NNNNNN` IDs referenced by lexicon entries. Its English gloss and
+register are optional; its Somali dialect tag and provenance are required.
+
 **Sentence pair** (`sentence-pair.schema.json`) — used by bilingual records in
 `data/translation/`:
 
@@ -456,6 +462,7 @@ being forced into this bilingual contract.
 - **IDs**: `sls:<type>:<zero-padded-sequence>`, with a stable category segment
   where its schema requires one. Examples: `sls:lex:000123`,
   `sls:term:ai:000045`, `sls:pair:001987`,
+  `sls:sent:004421`,
   `sls:rule:grammar:000001`, `sls:style:000001`,
   `sls:bench:grammar:000012`, and `sls:corr:grammar:000001`. Sequence fields
   are six digits. IDs are **append-only and permanent** — never renumbered or
@@ -620,10 +627,13 @@ GitHub Actions, staged so cheap checks fail fast:
 
 ## 18. Validation & Automation Tools
 
-Described here for the implementation phase (Phase 0, §20) — not built yet:
+The first two tools are implemented in Rust; the remaining tools are planned:
 
-- **Schema validator** — walks every data file, validates against its schema, reports line-precise errors.
-- **Cross-reference validator** — builds an in-memory ID graph, flags dangling/duplicate `sls_id`s.
+- **Schema validator** — `sls-validate check` walks every implemented record
+  path, validates against its schema, and reports line-precise errors.
+- **Cross-reference validator** — the same command builds an in-memory ID
+  graph and flags duplicate `sls_id`s, unknown domains, mismatched terminology
+  ID codes, and dangling standard, rule, and grammar-spec references.
 - **Orthography compliance checker** — flags characters/sequences outside the `spec/orthography/0001-alphabet.md` inventory.
 - **Dataset compiler** — merges per-domain/per-letter fragments into `releases/vX.Y.Z/` bundles + a `manifest.json` (checksums, counts, schema versions).
 - **Stats generator** — coverage per domain, entries per review_status, growth-over-time — feeds a badge/dashboard on the docs site.

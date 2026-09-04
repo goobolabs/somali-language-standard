@@ -93,11 +93,16 @@ surface is the Rust schema validator under `tools/validators/`.
 2. **Create a branch** using the naming convention in
    [CONTRIBUTING.md](../CONTRIBUTING.md#branch-naming).
 3. **Make your change** following the [Style Guide](STYLE_GUIDE.md).
-4. **Run the current local checks** with `cargo test --workspace`.
+4. **Run the current local checks**:
+
+   ```bash
+   cargo test --workspace --offline
+   cargo run --offline -p sls-validators -- check --root .
+   ```
 5. **Commit with a DCO sign-off**: `git commit -s`.
 6. **Open a pull request** and fill in the template.
-7. Full CI validation (schema checks, linting, cross-reference integrity) will
-   run automatically once the remaining Phase 4 pipeline is implemented.
+7. The repository checker already performs schema and cross-reference
+   validation locally. GitHub CI enforcement is the remaining Phase 4 step.
 
 Structural changes (new spec docs, new domains, schema changes) must start as
 a GitHub Discussion or issue — see the

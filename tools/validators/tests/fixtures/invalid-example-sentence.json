@@ -1,0 +1,14 @@
+{
+  "sls_id": "sls:sent:1",
+  "so": "",
+  "en": "",
+  "dialect": "somali",
+  "register": "General Writing",
+  "metadata": {
+    "contributor": "SLS maintainers",
+    "date_added": "2026-09-04",
+    "review_status": "draft",
+    "license": "CC BY 4.0",
+    "schema_version": "1.0.0"
+  }
+}

@@ -12,6 +12,12 @@ releases, schema versions, and per-standard versions relate.
 
 ### Added
 
+- Repository-wide `sls-validate check` routing and integrity validation for all
+  implemented record paths, including duplicate IDs, domain membership,
+  terminology ID/domain agreement, standard and rule references, and grammar
+  specification paths.
+- `schemas/example-sentence.schema.json` and repository checks for lexicon
+  `sls:sent:*` references, closing the previously unvalidated dangling-ID path.
 - Grammar-rule, style-example, benchmark-item, and correction-pair schemas,
   with permanent IDs, strict record envelopes, shared provenance, and
   synthetic valid/invalid fixtures. Machine-readable grammar companions route
