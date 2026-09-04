@@ -10,6 +10,8 @@ releases, schema versions, and per-standard versions relate.
 
 ## [Unreleased]
 
+## [0.3.0] - 2026-09-04
+
 ### Added
 
 - Active `.github/workflows/validate.yml` enforcement on pull requests and
@@ -41,13 +43,24 @@ releases, schema versions, and per-standard versions relate.
 - An offline local-schema registry in the Rust validator, including duplicate
   schema-ID detection and SemVer validation for every `schema_version`.
 - Phase 4 record-format audit documenting the current schema surfaces, strict
-  common-metadata decisions, and unresolved dataset-routing differences.
+  common-metadata decisions, and the resolution of dataset-routing differences.
 - `schemas/metadata-common.schema.json` — the first draft 2020-12 machine
   contract, requiring complete provenance, review, licensing, and schema
   version metadata.
 - Rust validator workspace under `tools/validators/` with offline JSON and
   line-by-line JSONL validation, asserted date formats, line-precise
   diagnostics, and accepted/invalid fixture tests.
+
+### Changed
+
+- Reconciled the architecture's stale `data/translation-pairs/` and split AI
+  subdirectory names with the implemented `data/translation/`, `ai/prompts/`,
+  and `ai/datasets/` layout.
+
+## [0.2.0] - 2026-09-04
+
+### Added
+
 - Standards framework (`standards/`) per ARCHITECTURE.md §30: `TEMPLATE.md`
   (the §24 formal template), `registry.json` (machine-readable source of truth,
   seeded with the full 53-standard launch set), `REGISTRY.md` (human mirror),
@@ -101,9 +114,6 @@ releases, schema versions, and per-standard versions relate.
 
 ### Changed
 
-- Reconciled the architecture's stale `data/translation-pairs/` and split AI
-  subdirectory names with the implemented `data/translation/`, `ai/prompts/`,
-  and `ai/datasets/` layout.
 - **SLS-0003 per-rule review complete: 42 of 42 verdicts, no version bump.**
   The maintainer native-speaker review approved every displayed rule and
   example in G10-R1 through G17-R6 as written. The verdicts are recorded as
@@ -222,5 +232,7 @@ releases, schema versions, and per-standard versions relate.
   - Placeholder CI workflows: `validate.yml`, `docs.yml`, `release.yml`
     (TODO-only; no CI logic implemented yet).
 
-[Unreleased]: https://github.com/goobolabs/somali-language-standard/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/goobolabs/somali-language-standard/compare/v0.3.0...HEAD
+[0.3.0]: https://github.com/goobolabs/somali-language-standard/compare/v0.2.0...v0.3.0
+[0.2.0]: https://github.com/goobolabs/somali-language-standard/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/goobolabs/somali-language-standard/releases/tag/v0.1.0

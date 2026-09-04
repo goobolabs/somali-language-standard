@@ -1,6 +1,6 @@
 # Phase 4 Record-Format Audit
 
-- **Status:** Phase 4 implementation complete; first hosted run pending
+- **Status:** Phase 4 implementation complete; hosted CI verified
 - **Last updated:** 2026-09-04
 - **Scope:** Milestone 3 / Phase 4 machine-readable schemas and validators
 
@@ -193,6 +193,5 @@ the repository-wide check. The tests contain both accepted and deliberately
 malformed records, so the workflow exercises success and failure paths without
 committing invented linguistic content.
 
-The first hosted workflow result can only be observed after this branch is
-pushed. Until then, the workflow is implementation-complete and locally
-verified, but not yet confirmed on a GitHub runner.
+The first hosted workflow run passed on pull request #22 on 2026-09-04,
+confirming the Rust 1.85.0 job and repository check on GitHub's runner.
