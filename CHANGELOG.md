@@ -33,6 +33,9 @@ releases, schema versions, and per-standard versions relate.
 - Added the second four maintainer-reviewed pilot records, covering plural
   variants, a reviewed Arabic loan origin for `qalin`, the mass reading of
   `sonkor`, and two reviewed senses for plural-only `biyo`.
+- Added the third pilot batch: reviewed `guri` homographs, `hooyo`, `kab`
+  homographs, and the broadened Arabic loan entry `macallin`; the specialized
+  splint noun remains deferred.
 
 ## [0.3.0] - 2026-09-04
 
