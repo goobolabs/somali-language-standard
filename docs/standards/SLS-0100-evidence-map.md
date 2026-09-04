@@ -148,7 +148,9 @@ The first review packet deliberately includes easy and difficult cases:
 The detailed questions are in
 [`SLS-0100-reviewer-packet.md`](SLS-0100-reviewer-packet.md). Batch 1 is now
 assigned IDs `sls:lex:000001`–`sls:lex:000004` and counted as four reviewed
-records. Batch 2 and Batch 3 remain candidates without IDs.
+records. Batch 2 is now assigned IDs `sls:lex:000005`–`sls:lex:000008`, bringing
+the reviewed pilot total to eight records. Batch 3 remains candidates without
+IDs.
 
 ## Draft decisions
 

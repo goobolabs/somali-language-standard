@@ -30,6 +30,9 @@ releases, schema versions, and per-standard versions relate.
 - Added the first four maintainer-reviewed pilot records to the lexicon core,
   including a reviewed loan origin for `baabuur`, three reviewed senses for
   `nin`, and the `middi` variant of `mindi`.
+- Added the second four maintainer-reviewed pilot records, covering plural
+  variants, a reviewed Arabic loan origin for `qalin`, the mass reading of
+  `sonkor`, and two reviewed senses for plural-only `biyo`.
 
 ## [0.3.0] - 2026-09-04
 

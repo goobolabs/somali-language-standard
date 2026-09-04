@@ -1,7 +1,7 @@
 # SLS-0100 Pilot Reviewer Packet
 
 - **Prepared:** 2026-09-04
-- **Status:** Batch 1 complete; Batch 2 answers recorded with required-field follow-ups open; Batch 3 unanswered
+- **Status:** Batches 1–2 complete; Batch 3 unanswered Draft pilot questions
 - **Standard:** [SLS-0100 Dictionary Standard](../../spec/lexicon/0100-dictionary-standard.md)
 - **Evidence map:** [SLS-0100 Dictionary Evidence Map](SLS-0100-evidence-map.md)
 - **Decision record:** [SLS-0100 Review Log](SLS-0100-review-log.md)
@@ -127,7 +127,7 @@ reviewed pilot seed.
 not every handled cutting tool? Should `middi` be a spelling variant, a
 separate entry, or omitted from the first seed?
 
-## Batch 2 — plural and sense boundaries (answers recorded; follow-ups open)
+## Batch 2 — plural and sense boundaries (answered; MR-5–MR-12)
 
 ### LQ5 — `buug`
 
