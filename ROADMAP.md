@@ -64,10 +64,11 @@ The machine-readable contracts everything else validates against:
 rule, benchmark item. First version of the CI validation pipeline enforcing
 them on every pull request.
 
-The shared metadata, lexicon, terminology, terminology-domain, and bilingual
-sentence-pair contracts and the Rust JSON/JSONL validator foundation are now
-implemented. Remaining payload schemas, cross-reference checks, automatic
-schema routing, and CI enforcement remain open.
+All planned shared and payload schemas are now implemented: metadata, lexicon,
+terminology and its domain vocabulary, bilingual sentence pairs, grammar
+rules, style examples, benchmark items, and correction pairs. The Rust
+JSON/JSONL validator foundation is also implemented. Cross-reference checks,
+automatic schema routing, and CI enforcement remain open.
 
 ## Milestone 4 — Lexicon *(v0.4)*
 

@@ -1,0 +1,32 @@
+{
+  "sls_id": "sls:rule:grammar:000001",
+  "rule_id": "G10-R1",
+  "standard_id": "SLS-0003",
+  "spec_path": "spec/grammar/0010-parts-of-speech.md",
+  "requirement": "Synthetic structural MUST requirement; not a language rule.",
+  "normative_terms": [
+    "MUST"
+  ],
+  "scope": "Synthetic validator scope.",
+  "positive_examples": [
+    {
+      "text": "synthetic-positive-example",
+      "explanation": "Synthetic conforming structure."
+    }
+  ],
+  "negative_examples": [
+    {
+      "text": "synthetic-negative-example",
+      "explanation": "Synthetic non-conforming structure."
+    }
+  ],
+  "metadata": {
+    "contributor": "SLS maintainers",
+    "source": "Synthetic structural fixture; not language data",
+    "date_added": "2026-09-04",
+    "review_status": "draft",
+    "license": "CC BY 4.0",
+    "schema_version": "1.0.0",
+    "since_version": "0.3.0"
+  }
+}

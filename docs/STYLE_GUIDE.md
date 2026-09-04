@@ -72,8 +72,11 @@ appear to disagree, the architecture wins; report the discrepancy.
 
 ## IDs
 
-- Format: `sls:<type>:<zero-padded-sequence>` — e.g. `sls:lex:000123`,
-  `sls:term:ai:000045`, `sls:bench:grammar:000012`.
+- Format: `sls:<type>:<six-digit-sequence>`, with a stable category segment
+  where its schema requires one — e.g. `sls:lex:000123`,
+  `sls:term:ai:000045`, `sls:pair:001987`,
+  `sls:rule:grammar:000001`, `sls:style:000001`,
+  `sls:bench:grammar:000012`, and `sls:corr:grammar:000001`.
 - IDs are **permanent and append-only**: never renumbered, never reused, even
   when the entry is deprecated. External systems cite these IDs directly.
 - Numbered standards use the separate `SLS-NNNN` scheme (four digits,

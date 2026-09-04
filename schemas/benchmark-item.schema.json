@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "benchmark-item.schema.json",
+  "title": "SLS Benchmark Item",
+  "description": "The shared envelope for Somali Language Standard evaluation items.",
+  "schema_version": "1.0.0",
+  "type": "object",
+  "required": [
+    "sls_id",
+    "task",
+    "input",
+    "expected_output",
+    "explanation",
+    "difficulty",
+    "metadata"
+  ],
+  "properties": {
+    "sls_id": {
+      "type": "string",
+      "pattern": "^sls:bench:[a-z0-9]+(?:-[a-z0-9]+)*:[0-9]{6}$",
+      "description": "Permanent benchmark identifier containing the suite code."
+    },
+    "task": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "input": {
+      "type": "string",
+      "minLength": 1
+    },
+    "expected_output": {
+      "type": "string",
+      "minLength": 1
+    },
+    "explanation": {
+      "type": "string",
+      "minLength": 1
+    },
+    "difficulty": {
+      "type": "string",
+      "enum": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ]
+    },
+    "rule_refs": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true,
+      "description": "Optional rule or standard references exercised by the item."
+    },
+    "task_data": {
+      "type": "object",
+      "minProperties": 1,
+      "description": "Suite-specific structured fields, to be narrowed by a task schema."
+    },
+    "metadata": {
+      "$ref": "metadata-common.schema.json#/$defs/provenance"
+    }
+  },
+  "additionalProperties": false
+}

@@ -12,6 +12,10 @@ releases, schema versions, and per-standard versions relate.
 
 ### Added
 
+- Grammar-rule, style-example, benchmark-item, and correction-pair schemas,
+  with permanent IDs, strict record envelopes, shared provenance, and
+  synthetic valid/invalid fixtures. Machine-readable grammar companions route
+  to `data/grammar/`; structured style examples route to `data/style/`.
 - `schemas/sentence-pair.schema.json` — the bilingual translation-record
   contract, with permanent pair IDs, English and Standard Somali text,
   register, literal/natural classification, optional terminology domain, and

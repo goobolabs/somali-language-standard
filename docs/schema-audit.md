@@ -12,11 +12,12 @@ workspace, or executable validator. Existing JSON files under `standards/`
 describe the standards registry and lifecycle metadata; they are not instances
 of the planned linguistic record schemas.
 
-The first implementation slice therefore establishes the shared metadata
-contract and a record-type-independent validator before defining payload fields
-for the individual record types.
+Implementation began with the shared metadata contract and a
+record-type-independent validator, then added the payload contracts listed
+below. The linguistic data directories remain empty except for controlled
+configuration; synthetic fixtures test structure without becoming evidence.
 
-## Planned schema routing
+## Schema routing
 
 | Schema | Planned records | Current routing state |
 |---|---|---|
@@ -24,10 +25,10 @@ for the individual record types.
 | `lexicon-entry.schema.json` | `data/lexicon/**/*.jsonl` | Implemented; no data records yet |
 | `terminology-entry.schema.json` | Domain files under `data/terminology/` | Implemented; no terminology data records yet |
 | `sentence-pair.schema.json` | `data/translation/**/*.jsonl` | Implemented; no translation data records yet |
-| `grammar-rule.schema.json` | Machine-readable grammar requirements | No canonical record path is defined yet |
-| `style-example.schema.json` | Structured style-guide examples | No canonical record path is defined yet |
-| `benchmark-item.schema.json` | `benchmarks/**/*.jsonl` | Placeholder path exists; no records yet |
-| `correction-pair.schema.json` | Correction records under `ai/datasets/` | Path resolved; schema not yet implemented |
+| `grammar-rule.schema.json` | `data/grammar/rules.jsonl` | Implemented; no grammar-rule records yet |
+| `style-example.schema.json` | `data/style/**/*.jsonl` | Implemented; no style-example records yet |
+| `benchmark-item.schema.json` | `benchmarks/**/*.jsonl` | Implemented; no benchmark records yet |
+| `correction-pair.schema.json` | Correction records under `ai/datasets/` | Implemented; no correction records yet |
 
 ## Decisions in this slice
 
@@ -123,6 +124,35 @@ The register remains a lower-kebab-case label until the planned style
 standards establish a controlled vocabulary. Validator fixtures are synthetic
 structural records and make no claim about Somali translation quality.
 
+### Grammar-rule and style-example contracts
+
+`data/grammar/rules.jsonl` is the canonical machine-readable companion path;
+the normative Markdown rule remains authoritative. Each record points to its
+governing standard and `spec/grammar/` file, records every normative keyword,
+and requires at least one positive and one negative explained example. This
+preserves the existing rule-and-example compliance surface without pretending
+that a JSON export supersedes the reviewed prose.
+
+Style examples live under `data/style/`, grouped by register when records are
+introduced. Each record carries a permanent ID, its governing SLS-04xx
+standard, a preferred/avoid pair, and the rationale. Optional terminology
+domains use `_domains.json` slugs and remain a cross-reference check.
+
+### Benchmark and correction contracts
+
+The benchmark schema is a strict common envelope for `benchmarks/**/*.jsonl`:
+suite-bearing permanent ID, task, string input and expected output,
+explanation, three-level difficulty, and provenance. Optional rule references
+are preserved. Suite-specific structured fields are contained in `task_data`,
+which later task schemas can narrow without admitting arbitrary top-level
+properties.
+
+Correction records under `ai/datasets/` require the incorrect and corrected
+forms, an explanation, and at least one rule or standard reference. This keeps
+training records traceable to the rule that justifies a correction rather than
+encoding unexplained rewrites. All test fixtures for these four contracts are
+synthetic structural data.
+
 ## Resolved routing decisions
 
 1. Parallel translation data uses the implemented `data/translation/` path.
@@ -132,11 +162,9 @@ structural records and make no claim about Somali translation quality.
 3. `sentence-pair.schema.json` governs bilingual records under
    `data/translation/`. Monolingual corpus examples need a separate future
    profile rather than optionalizing one bilingual contract into ambiguity.
+4. Machine-readable grammar companions use `data/grammar/rules.jsonl`, while
+   structured style examples use register-grouped files under `data/style/`.
+   The corresponding normative documents in `spec/` remain authoritative.
 
-## Remaining routing decisions
-
-1. Grammar-rule and style-example schemas need canonical hand-authored or
-   generated record locations before file-to-schema routing can be enforced.
-This question must be resolved before the corresponding payload schemas and
-automatic directory routing are marked complete. It does not weaken the common
-metadata contract.
+No payload-routing question remains open. Automatic file-to-schema routing is
+still an implementation task, as are cross-record integrity checks.

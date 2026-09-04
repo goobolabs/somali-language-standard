@@ -1,0 +1,25 @@
+{
+  "sls_id": "sls:rule:grammar:1",
+  "rule_id": "rule one",
+  "standard_id": "SLS-3",
+  "spec_path": "docs/rule.md",
+  "requirement": "",
+  "normative_terms": [
+    "must",
+    "must"
+  ],
+  "positive_examples": [],
+  "negative_examples": [
+    {
+      "text": "",
+      "explanation": ""
+    }
+  ],
+  "metadata": {
+    "contributor": "SLS maintainers",
+    "date_added": "2026-09-04",
+    "review_status": "draft",
+    "license": "CC BY 4.0",
+    "schema_version": "1.0.0"
+  }
+}

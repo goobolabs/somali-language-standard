@@ -157,6 +157,9 @@ somali-language-standard/
 │   │   ├── machine-learning.jsonl
 │   │   ├── ... (20 domains total)
 │   │   └── _template.jsonl
+│   ├── grammar/
+│   │   └── rules.jsonl              # machine-readable companions to normative rules
+│   ├── style/                        # register-specific preferred/avoid examples
 │   ├── corpora/
 │   │   ├── example-sentences.jsonl
 │   │   ├── literature-excerpts/     # rights-cleared only
@@ -231,6 +234,8 @@ somali-language-standard/
 | `schemas/` | JSON Schema contracts every dataset file must satisfy. Change here = potential MAJOR version bump. | Maintainers | Hand-authored |
 | `data/lexicon/` | The dictionary: word, definitions, POS, morphology, frequency, loanword flags. | Contributors + maintainers | Hand-authored |
 | `data/terminology/` | Domain glossaries (AI, medicine, law, etc.) — where most long-term value accrues, since this vocabulary barely exists in Somali today. | Maintainers | Hand-authored |
+| `data/grammar/` | Machine-readable companions to normative grammar rules; `spec/grammar/` remains authoritative. | Maintainers | Hand-authored from reviewed specs |
+| `data/style/` | Register-specific preferred/avoid examples governed by `spec/style/`. | Maintainers + contributors | Hand-authored |
 | `data/corpora/` | Example sentences and rights-cleared text used for grounding, RAG, and training context. | Contributors | Hand-authored / curated |
 | `data/translation/` | Parallel EN↔SO sentence/phrase pairs for MT training and eval. | Contributors + reviewers | Hand-authored |
 | `ai/` | Everything shaped for direct AI consumption: system prompts, instruction/fine-tuning sets, RAG chunks, correction pairs. | Maintainers + contributors | Hand-authored, partly derived from `spec/` + `data/` |
@@ -423,6 +428,16 @@ lexical plural under SLS-0003 G11-R1 and G11-R3. An entry marked
 }
 ```
 
+**Grammar rules**, **style examples**, and **correction pairs** use the same
+permanent-ID and metadata discipline. Grammar records point back to the
+authoritative rule in `spec/grammar/` and require both conforming and
+non-conforming examples. Style records pair a preferred form with a form to
+avoid and name the governing SLS-04xx standard. Correction records preserve the
+incorrect input, corrected output, explanation, and rule references required
+to justify the change. Benchmark suites keep specialized fields inside
+`task_data`, where a future suite schema can narrow them without adding
+uncontrolled top-level keys.
+
 Every record-specific schema follows this pattern: the same metadata discipline
 with different payload fields. The schema files implement the shapes summarized
 above and are the machine-readable source of truth for their exact constraints.
@@ -438,7 +453,14 @@ being forced into this bilingual contract.
 ## 8. Naming Conventions
 
 - **Files**: lower-kebab-case, always `.jsonl` for data, `.md` for prose, `.schema.json` for schemas. Domain glossary files are named after the domain in English kebab-case (`machine-learning.jsonl`), never abbreviated.
-- **IDs**: `sls:<type>:<zero-padded-sequence>`, e.g. `sls:lex:000123`, `sls:term:ai:000045`, `sls:bench:grammar:000012`. IDs are **append-only and permanent** — never renumbered or reused, even on deprecation. This is the single most important rule for long-term stability: external systems will cite `sls_id`s directly.
+- **IDs**: `sls:<type>:<zero-padded-sequence>`, with a stable category segment
+  where its schema requires one. Examples: `sls:lex:000123`,
+  `sls:term:ai:000045`, `sls:pair:001987`,
+  `sls:rule:grammar:000001`, `sls:style:000001`,
+  `sls:bench:grammar:000012`, and `sls:corr:grammar:000001`. Sequence fields
+  are six digits. IDs are **append-only and permanent** — never renumbered or
+  reused, even on deprecation. This is the single most important rule for
+  long-term stability: external systems will cite `sls_id`s directly.
 - **Language/locale tags**: BCP 47. Standard Somali is `so`. Dialects use private extensions until formally namespaced (§21): `so-x-maay`, `so-x-benadiri`. English targets use `en`.
 - **Domain codes**: short, stable, kebab-case slugs (`ai`, `ml`, `cybersec`, `medicine`, `law`...) defined once in `data/terminology/_domains.json` (a controlled vocabulary — new domains require a maintainer-approved PR, not an inline string anyone can invent).
 - **Branch/PR naming**: `terminology/<domain>-<short-desc>`, `spec/<category>-<short-desc>`, `fix/<area>-<short-desc>`.
