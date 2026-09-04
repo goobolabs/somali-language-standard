@@ -39,6 +39,8 @@ releases, schema versions, and per-standard versions relate.
 - Prepared Batch 4 of the SLS-0100 maintainer packet for four additional
   source-grounded `b`-initial noun candidates; no IDs or records are assigned
   before review.
+- Added four reviewed `b`-initial noun records from Batch 4, including two
+  Arabic loans, two `baac` senses, and the basin sense of `baaf`.
 
 ## [0.3.0] - 2026-09-04
 

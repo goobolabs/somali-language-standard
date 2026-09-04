@@ -152,7 +152,9 @@ assigned IDs `sls:lex:000001`–`sls:lex:000004` and counted as four reviewed
 records. Batch 2 is now assigned IDs `sls:lex:000005`–`sls:lex:000008`, bringing
 the reviewed pilot total to eight records. Batch 3 is now assigned IDs
 `sls:lex:000009`–`sls:lex:000014`, bringing the reviewed pilot total to fourteen
-records. The specialized splint noun remains deferred.
+records. The specialized splint noun remains deferred. Batch 4 is now assigned
+IDs `sls:lex:000015`–`sls:lex:000018`, bringing the reviewed pilot total to
+eighteen records; `isku baab` remains deferred.
 
 ## Draft decisions
 

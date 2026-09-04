@@ -1,7 +1,7 @@
 # SLS-0100 Pilot Reviewer Packet
 
 - **Prepared:** 2026-09-04
-- **Status:** All 12 pilot questions answered and recorded; 14 reviewed records are in the seed, with the splint noun deferred
+- **Status:** All 16 pilot questions answered and recorded; 18 reviewed records are in the seed, with `isku baab`, the splint noun, and `hooyo¹ → hoy` deferred
 - **Standard:** [SLS-0100 Dictionary Standard](../../spec/lexicon/0100-dictionary-standard.md)
 - **Evidence map:** [SLS-0100 Dictionary Evidence Map](SLS-0100-evidence-map.md)
 - **Decision record:** [SLS-0100 Review Log](SLS-0100-review-log.md)
